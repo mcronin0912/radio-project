@@ -128,7 +128,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     if (hasRestored.current) return;
     hasRestored.current = true;
     const saved = restoreStation();
-    if (!saved) return;
+    if (!saved?.streamUrl) return;
     setStation(saved);
     const audio = audioRef.current;
     if (audio) {
