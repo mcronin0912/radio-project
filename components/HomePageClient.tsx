@@ -1,6 +1,5 @@
 "use client";
 
-import { useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useState } from "react";
 import { StationFilters } from "@/components/stations/StationFilters";
 import { StationGrid } from "@/components/stations/StationGrid";
@@ -19,7 +18,7 @@ function isValidImageUrl(url: unknown): url is string {
 
 function toStation(row: StationRow, index: number): Station {
   return {
-    id: `station-${index}`,
+    id: row.slug,
     slug: row.slug,
     callsign: row.callsign,
     name: row.name,
@@ -39,21 +38,28 @@ function toStation(row: StationRow, index: number): Station {
   };
 }
 
+export interface FilterState {
+  search: string;
+  state: string;
+  genre: string;
+  indigenous: boolean;
+}
+
 interface HomePageClientProps {
   states: string[];
   genres: string[];
 }
 
 export function HomePageClient({ states, genres }: HomePageClientProps) {
-  const searchParams = useSearchParams();
   const [stations, setStations] = useState<Station[]>([]);
   const [loading, setLoading] = useState(true);
   const [allStations, setAllStations] = useState<StationRow[] | null>(null);
-
-  const q = searchParams.get("q") ?? "";
-  const state = searchParams.get("state") ?? "";
-  const genre = searchParams.get("genre") ?? "";
-  const indigenous = searchParams.get("indigenous") === "1";
+  const [filters, setFilters] = useState<FilterState>({
+    search: "",
+    state: "",
+    genre: "",
+    indigenous: false,
+  });
 
   useEffect(() => {
     fetch(`${BASE}/stations-from-api.json`)
@@ -69,13 +75,13 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
     }
     setLoading(false);
     const filtered = filterStationsClient(allStations, {
-      search: q || undefined,
-      state: state || undefined,
-      genre: genre || undefined,
-      indigenous,
+      search: filters.search || undefined,
+      state: filters.state || undefined,
+      genre: filters.genre || undefined,
+      indigenous: filters.indigenous,
     });
     setStations(filtered.map((r, i) => toStation(r, i)));
-  }, [allStations, q, state, genre, indigenous]);
+  }, [allStations, filters]);
 
   useEffect(() => {
     fetchStations();
@@ -83,7 +89,13 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
 
   return (
     <>
-      <StationFilters states={states} genres={genres} className="mb-6" />
+      <StationFilters
+        states={states}
+        genres={genres}
+        filters={filters}
+        onFiltersChange={setFilters}
+        className="mb-6"
+      />
       {loading ? (
         <div className="rounded-lg border border-dashed p-12 text-center text-muted-foreground">
           Loading stations...

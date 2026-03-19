@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { Play, Radio } from "lucide-react";
+import { Pause, Play, Radio } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -14,7 +14,7 @@ interface StationCardProps {
 }
 
 export function StationCard({ station }: StationCardProps) {
-  const { station: currentStation, isPlaying, play } = usePlayer();
+  const { station: currentStation, isPlaying, play, pause } = usePlayer();
   const isCurrentStation = currentStation?.id === station.id;
 
   return (
@@ -26,7 +26,7 @@ export function StationCard({ station }: StationCardProps) {
     >
       <CardHeader className="pb-2">
         <div className="flex items-start justify-between gap-2">
-          <div className="flex min-w-0 flex-1 items-center gap-3">
+          <div className="flex min-w-0 flex-1 items-start gap-3">
             <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-muted">
               {station.logoUrl ? (
                 <Image
@@ -41,8 +41,8 @@ export function StationCard({ station }: StationCardProps) {
                 <Radio className="h-6 w-6 text-muted-foreground" />
               )}
             </div>
-            <div className="min-w-0">
-              <h3 className="font-semibold truncate">{station.name}</h3>
+            <div className="min-w-0 flex-1">
+              <h3 className="font-semibold break-words">{station.name}</h3>
               <p className="text-sm text-muted-foreground">
                 {Array.from(new Set([station.city, station.state].filter(Boolean))).join(", ") || "—"}
                 {station.frequency && ` · ${station.frequency}`}
@@ -53,10 +53,18 @@ export function StationCard({ station }: StationCardProps) {
             size="icon"
             variant={isCurrentStation && isPlaying ? "default" : "secondary"}
             className="shrink-0"
-            onClick={() => play(station)}
-            aria-label={`Play ${station.name}`}
+            onClick={() =>
+              isCurrentStation && isPlaying ? pause() : play(station)
+            }
+            aria-label={
+              isCurrentStation && isPlaying ? "Pause" : `Play ${station.name}`
+            }
           >
-            <Play className="h-4 w-4 fill-current" />
+            {isCurrentStation && isPlaying ? (
+              <Pause className="h-4 w-4 fill-current" />
+            ) : (
+              <Play className="h-4 w-4 fill-current" />
+            )}
           </Button>
         </div>
       </CardHeader>
@@ -71,18 +79,20 @@ export function StationCard({ station }: StationCardProps) {
             </span>
           ))}
         </div>
-        {isCurrentStation && isPlaying && (
-          <div className="mt-2 flex items-center gap-1.5 text-sm text-muted-foreground">
-            <span className="h-2 w-2 animate-pulse rounded-full bg-green-500" />
-            <span>Live</span>
-          </div>
-        )}
-        <Link
-          href={`/station/${station.slug}`}
-          className="mt-2 block text-sm font-medium text-primary hover:underline"
-        >
-          View station →
-        </Link>
+        <div className="mt-2 flex items-end justify-between gap-2">
+          <Link
+            href={`/station/${station.slug}`}
+            className="text-sm font-medium text-primary hover:underline"
+          >
+            View station →
+          </Link>
+          {isCurrentStation && isPlaying && (
+            <div className="flex shrink-0 items-center gap-1.5 text-sm text-muted-foreground">
+              <span className="h-2 w-2 animate-pulse rounded-full bg-green-500" />
+              <span>Live</span>
+            </div>
+          )}
+        </div>
       </CardContent>
     </Card>
   );

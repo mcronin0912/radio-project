@@ -49,9 +49,9 @@ interface StationRow {
   indigenous?: boolean;
 }
 
-function toStation(row: StationRow, index: number): Station {
+function toStation(row: StationRow): Station {
   return {
-    id: `station-${index}`,
+    id: row.slug,
     slug: row.slug,
     callsign: row.callsign,
     name: row.name,
@@ -75,7 +75,7 @@ let stationsCache: Station[] | null = null;
 
 export function getStations(): Station[] {
   if (!stationsCache) {
-    stationsCache = (stationsData as StationRow[]).map(toStation);
+    stationsCache = (stationsData as StationRow[]).map((row) => toStation(row));
   }
   return stationsCache;
 }

@@ -1,58 +1,67 @@
 "use client";
 
-import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import { Search, X } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import type { FilterState } from "@/components/HomePageClient";
 
 interface StationFiltersProps {
   states: string[];
   genres: string[];
+  filters: FilterState;
+  onFiltersChange: (filters: FilterState) => void;
   className?: string;
 }
 
-export function StationFilters({ states, genres, className }: StationFiltersProps) {
-  const router = useRouter();
-  const searchParams = useSearchParams();
+export function StationFilters({
+  states,
+  genres,
+  filters,
+  onFiltersChange,
+  className,
+}: StationFiltersProps) {
+  const [searchInput, setSearchInput] = useState(filters.search);
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const filtersRef = useRef(filters);
+  filtersRef.current = filters;
 
-  const q = searchParams.get("q") ?? "";
-  const [searchInput, setSearchInput] = useState(q);
-  const state = searchParams.get("state") ?? "";
-  const genre = searchParams.get("genre") ?? "";
-  const indigenous = searchParams.get("indigenous") === "1";
-
-  useEffect(() => setSearchInput(q), [q]);
+  useEffect(() => setSearchInput(filters.search), [filters.search]);
 
   useEffect(() => {
-    const t = setTimeout(() => {
-      if (searchInput !== q) {
-        const params = new URLSearchParams(searchParams.toString());
-        if (searchInput) params.set("q", searchInput);
-        else params.delete("q");
-        router.push(`/?${params.toString()}`, { scroll: false });
+    if (debounceRef.current) clearTimeout(debounceRef.current);
+    debounceRef.current = setTimeout(() => {
+      const current = filtersRef.current;
+      if (searchInput !== current.search) {
+        onFiltersChange({ ...current, search: searchInput });
       }
+      debounceRef.current = null;
     }, 300);
-    return () => clearTimeout(t);
-  }, [searchInput, q, router, searchParams]);
+    return () => {
+      if (debounceRef.current) clearTimeout(debounceRef.current);
+    };
+  }, [searchInput, onFiltersChange]);
 
-  function updateParams(updates: Record<string, string>) {
-    const params = new URLSearchParams(searchParams.toString());
-    for (const [k, v] of Object.entries(updates)) {
-      if (v) params.set(k, v);
-      else params.delete(k);
-    }
-    if ("q" in updates) setSearchInput(updates.q ?? "");
-    router.push(`/?${params.toString()}`, { scroll: false });
+  function updateParams(updates: Partial<FilterState>) {
+    const next = { ...filters, ...updates };
+    onFiltersChange(next);
+    if ("search" in updates) setSearchInput(updates.search ?? "");
   }
 
   function clearFilters() {
+    const cleared: FilterState = {
+      search: "",
+      state: "",
+      genre: "",
+      indigenous: false,
+    };
     setSearchInput("");
-    router.push("/", { scroll: false });
+    onFiltersChange(cleared);
   }
 
-  const hasFilters = q || state || genre || indigenous;
+  const hasFilters =
+    filters.search || filters.state || filters.genre || filters.indigenous;
 
   return (
     <div className={cn("space-y-3", className)}>
@@ -67,7 +76,7 @@ export function StationFilters({ states, genres, className }: StationFiltersProp
           />
         </div>
         <select
-          value={state}
+          value={filters.state}
           onChange={(e) => updateParams({ state: e.target.value })}
           className="h-9 rounded-lg border border-input bg-transparent px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
         >
@@ -79,7 +88,7 @@ export function StationFilters({ states, genres, className }: StationFiltersProp
           ))}
         </select>
         <select
-          value={genre}
+          value={filters.genre}
           onChange={(e) => updateParams({ genre: e.target.value })}
           className="h-9 rounded-lg border border-input bg-transparent px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
         >
@@ -93,9 +102,9 @@ export function StationFilters({ states, genres, className }: StationFiltersProp
         <label className="flex items-center gap-2 h-9 px-3 rounded-lg border border-input cursor-pointer hover:bg-muted/50">
           <input
             type="checkbox"
-            checked={indigenous}
+            checked={filters.indigenous}
             onChange={(e) =>
-              updateParams({ indigenous: e.target.checked ? "1" : "" })
+              updateParams({ indigenous: e.target.checked })
             }
             className="rounded border-input"
           />
