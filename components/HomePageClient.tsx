@@ -16,7 +16,7 @@ function isValidImageUrl(url: unknown): url is string {
   return url.startsWith("http://") || url.startsWith("https://") || url.startsWith("/");
 }
 
-function toStation(row: StationRow, index: number): Station {
+function toStation(row: StationRow): Station {
   return {
     id: row.slug,
     slug: row.slug,
@@ -80,7 +80,7 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
       genre: filters.genre || undefined,
       indigenous: filters.indigenous,
     });
-    setStations(filtered.map((r, i) => toStation(r, i)));
+    setStations(filtered.map((r) => toStation(r)));
   }, [allStations, filters]);
 
   useEffect(() => {
