@@ -5,9 +5,10 @@ import type { Station } from "@/lib/stations";
 
 interface StationGridProps {
   stations: Station[];
+  onStationSelect?: (slug: string) => void;
 }
 
-export function StationGrid({ stations }: StationGridProps) {
+export function StationGrid({ stations, onStationSelect }: StationGridProps) {
   if (stations.length === 0) {
     return (
       <div className="rounded-lg border border-dashed p-12 text-center text-muted-foreground">
@@ -19,7 +20,11 @@ export function StationGrid({ stations }: StationGridProps) {
   return (
     <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {stations.map((station) => (
-        <StationCard key={station.id} station={station} />
+        <StationCard
+          key={station.id}
+          station={station}
+          onStationSelect={onStationSelect}
+        />
       ))}
     </div>
   );

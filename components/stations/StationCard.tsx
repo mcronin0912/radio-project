@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import Image from "next/image";
 import { Pause, Play, Radio } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
@@ -11,9 +10,10 @@ import type { Station } from "@/lib/stations";
 
 interface StationCardProps {
   station: Station;
+  onStationSelect?: (slug: string) => void;
 }
 
-export function StationCard({ station }: StationCardProps) {
+export function StationCard({ station, onStationSelect }: StationCardProps) {
   const { station: currentStation, isPlaying, play, pause } = usePlayer();
   const isCurrentStation = currentStation?.id === station.id;
 
@@ -80,12 +80,13 @@ export function StationCard({ station }: StationCardProps) {
           ))}
         </div>
         <div className="mt-2 flex items-end justify-between gap-2">
-          <Link
-            href={`/station/${station.slug}`}
-            className="text-sm font-medium text-primary hover:underline"
+          <button
+            type="button"
+            onClick={() => onStationSelect?.(station.slug)}
+            className="text-left text-sm font-medium text-primary hover:underline"
           >
             View station →
-          </Link>
+          </button>
           {isCurrentStation && isPlaying && (
             <div className="flex shrink-0 items-center gap-1.5 text-sm text-muted-foreground">
               <span className="h-2 w-2 animate-pulse rounded-full bg-green-500" />

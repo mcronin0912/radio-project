@@ -123,7 +123,9 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
   const clearError = useCallback(() => setError(null), []);
 
-  // Restore playing station after full page reload (e.g. browser back on static export)
+  // Restore station after full page reload (e.g. browser back on static export).
+  // Don't auto-play: browsers block autoplay without a user gesture. Show station
+  // as paused so user can tap Play to resume.
   useEffect(() => {
     if (hasRestored.current) return;
     hasRestored.current = true;
@@ -134,13 +136,8 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     if (audio) {
       audio.src = saved.streamUrl;
       audio.volume = 1;
-      audio.play().catch((err) => {
-        console.error("Restore playback failed:", err);
-        setError("Stream unavailable");
-        setIsPlaying(false);
-        persistStation(saved, false);
-      });
-      setIsPlaying(true);
+      // Restore as paused; user taps Play to resume (avoids autoplay block)
+      setIsPlaying(false);
     }
   }, []);
 
