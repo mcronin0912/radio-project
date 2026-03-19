@@ -1,9 +1,13 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { getStationBySlug } from "@/lib/stations";
+import { getStationBySlug, getStations } from "@/lib/stations";
 import { ExternalLink, Radio } from "lucide-react";
 import { PlayButton } from "@/components/stations/PlayButton";
+
+export function generateStaticParams() {
+  return getStations().map((s) => ({ slug: s.slug }));
+}
 
 interface PageProps {
   params: Promise<{ slug: string }>;

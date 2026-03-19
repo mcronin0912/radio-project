@@ -1,5 +1,10 @@
 /** @type {import('next').NextConfig} */
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+const isStaticExport = !!basePath;
+
 const nextConfig = {
+  ...(isStaticExport && { output: "export" }),
+  ...(basePath && { basePath, assetPrefix: `${basePath}/` }),
   images: {
     remotePatterns: [
       {

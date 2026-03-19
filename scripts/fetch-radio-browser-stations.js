@@ -143,6 +143,12 @@ async function main() {
 
   fs.writeFileSync(outPath, JSON.stringify(stations, null, 2), "utf8");
   process.stderr.write(`Wrote ${stations.length} stations to ${outPath}\n`);
+
+  const publicPath = path.join(__dirname, "..", "public", "stations-from-api.json");
+  if (outPath !== publicPath) {
+    fs.copyFileSync(outPath, publicPath);
+    process.stderr.write(`Copied to ${publicPath} (for static export)\n`);
+  }
 }
 
 main().catch((err) => {
