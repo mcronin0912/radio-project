@@ -1,7 +1,6 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
 import { StationDetailModal } from "@/components/stations/StationDetailModal";
 import { StationFilters } from "@/components/stations/StationFilters";
 import { StationGrid } from "@/components/stations/StationGrid";
@@ -53,11 +52,10 @@ interface HomePageClientProps {
 }
 
 export function HomePageClient({ states, genres }: HomePageClientProps) {
-  const router = useRouter();
-  const searchParams = useSearchParams();
   const [stations, setStations] = useState<Station[]>([]);
   const [loading, setLoading] = useState(true);
   const [allStations, setAllStations] = useState<StationRow[] | null>(null);
+  const [selectedStationSlug, setSelectedStationSlug] = useState<string | null>(null);
   const [filters, setFilters] = useState<FilterState>({
     search: "",
     state: "",
@@ -91,29 +89,21 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
     fetchStations();
   }, [fetchStations]);
 
-  const stationSlug = searchParams.get("station") ?? "";
-  const modalStation = stationSlug && allStations
-    ? (() => {
-        const row = allStations.find((r) => r.slug === stationSlug);
-        return row ? toStation(row) : null;
-      })()
-    : null;
+  const modalStation =
+    selectedStationSlug && allStations
+      ? (() => {
+          const row = allStations.find((r) => r.slug === selectedStationSlug);
+          return row ? toStation(row) : null;
+        })()
+      : null;
 
-  const openStation = useCallback(
-    (slug: string) => {
-      const params = new URLSearchParams(searchParams.toString());
-      params.set("station", slug);
-      router.push(`/?${params.toString()}`, { scroll: false });
-    },
-    [router, searchParams]
-  );
+  const openStation = useCallback((slug: string) => {
+    setSelectedStationSlug(slug);
+  }, []);
 
   const closeStation = useCallback(() => {
-    const params = new URLSearchParams(searchParams.toString());
-    params.delete("station");
-    const qs = params.toString();
-    router.push(qs ? `/?${qs}` : "/", { scroll: false });
-  }, [router, searchParams]);
+    setSelectedStationSlug(null);
+  }, []);
 
   return (
     <>
