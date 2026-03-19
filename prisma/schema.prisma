@@ -1,0 +1,64 @@
+// Community Radio Hub — Database Schema
+// See DEVELOPMENT_PLAN.md for full spec
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Station {
+  id             String   @id @default(cuid())
+  slug           String   @unique
+  callsign       String
+  name           String
+  frequency      String?
+  city           String
+  state          String
+  description    String?
+  website        String?
+  streamUrl      String?
+  streamFormat   String?  // "MP3" | "AAC" | "HLS"
+  streamBitrate  Int?
+  metadataTier   Int      @default(3) // 1=API, 2=Icecast/Shoutcast, 3=None
+  metadataUrl    String?
+  logoUrl        String?
+  lat            Float?
+  lng            Float?
+  genres         String[] // Postgres array
+  indigenous     Boolean  @default(false)
+  active         Boolean  @default(true)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  nowPlaying     NowPlaying?
+  playlistItems  PlaylistItem[]
+}
+
+model NowPlaying {
+  id        String   @id @default(cuid())
+  stationId String   @unique
+  station   Station  @relation(fields: [stationId], references: [id])
+  artist    String?
+  title     String?
+  album     String?
+  artUrl    String?
+  startedAt DateTime?
+  fetchedAt DateTime @default(now())
+}
+
+model PlaylistItem {
+  id        String   @id @default(cuid())
+  stationId String
+  station   Station  @relation(fields: [stationId], references: [id])
+  artist    String?
+  title     String?
+  album     String?
+  playedAt  DateTime
+  createdAt DateTime @default(now())
+
+  @@index([stationId, playedAt(sort: Desc)])
+}
