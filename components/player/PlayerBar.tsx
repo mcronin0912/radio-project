@@ -14,20 +14,16 @@ export function PlayerBar() {
   const handleVolumeClick = () => (isMuted ? setVolume(1) : setVolume(0));
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 border-t border-white/10 bg-black text-white">
+    <div className="fixed bottom-0 left-0 right-0 z-50 rounded-none border-t border-white/10 bg-black text-white">
       <div className="flex items-center justify-between gap-4 p-[40px]">
-        <div className="min-w-0 flex-1">
-          <p className="font-medium truncate text-white">{station.name}</p>
-          <p className="text-sm truncate text-white/70">
-            {station.city}, {station.state}
-            {error ? (
-              <span className="text-red-400"> · {error}</span>
-            ) : isPlaying ? (
-              " · Live"
-            ) : (
-              " · Paused"
-            )}
-          </p>
+        <div className="flex min-w-0 flex-1 items-center gap-2">
+          <p className="truncate font-medium text-white">{station.name}</p>
+          {isPlaying && (
+            <div className="flex shrink-0 items-center gap-1.5 text-sm text-white/70">
+              <span className="h-2 w-2 animate-pulse rounded-full bg-green-500" />
+              <span>Live</span>
+            </div>
+          )}
         </div>
         <div className="flex items-center gap-2">
           <Button

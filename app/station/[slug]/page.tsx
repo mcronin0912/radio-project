@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getStationBySlug, getStations } from "@/lib/stations";
 import { ExternalLink, Radio } from "lucide-react";
+import { LiveIndicator } from "@/components/stations/LiveIndicator";
 import { PlayButton } from "@/components/stations/PlayButton";
 
 export function generateStaticParams() {
@@ -57,8 +58,12 @@ export default async function StationPage({ params }: PageProps) {
         <div className="min-w-0 flex-1">
           <h1 className="text-3xl font-bold tracking-tight">{station.name}</h1>
           <p className="mt-1 text-muted-foreground">
-            {station.callsign} · {station.city}, {station.state}
-            {station.frequency && ` · ${station.frequency}`}
+            {[
+              Array.from(new Set([station.city, station.state].filter(Boolean))).join(", ") || null,
+              station.frequency,
+            ]
+              .filter(Boolean)
+              .join(" · ")}
           </p>
           {station.description && (
             <p className="mt-4 text-muted-foreground">{station.description}</p>
@@ -73,7 +78,7 @@ export default async function StationPage({ params }: PageProps) {
               </span>
             ))}
           </div>
-          <div className="mt-6 flex gap-3">
+          <div className="mt-6 flex flex-wrap items-center gap-3">
             <PlayButton station={station} />
             {station.website && (
               <a
@@ -86,6 +91,7 @@ export default async function StationPage({ params }: PageProps) {
                 Website
               </a>
             )}
+            <LiveIndicator station={station} />
           </div>
         </div>
       </header>
