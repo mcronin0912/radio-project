@@ -48,6 +48,7 @@ export default async function StationPage({ params }: PageProps) {
               width={96}
               height={96}
               className="rounded-xl object-cover"
+              unoptimized
             />
           ) : (
             <Radio className="h-12 w-12 text-muted-foreground" />

@@ -35,6 +35,7 @@ export function StationCard({ station }: StationCardProps) {
                   width={48}
                   height={48}
                   className="rounded-lg object-cover"
+                  unoptimized
                 />
               ) : (
                 <Radio className="h-6 w-6 text-muted-foreground" />
