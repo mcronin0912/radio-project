@@ -9,13 +9,18 @@ import React, {
   useEffect,
 } from "react";
 import type { Station } from "@/lib/stations";
-
-type AnalyserState = {
-  analyser: AnalyserNode | null;
-  isReal: boolean;
-};
+import { SafariAudioAnalyser } from "@/lib/safari-audio-analyser";
 
 const STORAGE_KEY = "community-radio-player";
+
+function isSafari() {
+  if (typeof navigator === "undefined") return false;
+  return /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+}
+
+function proxyUrl(streamUrl: string): string {
+  return `/api/stream?url=${encodeURIComponent(streamUrl)}`;
+}
 
 function persistStation(s: Station | null, playing: boolean) {
   if (typeof window === "undefined") return;
@@ -72,7 +77,7 @@ interface PlayerState {
   isPlaying: boolean;
   volume: number;
   error: string | null;
-  analyserState: AnalyserState;
+  analyser: AnalyserNode | null;
   play: (station: Station) => void;
   pause: () => void;
   setVolume: (v: number) => void;
@@ -86,44 +91,39 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [volume, setVolumeState] = useState(1);
   const [error, setError] = useState<string | null>(null);
-  const [analyserState, setAnalyserState] = useState<AnalyserState>({
-    analyser: null,
-    isReal: false,
-  });
+  const [analyser, setAnalyser] = useState<AnalyserNode | null>(null);
   const audioRef = useRef<HTMLAudioElement>(null);
   const hasRestored = useRef(false);
   const audioCtxRef = useRef<AudioContext | null>(null);
-  const sourceRef = useRef<MediaElementAudioSourceNode | null>(null);
-  const analyserRef = useRef<AnalyserNode | null>(null);
+  const connectedRef = useRef(false);
+  const safariRef = useRef<SafariAudioAnalyser | null>(null);
 
-  const ensureAnalyser = useCallback(() => {
+  const ensureAudioContext = useCallback(() => {
+    if (audioCtxRef.current) {
+      if (audioCtxRef.current.state === "suspended") audioCtxRef.current.resume();
+      return;
+    }
+    const ctx = new AudioContext();
+    if (ctx.state === "suspended") ctx.resume();
+    audioCtxRef.current = ctx;
+  }, []);
+
+  const connectChromeAnalyser = useCallback(() => {
     const audio = audioRef.current;
-    if (!audio || sourceRef.current) return;
+    const ctx = audioCtxRef.current;
+    if (!audio || !ctx || connectedRef.current) return;
 
     try {
-      const ctx = new AudioContext();
-      const analyser = ctx.createAnalyser();
-      analyser.fftSize = 256;
-      analyser.smoothingTimeConstant = 0.8;
-
+      const node = ctx.createAnalyser();
+      node.fftSize = 256;
+      node.smoothingTimeConstant = 0.8;
       const source = ctx.createMediaElementSource(audio);
-      source.connect(analyser);
-      analyser.connect(ctx.destination);
-
-      audioCtxRef.current = ctx;
-      sourceRef.current = source;
-      analyserRef.current = analyser;
-
-      // Probe after a short delay to detect CORS-blocked silence
-      setTimeout(() => {
-        const buf = new Uint8Array(analyser.frequencyBinCount);
-        analyser.getByteFrequencyData(buf);
-        const hasSignal = buf.some((v) => v > 0);
-        setAnalyserState({ analyser, isReal: hasSignal });
-      }, 500);
+      source.connect(node);
+      node.connect(ctx.destination);
+      connectedRef.current = true;
+      setAnalyser(node);
     } catch (e) {
-      console.warn("Web Audio setup failed, using simulated waveform", e);
-      setAnalyserState({ analyser: null, isReal: false });
+      console.warn("Web Audio setup failed:", e);
     }
   }, []);
 
@@ -138,34 +138,48 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
     const audio = audioRef.current;
     if (audio) {
-      audio.src = s.streamUrl;
+      ensureAudioContext();
+
+      const proxied = proxyUrl(s.streamUrl);
+      audio.src = proxied;
       audio.volume = volume;
-      audio.play().then(() => {
-        ensureAnalyser();
-        // Re-probe for real data after playback starts
-        setTimeout(() => {
-          const analyser = analyserRef.current;
-          if (!analyser) return;
-          const buf = new Uint8Array(analyser.frequencyBinCount);
-          analyser.getByteFrequencyData(buf);
-          const hasSignal = buf.some((v) => v > 0);
-          setAnalyserState({ analyser, isReal: hasSignal });
-        }, 1000);
-      }).catch((err) => {
-        console.error("Playback failed:", err);
-        setError("Stream unavailable");
-        setIsPlaying(false);
-        persistStation(s, false);
-      });
+
+      if (isSafari()) {
+        // Safari: createMediaElementSource is broken for streams.
+        // Use fetch + decodeAudioData via the proxy instead.
+        safariRef.current?.stop();
+        const sa = new SafariAudioAnalyser(audioCtxRef.current!);
+        safariRef.current = sa;
+        setAnalyser(sa.getAnalyser());
+
+        audio.play().then(() => {
+          sa.start(proxied);
+        }).catch((err) => {
+          console.error("Playback failed:", err);
+          setError("Stream unavailable");
+          setIsPlaying(false);
+          persistStation(s, false);
+        });
+      } else {
+        // Chrome/Firefox: createMediaElementSource works fine
+        connectChromeAnalyser();
+        audio.play().catch((err) => {
+          console.error("Playback failed:", err);
+          setError("Stream unavailable");
+          setIsPlaying(false);
+          persistStation(s, false);
+        });
+      }
       setIsPlaying(true);
     }
-  }, [volume, ensureAnalyser]);
+  }, [volume, ensureAudioContext, connectChromeAnalyser]);
 
   const stationRef = useRef<Station | null>(null);
   stationRef.current = station;
 
   const pause = useCallback(() => {
     audioRef.current?.pause();
+    safariRef.current?.stop();
     setIsPlaying(false);
     if (stationRef.current) persistStation(stationRef.current, false);
   }, []);
@@ -178,9 +192,6 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
   const clearError = useCallback(() => setError(null), []);
 
-  // Restore station after full page reload (e.g. browser back on static export).
-  // Don't auto-play: browsers block autoplay without a user gesture. Show station
-  // as paused so user can tap Play to resume.
   useEffect(() => {
     if (hasRestored.current) return;
     hasRestored.current = true;
@@ -189,15 +200,12 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     setStation(saved);
     const audio = audioRef.current;
     if (audio) {
-      audio.src = saved.streamUrl;
+      audio.src = proxyUrl(saved.streamUrl);
       audio.volume = 1;
-      // Restore as paused; user taps Play to resume (avoids autoplay block)
       setIsPlaying(false);
     }
   }, []);
 
-  // Handle stream errors only — don't sync pause/playing; live streams fire
-  // those events during buffering and can cause render storms / UI freeze
   useEffect(() => {
     const audio = audioRef.current;
     if (!audio) return;
@@ -219,7 +227,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         isPlaying,
         volume,
         error,
-        analyserState,
+        analyser,
         play,
         pause,
         setVolume,
@@ -227,13 +235,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       }}
     >
       {children}
-      <audio
-        ref={audioRef}
-        preload="none"
-        crossOrigin="anonymous"
-        aria-hidden
-        className="hidden"
-      />
+      <audio ref={audioRef} preload="none" aria-hidden className="hidden" />
     </PlayerContext.Provider>
   );
 }
