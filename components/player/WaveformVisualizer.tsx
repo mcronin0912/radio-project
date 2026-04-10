@@ -11,7 +11,7 @@ export function WaveformVisualizer() {
   const { isPlaying, volume, analyser } = usePlayer();
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const rafRef = useRef<number>(0);
-  const freqBuf = useRef<Uint8Array | null>(null);
+  const freqBuf = useRef<Uint8Array<ArrayBuffer> | null>(null);
   const phaseRef = useRef(0);
   const simBarsRef = useRef<Float32Array>(new Float32Array(BAR_COUNT));
 
