@@ -30,9 +30,12 @@ jobs:
       # Temporarily move API routes outside app (not supported in static export)
       - run: mv app/api .api-backup
 
+      # Optional: set repo variable RADIO_STREAM_PROXY_URL to a deployed worker URL
+      # (see stream-proxy-worker/) so HTTP-only streams work on HTTPS GitHub Pages.
       - run: npm run build
         env:
           NEXT_PUBLIC_BASE_PATH: /radio-project
+          NEXT_PUBLIC_STREAM_PROXY_URL: ${{ vars.RADIO_STREAM_PROXY_URL }}
 
       - run: mv .api-backup app/api
 

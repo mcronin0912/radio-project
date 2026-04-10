@@ -40,6 +40,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={inter.variable}>
+      <head>
+        {BASE ? (
+          <meta
+            httpEquiv="Content-Security-Policy"
+            content="upgrade-insecure-requests"
+          />
+        ) : null}
+      </head>
       <body className="font-sans antialiased pb-20">
         <PlayerProvider>
           {children}

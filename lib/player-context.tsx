@@ -18,11 +18,23 @@ function isSafari() {
   return /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 }
 
-const hasProxy = !process.env.NEXT_PUBLIC_BASE_PATH;
-
-function proxyUrl(streamUrl: string): string {
-  if (!hasProxy) return streamUrl;
-  return `/api/stream?url=${encodeURIComponent(streamUrl)}`;
+/**
+ * Stream playback URL:
+ * - Local/dev (no basePath): same-origin `/api/stream` so HTTP-only upstreams work (no mixed content).
+ * - Static export (GitHub Pages, basePath set): no API route — use optional `NEXT_PUBLIC_STREAM_PROXY_URL`
+ *   (HTTPS proxy that mirrors `app/api/stream`) or fall back to the raw URL (needs HTTPS or CSP upgrade).
+ */
+function streamPlaybackUrl(streamUrl: string): string {
+  const encoded = encodeURIComponent(streamUrl);
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  const external = process.env.NEXT_PUBLIC_STREAM_PROXY_URL?.trim().replace(/\/$/, "");
+  if (external) {
+    return `${external}?url=${encoded}`;
+  }
+  if (basePath) {
+    return streamUrl;
+  }
+  return `/api/stream?url=${encoded}`;
 }
 
 function persistStation(s: Station | null, playing: boolean) {
@@ -143,7 +155,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     if (audio) {
       ensureAudioContext();
 
-      const proxied = proxyUrl(s.streamUrl);
+      const proxied = streamPlaybackUrl(s.streamUrl);
       audio.src = proxied;
       audio.volume = volume;
 
@@ -206,7 +218,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     setStation(saved);
     const audio = audioRef.current;
     if (audio) {
-      audio.src = proxyUrl(saved.streamUrl);
+      audio.src = streamPlaybackUrl(saved.streamUrl);
       audio.volume = 1;
       setIsPlaying(false);
     }
