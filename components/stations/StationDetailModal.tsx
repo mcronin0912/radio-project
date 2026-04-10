@@ -97,10 +97,10 @@ export function StationDetailModal({ station, onClose }: StationDetailModalProps
           </div>
         </header>
 
-        <section className="rounded-lg border border-dashed p-8 text-center text-muted-foreground">
+        {/* <section className="rounded-lg border border-dashed p-8 text-center text-muted-foreground">
           Now Playing and playlist history will appear here when we add the
           database and metadata polling (Phase 2).
-        </section>
+        </section> */}
       </div>
     </div>
   );

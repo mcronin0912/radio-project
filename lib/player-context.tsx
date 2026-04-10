@@ -190,7 +190,10 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const setVolume = useCallback((v: number) => {
     const val = Math.max(0, Math.min(1, v));
     setVolumeState(val);
-    if (audioRef.current) audioRef.current.volume = val;
+    if (audioRef.current) {
+      audioRef.current.volume = val;
+      audioRef.current.muted = val === 0;
+    }
   }, []);
 
   const clearError = useCallback(() => setError(null), []);
@@ -221,6 +224,17 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
     audio.addEventListener("error", onError);
     return () => audio.removeEventListener("error", onError);
+  }, []);
+
+  useEffect(() => {
+    const onVisible = () => {
+      if (document.visibilityState !== "visible") return;
+      if (audioCtxRef.current?.state === "suspended") {
+        audioCtxRef.current.resume();
+      }
+    };
+    document.addEventListener("visibilitychange", onVisible);
+    return () => document.removeEventListener("visibilitychange", onVisible);
   }, []);
 
   return (

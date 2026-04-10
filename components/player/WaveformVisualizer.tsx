@@ -6,6 +6,11 @@ import { usePlayer } from "@/lib/player-context";
 const BAR_COUNT = 48;
 const BAR_GAP = 2;
 const MIN_BAR_HEIGHT = 2;
+const HALF = BAR_COUNT / 2;
+
+function mirrorIndex(i: number): number {
+  return i < HALF ? HALF - 1 - i : i - HALF;
+}
 
 export function WaveformVisualizer() {
   const { isPlaying, volume, analyser } = usePlayer();
@@ -13,9 +18,11 @@ export function WaveformVisualizer() {
   const rafRef = useRef<number>(0);
   const freqBuf = useRef<Uint8Array<ArrayBuffer> | null>(null);
   const phaseRef = useRef(0);
-  const simBarsRef = useRef<Float32Array>(new Float32Array(BAR_COUNT));
+  const simBarsRef = useRef<Float32Array>(new Float32Array(HALF));
 
   const draw = useCallback(() => {
+    rafRef.current = requestAnimationFrame(draw);
+
     const canvas = canvasRef.current;
     if (!canvas) return;
     const ctx = canvas.getContext("2d");
@@ -35,11 +42,9 @@ export function WaveformVisualizer() {
 
     if (!isPlaying) {
       drawIdleBars(ctx, w, h);
-      rafRef.current = requestAnimationFrame(draw);
       return;
     }
 
-    // Try real analyser data
     let hasRealData = false;
     if (analyser) {
       if (!freqBuf.current || freqBuf.current.length !== analyser.frequencyBinCount) {
@@ -54,8 +59,6 @@ export function WaveformVisualizer() {
     } else {
       drawSimBars(ctx, w, h, volume, phaseRef, simBarsRef);
     }
-
-    rafRef.current = requestAnimationFrame(draw);
   }, [isPlaying, volume, analyser]);
 
   useEffect(() => {
@@ -93,12 +96,17 @@ function drawRealBars(
 ) {
   const barWidth = (w - BAR_GAP * (BAR_COUNT - 1)) / BAR_COUNT;
   const midY = h / 2;
-  const step = Math.floor(bufLen / BAR_COUNT);
+  const step = Math.max(1, Math.floor(bufLen / HALF));
+
+  const values = new Float32Array(HALF);
+  for (let k = 0; k < HALF; k++) {
+    let sum = 0;
+    for (let j = 0; j < step; j++) sum += data[k * step + j];
+    values[k] = sum / step / 255;
+  }
 
   for (let i = 0; i < BAR_COUNT; i++) {
-    let sum = 0;
-    for (let j = 0; j < step; j++) sum += data[i * step + j];
-    const avg = sum / step / 255;
+    const avg = values[mirrorIndex(i)];
     const barH = Math.max(MIN_BAR_HEIGHT, avg * h * 0.9);
     const hue = 142 + avg * 40;
     ctx.fillStyle = `hsla(${hue}, 70%, 55%, ${0.5 + avg * 0.5})`;
@@ -123,15 +131,18 @@ function drawSimBars(
   const barWidth = (w - BAR_GAP * (BAR_COUNT - 1)) / BAR_COUNT;
   const midY = h / 2;
 
-  for (let i = 0; i < BAR_COUNT; i++) {
-    const norm = i / BAR_COUNT;
+  for (let k = 0; k < HALF; k++) {
+    const norm = k / HALF;
     const target =
       (Math.sin(phase + norm * 6) * 0.3 +
         Math.sin(phase * 1.7 + norm * 4) * 0.25 +
         Math.sin(phase * 0.6 + norm * 9) * 0.15 +
         0.3) * vol;
-    bars[i] += (target - bars[i]) * 0.15;
-    const val = Math.max(0, Math.min(1, bars[i]));
+    bars[k] += (target - bars[k]) * 0.15;
+  }
+
+  for (let i = 0; i < BAR_COUNT; i++) {
+    const val = Math.max(0, Math.min(1, bars[mirrorIndex(i)]));
     const barH = Math.max(MIN_BAR_HEIGHT, val * h * 0.85);
     const hue = 142 + val * 40;
     ctx.fillStyle = `hsla(${hue}, 70%, 55%, ${0.4 + val * 0.5})`;
