@@ -7,10 +7,12 @@ import { PWARegister } from "@/components/PWARegister";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export const metadata: Metadata = {
   title: "Australian Radio Hub",
   description: "Discover and listen to Australian community radio stations",
-  manifest: "/manifest.json",
+  manifest: `${BASE}/manifest.json`,
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
@@ -18,11 +20,11 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
-      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+      { url: `${BASE}/icon-192.png`, sizes: "192x192", type: "image/png" },
+      { url: `${BASE}/icon-512.png`, sizes: "512x512", type: "image/png" },
     ],
     apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+      { url: `${BASE}/apple-touch-icon.png`, sizes: "180x180", type: "image/png" },
     ],
   },
 };
