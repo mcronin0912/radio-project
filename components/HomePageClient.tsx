@@ -6,6 +6,7 @@ import { StationFilters } from "@/components/stations/StationFilters";
 import { StationGrid } from "@/components/stations/StationGrid";
 import {
   filterStationsClient,
+  getFilterOptionsFromStations,
   type StationRow,
 } from "@/lib/filter-stations-client";
 import type { Station } from "@/lib/stations";
@@ -89,6 +90,15 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
     fetchStations();
   }, [fetchStations]);
 
+  const filterOptions = allStations
+    ? getFilterOptionsFromStations(allStations)
+    : {
+        states,
+        genres,
+        locationGroups: [] as { group: string; options: { value: string; count: number }[] }[],
+        genreGroups: [] as { group: string; options: { value: string; count: number }[] }[],
+      };
+
   const modalStation =
     selectedStationSlug && allStations
       ? (() => {
@@ -111,8 +121,10 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
         <StationDetailModal station={modalStation} onClose={closeStation} />
       )}
       <StationFilters
-        states={states}
-        genres={genres}
+        locationGroups={filterOptions.locationGroups}
+        genreGroups={filterOptions.genreGroups}
+        states={filterOptions.states}
+        genres={filterOptions.genres}
         filters={filters}
         onFiltersChange={setFilters}
         className="mb-6"

@@ -6,10 +6,13 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import type { FilterState } from "@/components/HomePageClient";
+import type { FilterOptionGroup } from "@/lib/filter-stations-client";
 
 interface StationFiltersProps {
   states: string[];
   genres: string[];
+  locationGroups: FilterOptionGroup[];
+  genreGroups: FilterOptionGroup[];
   filters: FilterState;
   onFiltersChange: (filters: FilterState) => void;
   className?: string;
@@ -18,6 +21,8 @@ interface StationFiltersProps {
 export function StationFilters({
   states,
   genres,
+  locationGroups,
+  genreGroups,
   filters,
   onFiltersChange,
   className,
@@ -80,12 +85,22 @@ export function StationFilters({
           onChange={(e) => updateParams({ state: e.target.value })}
           className="h-9 rounded-lg border border-input bg-transparent px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
         >
-          <option value="">All regions</option>
-          {states.slice(0, 30).map((s) => (
-            <option key={s} value={s}>
-              {s}
-            </option>
-          ))}
+          <option value="">All locations</option>
+          {locationGroups.length > 0
+            ? locationGroups.map(({ group, options }) => (
+                <optgroup key={group} label={group}>
+                  {options.map(({ value }) => (
+                    <option key={value} value={value}>
+                      {value}
+                    </option>
+                  ))}
+                </optgroup>
+              ))
+            : states.map((s) => (
+                <option key={s} value={s}>
+                  {s}
+                </option>
+              ))}
         </select>
         <select
           value={filters.genre}
@@ -93,11 +108,21 @@ export function StationFilters({
           className="h-9 rounded-lg border border-input bg-transparent px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
         >
           <option value="">All genres</option>
-          {genres.slice(0, 25).map((g) => (
-            <option key={g} value={g}>
-              {g.charAt(0).toUpperCase() + g.slice(1)}
-            </option>
-          ))}
+          {genreGroups.length > 0
+            ? genreGroups.map(({ group, options }) => (
+                <optgroup key={group} label={group}>
+                  {options.map(({ value }) => (
+                    <option key={value} value={value}>
+                      {value.charAt(0).toUpperCase() + value.slice(1)}
+                    </option>
+                  ))}
+                </optgroup>
+              ))
+            : genres.map((g) => (
+                <option key={g} value={g}>
+                  {g.charAt(0).toUpperCase() + g.slice(1)}
+                </option>
+              ))}
         </select>
         <label className="flex items-center gap-2 h-9 px-3 rounded-lg border border-input cursor-pointer hover:bg-muted/50">
           <input

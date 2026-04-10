@@ -10,6 +10,11 @@ import React, {
 } from "react";
 import type { Station } from "@/lib/stations";
 
+type AnalyserState = {
+  analyser: AnalyserNode | null;
+  isReal: boolean;
+};
+
 const STORAGE_KEY = "community-radio-player";
 
 function persistStation(s: Station | null, playing: boolean) {
@@ -67,6 +72,7 @@ interface PlayerState {
   isPlaying: boolean;
   volume: number;
   error: string | null;
+  analyserState: AnalyserState;
   play: (station: Station) => void;
   pause: () => void;
   setVolume: (v: number) => void;
@@ -80,8 +86,46 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [volume, setVolumeState] = useState(1);
   const [error, setError] = useState<string | null>(null);
+  const [analyserState, setAnalyserState] = useState<AnalyserState>({
+    analyser: null,
+    isReal: false,
+  });
   const audioRef = useRef<HTMLAudioElement>(null);
   const hasRestored = useRef(false);
+  const audioCtxRef = useRef<AudioContext | null>(null);
+  const sourceRef = useRef<MediaElementAudioSourceNode | null>(null);
+  const analyserRef = useRef<AnalyserNode | null>(null);
+
+  const ensureAnalyser = useCallback(() => {
+    const audio = audioRef.current;
+    if (!audio || sourceRef.current) return;
+
+    try {
+      const ctx = new AudioContext();
+      const analyser = ctx.createAnalyser();
+      analyser.fftSize = 256;
+      analyser.smoothingTimeConstant = 0.8;
+
+      const source = ctx.createMediaElementSource(audio);
+      source.connect(analyser);
+      analyser.connect(ctx.destination);
+
+      audioCtxRef.current = ctx;
+      sourceRef.current = source;
+      analyserRef.current = analyser;
+
+      // Probe after a short delay to detect CORS-blocked silence
+      setTimeout(() => {
+        const buf = new Uint8Array(analyser.frequencyBinCount);
+        analyser.getByteFrequencyData(buf);
+        const hasSignal = buf.some((v) => v > 0);
+        setAnalyserState({ analyser, isReal: hasSignal });
+      }, 500);
+    } catch (e) {
+      console.warn("Web Audio setup failed, using simulated waveform", e);
+      setAnalyserState({ analyser: null, isReal: false });
+    }
+  }, []);
 
   const play = useCallback((s: Station) => {
     if (!s.streamUrl) {
@@ -96,7 +140,18 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     if (audio) {
       audio.src = s.streamUrl;
       audio.volume = volume;
-      audio.play().catch((err) => {
+      audio.play().then(() => {
+        ensureAnalyser();
+        // Re-probe for real data after playback starts
+        setTimeout(() => {
+          const analyser = analyserRef.current;
+          if (!analyser) return;
+          const buf = new Uint8Array(analyser.frequencyBinCount);
+          analyser.getByteFrequencyData(buf);
+          const hasSignal = buf.some((v) => v > 0);
+          setAnalyserState({ analyser, isReal: hasSignal });
+        }, 1000);
+      }).catch((err) => {
         console.error("Playback failed:", err);
         setError("Stream unavailable");
         setIsPlaying(false);
@@ -104,7 +159,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       });
       setIsPlaying(true);
     }
-  }, [volume]);
+  }, [volume, ensureAnalyser]);
 
   const stationRef = useRef<Station | null>(null);
   stationRef.current = station;
@@ -164,6 +219,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         isPlaying,
         volume,
         error,
+        analyserState,
         play,
         pause,
         setVolume,
@@ -171,7 +227,13 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       }}
     >
       {children}
-      <audio ref={audioRef} preload="none" aria-hidden className="hidden" />
+      <audio
+        ref={audioRef}
+        preload="none"
+        crossOrigin="anonymous"
+        aria-hidden
+        className="hidden"
+      />
     </PlayerContext.Provider>
   );
 }

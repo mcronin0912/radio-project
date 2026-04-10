@@ -2,6 +2,7 @@
 
 import { usePlayer } from "@/lib/player-context";
 import { Button } from "@/components/ui/button";
+import { WaveformVisualizer } from "@/components/player/WaveformVisualizer";
 import { Pause, Play, Volume2, VolumeX } from "lucide-react";
 
 export function PlayerBar() {
@@ -15,7 +16,7 @@ export function PlayerBar() {
 
   return (
     <div className="fixed bottom-0 left-0 right-0 z-50 rounded-none border-t border-white/10 bg-black text-white">
-      <div className="flex items-center justify-between gap-4 p-[40px]">
+      <div className="flex items-center justify-between gap-4 px-[30px] pt-3 pb-2">
         <div className="flex min-w-0 flex-1 items-center gap-2">
           <p className="truncate font-medium text-white">{station.name}</p>
           {isPlaying && (
@@ -55,8 +56,11 @@ export function PlayerBar() {
           </Button>
         </div>
       </div>
+      <div className="px-[30px] pb-3">
+        <WaveformVisualizer />
+      </div>
       {error && (
-        <div className="flex items-center justify-between gap-2 px-[40px] pb-4">
+        <div className="flex items-center justify-between gap-2 px-[30px] pb-4">
           <p className="text-xs text-red-400">
             Stream unavailable. Check the URL or try another station.
           </p>
