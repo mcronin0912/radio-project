@@ -18,7 +18,10 @@ function isSafari() {
   return /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 }
 
+const hasProxy = !process.env.NEXT_PUBLIC_BASE_PATH;
+
 function proxyUrl(streamUrl: string): string {
+  if (!hasProxy) return streamUrl;
   return `/api/stream?url=${encodeURIComponent(streamUrl)}`;
 }
 
