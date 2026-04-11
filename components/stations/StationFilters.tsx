@@ -7,6 +7,10 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import type { FilterState } from "@/components/HomePageClient";
 import type { FilterOptionGroup } from "@/lib/filter-stations-client";
+import {
+  formatGenreOptionLabel,
+  formatLocationOptionLabel,
+} from "@/lib/filter-stations-client";
 
 interface StationFiltersProps {
   states: string[];
@@ -89,16 +93,16 @@ export function StationFilters({
           {locationGroups.length > 0
             ? locationGroups.map(({ group, options }) => (
                 <optgroup key={group} label={group}>
-                  {options.map(({ value }) => (
+                  {options.map(({ value, count }) => (
                     <option key={value} value={value}>
-                      {value}
+                      {formatLocationOptionLabel(value)} ({count})
                     </option>
                   ))}
                 </optgroup>
               ))
             : states.map((s) => (
                 <option key={s} value={s}>
-                  {s}
+                  {formatLocationOptionLabel(s)}
                 </option>
               ))}
         </select>
@@ -111,16 +115,16 @@ export function StationFilters({
           {genreGroups.length > 0
             ? genreGroups.map(({ group, options }) => (
                 <optgroup key={group} label={group}>
-                  {options.map(({ value }) => (
+                  {options.map(({ value, count }) => (
                     <option key={value} value={value}>
-                      {value.charAt(0).toUpperCase() + value.slice(1)}
+                      {formatGenreOptionLabel(value)} ({count})
                     </option>
                   ))}
                 </optgroup>
               ))
             : genres.map((g) => (
                 <option key={g} value={g}>
-                  {g.charAt(0).toUpperCase() + g.slice(1)}
+                  {formatGenreOptionLabel(g)}
                 </option>
               ))}
         </select>

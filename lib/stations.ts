@@ -1,6 +1,7 @@
 /**
  * Station list — loaded from stations-from-api.json (Radio Browser API).
  * No database required for MVP. Run scripts/fetch-radio-browser-stations.js to refresh.
+ * After fetching, run npm run stations:clean to normalize locations and genres.
  */
 
 import stationsData from "../stations-from-api.json";
@@ -104,7 +105,9 @@ export function filterStations(options: {
   }
 
   if (options.state) {
-    stations = stations.filter((s) => s.state === options.state);
+    stations = stations.filter(
+      (s) => s.state === options.state || s.city === options.state
+    );
   }
 
   if (options.search && options.search.trim()) {
