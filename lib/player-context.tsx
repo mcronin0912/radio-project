@@ -316,15 +316,20 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
             },
           ]
         : [];
-    const locationLine = [station.city, station.state].filter(Boolean).join(", ");
-    const city = station.city?.trim() ?? "";
-    const nameAlreadyHasCity =
-      city.length > 0 && station.name.toLowerCase().includes(city.toLowerCase());
-    // Avoid "Sydney" in the title and "Sydney, NSW" as artist — iOS stacks those and it reads as duplicated.
-    const artist = station.callsign?.trim() || "Community radio";
-    const album = nameAlreadyHasCity
-      ? "Live stream"
-      : locationLine || "Live stream";
+    // iOS lock screen: "artist" is the subline under the title — use location, not callsign
+    // (many stations encode callsign + MHz in callsign, which duplicates the title).
+    const locationLine = [station.city?.trim(), station.state?.trim()]
+      .filter(Boolean)
+      .join(", ");
+    const artist = locationLine || "Australia";
+
+    const cs = station.callsign?.trim() ?? "";
+    const nameLow = station.name.toLowerCase();
+    const csLow = cs.toLowerCase();
+    const album =
+      cs && cs.length <= 48 && !nameLow.includes(csLow.slice(0, Math.min(csLow.length, 16)))
+        ? cs
+        : "Live stream";
 
     try {
       navigator.mediaSession.metadata = new MediaMetadata({
