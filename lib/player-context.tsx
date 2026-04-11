@@ -166,10 +166,9 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         const sa = new SafariAudioAnalyser(audioCtxRef.current!);
         safariRef.current = sa;
         setAnalyser(sa.getAnalyser());
-
-        audio.play().then(() => {
-          sa.start(proxied);
-        }).catch((err) => {
+        // SafariAudioAnalyser.start runs from the audio "play" event so lock screen / Control Center
+        // resume stays in sync with the waveform tap.
+        audio.play().catch((err) => {
           console.error("Playback failed:", err);
           setError("Stream unavailable");
           setIsPlaying(false);
@@ -234,9 +233,102 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       if (stationRef.current) persistStation(stationRef.current, false);
     };
 
+    const onPlay = () => {
+      setIsPlaying(true);
+      if (stationRef.current) persistStation(stationRef.current, true);
+      if ("mediaSession" in navigator) {
+        try {
+          navigator.mediaSession.playbackState = "playing";
+        } catch {
+          /* noop */
+        }
+      }
+      void audioCtxRef.current?.resume();
+      if (isSafari() && audioCtxRef.current) {
+        const url = audio.currentSrc || audio.src;
+        if (!url) return;
+        if (!safariRef.current) {
+          const sa = new SafariAudioAnalyser(audioCtxRef.current);
+          safariRef.current = sa;
+          setAnalyser(sa.getAnalyser());
+        }
+        void safariRef.current.start(url);
+      }
+    };
+
+    const onPause = () => {
+      safariRef.current?.stop();
+      setIsPlaying(false);
+      if (stationRef.current) persistStation(stationRef.current, false);
+      if ("mediaSession" in navigator) {
+        try {
+          navigator.mediaSession.playbackState = "paused";
+        } catch {
+          /* noop */
+        }
+      }
+    };
+
     audio.addEventListener("error", onError);
-    return () => audio.removeEventListener("error", onError);
+    audio.addEventListener("play", onPlay);
+    audio.addEventListener("pause", onPause);
+    return () => {
+      audio.removeEventListener("error", onError);
+      audio.removeEventListener("play", onPlay);
+      audio.removeEventListener("pause", onPause);
+    };
   }, []);
+
+  useEffect(() => {
+    if (typeof navigator === "undefined" || !("mediaSession" in navigator)) return;
+    const audio = audioRef.current;
+    if (!audio) return;
+    try {
+      navigator.mediaSession.setActionHandler("play", () => {
+        void audio.play();
+      });
+      navigator.mediaSession.setActionHandler("pause", () => {
+        audio.pause();
+      });
+    } catch {
+      /* unsupported */
+    }
+    return () => {
+      try {
+        navigator.mediaSession.setActionHandler("play", null);
+        navigator.mediaSession.setActionHandler("pause", null);
+      } catch {
+        /* noop */
+      }
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!station || typeof navigator === "undefined" || !("mediaSession" in navigator)) return;
+    const origin = typeof window !== "undefined" ? window.location.origin : "";
+    const artwork =
+      origin.length > 0
+        ? [
+            {
+              src: `${origin}/apple-touch-icon.png`,
+              sizes: "180x180",
+              type: "image/png",
+            },
+          ]
+        : [];
+    try {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: station.name,
+        artist:
+          [station.city, station.state].filter(Boolean).join(", ") ||
+          "Australian Radio Hub",
+        album: "Live stream",
+        artwork,
+      });
+    } catch {
+      /* ignore */
+    }
+  }, [station]);
 
   useEffect(() => {
     const onVisible = () => {
