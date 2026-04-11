@@ -316,13 +316,21 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
             },
           ]
         : [];
+    const locationLine = [station.city, station.state].filter(Boolean).join(", ");
+    const city = station.city?.trim() ?? "";
+    const nameAlreadyHasCity =
+      city.length > 0 && station.name.toLowerCase().includes(city.toLowerCase());
+    // Avoid "Sydney" in the title and "Sydney, NSW" as artist — iOS stacks those and it reads as duplicated.
+    const artist = station.callsign?.trim() || "Community radio";
+    const album = nameAlreadyHasCity
+      ? "Live stream"
+      : locationLine || "Live stream";
+
     try {
       navigator.mediaSession.metadata = new MediaMetadata({
         title: station.name,
-        artist:
-          [station.city, station.state].filter(Boolean).join(", ") ||
-          "Australian Radio Hub",
-        album: "Live stream",
+        artist,
+        album,
         artwork,
       });
     } catch {
