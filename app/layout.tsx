@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { PlayerProvider } from "@/lib/player-context";
+import { FavouritesProvider } from "@/lib/favourites-context";
 import { PlayerBar } from "@/components/player/PlayerBar";
 import { PWARegister } from "@/components/PWARegister";
 
@@ -50,8 +51,10 @@ export default function RootLayout({
       </head>
       <body className="font-sans antialiased pb-20">
         <PlayerProvider>
-          {children}
-          <PlayerBar />
+          <FavouritesProvider>
+            {children}
+            <PlayerBar />
+          </FavouritesProvider>
         </PlayerProvider>
         <PWARegister />
       </body>

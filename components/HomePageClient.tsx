@@ -10,6 +10,7 @@ import {
   type StationRow,
 } from "@/lib/filter-stations-client";
 import type { Station } from "@/lib/stations";
+import { useFavourites } from "@/lib/favourites-context";
 
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
@@ -45,6 +46,7 @@ export interface FilterState {
   state: string;
   genre: string;
   indigenous: boolean;
+  favouritesOnly: boolean;
 }
 
 interface HomePageClientProps {
@@ -53,6 +55,7 @@ interface HomePageClientProps {
 }
 
 export function HomePageClient({ states, genres }: HomePageClientProps) {
+  const { favourites } = useFavourites();
   const [stations, setStations] = useState<Station[]>([]);
   const [loading, setLoading] = useState(true);
   const [allStations, setAllStations] = useState<StationRow[] | null>(null);
@@ -62,6 +65,7 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
     state: "",
     genre: "",
     indigenous: false,
+    favouritesOnly: false,
   });
 
   useEffect(() => {
@@ -77,14 +81,17 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
       return;
     }
     setLoading(false);
-    const filtered = filterStationsClient(allStations, {
+    let filtered = filterStationsClient(allStations, {
       search: filters.search || undefined,
       state: filters.state || undefined,
       genre: filters.genre || undefined,
       indigenous: filters.indigenous,
     });
+    if (filters.favouritesOnly) {
+      filtered = filtered.filter((r) => favourites.has(r.slug));
+    }
     setStations(filtered.map((r) => toStation(r)));
-  }, [allStations, filters]);
+  }, [allStations, filters, favourites]);
 
   useEffect(() => {
     fetchStations();
@@ -134,7 +141,15 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
           Loading stations...
         </div>
       ) : (
-        <StationGrid stations={stations} onStationSelect={openStation} />
+        <StationGrid
+          stations={stations}
+          onStationSelect={openStation}
+          emptyMessage={
+            filters.favouritesOnly
+              ? "No favourite stations match these filters. Heart a station to save it, or turn off “Favourites only”."
+              : undefined
+          }
+        />
       )}
     </>
   );

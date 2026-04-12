@@ -64,13 +64,18 @@ export function StationFilters({
       state: "",
       genre: "",
       indigenous: false,
+      favouritesOnly: false,
     };
     setSearchInput("");
     onFiltersChange(cleared);
   }
 
   const hasFilters =
-    filters.search || filters.state || filters.genre || filters.indigenous;
+    filters.search ||
+    filters.state ||
+    filters.genre ||
+    filters.indigenous ||
+    filters.favouritesOnly;
 
   return (
     <div className={cn("space-y-3", className)}>
@@ -128,6 +133,17 @@ export function StationFilters({
                 </option>
               ))}
         </select>
+        <label className="flex items-center gap-2 h-9 px-3 rounded-lg border border-input cursor-pointer hover:bg-muted/50">
+          <input
+            type="checkbox"
+            checked={filters.favouritesOnly}
+            onChange={(e) =>
+              updateParams({ favouritesOnly: e.target.checked })
+            }
+            className="rounded border-input"
+          />
+          <span className="text-sm whitespace-nowrap">Favourites only</span>
+        </label>
         <label className="flex items-center gap-2 h-9 px-3 rounded-lg border border-input cursor-pointer hover:bg-muted/50">
           <input
             type="checkbox"

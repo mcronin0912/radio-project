@@ -4,6 +4,7 @@ import Image from "next/image";
 import { ExternalLink, Radio, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LiveIndicator } from "@/components/stations/LiveIndicator";
+import { FavouriteButton } from "@/components/stations/FavouriteButton";
 import { PlayButton } from "@/components/stations/PlayButton";
 import type { Station } from "@/lib/stations";
 
@@ -80,6 +81,7 @@ export function StationDetailModal({ station, onClose }: StationDetailModalProps
               ))}
             </div>
             <div className="mt-6 flex flex-wrap items-center gap-3">
+              <FavouriteButton station={station} bordered />
               <PlayButton station={station} />
               {station.website && (
                 <a

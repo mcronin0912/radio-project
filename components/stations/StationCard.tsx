@@ -4,6 +4,7 @@ import Image from "next/image";
 import { Pause, Play, Radio } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { FavouriteButton } from "@/components/stations/FavouriteButton";
 import { cn } from "@/lib/utils";
 import { usePlayer } from "@/lib/player-context";
 import type { Station } from "@/lib/stations";
@@ -49,23 +50,25 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
               </p>
             </div>
           </div>
-          <Button
-            size="icon"
-            variant={isCurrentStation && isPlaying ? "default" : "secondary"}
-            className="shrink-0"
-            onClick={() =>
-              isCurrentStation && isPlaying ? pause() : play(station)
-            }
-            aria-label={
-              isCurrentStation && isPlaying ? "Pause" : `Play ${station.name}`
-            }
-          >
-            {isCurrentStation && isPlaying ? (
-              <Pause className="h-4 w-4 fill-current" />
-            ) : (
-              <Play className="h-4 w-4 fill-current" />
-            )}
-          </Button>
+          <div className="flex shrink-0 items-start gap-1">
+            <FavouriteButton station={station} />
+            <Button
+              size="icon"
+              variant={isCurrentStation && isPlaying ? "default" : "secondary"}
+              onClick={() =>
+                isCurrentStation && isPlaying ? pause() : play(station)
+              }
+              aria-label={
+                isCurrentStation && isPlaying ? "Pause" : `Play ${station.name}`
+              }
+            >
+              {isCurrentStation && isPlaying ? (
+                <Pause className="h-4 w-4 fill-current" />
+              ) : (
+                <Play className="h-4 w-4 fill-current" />
+              )}
+            </Button>
+          </div>
         </div>
       </CardHeader>
       <CardContent className="pt-0">
