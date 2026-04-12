@@ -43,7 +43,7 @@ export function FavouritesProvider({ children }: { children: React.ReactNode }) 
       if (next.has(slug)) next.delete(slug);
       else next.add(slug);
       try {
-        localStorage.setItem(STORAGE_KEY, JSON.stringify([...next]));
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(Array.from(next)));
       } catch {
         /* ignore */
       }

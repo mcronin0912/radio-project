@@ -16,7 +16,7 @@ export function PlayerBar() {
 
   return (
     <div className="fixed bottom-0 left-0 right-0 z-50 rounded-none border-t border-white/10 bg-black text-white">
-      <div className="flex items-center justify-between gap-4 px-[30px] pt-3 pb-2">
+      <div className="flex items-center justify-between gap-4 px-[30px] pt-5 pb-2">
         <div className="flex min-w-0 flex-1 items-center gap-2">
           <p className="truncate font-medium text-white">{station.name}</p>
           {isPlaying && (
