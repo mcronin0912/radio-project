@@ -92,6 +92,7 @@ interface PlayerState {
   isPlaying: boolean;
   volume: number;
   error: string | null;
+  isReconnecting: boolean;
   analyser: AnalyserNode | null;
   play: (station: Station) => void;
   pause: () => void;
@@ -106,12 +107,29 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [volume, setVolumeState] = useState(1);
   const [error, setError] = useState<string | null>(null);
+  const [isReconnecting, setIsReconnecting] = useState(false);
   const [analyser, setAnalyser] = useState<AnalyserNode | null>(null);
   const audioRef = useRef<HTMLAudioElement>(null);
   const hasRestored = useRef(false);
   const audioCtxRef = useRef<AudioContext | null>(null);
   const connectedRef = useRef(false);
   const safariRef = useRef<SafariAudioAnalyser | null>(null);
+  const intendedPlayingRef = useRef(false);
+  const reconnectTimeoutRef = useRef<number | null>(null);
+  const reconnectAttemptRef = useRef(0);
+  const volumeRef = useRef(1);
+  const scheduleReconnectRef = useRef<(() => void) | null>(null);
+
+  useEffect(() => {
+    volumeRef.current = volume;
+  }, [volume]);
+
+  const clearReconnectTimer = useCallback(() => {
+    if (reconnectTimeoutRef.current != null) {
+      clearTimeout(reconnectTimeoutRef.current);
+      reconnectTimeoutRef.current = null;
+    }
+  }, []);
 
   const ensureAudioContext = useCallback(() => {
     if (audioCtxRef.current) {
@@ -147,7 +165,11 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       setError("Stream URL not available");
       return;
     }
+    clearReconnectTimer();
+    reconnectAttemptRef.current = 0;
+    intendedPlayingRef.current = true;
     setError(null);
+    setIsReconnecting(false);
     setStation(s);
     persistStation(s, true);
 
@@ -159,6 +181,18 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       audio.src = proxied;
       audio.volume = volume;
 
+      const onPlayFailed = (err: unknown) => {
+        console.error("Playback failed:", err);
+        if (intendedPlayingRef.current && s.streamUrl) {
+          scheduleReconnectRef.current?.();
+          return;
+        }
+        setError("Stream unavailable");
+        setIsPlaying(false);
+        setIsReconnecting(false);
+        persistStation(s, false);
+      };
+
       if (isSafari()) {
         // Safari: createMediaElementSource is broken for streams.
         // Use fetch + decodeAudioData via the proxy instead.
@@ -168,35 +202,29 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         setAnalyser(sa.getAnalyser());
         // SafariAudioAnalyser.start runs from the audio "play" event so lock screen / Control Center
         // resume stays in sync with the waveform tap.
-        audio.play().catch((err) => {
-          console.error("Playback failed:", err);
-          setError("Stream unavailable");
-          setIsPlaying(false);
-          persistStation(s, false);
-        });
+        audio.play().catch(onPlayFailed);
       } else {
         // Chrome/Firefox: createMediaElementSource works fine
         connectChromeAnalyser();
-        audio.play().catch((err) => {
-          console.error("Playback failed:", err);
-          setError("Stream unavailable");
-          setIsPlaying(false);
-          persistStation(s, false);
-        });
+        audio.play().catch(onPlayFailed);
       }
       setIsPlaying(true);
     }
-  }, [volume, ensureAudioContext, connectChromeAnalyser]);
+  }, [volume, ensureAudioContext, connectChromeAnalyser, clearReconnectTimer]);
 
   const stationRef = useRef<Station | null>(null);
   stationRef.current = station;
 
   const pause = useCallback(() => {
+    clearReconnectTimer();
+    reconnectAttemptRef.current = 0;
+    intendedPlayingRef.current = false;
+    setIsReconnecting(false);
     audioRef.current?.pause();
     safariRef.current?.stop();
     setIsPlaying(false);
     if (stationRef.current) persistStation(stationRef.current, false);
-  }, []);
+  }, [clearReconnectTimer]);
 
   const setVolume = useCallback((v: number) => {
     const val = Math.max(0, Math.min(1, v));
@@ -227,13 +255,74 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     const audio = audioRef.current;
     if (!audio) return;
 
+    const scheduleReconnect = () => {
+      if (!intendedPlayingRef.current) return;
+      if (!stationRef.current?.streamUrl) return;
+
+      clearReconnectTimer();
+      const attempt = reconnectAttemptRef.current;
+      reconnectAttemptRef.current = attempt + 1;
+      const delay = Math.min(30_000, 1000 * 2 ** Math.min(attempt, 5));
+
+      setIsReconnecting(true);
+      setError(null);
+
+      reconnectTimeoutRef.current = window.setTimeout(() => {
+        reconnectTimeoutRef.current = null;
+        if (!intendedPlayingRef.current || !stationRef.current?.streamUrl) return;
+
+        const el = audioRef.current;
+        if (!el) return;
+
+        const st = stationRef.current;
+        if (!st.streamUrl) return;
+        const base = streamPlaybackUrl(st.streamUrl);
+        const hashIdx = base.indexOf("#");
+        const proxied =
+          hashIdx >= 0
+            ? `${base.slice(0, hashIdx)}#r=${Date.now()}`
+            : `${base}#r=${Date.now()}`;
+
+        safariRef.current?.stop();
+        try {
+          el.pause();
+          el.src = proxied;
+          el.volume = volumeRef.current;
+          el.load();
+        } catch (e) {
+          console.warn("Stream reconnect load failed:", e);
+          scheduleReconnect();
+          return;
+        }
+
+        void el.play().catch(() => {
+          if (intendedPlayingRef.current) scheduleReconnect();
+        });
+      }, delay);
+    };
+
+    scheduleReconnectRef.current = scheduleReconnect;
+
     const onError = () => {
-      setError("Stream unavailable");
-      setIsPlaying(false);
-      if (stationRef.current) persistStation(stationRef.current, false);
+      if (!intendedPlayingRef.current) {
+        setError("Stream unavailable");
+        setIsPlaying(false);
+        setIsReconnecting(false);
+        if (stationRef.current) persistStation(stationRef.current, false);
+        return;
+      }
+      scheduleReconnect();
+    };
+
+    const onEnded = () => {
+      if (intendedPlayingRef.current) scheduleReconnect();
     };
 
     const onPlay = () => {
+      intendedPlayingRef.current = true;
+      reconnectAttemptRef.current = 0;
+      setError(null);
+      setIsReconnecting(false);
       setIsPlaying(true);
       if (stationRef.current) persistStation(stationRef.current, true);
       if ("mediaSession" in navigator) {
@@ -259,10 +348,14 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     const onPause = () => {
       safariRef.current?.stop();
       setIsPlaying(false);
-      if (stationRef.current) persistStation(stationRef.current, false);
+      if (!intendedPlayingRef.current && stationRef.current) {
+        persistStation(stationRef.current, false);
+      }
       if ("mediaSession" in navigator) {
         try {
-          navigator.mediaSession.playbackState = "paused";
+          if (!intendedPlayingRef.current) {
+            navigator.mediaSession.playbackState = "paused";
+          }
         } catch {
           /* noop */
         }
@@ -270,14 +363,18 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     };
 
     audio.addEventListener("error", onError);
+    audio.addEventListener("ended", onEnded);
     audio.addEventListener("play", onPlay);
     audio.addEventListener("pause", onPause);
     return () => {
+      scheduleReconnectRef.current = null;
+      clearReconnectTimer();
       audio.removeEventListener("error", onError);
+      audio.removeEventListener("ended", onEnded);
       audio.removeEventListener("play", onPlay);
       audio.removeEventListener("pause", onPause);
     };
-  }, []);
+  }, [clearReconnectTimer]);
 
   useEffect(() => {
     if (typeof navigator === "undefined" || !("mediaSession" in navigator)) return;
@@ -361,6 +458,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         isPlaying,
         volume,
         error,
+        isReconnecting,
         analyser,
         play,
         pause,

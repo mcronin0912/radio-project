@@ -6,7 +6,7 @@ import { WaveformVisualizer } from "@/components/player/WaveformVisualizer";
 import { Pause, Play, Volume2, VolumeX } from "lucide-react";
 
 export function PlayerBar() {
-  const { station, isPlaying, volume, error, pause, play, setVolume, clearError } =
+  const { station, isPlaying, volume, error, isReconnecting, pause, play, setVolume, clearError } =
     usePlayer();
 
   if (!station) return null;
@@ -19,10 +19,10 @@ export function PlayerBar() {
       <div className="flex items-center justify-between gap-4 px-[30px] pt-5 pb-2">
         <div className="flex min-w-0 flex-1 items-center gap-2">
           <p className="truncate font-medium text-white">{station.name}</p>
-          {isPlaying && (
-            <div className="flex shrink-0 items-center gap-1.5 text-sm text-white/70">
-              <span className="h-2 w-2 animate-pulse rounded-full bg-green-500" />
-              <span>Live</span>
+          {isReconnecting && (
+            <div className="flex shrink-0 items-center gap-1.5 text-sm text-amber-300/90">
+              <span className="h-2 w-2 animate-pulse rounded-full bg-amber-400" />
+              <span>Reconnecting…</span>
             </div>
           )}
         </div>
