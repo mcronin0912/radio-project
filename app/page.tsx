@@ -4,7 +4,7 @@ import { getFilterOptions } from "@/lib/stations";
 import { HomePageClient } from "@/components/HomePageClient";
 
 export const metadata = {
-  title: "Australian Radio Hub",
+  title: "Radio Project",
   description: "Discover and listen to Australian commercial and community radio stations",
 };
 
@@ -29,7 +29,7 @@ export default function HomePage() {
           </div>
           <div className="min-w-0 flex-1">
             <h1 className="mt-1 text-3xl font-bold tracking-tight">
-              Australian Radio Hub
+              Radio Project
             </h1>
             <p className="mt-0 text-muted-foreground">
               Discover and listen to Australian commercial and community radio
