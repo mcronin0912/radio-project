@@ -10,7 +10,6 @@ interface FavouriteButtonProps {
   station: Station;
   className?: string;
   size?: "default" | "icon";
-  /** Bordered `bg-background` style (matches the station modal Website link). */
   bordered?: boolean;
 }
 
@@ -27,12 +26,10 @@ export function FavouriteButton({
   return (
     <Button
       type="button"
-      variant={bordered ? "outline" : "secondary"}
+      variant={bordered ? "outline" : "ghost"}
       size={size}
       className={cn(
-        bordered &&
-          "border-input bg-background hover:bg-muted dark:bg-background dark:hover:bg-muted",
-        active && "text-red-500 hover:text-red-600 dark:text-red-400 dark:hover:text-red-300",
+        active && "text-coral-red hover:text-coral-red",
         className
       )}
       onClick={(e) => {
@@ -40,12 +37,13 @@ export function FavouriteButton({
         toggleFavourite(slug);
       }}
       aria-pressed={active}
-      aria-label={active ? `Remove ${station.name} from favourites` : `Favourite ${station.name}`}
+      aria-label={
+        active
+          ? `Remove ${station.name} from favourites`
+          : `Favourite ${station.name}`
+      }
     >
-      <Heart
-        className={cn("h-4 w-4", active && "fill-current")}
-        aria-hidden
-      />
+      <Heart className={cn("h-4 w-4", active && "fill-current")} aria-hidden />
     </Button>
   );
 }

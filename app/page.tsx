@@ -1,48 +1,32 @@
 import { Suspense } from "react";
-import Image from "next/image";
 import { getFilterOptions } from "@/lib/stations";
 import { HomePageClient } from "@/components/HomePageClient";
-import { ThemeToggle } from "@/components/ThemeToggle";
 
 export const metadata = {
   title: "Radio Project",
-  description: "Discover and listen to Australian commercial and community radio stations",
+  description:
+    "Discover and listen to Australian commercial and community radio stations",
 };
 
 export default function HomePage() {
   const { states, genres } = getFilterOptions();
 
   return (
-    <main className="container mx-auto px-4 py-8 pb-24">
-      <header className="mb-8">
-        <div className="flex items-start gap-4 sm:gap-5">
-          <div className="shrink-0 pt-0.5">
-            <div className="rounded-xl border border-border/80 bg-background p-2">
-              <Image
-                src="/icon.svg"
-                alt=""
-                width={50}
-                height={50}
-                priority
-                unoptimized
-              />
-            </div>
-          </div>
-          <div className="min-w-0 flex-1">
-            <h1 className="mt-1 text-3xl font-bold tracking-tight">
-              Radio Project
-            </h1>
-            <p className="mt-0 text-muted-foreground">
-              Discover and listen to Australian commercial and community radio
-              stations
-            </p>
-          </div>
-          <div className="shrink-0 pt-1">
-            <ThemeToggle />
-          </div>
-        </div>
+    <main className="mx-auto max-w-page px-4 py-8 pb-32 sm:px-6">
+      <header className="mb-12">
+        <h1 className="text-[32px] font-medium leading-[1.13] tracking-[-0.022em] text-paper sm:text-heading-sm">
+          Radio Project
+        </h1>
+        <p className="mt-2 max-w-xl text-[16px] font-normal leading-[1.5] text-fog">
+          Discover and listen to Australian commercial and community radio
+          stations
+        </p>
       </header>
-      <Suspense fallback={<div className="h-12 mb-4 animate-pulse rounded bg-muted" />}>
+      <Suspense
+        fallback={
+          <div className="mb-4 h-10 animate-pulse rounded-md bg-white/[0.02]" />
+        }
+      >
         <HomePageClient states={states} genres={genres} />
       </Suspense>
     </main>

@@ -2,6 +2,7 @@
   "name": "community-radio-hub",
   "version": "0.1.0",
   "private": true,
+  "main": "desktop/main.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +12,10 @@
     "db:migrate": "prisma migrate dev",
     "db:seed": "tsx scripts/seed-stations.ts",
     "db:push": "prisma db push",
-    "stations:clean": "node scripts/clean-stations.js"
+    "stations:clean": "node scripts/clean-stations.js",
+    "build:desktop": "bash scripts/build-desktop.sh",
+    "electron:dev": "concurrently -k -n next,electron -c blue,magenta \"next dev -p 4173 -H 127.0.0.1\" \"bash scripts/electron-dev.sh\"",
+    "electron:pack": "npm run build:desktop && electron-builder --mac"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",
@@ -31,12 +35,49 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "concurrently": "^9.1.2",
     "dotenv": "^17.3.1",
+    "electron": "^35.1.5",
+    "electron-builder": "^26.0.12",
     "eslint": "^8",
     "eslint-config-next": "14.2.35",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "tsx": "^4.21.0",
     "typescript": "^5"
+  },
+  "build": {
+    "appId": "au.com.torresiancrow.radioproject",
+    "productName": "Radio Project",
+    "copyright": "Copyright © Torresian Crow",
+    "directories": {
+      "output": "dist-desktop",
+      "buildResources": "desktop/build"
+    },
+    "files": [
+      "desktop/**/*",
+      "package.json",
+      "!**/node_modules/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "out",
+        "to": "out"
+      }
+    ],
+    "mac": {
+      "category": "public.app-category.music",
+      "icon": "desktop/build/icon.png",
+      "target": [
+        "dmg",
+        "dir"
+      ],
+      "identity": null,
+      "hardenedRuntime": false,
+      "gatekeeperAssess": false
+    },
+    "dmg": {
+      "title": "Radio Project"
+    }
   }
 }

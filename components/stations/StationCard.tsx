@@ -17,35 +17,40 @@ interface StationCardProps {
 export function StationCard({ station, onStationSelect }: StationCardProps) {
   const { station: currentStation, isPlaying, play, pause } = usePlayer();
   const isCurrentStation = currentStation?.id === station.id;
+  const isLive = isCurrentStation && isPlaying;
 
   return (
     <Card
       className={cn(
-        "overflow-hidden transition-all hover:shadow-md",
-        isCurrentStation && "ring-2 !ring-neutral-900 dark:!ring-white"
+        "transition-colors",
+        isLive && "shadow-[inset_0_0_0_1px_var(--color-acid-lime)]"
       )}
     >
-      <CardHeader className="pb-2">
+      <CardHeader>
         <div className="flex items-start justify-between gap-2">
           <div className="flex min-w-0 flex-1 items-start gap-3">
-            <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-white">
+            <div className="flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-md bg-paper">
               {station.logoUrl ? (
                 <Image
                   src={station.logoUrl}
                   alt=""
                   width={48}
                   height={48}
-                  className="rounded-lg object-cover"
+                  className="size-full object-cover"
                   unoptimized
                 />
               ) : (
-                <Radio className="h-6 w-6 text-muted-foreground" />
+                <Radio className="h-5 w-5 text-ash" />
               )}
             </div>
             <div className="min-w-0 flex-1">
-              <h3 className="font-semibold break-words">{station.name}</h3>
-              <p className="text-sm text-muted-foreground">
-                {Array.from(new Set([station.city, station.state].filter(Boolean))).join(", ") || "—"}
+              <h3 className="break-words text-[15px] font-medium tracking-tight text-paper">
+                {station.name}
+              </h3>
+              <p className="mt-0.5 text-[13px] font-normal text-fog">
+                {Array.from(
+                  new Set([station.city, station.state].filter(Boolean))
+                ).join(", ") || "—"}
                 {station.frequency && ` · ${station.frequency}`}
               </p>
             </div>
@@ -54,7 +59,7 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
             <FavouriteButton station={station} />
             <Button
               size="icon"
-              variant={isCurrentStation && isPlaying ? "default" : "secondary"}
+              variant={isLive ? "default" : "outline"}
               onClick={() =>
                 isCurrentStation && isPlaying ? pause() : play(station)
               }
@@ -71,28 +76,28 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
           </div>
         </div>
       </CardHeader>
-      <CardContent className="pt-0">
-        <div className="flex flex-wrap gap-1.5">
+      <CardContent>
+        <div className="flex flex-wrap gap-2">
           {station.genres.slice(0, 3).map((g) => (
             <span
               key={g}
-              className="rounded-full bg-muted px-2 py-0.5 text-xs text-muted-foreground"
+              className="rounded-badges bg-white/[0.05] px-1.5 py-0 text-[12px] font-normal leading-[1.4] text-fog"
             >
               {g}
             </span>
           ))}
         </div>
-        <div className="mt-2 flex items-end justify-between gap-2">
+        <div className="mt-3 flex items-end justify-between gap-2">
           <button
             type="button"
             onClick={() => onStationSelect?.(station.slug)}
-            className="text-left text-sm font-medium text-primary hover:underline"
+            className="text-left text-[13px] font-normal text-mist transition-colors hover:text-paper"
           >
             View station →
           </button>
-          {isCurrentStation && isPlaying && (
-            <div className="flex shrink-0 items-center gap-1.5 text-sm text-muted-foreground">
-              <span className="h-2 w-2 animate-pulse rounded-full bg-[#49de80]" />
+          {isLive && (
+            <div className="flex shrink-0 items-center gap-1.5 text-[12px] font-normal text-fog">
+              <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-pulse-green" />
               <span>Live</span>
             </div>
           )}

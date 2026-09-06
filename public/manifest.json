@@ -4,8 +4,8 @@
   "description": "Discover and listen to Australian community radio stations",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#0a0a0a",
-  "theme_color": "#0a0a0a",
+  "background_color": "#08090a",
+  "theme_color": "#08090a",
   "icons": [
     {
       "src": "icon-192.png",

@@ -6,8 +6,17 @@ import { WaveformVisualizer } from "@/components/player/WaveformVisualizer";
 import { Pause, Play, Volume2, VolumeX } from "lucide-react";
 
 export function PlayerBar() {
-  const { station, isPlaying, volume, error, isReconnecting, pause, play, setVolume, clearError } =
-    usePlayer();
+  const {
+    station,
+    isPlaying,
+    volume,
+    error,
+    isReconnecting,
+    pause,
+    play,
+    setVolume,
+    clearError,
+  } = usePlayer();
 
   if (!station) return null;
 
@@ -15,14 +24,18 @@ export function PlayerBar() {
   const handleVolumeClick = () => (isMuted ? setVolume(1) : setVolume(0));
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 rounded-none border-t border-white/10 bg-black text-white">
-      <div className="flex items-center justify-between gap-4 px-[30px] pt-5 pb-2">
+    <div className="fixed bottom-0 left-0 right-0 z-50 border-t border-graphite bg-carbon shadow-subtle">
+      <div className="mx-auto flex max-w-page items-center justify-between gap-4 px-6 pt-4 pb-2">
         <div className="flex min-w-0 flex-1 items-center gap-2">
-          <p className="truncate font-medium text-white">{station.name}</p>
+          <p className="truncate text-[14px] font-medium tracking-tight text-paper">
+            {station.name}
+          </p>
           {isReconnecting && (
-            <div className="flex shrink-0 items-center gap-1.5 text-sm text-amber-300/90">
-              <span className="h-2 w-2 animate-pulse rounded-full bg-amber-400" />
-              <span>Reconnecting…</span>
+            <div className="flex shrink-0 items-center gap-1.5 text-[12px] font-normal text-fog">
+              <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-acid-lime" />
+              <span className="font-mono text-[12px] tracking-tight">
+                Reconnecting…
+              </span>
             </div>
           )}
         </div>
@@ -32,7 +45,6 @@ export function PlayerBar() {
             variant="ghost"
             onClick={handleVolumeClick}
             aria-label={isMuted ? "Unmute" : "Mute"}
-            className="text-white hover:bg-white/10 hover:text-white"
           >
             {isMuted || volume === 0 ? (
               <VolumeX className="h-4 w-4" />
@@ -42,11 +54,10 @@ export function PlayerBar() {
           </Button>
           <Button
             size="icon"
-            variant="secondary"
+            variant="default"
             onClick={() => (isPlaying ? pause() : play(station))}
             aria-label={isPlaying ? "Pause" : "Play"}
             disabled={!!error}
-            className="bg-white text-black hover:bg-white/90 hover:text-black"
           >
             {isPlaying ? (
               <Pause className="h-4 w-4 fill-current" />
@@ -56,20 +67,15 @@ export function PlayerBar() {
           </Button>
         </div>
       </div>
-      <div className="px-[30px] pb-3">
+      <div className="mx-auto max-w-page px-6 pb-3">
         <WaveformVisualizer />
       </div>
       {error && (
-        <div className="flex items-center justify-between gap-2 px-[30px] pb-4">
-          <p className="text-xs text-red-400">
+        <div className="mx-auto flex max-w-page items-center justify-between gap-2 px-6 pb-4">
+          <p className="text-[12px] font-normal text-coral-red">
             Stream unavailable. Check the URL or try another station.
           </p>
-          <Button
-            size="xs"
-            variant="ghost"
-            onClick={clearError}
-            className="text-white hover:bg-white/10 hover:text-white"
-          >
+          <Button size="xs" variant="ghost" onClick={clearError}>
             Dismiss
           </Button>
         </div>

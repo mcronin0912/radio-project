@@ -14,8 +14,8 @@ export function LiveIndicator({ station }: LiveIndicatorProps) {
   if (!isCurrentStation || !isPlaying) return null;
 
   return (
-    <div className="flex shrink-0 items-center gap-1.5 text-sm text-muted-foreground">
-      <span className="h-2 w-2 animate-pulse rounded-full bg-[#49de80]" />
+    <div className="flex shrink-0 items-center gap-1.5 text-[12px] font-normal text-fog">
+      <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-pulse-green" />
       <span>Live</span>
     </div>
   );

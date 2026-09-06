@@ -16,7 +16,7 @@ export function StationGrid({
 }: StationGridProps) {
   if (stations.length === 0) {
     return (
-      <div className="rounded-lg border border-dashed p-12 text-center text-muted-foreground">
+      <div className="rounded-cards border border-dashed border-graphite bg-carbon/40 p-12 text-center text-[13px] font-normal text-fog">
         {emptyMessage ??
           "No stations found. Try adjusting your search or filters."}
       </div>
@@ -24,7 +24,7 @@ export function StationGrid({
   }
 
   return (
-    <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
       {stations.map((station) => (
         <StationCard
           key={station.id}

@@ -7,13 +7,46 @@ export default function GlobalError({
   reset: () => void;
 }) {
   return (
-    <html>
-      <body className="flex min-h-screen items-center justify-center bg-black text-white">
-        <div className="text-center">
-          <h2 className="text-xl font-semibold">Something went wrong</h2>
+    <html lang="en">
+      <body
+        style={{
+          margin: 0,
+          minHeight: "100vh",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          background: "#08090a",
+          color: "#d0d6e0",
+          fontFamily:
+            'Inter, ui-sans-serif, system-ui, -apple-system, sans-serif',
+        }}
+      >
+        <div style={{ textAlign: "center" }}>
+          <h2
+            style={{
+              margin: 0,
+              fontSize: 24,
+              fontWeight: 510,
+              letterSpacing: "-0.012em",
+              color: "#ffffff",
+            }}
+          >
+            Something went wrong
+          </h2>
           <button
             onClick={reset}
-            className="mt-4 rounded-lg bg-white px-4 py-2 text-sm font-medium text-black hover:bg-white/90"
+            style={{
+              marginTop: 24,
+              border: "none",
+              borderRadius: 6,
+              background: "#e4f222",
+              color: "#08090a",
+              padding: "10px 16px",
+              fontSize: 14,
+              fontWeight: 510,
+              letterSpacing: "-0.011em",
+              cursor: "pointer",
+            }}
           >
             Try again
           </button>

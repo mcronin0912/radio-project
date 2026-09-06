@@ -137,7 +137,7 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
         className="mb-6"
       />
       {loading ? (
-        <div className="rounded-lg border border-dashed p-12 text-center text-muted-foreground">
+        <div className="rounded-cards border border-dashed border-graphite bg-carbon/40 p-12 text-center text-[13px] font-normal text-fog">
           Loading stations...
         </div>
       ) : (

@@ -22,6 +22,9 @@ interface StationFiltersProps {
   className?: string;
 }
 
+const selectClass =
+  "h-auto appearance-none rounded-inputs border border-white/[0.08] bg-white/[0.02] px-3.5 py-2.5 text-[13px] font-normal text-mist outline-none transition-colors focus:border-mist";
+
 export function StationFilters({
   states,
   genres,
@@ -78,21 +81,21 @@ export function StationFilters({
     filters.favouritesOnly;
 
   return (
-    <div className={cn("space-y-3", className)}>
+    <div className={cn("space-y-2", className)}>
       <div className="flex flex-wrap items-center gap-2">
-        <div className="relative flex-1 min-w-[140px] max-w-[220px]">
-          <Search className="absolute left-2.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+        <div className="relative min-w-[160px] max-w-[240px] flex-1">
+          <Search className="absolute left-3 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-fog" />
           <Input
             placeholder="Search stations..."
             value={searchInput}
             onChange={(e) => setSearchInput(e.target.value)}
-            className="pl-8 h-9"
+            className="py-2.5 pl-9"
           />
         </div>
         <select
           value={filters.state}
           onChange={(e) => updateParams({ state: e.target.value })}
-          className="h-9 rounded-lg border border-input bg-transparent px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
+          className={selectClass}
         >
           <option value="">All locations</option>
           {locationGroups.length > 0
@@ -114,7 +117,7 @@ export function StationFilters({
         <select
           value={filters.genre}
           onChange={(e) => updateParams({ genre: e.target.value })}
-          className="h-9 rounded-lg border border-input bg-transparent px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
+          className={selectClass}
         >
           <option value="">All genres</option>
           {genreGroups.length > 0
@@ -133,36 +136,33 @@ export function StationFilters({
                 </option>
               ))}
         </select>
-        <label className="flex items-center gap-2 h-9 px-3 rounded-lg border border-input cursor-pointer hover:bg-muted/50">
+        <label className="flex h-auto cursor-pointer items-center gap-2 rounded-inputs border border-white/[0.08] bg-white/[0.02] px-3.5 py-2.5 hover:bg-white/[0.04]">
           <input
             type="checkbox"
             checked={filters.favouritesOnly}
             onChange={(e) =>
               updateParams({ favouritesOnly: e.target.checked })
             }
-            className="rounded border-input"
+            className="size-3.5 rounded-sm border-graphite accent-acid-lime"
           />
-          <span className="text-sm whitespace-nowrap">Favourites only</span>
+          <span className="whitespace-nowrap text-[13px] font-normal text-mist">
+            Favourites only
+          </span>
         </label>
-        <label className="flex items-center gap-2 h-9 px-3 rounded-lg border border-input cursor-pointer hover:bg-muted/50">
+        <label className="flex h-auto cursor-pointer items-center gap-2 rounded-inputs border border-white/[0.08] bg-white/[0.02] px-3.5 py-2.5 hover:bg-white/[0.04]">
           <input
             type="checkbox"
             checked={filters.indigenous}
-            onChange={(e) =>
-              updateParams({ indigenous: e.target.checked })
-            }
-            className="rounded border-input"
+            onChange={(e) => updateParams({ indigenous: e.target.checked })}
+            className="size-3.5 rounded-sm border-graphite accent-acid-lime"
           />
-          <span className="text-sm whitespace-nowrap">First Nations</span>
+          <span className="whitespace-nowrap text-[13px] font-normal text-mist">
+            First Nations
+          </span>
         </label>
         {hasFilters && (
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={clearFilters}
-            className="h-9 text-muted-foreground hover:text-foreground"
-          >
-            <X className="h-4 w-4 mr-1" />
+          <Button variant="ghost" size="sm" onClick={clearFilters}>
+            <X className="mr-1 h-3.5 w-3.5" />
             Clear
           </Button>
         )}

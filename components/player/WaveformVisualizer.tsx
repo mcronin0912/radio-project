@@ -7,11 +7,11 @@ const BAR_COUNT = 48;
 const BAR_GAP = 2;
 const MIN_BAR_HEIGHT = 2;
 const HALF = BAR_COUNT / 2;
-/** Matches Live indicator green `#49de80`. */
-const LIVE_GREEN = { r: 73, g: 222, b: 128 };
+/** Waveform uses Mist (#d0d6e0) — monochrome chrome; acid-lime is reserved for CTAs. */
+const WAVE_COLOR = { r: 208, g: 214, b: 224 };
 
-function liveGreen(alpha: number): string {
-  return `rgba(${LIVE_GREEN.r}, ${LIVE_GREEN.g}, ${LIVE_GREEN.b}, ${alpha})`;
+function waveColor(alpha: number): string {
+  return `rgba(${WAVE_COLOR.r}, ${WAVE_COLOR.g}, ${WAVE_COLOR.b}, ${alpha})`;
 }
 
 function mirrorIndex(i: number): number {
@@ -84,7 +84,7 @@ export function WaveformVisualizer() {
 function drawIdleBars(ctx: CanvasRenderingContext2D, w: number, h: number) {
   const barWidth = (w - BAR_GAP * (BAR_COUNT - 1)) / BAR_COUNT;
   const midY = h / 2;
-  ctx.fillStyle = liveGreen(0.25);
+  ctx.fillStyle = waveColor(0.25);
   for (let i = 0; i < BAR_COUNT; i++) {
     const x = i * (barWidth + BAR_GAP);
     ctx.beginPath();
@@ -114,7 +114,7 @@ function drawRealBars(
   for (let i = 0; i < BAR_COUNT; i++) {
     const avg = values[mirrorIndex(i)];
     const barH = Math.max(MIN_BAR_HEIGHT, avg * h * 0.9);
-    ctx.fillStyle = liveGreen(0.55 + avg * 0.45);
+    ctx.fillStyle = waveColor(0.55 + avg * 0.45);
     const x = i * (barWidth + BAR_GAP);
     ctx.beginPath();
     ctx.roundRect(x, midY - barH / 2, barWidth, barH, barWidth / 2);
@@ -149,7 +149,7 @@ function drawSimBars(
   for (let i = 0; i < BAR_COUNT; i++) {
     const val = Math.max(0, Math.min(1, bars[mirrorIndex(i)]));
     const barH = Math.max(MIN_BAR_HEIGHT, val * h * 0.85);
-    ctx.fillStyle = liveGreen(0.45 + val * 0.55);
+    ctx.fillStyle = waveColor(0.45 + val * 0.55);
     const x = i * (barWidth + BAR_GAP);
     ctx.beginPath();
     ctx.roundRect(x, midY - barH / 2, barWidth, barH, barWidth / 2);
