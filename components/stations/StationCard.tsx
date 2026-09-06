@@ -22,13 +22,13 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
     <Card
       className={cn(
         "overflow-hidden transition-all hover:shadow-md",
-        isCurrentStation && "ring-2 ring-primary"
+        isCurrentStation && "ring-2 !ring-neutral-900 dark:!ring-white"
       )}
     >
       <CardHeader className="pb-2">
         <div className="flex items-start justify-between gap-2">
           <div className="flex min-w-0 flex-1 items-start gap-3">
-            <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-muted">
+            <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-white">
               {station.logoUrl ? (
                 <Image
                   src={station.logoUrl}
@@ -92,7 +92,7 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
           </button>
           {isCurrentStation && isPlaying && (
             <div className="flex shrink-0 items-center gap-1.5 text-sm text-muted-foreground">
-              <span className="h-2 w-2 animate-pulse rounded-full bg-green-500" />
+              <span className="h-2 w-2 animate-pulse rounded-full bg-[#49de80]" />
               <span>Live</span>
             </div>
           )}

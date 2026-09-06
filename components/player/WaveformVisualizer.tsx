@@ -7,6 +7,12 @@ const BAR_COUNT = 48;
 const BAR_GAP = 2;
 const MIN_BAR_HEIGHT = 2;
 const HALF = BAR_COUNT / 2;
+/** Matches Live indicator green `#49de80`. */
+const LIVE_GREEN = { r: 73, g: 222, b: 128 };
+
+function liveGreen(alpha: number): string {
+  return `rgba(${LIVE_GREEN.r}, ${LIVE_GREEN.g}, ${LIVE_GREEN.b}, ${alpha})`;
+}
 
 function mirrorIndex(i: number): number {
   return i < HALF ? HALF - 1 - i : i - HALF;
@@ -78,7 +84,7 @@ export function WaveformVisualizer() {
 function drawIdleBars(ctx: CanvasRenderingContext2D, w: number, h: number) {
   const barWidth = (w - BAR_GAP * (BAR_COUNT - 1)) / BAR_COUNT;
   const midY = h / 2;
-  ctx.fillStyle = "rgba(255, 255, 255, 0.15)";
+  ctx.fillStyle = liveGreen(0.25);
   for (let i = 0; i < BAR_COUNT; i++) {
     const x = i * (barWidth + BAR_GAP);
     ctx.beginPath();
@@ -108,8 +114,7 @@ function drawRealBars(
   for (let i = 0; i < BAR_COUNT; i++) {
     const avg = values[mirrorIndex(i)];
     const barH = Math.max(MIN_BAR_HEIGHT, avg * h * 0.9);
-    const hue = 142 + avg * 40;
-    ctx.fillStyle = `hsla(${hue}, 70%, 55%, ${0.5 + avg * 0.5})`;
+    ctx.fillStyle = liveGreen(0.55 + avg * 0.45);
     const x = i * (barWidth + BAR_GAP);
     ctx.beginPath();
     ctx.roundRect(x, midY - barH / 2, barWidth, barH, barWidth / 2);
@@ -144,8 +149,7 @@ function drawSimBars(
   for (let i = 0; i < BAR_COUNT; i++) {
     const val = Math.max(0, Math.min(1, bars[mirrorIndex(i)]));
     const barH = Math.max(MIN_BAR_HEIGHT, val * h * 0.85);
-    const hue = 142 + val * 40;
-    ctx.fillStyle = `hsla(${hue}, 70%, 55%, ${0.4 + val * 0.5})`;
+    ctx.fillStyle = liveGreen(0.45 + val * 0.55);
     const x = i * (barWidth + BAR_GAP);
     ctx.beginPath();
     ctx.roundRect(x, midY - barH / 2, barWidth, barH, barWidth / 2);

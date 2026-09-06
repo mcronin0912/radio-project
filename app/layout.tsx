@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { PlayerProvider } from "@/lib/player-context";
 import { FavouritesProvider } from "@/lib/favourites-context";
+import { ThemeProvider, THEME_INIT_SCRIPT } from "@/lib/theme";
 import { PlayerBar } from "@/components/player/PlayerBar";
 import { PWARegister } from "@/components/PWARegister";
 
@@ -31,7 +32,10 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0a0a0a",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: dark)", color: "#0a0a0a" },
+  ],
 };
 
 export default function RootLayout({
@@ -40,8 +44,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={inter.variable} suppressHydrationWarning>
       <head>
+        <script dangerouslySetInnerHTML={{ __html: THEME_INIT_SCRIPT }} />
         {BASE ? (
           <meta
             httpEquiv="Content-Security-Policy"
@@ -49,13 +54,15 @@ export default function RootLayout({
           />
         ) : null}
       </head>
-      <body className="font-sans antialiased pb-20">
-        <PlayerProvider>
-          <FavouritesProvider>
-            {children}
-            <PlayerBar />
-          </FavouritesProvider>
-        </PlayerProvider>
+      <body className="bg-background font-sans text-foreground antialiased pb-20">
+        <ThemeProvider>
+          <PlayerProvider>
+            <FavouritesProvider>
+              {children}
+              <PlayerBar />
+            </FavouritesProvider>
+          </PlayerProvider>
+        </ThemeProvider>
         <PWARegister />
       </body>
     </html>

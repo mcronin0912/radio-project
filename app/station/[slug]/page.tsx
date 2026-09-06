@@ -5,6 +5,7 @@ import { getStationBySlug, getStations } from "@/lib/stations";
 import { ExternalLink, Radio } from "lucide-react";
 import { LiveIndicator } from "@/components/stations/LiveIndicator";
 import { PlayButton } from "@/components/stations/PlayButton";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 export function generateStaticParams() {
   return getStations().map((s) => ({ slug: s.slug }));
@@ -33,15 +34,18 @@ export default async function StationPage({ params }: PageProps) {
 
   return (
     <main className="container mx-auto px-4 py-8 pb-24">
-      <Link
-        href="/"
-        className="mb-6 inline-block text-sm text-muted-foreground hover:text-foreground"
-      >
-        ← Back to directory
-      </Link>
+      <div className="mb-6 flex items-center justify-between gap-4">
+        <Link
+          href="/"
+          className="inline-block text-sm text-muted-foreground hover:text-foreground"
+        >
+          ← Back to directory
+        </Link>
+        <ThemeToggle />
+      </div>
 
       <header className="mb-8 flex flex-col gap-6 sm:flex-row sm:items-start">
-        <div className="flex h-24 w-24 shrink-0 items-center justify-center rounded-xl bg-muted">
+        <div className="flex h-24 w-24 shrink-0 items-center justify-center rounded-xl bg-white">
           {station.logoUrl ? (
             <Image
               src={station.logoUrl}

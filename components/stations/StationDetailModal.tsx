@@ -34,7 +34,7 @@ export function StationDetailModal({ station, onClose }: StationDetailModalProps
         </Button>
 
         <header className="mb-8 flex flex-col gap-6 sm:flex-row sm:items-start">
-          <div className="flex h-24 w-24 shrink-0 items-center justify-center rounded-xl bg-muted">
+          <div className="flex h-24 w-24 shrink-0 items-center justify-center rounded-xl bg-white">
             {station.logoUrl ? (
               <Image
                 src={station.logoUrl}

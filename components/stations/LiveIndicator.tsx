@@ -15,7 +15,7 @@ export function LiveIndicator({ station }: LiveIndicatorProps) {
 
   return (
     <div className="flex shrink-0 items-center gap-1.5 text-sm text-muted-foreground">
-      <span className="h-2 w-2 animate-pulse rounded-full bg-green-500" />
+      <span className="h-2 w-2 animate-pulse rounded-full bg-[#49de80]" />
       <span>Live</span>
     </div>
   );

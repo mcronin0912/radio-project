@@ -2,6 +2,7 @@ import { Suspense } from "react";
 import Image from "next/image";
 import { getFilterOptions } from "@/lib/stations";
 import { HomePageClient } from "@/components/HomePageClient";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 export const metadata = {
   title: "Radio Project",
@@ -35,6 +36,9 @@ export default function HomePage() {
               Discover and listen to Australian commercial and community radio
               stations
             </p>
+          </div>
+          <div className="shrink-0 pt-1">
+            <ThemeToggle />
           </div>
         </div>
       </header>
