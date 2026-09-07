@@ -437,12 +437,18 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     if (!station || typeof navigator === "undefined" || !("mediaSession" in navigator)) return;
     const origin = typeof window !== "undefined" ? window.location.origin : "";
+    // Cache-bust: macOS/iOS Media Session caches artwork by URL aggressively.
     const artwork =
       origin.length > 0
         ? [
             {
-              src: `${origin}/apple-touch-icon.png`,
+              src: `${origin}/apple-touch-icon.png?v=20260907`,
               sizes: "180x180",
+              type: "image/png",
+            },
+            {
+              src: `${origin}/icon-512.png?v=20260907`,
+              sizes: "512x512",
               type: "image/png",
             },
           ]

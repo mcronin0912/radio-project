@@ -1,5 +1,5 @@
 // Bump this string when you need clients to drop cached static assets (icons, etc.).
-const CACHE = "radio-hub-v3";
+const CACHE = "radio-hub-v4";
 
 self.addEventListener("install", (e) => {
   self.skipWaiting();

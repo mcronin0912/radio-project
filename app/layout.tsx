@@ -34,11 +34,11 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: `${BASE}/icon-192.png`, sizes: "192x192", type: "image/png" },
-      { url: `${BASE}/icon-512.png`, sizes: "512x512", type: "image/png" },
+      { url: `${BASE}/icon-192.png?v=20260907`, sizes: "192x192", type: "image/png" },
+      { url: `${BASE}/icon-512.png?v=20260907`, sizes: "512x512", type: "image/png" },
     ],
     apple: [
-      { url: `${BASE}/apple-touch-icon.png`, sizes: "180x180", type: "image/png" },
+      { url: `${BASE}/apple-touch-icon.png?v=20260907`, sizes: "180x180", type: "image/png" },
     ],
   },
 };
