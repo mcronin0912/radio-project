@@ -6,6 +6,17 @@
   .text-balance {
     text-wrap: balance;
   }
+
+  /* Electron window drag (hiddenInset title bar) */
+  .desktop-drag-region {
+    -webkit-app-region: drag;
+    app-region: drag;
+  }
+
+  .desktop-no-drag {
+    -webkit-app-region: no-drag;
+    app-region: no-drag;
+  }
 }
 
 @layer base {

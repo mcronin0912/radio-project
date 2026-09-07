@@ -8,33 +8,16 @@ import React, {
   useRef,
   useEffect,
 } from "react";
+import Hls from "hls.js";
 import type { Station } from "@/lib/stations";
 import { SafariAudioAnalyser } from "@/lib/safari-audio-analyser";
+import { isHlsUrl, streamPlaybackUrl } from "@/lib/stream-url";
 
 const STORAGE_KEY = "community-radio-player";
 
 function isSafari() {
   if (typeof navigator === "undefined") return false;
   return /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-}
-
-/**
- * Stream playback URL:
- * - Local/dev (no basePath): same-origin `/api/stream` so HTTP-only upstreams work (no mixed content).
- * - Static export (GitHub Pages, basePath set): no API route — use optional `NEXT_PUBLIC_STREAM_PROXY_URL`
- *   (HTTPS proxy that mirrors `app/api/stream`) or fall back to the raw URL (needs HTTPS or CSP upgrade).
- */
-function streamPlaybackUrl(streamUrl: string): string {
-  const encoded = encodeURIComponent(streamUrl);
-  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
-  const external = process.env.NEXT_PUBLIC_STREAM_PROXY_URL?.trim().replace(/\/$/, "");
-  if (external) {
-    return `${external}?url=${encoded}`;
-  }
-  if (basePath) {
-    return streamUrl;
-  }
-  return `/api/stream?url=${encoded}`;
 }
 
 function persistStation(s: Station | null, playing: boolean) {
@@ -114,11 +97,71 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const audioCtxRef = useRef<AudioContext | null>(null);
   const connectedRef = useRef(false);
   const safariRef = useRef<SafariAudioAnalyser | null>(null);
+  const hlsRef = useRef<Hls | null>(null);
   const intendedPlayingRef = useRef(false);
   const reconnectTimeoutRef = useRef<number | null>(null);
   const reconnectAttemptRef = useRef(0);
   const volumeRef = useRef(1);
   const scheduleReconnectRef = useRef<(() => void) | null>(null);
+
+  const destroyHls = useCallback(() => {
+    if (hlsRef.current) {
+      hlsRef.current.destroy();
+      hlsRef.current = null;
+    }
+  }, []);
+
+  const attachSource = useCallback(
+    (
+      audio: HTMLAudioElement,
+      streamUrl: string,
+      onPlayFailed: (err: unknown) => void
+    ) => {
+      const url = streamPlaybackUrl(streamUrl);
+      destroyHls();
+      safariRef.current?.stop();
+
+      if (isHlsUrl(streamUrl)) {
+        if (Hls.isSupported()) {
+          const hls = new Hls({
+            enableWorker: true,
+            lowLatencyMode: true,
+          });
+          hlsRef.current = hls;
+          hls.loadSource(url);
+          hls.attachMedia(audio);
+          hls.on(Hls.Events.MANIFEST_PARSED, () => {
+            void audio.play().catch(onPlayFailed);
+          });
+          hls.on(Hls.Events.ERROR, (_event, data) => {
+            if (!data.fatal) return;
+            if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
+              hls.startLoad();
+              return;
+            }
+            if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
+              hls.recoverMediaError();
+              return;
+            }
+            onPlayFailed(data);
+          });
+          return { mode: "hls" as const, url };
+        }
+        if (audio.canPlayType("application/vnd.apple.mpegurl")) {
+          audio.src = url;
+          void audio.play().catch(onPlayFailed);
+          return { mode: "native-hls" as const, url };
+        }
+        onPlayFailed(new Error("HLS not supported"));
+        return { mode: "unsupported" as const, url };
+      }
+
+      audio.src = url;
+      void audio.play().catch(onPlayFailed);
+      return { mode: "progressive" as const, url };
+    },
+    [destroyHls]
+  );
 
   useEffect(() => {
     volumeRef.current = volume;
@@ -176,9 +219,6 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     const audio = audioRef.current;
     if (audio) {
       ensureAudioContext();
-
-      const proxied = streamPlaybackUrl(s.streamUrl);
-      audio.src = proxied;
       audio.volume = volume;
 
       const onPlayFailed = (err: unknown) => {
@@ -193,24 +233,21 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         persistStation(s, false);
       };
 
-      if (isSafari()) {
+      const { mode } = attachSource(audio, s.streamUrl, onPlayFailed);
+
+      if (mode === "progressive" && isSafari()) {
         // Safari: createMediaElementSource is broken for streams.
         // Use fetch + decodeAudioData via the proxy instead.
-        safariRef.current?.stop();
+        // (HLS uses native playback — skip the fetch analyser.)
         const sa = new SafariAudioAnalyser(audioCtxRef.current!);
         safariRef.current = sa;
         setAnalyser(sa.getAnalyser());
-        // SafariAudioAnalyser.start runs from the audio "play" event so lock screen / Control Center
-        // resume stays in sync with the waveform tap.
-        audio.play().catch(onPlayFailed);
-      } else {
-        // Chrome/Firefox: createMediaElementSource works fine
+      } else if (!isSafari() && mode !== "unsupported") {
         connectChromeAnalyser();
-        audio.play().catch(onPlayFailed);
       }
       setIsPlaying(true);
     }
-  }, [volume, ensureAudioContext, connectChromeAnalyser, clearReconnectTimer]);
+  }, [volume, ensureAudioContext, connectChromeAnalyser, clearReconnectTimer, attachSource]);
 
   const stationRef = useRef<Station | null>(null);
   stationRef.current = station;
@@ -222,9 +259,10 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     setIsReconnecting(false);
     audioRef.current?.pause();
     safariRef.current?.stop();
+    destroyHls();
     setIsPlaying(false);
     if (stationRef.current) persistStation(stationRef.current, false);
-  }, [clearReconnectTimer]);
+  }, [clearReconnectTimer, destroyHls]);
 
   const setVolume = useCallback((v: number) => {
     const val = Math.max(0, Math.min(1, v));
@@ -245,7 +283,10 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     setStation(saved);
     const audio = audioRef.current;
     if (audio) {
-      audio.src = streamPlaybackUrl(saved.streamUrl);
+      // Don't autoplay on restore — only set metadata / prepare progressive src.
+      if (!isHlsUrl(saved.streamUrl)) {
+        audio.src = streamPlaybackUrl(saved.streamUrl);
+      }
       audio.volume = 1;
       setIsPlaying(false);
     }
@@ -276,28 +317,19 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
         const st = stationRef.current;
         if (!st.streamUrl) return;
-        const base = streamPlaybackUrl(st.streamUrl);
-        const hashIdx = base.indexOf("#");
-        const proxied =
-          hashIdx >= 0
-            ? `${base.slice(0, hashIdx)}#r=${Date.now()}`
-            : `${base}#r=${Date.now()}`;
 
-        safariRef.current?.stop();
+        const onPlayFailed = () => {
+          if (intendedPlayingRef.current) scheduleReconnect();
+        };
+
         try {
           el.pause();
-          el.src = proxied;
           el.volume = volumeRef.current;
-          el.load();
+          attachSource(el, st.streamUrl, onPlayFailed);
         } catch (e) {
           console.warn("Stream reconnect load failed:", e);
           scheduleReconnect();
-          return;
         }
-
-        void el.play().catch(() => {
-          if (intendedPlayingRef.current) scheduleReconnect();
-        });
       }, delay);
     };
 
@@ -333,7 +365,8 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         }
       }
       void audioCtxRef.current?.resume();
-      if (isSafari() && audioCtxRef.current) {
+      const streamUrl = stationRef.current?.streamUrl;
+      if (isSafari() && audioCtxRef.current && streamUrl && !isHlsUrl(streamUrl)) {
         const url = audio.currentSrc || audio.src;
         if (!url) return;
         if (!safariRef.current) {
@@ -369,12 +402,13 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     return () => {
       scheduleReconnectRef.current = null;
       clearReconnectTimer();
+      destroyHls();
       audio.removeEventListener("error", onError);
       audio.removeEventListener("ended", onEnded);
       audio.removeEventListener("play", onPlay);
       audio.removeEventListener("pause", onPause);
     };
-  }, [clearReconnectTimer]);
+  }, [clearReconnectTimer, attachSource, destroyHls]);
 
   useEffect(() => {
     if (typeof navigator === "undefined" || !("mediaSession" in navigator)) return;

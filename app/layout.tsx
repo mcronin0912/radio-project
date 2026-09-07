@@ -5,6 +5,7 @@ import { PlayerProvider } from "@/lib/player-context";
 import { FavouritesProvider } from "@/lib/favourites-context";
 import { PlayerBar } from "@/components/player/PlayerBar";
 import { PWARegister } from "@/components/PWARegister";
+import { DesktopDragRegion } from "@/components/DesktopDragRegion";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -70,6 +71,7 @@ export default function RootLayout({
           IS_DESKTOP ? " pt-[52px]" : ""
         }`}
       >
+        {IS_DESKTOP ? <DesktopDragRegion /> : null}
         <PlayerProvider>
           <FavouritesProvider>
             {children}
