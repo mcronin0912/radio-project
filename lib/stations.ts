@@ -5,6 +5,9 @@
  */
 
 import stationsData from "../stations-from-api.json";
+import stationsContent from "../stations-content.json";
+import curatedStationsSeed from "../stations.json";
+import longTailStationsContent from "../stations-content-longtail.json";
 
 export interface Station {
   id: string;
@@ -83,6 +86,108 @@ export function getStations(): Station[] {
 
 export function getStationBySlug(slug: string): Station | undefined {
   return getStations().find((s) => s.slug === slug);
+}
+
+interface StationContentEntry {
+  about: string;
+  founded?: number | null;
+  sources: string[];
+}
+
+interface NetworkContentEntry extends StationContentEntry {
+  name: string;
+  operator?: string;
+  matchesWebsiteContains: string[];
+}
+
+interface OtherStationContentEntry extends StationContentEntry {
+  name: string;
+  callsign?: string;
+  city?: string;
+  state?: string;
+  matchesWebsiteContains: string[];
+}
+
+interface StationsContentFile {
+  networks: Record<string, NetworkContentEntry>;
+  otherStations: Record<string, OtherStationContentEntry>;
+  stations: Record<string, StationContentEntry>;
+}
+
+const content = stationsContent as StationsContentFile;
+
+function hostnameOf(url: string | null | undefined): string | null {
+  if (!url) return null;
+  try {
+    return new URL(url).hostname.replace(/^www\./, "").toLowerCase();
+  } catch {
+    return null;
+  }
+}
+
+// stations.json (curated, individually-researched content) uses its own slugs,
+// which don't match the Radio Browser API slugs used by the live station
+// list — so curated content is joined to live stations by website hostname
+// instead of by slug.
+const curatedContentByHostname = new Map<string, StationContentEntry>();
+for (const seed of curatedStationsSeed as { slug: string; website?: string | null }[]) {
+  const entry = content.stations[seed.slug];
+  const hostname = hostnameOf(seed.website);
+  if (entry && hostname) {
+    curatedContentByHostname.set(hostname, entry);
+  }
+}
+for (const [hostname, entry] of Object.entries(
+  longTailStationsContent as Record<string, StationContentEntry>
+)) {
+  curatedContentByHostname.set(hostname, entry);
+}
+
+export interface StationContent {
+  about: string;
+  founded: number | null;
+  sources: string[];
+  attribution: string | null;
+}
+
+export function getStationContent(station: Station): StationContent | null {
+  const hostname = hostnameOf(station.website);
+  const own = hostname ? curatedContentByHostname.get(hostname) : undefined;
+  if (own) {
+    return {
+      about: own.about,
+      founded: own.founded ?? null,
+      sources: own.sources,
+      attribution: null,
+    };
+  }
+
+  const website = station.website?.toLowerCase() ?? "";
+  if (website) {
+    for (const other of Object.values(content.otherStations)) {
+      if (other.matchesWebsiteContains.some((d) => website.includes(d))) {
+        return {
+          about: other.about,
+          founded: other.founded ?? null,
+          sources: other.sources,
+          attribution: null,
+        };
+      }
+    }
+
+    for (const network of Object.values(content.networks)) {
+      if (network.matchesWebsiteContains.some((d) => website.includes(d))) {
+        return {
+          about: network.about,
+          founded: network.founded ?? null,
+          sources: network.sources,
+          attribution: network.name,
+        };
+      }
+    }
+  }
+
+  return null;
 }
 
 export function getStationById(id: string): Station | undefined {

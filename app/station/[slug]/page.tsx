@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { getStationBySlug, getStations } from "@/lib/stations";
+import { getStationBySlug, getStationContent, getStations } from "@/lib/stations";
 import { ExternalLink, Radio } from "lucide-react";
 import { LiveIndicator } from "@/components/stations/LiveIndicator";
 import { PlayButton } from "@/components/stations/PlayButton";
@@ -32,6 +32,8 @@ export default async function StationPage({ params }: PageProps) {
   const station = getStationBySlug(slug);
 
   if (!station) notFound();
+
+  const content = getStationContent(station);
 
   return (
     <main className="mx-auto max-w-page px-4 py-8 pb-32 sm:px-6">
@@ -104,7 +106,44 @@ export default async function StationPage({ params }: PageProps) {
         </div>
       </header>
 
-      <section className="mt-12 rounded-cards border border-dashed border-graphite bg-carbon/50 p-8 text-center text-[13px] font-normal text-fog">
+      {content && (
+        <section className="mt-12 rounded-cards border border-graphite bg-carbon/50 p-6 sm:p-8">
+          <h2 className="text-[13px] font-medium uppercase tracking-[0.04em] text-fog">
+            About
+          </h2>
+          {content.attribution && (
+            <p className="mt-1 text-[12px] font-normal text-ash">
+              {station.name} is part of the {content.attribution}
+            </p>
+          )}
+          {content.founded && (
+            <p className="mt-3 text-[13px] font-normal text-fog">
+              Est. {content.founded}
+            </p>
+          )}
+          <p className="mt-2 text-[15px] font-normal leading-[1.6] text-mist">
+            {content.about}
+          </p>
+          {content.sources.length > 0 && (
+            <div className="mt-4 flex flex-wrap gap-x-3 gap-y-1 border-t border-graphite pt-3 text-[12px] font-normal text-ash">
+              <span>Sources:</span>
+              {content.sources.map((src) => (
+                <a
+                  key={src}
+                  href={src}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline decoration-graphite underline-offset-2 hover:text-fog"
+                >
+                  {new URL(src).hostname.replace(/^www\./, "")}
+                </a>
+              ))}
+            </div>
+          )}
+        </section>
+      )}
+
+      <section className="mt-8 rounded-cards border border-dashed border-graphite bg-carbon/50 p-8 text-center text-[13px] font-normal text-fog">
         Now Playing and playlist history will appear here when we add the
         database and metadata polling (Phase 2).
       </section>

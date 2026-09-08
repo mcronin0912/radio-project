@@ -1,0 +1,336 @@
+{
+  "networks": {
+    "australian-digital-radio-network": {
+      "name": "Australian Digital Radio Network",
+      "operator": "Unidentified independent internet-radio operator (no corporate entity named on-site)",
+      "about": "Despite its name, this is not part of Australia's terrestrial DAB+ digital radio rollout or a physical broadcast network — it is an internet-only streaming platform offering city-branded feeds (Radio Sydney, Radio Melbourne, Radio Perth, Radio Adelaide, Radio Canberra, Radio Hobart, Radio Darwin, Radio Brisbane) plus genre and decade-themed channels such as 1930s, 1950s Pop Charting, and Classical FM. The site's marketing focuses on coverage and audio-quality claims rather than any operating history, and does not publicly name a company behind it beyond a generic contact address. The large number of near-identical decade/genre entries in station directories reflects one small internet-radio operation running many niche simultaneous streams, not dozens of separate broadcasters.",
+      "matchesWebsiteContains": ["australiandigitalradio.com"],
+      "sources": ["https://australiandigitalradio.com/"]
+    },
+    "listnr": {
+      "name": "LiSTNR",
+      "operator": "Southern Cross Austereo (SCA)",
+      "about": "LiSTNR is Southern Cross Austereo's all-in-one audio app and streaming platform, launched in February 2021 to bring SCA's radio livestreams, podcasts, digital-only music channels and news under a single brand, replacing the earlier PodcastOne Australia branding. It carries live streams of SCA's on-air networks (Triple M, hit) alongside standalone digital music channels such as Good Vibes and Indie + Alt. SCA reports LiSTNR has more than 2.25 million registered users and over 10 million monthly listeners.",
+      "matchesWebsiteContains": ["play.listnr.com", "listnr.com"],
+      "sources": [
+        "https://radiotoday.com.au/sca-launches-listnr/",
+        "https://www.radioworld.com/news-and-business/making-the-case-for-listnr-the-australian-listening-platform"
+      ]
+    },
+    "abc-local-radio": {
+      "name": "ABC Local Radio",
+      "operator": "Australian Broadcasting Corporation (ABC)",
+      "about": "ABC Local Radio is the ABC's network of publicly funded stations — 8 metropolitan and 45 regional stations (53 in total) — distinct from the ABC's national networks (Radio National, ABC Classic, ABC NewsRadio and Triple J). Programming blends local news, current affairs and talkback with some nationally networked segments outside local hours. It descends from the ABC's original national broadcasting service established in 1932, with the present Local Radio structure taking shape between the 1980s and 2000s.",
+      "matchesWebsiteContains": ["abc.net.au", "radio.abc.net.au"],
+      "sources": ["https://en.wikipedia.org/wiki/ABC_Local_Radio"]
+    },
+    "hit-network": {
+      "name": "hit Network",
+      "operator": "Southern Cross Austereo (SCA)",
+      "about": "The hit Network is SCA's commercial FM network of 41 metro and regional stations (plus 6 digital-only stations) playing a hot adult contemporary format, including flagship stations 2Day FM (Sydney), Fox FM (Melbourne), B105 (Brisbane) and SAFM (Adelaide). It traces back to the Austereo Network founded in 1986, went through Today Network branding, and was rebranded 'hit' in December 2015 with a further on-air relaunch in 2020. Correction to a common assumption: hit is owned by Southern Cross Austereo, not the Australian Radio Network (ARN).",
+      "matchesWebsiteContains": ["hit.com.au"],
+      "sources": ["https://en.wikipedia.org/wiki/Today_Network"]
+    },
+    "nova-fm": {
+      "name": "Nova FM",
+      "operator": "Nova Entertainment (Illyria Pty Ltd / Lachlan Murdoch)",
+      "about": "Nova is a commercial FM network owned by Nova Entertainment, broadcasting as Nova 96.9 (Sydney), Nova 100 (Melbourne), Nova 106.9 (Brisbane), Nova 919 (Adelaide) and Nova 93.7 (Perth, a joint venture with ARN), with syndication to roughly 46 regional stations. The company began in 1996 as DMG Radio Australia and was renamed Nova Entertainment in 2014 after Lachlan Murdoch's Illyria took full ownership in 2012. It describes itself as Australia's most-listened-to metro commercial network, reaching more than 3.6 million listeners weekly.",
+      "matchesWebsiteContains": ["novafm.com.au"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nova_Entertainment",
+        "https://en.wikipedia.org/wiki/Nova_(radio_network)"
+      ]
+    },
+    "smooth-fm": {
+      "name": "smoothfm",
+      "operator": "Nova Entertainment",
+      "about": "smoothfm is Nova Entertainment's adult-contemporary/easy-listening network, relaunched in Sydney and Melbourne in 2012 on frequencies previously used for Vega and Classic Rock, then extended with live local content to Brisbane, Adelaide and Perth in September 2022. It reaches more than 2.6 million metro listeners and has used celebrity 'brand faces' including Michael Bublé, Sam Smith and Robbie Williams. Correction to a common assumption: smoothfm is owned by Nova Entertainment, not ARN.",
+      "matchesWebsiteContains": ["smooth.com.au"],
+      "sources": ["https://en.wikipedia.org/wiki/Smoothfm"]
+    },
+    "rebel-fm-network": {
+      "name": "Rebel FM",
+      "operator": "Rebel Media Group (Rebel FM Stereo Pty Ltd)",
+      "about": "Rebel FM is a regional active-rock network based on the Gold Coast (flagship call sign 4RBL, launched as SUN FM in 1996 and rebranded in 2003), with repeater transmitters across regional and rural Queensland and northern New South Wales. Correction to the assumption behind this entry: Rebel FM is owned and operated by Rebel Media Group together with its sister soft-AC network The Breeze — it is not part of ACE Radio Broadcasters, a separate company whose Victorian/southern-NSW regional brands are Coast FM, Star FM, Mixx FM, Edge FM and TRFM.",
+      "matchesWebsiteContains": ["rebelfm.com.au"],
+      "sources": ["https://en.wikipedia.org/wiki/Rebel_FM"]
+    },
+    "the-breeze-network": {
+      "name": "The Breeze",
+      "operator": "Rebel Media Group (Rebel FM Stereo Pty Ltd)",
+      "about": "The Breeze is Rebel Media Group's soft adult-contemporary and classic-hits regional network (flagship call sign 4BRZ, launched 31 January 2003), running roughly 20 FM transmitters across regional Queensland and northern New South Wales, from the Gold Coast to remote centres such as Weipa and Cooktown. It shares ownership and management with sister network Rebel FM. Correction to the assumption behind this entry: it is not operated by ACE Radio Broadcasters.",
+      "matchesWebsiteContains": ["thebreeze.com.au"],
+      "sources": ["https://en.wikipedia.org/wiki/The_Breeze_(Australia)"]
+    },
+    "iheartradio-australia": {
+      "name": "iHeartRadio Australia",
+      "operator": "Australian Radio Network (ARN), under licence from iHeartMedia (US)",
+      "about": "iHeartRadio Australia is ARN's digital audio platform, launched in 2013 under licence from US-based iHeartMedia. It combines live streams from ARN, SBS, ABC, ACE and other partner stations with a large podcast library and personalised or genre-based internet radio channels, reporting over 1.34 million registered users. In 2026 ARN began adding video content to the platform as part of a broader push into video podcasting.",
+      "matchesWebsiteContains": ["iheart.com"],
+      "sources": [
+        "https://www.iheartmedia.com/press/arn-launch-leading-digital-radio-platform-iheartradio-australia-and-new-zealand",
+        "https://mumbrella.com.au/arn-launches-video-content-on-iheart-platform-in-australia-931391"
+      ]
+    },
+    "totally-radio": {
+      "name": "Totally Radio",
+      "operator": "Totally Media Pty Ltd",
+      "about": "Totally Radio is an independent, Australian-owned internet radio operator running around 15 non-stop, presenter-free music channels organised by decade and genre (60s, 70s, 80s, 90s and similar). It markets itself against talk-heavy commercial radio with a 'just the tunes' positioning. It is run by Totally Media Pty Ltd; the many decade-themed entries seen in station directories reflect this single operator's multiple simultaneous channels rather than separate broadcasters.",
+      "matchesWebsiteContains": ["totallyradio.com.au"],
+      "sources": ["https://totallyradio.com.au/About"]
+    },
+    "triple-m": {
+      "name": "Triple M",
+      "operator": "Southern Cross Austereo (SCA)",
+      "about": "Triple M is SCA's rock-leaning commercial network, launched in 1980 and expanded nationally from the 1990s, with a coordinated rebrand of numerous regional stations to the Triple M name in December 2016. Many regional affiliates carry broadcast histories under earlier call signs dating to the 1930s — for example Triple M Newcastle traces to 2KO (1931) and Triple M Bendigo to 3BO (1931).",
+      "matchesWebsiteContains": ["triplem.com.au"],
+      "sources": ["https://en.wikipedia.org/wiki/Triple_M"]
+    },
+    "coles-radio": {
+      "name": "Coles Radio",
+      "operator": "Nova Entertainment (programmed for Coles supermarkets)",
+      "about": "Coles Radio is in-store retail radio played across Coles supermarkets nationally (reported in 800+ stores), produced and programmed by Nova Entertainment out of Brisbane rather than by Coles itself. Its playlist mixes contemporary and recent-decades pop with in-store promotional messaging that varies through the day, is issued in state-based editions, and is also carried as a DAB+ digital station in Australian capital cities.",
+      "matchesWebsiteContains": ["coles.com.au"],
+      "sources": [
+        "https://mumbrella.com.au/coles-launches-coles-radio-dmg-radio-australia-202056",
+        "https://www.novaentertainment.com.au/coles-radio-brand"
+      ]
+    },
+    "vip-radio": {
+      "name": "VIP Radio",
+      "operator": "Independent internet radio operator (corporate identity not confirmed)",
+      "about": "VIP Radio is an internet-only Australian music service publishing separate state-branded channels (VIP Radio New South Wales, Queensland, Victoria, South Australia, Western Australia). Sourcing here is thin: no Wikipedia article or clearly identified parent company could be found, and the operator's own website could not be reached during research, so this entry is provisional and based only on third-party radio-directory listings.",
+      "matchesWebsiteContains": ["vipradio.com.au"],
+      "sources": [
+        "https://onlineradiobox.com/au/vipwesternaustralia/",
+        "https://liveonlineradio.net/vip-radio-south-australia"
+      ]
+    },
+    "sen": {
+      "name": "SEN (Sports Entertainment Network)",
+      "operator": "Sports Entertainment Group (formerly Pacific Star Network / Crocmedia)",
+      "about": "SEN is a national sports-talk network established in 2006 as Crocmedia by James Swanwick and Craig Hutchison, now run by Sports Entertainment Group. It operates 24-hour sports talk stations under city-specific brands: 1116 SEN Melbourne (built on the former 3AK, taken on by SEN in 2003), 1170 SEN Sydney (acquired 2020), and SENQ 693 Brisbane (relaunched from 4KQ in July 2022), alongside digital and racing-focused offshoots.",
+      "matchesWebsiteContains": ["sen.com.au"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sports_Entertainment_Network",
+        "https://en.wikipedia.org/wiki/1116_SEN"
+      ]
+    },
+    "massive-dance": {
+      "name": "Massive Dance / Massive Chill",
+      "operator": "\"Massive\" (self-described non-profit collective); no further corporate detail confirmed",
+      "about": "Massive Dance and its sister feed Massive Chill are Australian-based internet radio channels playing commercial-free house, trance, electro and dance music around the clock. The operator describes itself on its own site as a non-profit connecting DJs, producers and fans rather than a conventional broadcaster. No independent sourcing (Wikipedia, press coverage) could be found beyond the operator's own marketing material, so ownership and scale claims here should be treated as unverified.",
+      "matchesWebsiteContains": ["massivedance.com"],
+      "sources": ["https://www.massivedance.com/listen/"]
+    },
+    "all-time-hits-radio": {
+      "name": "All Time Hits Radio",
+      "operator": "Small independent/hobbyist internet radio operation (Melbourne-based)",
+      "about": "All Time Hits Radio is a small Melbourne-based internet radio operation running a handful of themed channels, including All Time Hits Radio Kids and All Time Hits Radio Opera, alongside its main hits stream. Its only public presence found during research is a Wix-hosted page and a personal Gmail contact address, with no evidence connecting it to the Australian Digital Radio Network or any other network in this list — it appears to be an independent, low-profile hobbyist channel rather than part of a larger network.",
+      "matchesWebsiteContains": ["alltimehits.com.au"],
+      "sources": ["https://djr0607.wixsite.com/athr"]
+    }
+  },
+  "otherStations": {
+    "5aa-adelaide": {
+      "name": "FIVEaa (5AA)",
+      "callsign": "5AA",
+      "city": "Adelaide",
+      "state": "SA",
+      "about": "FIVEaa is Adelaide's only commercial talkback station, launched on 14 March 1976 on 1390 AM (now 1395 AM) with an initial 'Beautiful Music' format before moving through racing coverage into full-time talk. Sold out of South Australian government ownership in 1996 to DMG Radio Australia, it passed to Lachlan Murdoch's Illyria and has been wholly owned by Nova Entertainment since 2012.",
+      "matchesWebsiteContains": ["fiveaa.com.au"],
+      "sources": ["https://en.wikipedia.org/wiki/FIVEAA"]
+    },
+    "2gb-sydney": {
+      "name": "2GB",
+      "callsign": "2GB",
+      "city": "Sydney",
+      "state": "NSW",
+      "about": "2GB is Sydney's leading commercial talk station, broadcasting on 873 kHz AM since it was founded by the Theosophical Broadcasting Station in 1926. Long the top-rated AM/FM station in its market, it is now run by Tapt Media (formerly Nine Radio and Macquarie Media), following the 2015 merger of the Macquarie Radio Network with Fairfax Media's radio interests.",
+      "matchesWebsiteContains": ["2gb.com"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/2GB",
+        "https://www.nineforbrands.com.au/media-release/2gb-873-remains-the-clear-1-in-sydney/"
+      ]
+    },
+    "star-104-5": {
+      "name": "Star 104.5",
+      "callsign": "2GOS",
+      "city": "Gosford (Central Coast)",
+      "state": "NSW",
+      "about": "Star 104.5 is a commercial FM station serving the New South Wales Central Coast, launched in 2004 after its broadcast licence sold for $13.5 million. It plays a broad music-variety format and has ranked the #1 station in its market for listeners aged 10+ in recent years. Correction to a common assumption: it is owned by Nova Entertainment, not ARN.",
+      "matchesWebsiteContains": ["star1045.com.au"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Star_104.5",
+        "https://www.mediaweek.com.au/nova-entertainment-celebrates-20-years-of-central-coast-station-star-104-5/"
+      ]
+    },
+    "k-rock-geelong": {
+      "name": "K-Rock 95.5",
+      "callsign": "3CAT",
+      "city": "Geelong",
+      "state": "VIC",
+      "about": "K-Rock is a commercial FM station in Geelong with roots back to 3GL in 1930, rebranding onto FM as 3CAT/K-Rock in 1990; it plays a mainstream Top 40 format and carries Geelong Football Club AFL commentary. It is owned by Grant Broadcasters, and following ARN's acquisition of the Grant Broadcasters network, K-Rock and sister station Bay 93.9 have continued to operate as a largely independent business within the group rather than as fully integrated ARN-branded stations.",
+      "matchesWebsiteContains": ["krock.com.au"],
+      "sources": ["https://en.wikipedia.org/wiki/K_Rock_95.5"]
+    },
+    "2cc-canberra": {
+      "name": "2CC",
+      "callsign": "2CC",
+      "city": "Canberra",
+      "state": "ACT",
+      "about": "2CC is Canberra's only commercial talkback station, broadcasting on 1206 kHz AM since launching on 31 October 1975 as the city's second commercial station. Correction to a common assumption: 2CC is jointly owned by Capital Radio Network and Grant Broadcasters (via Radio Canberra Pty Ltd) — not Nine Radio/Macquarie Radio, which owns Sydney's 2GB — and it shares a broadcast centre with sister station 2CA.",
+      "matchesWebsiteContains": ["2cc.net.au"],
+      "sources": ["https://en.wikipedia.org/wiki/2CC"]
+    },
+    "southern-fm-melbourne": {
+      "name": "Southern FM",
+      "callsign": "3SCB",
+      "city": "Melbourne (Bayside/South-East)",
+      "state": "VIC",
+      "about": "88.3 Southern FM is an independent, non-commercial community radio station based in Bentleigh East, established in 1981 by former Australian Broadcasting Control Board member Dom Iacono and former ABC engineer Jack Burgesson. It serves Melbourne's southern, south-eastern and bayside suburbs — a catchment of more than 470,000 people — with locally produced talk and specialist music programming, and is a genuinely independent community broadcaster rather than part of any commercial network.",
+      "matchesWebsiteContains": ["southernfm.com.au"],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Southern_FM",
+        "https://www.southernfm.com.au/home/"
+      ]
+    },
+    "4rr-charleville": {
+      "name": "4RR FM",
+      "callsign": "4RR",
+      "city": "Charleville",
+      "state": "QLD",
+      "about": "4RR FM is a community radio station serving Queensland's south-west, broadcasting on 105.7 FM in Charleville and 99.7 FM in Cunnamulla. It produces up to 41 hours of local live content a week, including weekday local news and regional sport coverage, and streams via the Community Radio Plus app.",
+      "matchesWebsiteContains": ["4rr.com.au"],
+      "sources": ["https://www.facebook.com/4rrfm/"]
+    }
+  },
+  "stations": {
+    "3rrr": {
+      "about": "Triple R began broadcasting in 1976 from RMIT as 3RMT before relocating to Fitzroy and adopting its current name in 1979. It runs an entirely presenter-programmed schedule with no fixed playlists, is funded by around 15,000 paying subscribers rather than commercial sponsorship, and was inducted into the Music Victoria Hall of Fame in 2016 for its role shaping Melbourne's post-punk and new wave music scenes.",
+      "founded": 1976,
+      "sources": ["https://en.wikipedia.org/wiki/Triple_R"]
+    },
+    "2ser": {
+      "about": "2SER launched on 107.3 FM on 1 October 1979, jointly established by the University of Technology Sydney and Macquarie University (Macquarie ended its funding in 2025 after 45 years, leaving UTS as sole funder from mid-2026). It helped launch the broadcasting careers of Julie McCrossin, Robbie Buck and Richard Kingsmill, and its program Gaywaves, first aired in 1979, is one of Australia's earliest LGBTQIA+ radio programs.",
+      "founded": 1979,
+      "sources": ["https://en.wikipedia.org/wiki/2SER"]
+    },
+    "4zzz": {
+      "about": "4ZZZ launched on 8 December 1975 and is widely cited as Australia's first community radio station, broadcasting from the University of Queensland before relocating to Mount Coot-tha in 1978. Its annual Hot 100 listener music poll, running since 1977, is credited as the inspiration for Triple J's Hottest 100, and in 1981 the station successfully fought an obscenity complaint that helped shift Australian broadcast-language standards.",
+      "founded": 1975,
+      "sources": ["https://en.wikipedia.org/wiki/4ZZZ"]
+    },
+    "rtrfm": {
+      "about": "RTRFM began broadcasting on 1 April 1977 as 6UWA, a University of Western Australia station, later restructuring into the independent Arts Radio Ltd (6RTR) after a funding dispute forced it off air for six months in 1990. Now based on Beaufort Street, Mount Lawley since 2005, it airs around 50 specialist music and current-affairs programs and reports a monthly audience of roughly 309,000.",
+      "founded": 1977,
+      "sources": ["https://en.wikipedia.org/wiki/RTRFM"]
+    },
+    "fbi-radio": {
+      "about": "FBi Radio grew out of test broadcasts from 1983, won a permanent licence in 2002 against 16 rival applicants, and went to air full-time on 94.5 FM on 29 August 2003. Its licence requires at least half its music to be Australian, half of that again from Sydney artists, and a 2009 'Save FBi' campaign — backed by donations including from Richard Branson — raised close to $500,000 to keep the station on air during the financial crisis.",
+      "founded": 2003,
+      "sources": ["https://en.wikipedia.org/wiki/FBi_Radio"]
+    },
+    "radio-adelaide": {
+      "about": "Radio Adelaide began in 1972 as 5UV, funded by a then-anonymous $100,000 donation from accountant Kenneth Stirling to the University of Adelaide, and is recognised as Australia's first licensed community radio station. The university owned and ran it until 2016, when the licence and studios transferred to the independent not-for-profit Educational Broadcasters Adelaide; it now broadcasts on 101.5 FM in nine languages with more than 500 volunteers.",
+      "founded": 1972,
+      "sources": ["https://en.wikipedia.org/wiki/Radio_Adelaide"]
+    },
+    "3cr": {
+      "about": "3CR was licensed in October 1975 and began broadcasting on 3 July 1976 from Armadale, becoming one of Melbourne's first community radio stations with an explicitly left-wing, social-justice format. It aired Australia's first gay radio program in 1976 and appointed the first paid Women's Officer at an Australian radio station in 1986; today it airs more than 130 programs from over 400 volunteers on 855 AM and DAB+, and published a 40-year history, Radical Radio, in 2016.",
+      "founded": 1976,
+      "sources": ["https://en.wikipedia.org/wiki/3CR_(Melbourne)"]
+    },
+    "joy-fm": {
+      "about": "JOY was founded on 28 June 1993 and first went to air on 1 December 1993 (World AIDS Day), moving to a full-time licence on 94.9 FM in 2002. It describes itself as Australia's first and only LGBTQIA+ community radio station, is run by more than 250 volunteers, and hosted the country's first same-sex on-air wedding in November 2019 before relocating to the Victorian Pride Centre in 2021.",
+      "founded": 1993,
+      "sources": ["https://en.wikipedia.org/wiki/JOY_94.9"]
+    },
+    "2xx": {
+      "about": "2XX took over the former Australian National University student radio service in July 1976, broadcasting on AM from studios at the Drill Hall Gallery in Acton before moving to 98.3 FM from the Griffin Centre in Civic in 2000. It is one of Australia's longest-running community broadcasters and built a dedicated multitrack recording studio in 1985 for local Canberra bands to record and perform live to air.",
+      "founded": 1976,
+      "sources": ["https://en.wikipedia.org/wiki/2XX_FM"]
+    },
+    "syn": {
+      "about": "SYN Media formed on 13 June 2000 from the merger of student station 3TD and RMIT's Student Radio Association, launching on-air on 90.7 FM on 28 January 2003. Based at RMIT and entirely run by volunteers under 26, it describes itself as one of the largest youth media projects in the world, engaging around 3,500 students annually through its Media Learning programs across radio, podcasts, TV and online.",
+      "founded": 2000,
+      "sources": ["https://en.wikipedia.org/wiki/SYN_Media"]
+    },
+    "three-d-radio": {
+      "about": "Three D Radio was established in 1979 under the call sign 5MMM, changing its name to Three D Radio in 1993 after the Triple M brand was sold commercially, and now broadcasts as 5DDD on 93.7 FM. Run entirely by volunteers through the Progressive Music Broadcasting Association with no paid staff, it airs more than 60 weekly programs with no fixed playlist and enforces local-content quotas, including a minimum 25% female-artist requirement.",
+      "founded": 1979,
+      "sources": ["https://en.wikipedia.org/wiki/Three_D_Radio"]
+    },
+    "bay-fm": {
+      "about": "BayFM was established following a public meeting in Byron Bay in December 1987, led by Bob Komidar, and began test transmissions on 96.9 FM in April 1990 before settling on its current 99.9 FM frequency in 2001. In 1993 it received Australia's first and only 'drop-through' community broadcast licence permitting round-the-clock operation, and in 2001 it became the first station to win three CBAA national awards in a single year.",
+      "founded": 1987,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bay_FM_(Byron_Bay)",
+        "https://www.bayfm.org/about/"
+      ]
+    },
+    "3knd": {
+      "about": "3KND began test broadcasts in 1998 and moved to official broadcasting in June 2003 as Melbourne's first Indigenous community radio station, operating on 1503 AM at 5,000 watts. It is run by First Australians Media Enterprises (formerly the South Eastern Indigenous Media Association) and has published an annual Top 100 Indigenous Songs countdown since 2016.",
+      "founded": 2003,
+      "sources": ["https://en.wikipedia.org/wiki/3KND"]
+    },
+    "noongar-radio": {
+      "about": "Noongar Radio traces back to a segment on 6NR at the WA Institute of Technology in 1979; a full community licence was first granted to the Western Australian Aboriginal Media Association in 1992 but was revoked in 2006 following regulatory complaints. It relaunched on 100.9 FM (call sign 6NME) on 5 July 2008 under Noongar Media Enterprises, and remains the only Indigenous radio station in the Perth metropolitan area, broadcasting in English and Noongar.",
+      "founded": 2008,
+      "sources": ["https://en.wikipedia.org/wiki/Noongar_Radio_100.9"]
+    },
+    "4eb": {
+      "about": "4EB first went to air on 1 December 1979 on AM, moving to its current 98.1 FM frequency in 2002. Run by the Ethnic Broadcasting Association of Queensland, it broadcasts in more than 55 languages, making it one of the most linguistically diverse community stations in Australia.",
+      "founded": 1979,
+      "sources": ["https://en.wikipedia.org/wiki/4EB"]
+    },
+    "2nbc": {
+      "about": "2NBC was formed in 1974 by local residents and Narwee Baptist Church members led by Don Jamieson, incorporated as a non-profit in 1978, and went to air after test broadcasts on 6 May 1983 — making it, by its own account, Sydney's first full-time suburban community radio station. Now based in Kogarah and run by more than 100 volunteers, it broadcasts multilingual programming, including Arabic, Mandarin, Macedonian, Cantonese, Greek and Spanish, to Sydney's St George and inner-west area.",
+      "founded": 1983,
+      "sources": [
+        "https://en.wikipedia.org/wiki/2NBC",
+        "https://www.theleader.com.au/story/1487427/pioneering-station-2nbc-celebrates-30-years/"
+      ]
+    },
+    "edge-radio": {
+      "about": "Edge Radio was awarded a community broadcast licence in December 2002 after a four-week trial, and began permanent broadcasting on 99.3 FM (call sign 7EDG) from the University of Tasmania's Hobart campus in February 2003. Owned by Tasmanian Youth Broadcasters Inc. and staffed mostly by presenters under 30, it has won CBAA awards including Community Radio Station of the Year (2003) and Excellence in News and Current Affairs Programming (2019).",
+      "founded": 2002,
+      "sources": ["https://en.wikipedia.org/wiki/Edge_Radio"]
+    },
+    "caama": {
+      "about": "CAAMA, the Central Australian Aboriginal Media Association, was founded in Alice Springs in 1980 by Freda Glynn, Phillip Batty and John Macumba, establishing 8KIN-FM as the first Aboriginal-run radio station in Australia. It later grew into a broader media organisation, spinning off Imparja Television in 1988 and co-producing the Cannes Caméra d'Or-winning film Samson and Delilah (2009), while CAAMA Radio continues to broadcast a 24-hour Indigenous service in more than 30 languages to remote and regional communities.",
+      "founded": 1980,
+      "sources": ["https://en.wikipedia.org/wiki/Central_Australian_Aboriginal_Media_Association"]
+    },
+    "skid-row": {
+      "about": "Radio Skid Row was founded by a group of Sydney inner-city welfare workers who wanted to get radios to homeless people so they could learn about food and support services; it was licensed and first broadcast on 10 August 1983 on 88.9 FM (call sign 2RSR) from Marrickville. It has served as a training ground for marginalised and First Nations broadcasters for more than 40 years and today runs over 40 programs in 17 languages covering disability justice, workers' rights and community music.",
+      "founded": 1983,
+      "sources": ["https://en.wikipedia.org/wiki/Radio_Skid_Row"]
+    },
+    "3pbs": {
+      "about": "PBS (Progressive Broadcasting Service) was granted its licence in October 1978 and began broadcasting on 21 December 1979 from a studio at the Prince of Wales Hotel in St Kilda. A cooperatively owned specialist-music station funded mainly through paid memberships, it runs around 80 programs a week with more than 400 volunteers and was inducted into the Music Victoria Hall of Fame in 2019 for its 40th anniversary.",
+      "founded": 1979,
+      "sources": ["https://en.wikipedia.org/wiki/PBS_106.7FM"]
+    },
+    "3mbs": {
+      "about": "3MBS grew out of the Music Broadcasting Society, formed in 1968 by radio engineer Brian Cabena to give classical music a home on Melbourne radio, and began broadcasting on 1 July 1975 — Victoria's first community station and first FM broadcaster. Now on 103.5 FM since 1988, it remains a listener-funded, largely volunteer-run classical and jazz broadcaster, and supports Australian composers through its Young Performers Award and National Composer Award.",
+      "founded": 1975,
+      "sources": ["https://en.wikipedia.org/wiki/3MBS"]
+    },
+    "2rrr": {
+      "about": "2RRR grew out of a community radio proposal first raised by Ryde residents in 1976, was granted a licence in September 1982, and went to air in 1984, initially broadcasting only three days a week before expanding. Owned and run by the Ryde Regional Radio Co-operative on 88.5 FM, it has released compilation CDs of Australian heavy metal and gothic rock and carries programming in multiple community languages.",
+      "founded": 1984,
+      "sources": ["https://en.wikipedia.org/wiki/2RRR"]
+    },
+    "4mbs": {
+      "about": "4MBS Classic FM made its first broadcast on 1 March 1977 from Queensland University of Technology's Kelvin Grove campus, opening with Handel's Ode for St Cecilia's Day, and moved to its Coorparoo studios in 1994. Run by the Music Broadcasting Society of Queensland with around 300 volunteers, it hosts what it describes as Australia's largest classical music festival (running since 1994) and won the Community Broadcasting Association of Australia's Radio Station of the Year award in 2004.",
+      "founded": 1977,
+      "sources": ["https://en.wikipedia.org/wiki/4MBS"]
+    },
+    "3ecb": {
+      "about": "Eastern FM was formed in 1974 but spent more than a decade on test transmissions before being granted a full licence in late 1990, beginning permanent broadcasts in February 1991. Based in Croydon and transmitting from Ringwood East on 98.1 FM, it is a not-for-profit community station serving Melbourne's outer-eastern municipalities of Knox, Maroondah, Whitehorse, Manningham and Yarra Ranges, with a potential reach of more than 400,000 people.",
+      "founded": 1991,
+      "sources": ["https://www.easternmelburnian.com.au/p/eastern-melburnian-visits-radio-eastern-fm"]
+    }
+  }
+}
