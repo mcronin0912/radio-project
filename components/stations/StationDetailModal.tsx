@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { LiveIndicator } from "@/components/stations/LiveIndicator";
 import { FavouriteButton } from "@/components/stations/FavouriteButton";
 import { PlayButton } from "@/components/stations/PlayButton";
-import type { Station } from "@/lib/stations";
+import { getStationContent, type Station } from "@/lib/stations";
 
 interface StationDetailModalProps {
   station: Station;
@@ -14,6 +14,8 @@ interface StationDetailModalProps {
 }
 
 export function StationDetailModal({ station, onClose }: StationDetailModalProps) {
+  const content = getStationContent(station);
+
   return (
     <div
       className="fixed inset-0 z-40 bg-void"
@@ -92,6 +94,43 @@ export function StationDetailModal({ station, onClose }: StationDetailModalProps
             </div>
           </div>
         </header>
+
+        {content && (
+          <section className="mt-12 rounded-cards border border-graphite bg-carbon/50 p-6 sm:p-8">
+            <h2 className="text-[13px] font-medium uppercase tracking-[0.04em] text-fog">
+              About
+            </h2>
+            {content.attribution && (
+              <p className="mt-1 text-[12px] font-normal text-ash">
+                {station.name} is part of the {content.attribution}
+              </p>
+            )}
+            {content.founded && (
+              <p className="mt-3 text-[13px] font-normal text-fog">
+                Est. {content.founded}
+              </p>
+            )}
+            <p className="mt-2 text-[15px] font-normal leading-[1.6] text-mist">
+              {content.about}
+            </p>
+            {content.sources.length > 0 && (
+              <div className="mt-4 flex flex-wrap gap-x-3 gap-y-1 border-t border-graphite pt-3 text-[12px] font-normal text-ash">
+                <span>Sources:</span>
+                {content.sources.map((src) => (
+                  <a
+                    key={src}
+                    href={src}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline decoration-graphite underline-offset-2 hover:text-fog"
+                  >
+                    {new URL(src).hostname.replace(/^www\./, "")}
+                  </a>
+                ))}
+              </div>
+            )}
+          </section>
+        )}
       </div>
     </div>
   );
