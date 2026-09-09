@@ -30,14 +30,14 @@ export function StationDetailModal({ station, onClose }: StationDetailModalProps
         </Button>
 
         <header className="mt-8 flex flex-col gap-6 sm:flex-row sm:items-start">
-          <div className="flex h-24 w-24 shrink-0 items-center justify-center overflow-hidden rounded-cards bg-paper shadow-subtle">
+          <div className="flex h-24 w-24 shrink-0 items-center justify-center overflow-hidden rounded-cards bg-paper p-2 shadow-subtle">
             {station.logoUrl ? (
               <Image
                 src={station.logoUrl}
                 alt=""
                 width={96}
                 height={96}
-                className="size-full object-cover"
+                className="size-full object-contain"
                 unoptimized
               />
             ) : (

@@ -29,14 +29,14 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
       <CardHeader>
         <div className="flex items-start justify-between gap-2">
           <div className="flex min-w-0 flex-1 items-start gap-3">
-            <div className="flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-md bg-paper">
+            <div className="flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-md bg-paper p-1">
               {station.logoUrl ? (
                 <Image
                   src={station.logoUrl}
                   alt=""
                   width={48}
                   height={48}
-                  className="size-full object-cover"
+                  className="size-full object-contain"
                   unoptimized
                 />
               ) : (
