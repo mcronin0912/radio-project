@@ -52,7 +52,7 @@ export default async function StationPage({ params }: PageProps) {
               alt=""
               width={96}
               height={96}
-              className="size-full object-contain"
+              className="size-full rounded-md object-contain"
               unoptimized
             />
           ) : (

@@ -36,7 +36,7 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
                   alt=""
                   width={48}
                   height={48}
-                  className="size-full object-contain"
+                  className="size-full rounded-sm object-contain"
                   unoptimized
                 />
               ) : (

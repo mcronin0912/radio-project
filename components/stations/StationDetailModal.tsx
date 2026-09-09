@@ -37,7 +37,7 @@ export function StationDetailModal({ station, onClose }: StationDetailModalProps
                 alt=""
                 width={96}
                 height={96}
-                className="size-full object-contain"
+                className="size-full rounded-md object-contain"
                 unoptimized
               />
             ) : (
