@@ -3,6 +3,8 @@ import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { PlayerProvider } from "@/lib/player-context";
 import { FavouritesProvider } from "@/lib/favourites-context";
+import { TvFavouritesProvider } from "@/lib/tv-favourites-context";
+import { ProjectModeProvider } from "@/lib/project-mode-context";
 import { PlayerBar } from "@/components/player/PlayerBar";
 import { PWARegister } from "@/components/PWARegister";
 import { DesktopDragRegion } from "@/components/DesktopDragRegion";
@@ -74,8 +76,12 @@ export default function RootLayout({
         {IS_DESKTOP ? <DesktopDragRegion /> : null}
         <PlayerProvider>
           <FavouritesProvider>
-            {children}
-            <PlayerBar />
+            <TvFavouritesProvider>
+              <ProjectModeProvider>
+                {children}
+                <PlayerBar />
+              </ProjectModeProvider>
+            </TvFavouritesProvider>
           </FavouritesProvider>
         </PlayerProvider>
         <PWARegister />

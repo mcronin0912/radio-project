@@ -1,0 +1,344 @@
+{
+  "slug": "channel-9-sa",
+  "epgId": "mjh-channel-9-sa",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:01:00.000Z",
+      "stop": "2026-09-17T11:19:00.000Z",
+      "title": "Tipping Point: 70 Years Of TV",
+      "subtitle": "Episode 1",
+      "description": "To celebrate 70 years of Nine, Todd Woodbridge welcomes TV royalty Catriona Rowntree and Jules Lund, Nicky Buckley and Glenn Ridge, Lisa Chappell and Bridie Carter. The three legendary duos face off to win $40,000 for charity.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T11:19:00.000Z",
+      "stop": "2026-09-17T13:12:00.000Z",
+      "title": "John Farnham - Celebrating 60 Years",
+      "subtitle": "Episode 1",
+      "description": "Delving into the archives to find long forgotten performances, hear untold stories and uncover never seen before footage to celebrate John Farnham's remarkable 60 years centre stage of the Australian entertainment industry.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T13:12:00.000Z",
+      "stop": "2026-09-17T13:40:00.000Z",
+      "title": "9News Late",
+      "subtitle": "Thursday 17 September 2026",
+      "description": "Join the 9News Late team for all of today's top stories from Australia and around the world.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T13:40:00.000Z",
+      "stop": "2026-09-17T14:34:00.000Z",
+      "title": "NBL Overtime",
+      "subtitle": "Episode 1",
+      "description": "NBL Overtime provides the latest basketball news and analysis on the 2026/2027 NBL season.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-17T14:34:00.000Z",
+      "stop": "2026-09-17T15:34:00.000Z",
+      "title": "Tipping Point",
+      "subtitle": "Episode 93",
+      "description": "Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T15:34:00.000Z",
+      "stop": "2026-09-17T16:09:00.000Z",
+      "title": "Next Stop",
+      "subtitle": "New Zealand",
+      "description": "A quick plunge into the sights, sounds, history and flavors of your next destination.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T16:09:00.000Z",
+      "stop": "2026-09-17T16:38:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Kelton Cookware",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T16:38:00.000Z",
+      "stop": "2026-09-17T17:06:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Renovator Better Grip",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T17:06:00.000Z",
+      "stop": "2026-09-17T17:35:00.000Z",
+      "title": "Global Shop",
+      "subtitle": "5 Minute Clever Chef",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T17:35:00.000Z",
+      "stop": "2026-09-17T18:03:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Thin Lizzy Xcellerate35",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:03:00.000Z",
+      "stop": "2026-09-17T18:32:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "TEVO Heater",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:32:00.000Z",
+      "stop": "2026-09-17T19:02:00.000Z",
+      "title": "Skippy",
+      "subtitle": "Marine Biologist",
+      "description": "Mark is annoyed when Ranger Hammond insists he spends the day assisting a marine biologist that is visiting the park. He changes his mind once he meets Dr Trout.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T19:02:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "A Current Affair",
+      "subtitle": "Friday 18 September 2026",
+      "description": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T19:30:00.000Z",
+      "stop": "2026-09-17T19:59:00.000Z",
+      "title": "Today Early News",
+      "subtitle": "Friday 18 September 2026",
+      "description": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T19:59:00.000Z",
+      "stop": "2026-09-17T23:30:00.000Z",
+      "title": "Today",
+      "subtitle": "Friday 18 September 2026",
+      "description": "Join TODAY to bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T23:30:00.000Z",
+      "stop": "2026-09-18T02:00:00.000Z",
+      "title": "Today Extra",
+      "subtitle": "Episode 166",
+      "description": "Join the TODAY EXTRA team for an exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, LIVE music performances, the latest in fashion and beauty trends.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T02:00:00.000Z",
+      "stop": "2026-09-18T02:30:00.000Z",
+      "title": "9News Morning",
+      "subtitle": "Friday 18 September 2026",
+      "description": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T02:30:00.000Z",
+      "stop": "2026-09-18T04:26:00.000Z",
+      "title": "The Love Hunt",
+      "subtitle": null,
+      "description": "A high-powered real estate executive returns home after her dad passes, the only way she'll inherit his estate is if she finds the only treasure that ever eluded him. Starring: Scout Taylor-Compton, Brock Yurich, Sterling Beaumon.",
+      "category": "Similar"
+    },
+    {
+      "start": "2026-09-18T04:26:00.000Z",
+      "stop": "2026-09-18T05:28:00.000Z",
+      "title": "Pointless",
+      "subtitle": "Episode 35",
+      "description": "In each episode four teams of two contestants attempt to find correct but obscure answers to four rounds of questions, with the winning team eligible to compete for the jackpot.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T05:28:00.000Z",
+      "stop": "2026-09-18T06:30:00.000Z",
+      "title": "Tipping Point",
+      "subtitle": "Episode 94",
+      "description": "Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T06:30:00.000Z",
+      "stop": "2026-09-18T07:27:00.000Z",
+      "title": "9News Afternoon",
+      "subtitle": "Friday 18 September 2026",
+      "description": "9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T07:27:00.000Z",
+      "stop": "2026-09-18T08:29:00.000Z",
+      "title": "Tipping Point Australia",
+      "subtitle": "Episode 25",
+      "description": "Tipping Point Australia will push contestants' luck to the very edge. Three contestants will go head to head against the mesmerising machine with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T08:29:00.000Z",
+      "stop": "2026-09-18T09:30:00.000Z",
+      "title": "9News",
+      "subtitle": "Friday 18 September 2026",
+      "description": "Live from our Adelaide studio, join the 9News team for the latest in local, national and international news as well as sport and weather.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T09:30:00.000Z",
+      "stop": "2026-09-18T09:59:00.000Z",
+      "title": "A Current Affair",
+      "subtitle": "Friday 18 September 2026",
+      "description": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T09:59:00.000Z",
+      "stop": "2026-09-18T10:33:00.000Z",
+      "title": "Find My Country House Australia",
+      "subtitle": "Heritage Haven - Bendigo",
+      "description": "Join Catriona Rowntree in the heartwarming series \"Country House Hunters\" as she guides ten captivating couples on their exhilarating quest for the perfect country homes across Australia's rural landscape.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T10:33:00.000Z",
+      "stop": "2026-09-18T11:07:00.000Z",
+      "title": "Find My Country House Australia",
+      "subtitle": "Quiet Country Life - Heyfield",
+      "description": "Join Catriona Rowntree in the heartwarming series \"Country House Hunters\" as she guides ten captivating couples on their exhilarating quest for the perfect country homes across Australia's rural landscape.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T11:07:00.000Z",
+      "stop": "2026-09-18T13:45:00.000Z",
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "subtitle": null,
+      "description": "Sherlock Holmes is back with his sidekick Dr. Watson. They once again join forces to outwit and bring down an adversary that even has Sherlock doubting himself, the cunning Professor Moriarty. (Robert Downey Jr, Jude Law)",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T13:45:00.000Z",
+      "stop": "2026-09-18T14:38:00.000Z",
+      "title": "See No Evil",
+      "subtitle": "Body In The Barrel",
+      "description": "In 2017, in San Diego, 28-year-old musician Omar Medina goes missing; his family's worst fears are confirmed when his body turns up in a barrel floating in the bay; police turn to surveillance footage to track down the people responsible.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T14:38:00.000Z",
+      "stop": "2026-09-18T15:37:00.000Z",
+      "title": "Tipping Point",
+      "subtitle": "Episode 94",
+      "description": "Hosted by Ben Shepherd, three players are pit against a mesmerising machine. There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T15:37:00.000Z",
+      "stop": "2026-09-18T16:10:00.000Z",
+      "title": "Next Stop",
+      "subtitle": "Caribbean and Morocco",
+      "description": "A quick plunge into the sights, sounds, history, and flavours of your next destination.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T16:10:00.000Z",
+      "stop": "2026-09-18T16:38:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Handy Saw",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T16:38:00.000Z",
+      "stop": "2026-09-18T17:07:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Kelton Cookware",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T17:07:00.000Z",
+      "stop": "2026-09-18T17:35:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Renovator Better Grip",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T17:35:00.000Z",
+      "stop": "2026-09-18T18:04:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Kelton Cookware",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T18:04:00.000Z",
+      "stop": "2026-09-18T18:32:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "TEVO Heater",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T18:32:00.000Z",
+      "stop": "2026-09-18T19:03:00.000Z",
+      "title": "Skippy",
+      "subtitle": "The Swagman",
+      "description": "A swagman passing through Waratah National Park strikes up a friendship with Sonny and makes Ranger Hammond question his assumptions.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-18T19:03:00.000Z",
+      "stop": "2026-09-18T19:31:00.000Z",
+      "title": "Global Shop",
+      "subtitle": "Eezy Breezy",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T19:31:00.000Z",
+      "stop": "2026-09-18T20:00:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Handy Saw",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T20:00:00.000Z",
+      "stop": "2026-09-18T20:30:00.000Z",
+      "title": "Postcards",
+      "subtitle": "Episode 26",
+      "description": "Lauren visits some long running Richmond businesses. The lads from Travel Guides let loose in Footscray. Shane explores a range of cuisines on offer in St Kilda. And Anthony Callea takes us for a tour of the Italian side of Yarraville.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T20:30:00.000Z",
+      "stop": "2026-09-18T21:00:00.000Z",
+      "title": "Getaway",
+      "subtitle": "Bangkok, New Caledonia, Tasmania",
+      "description": "This week on Getaway we are exploring Old Town Bangkok and checking out the cowboy scene in New Caledonia before travelling to Tassie to try some tasty oysters.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T21:00:00.000Z",
+      "stop": "2026-09-18T21:30:00.000Z",
+      "title": "A Current Affair",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T21:30:00.000Z",
+      "stop": "2026-09-19T00:30:00.000Z",
+      "title": "Weekend Today",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "Join the Weekend Today team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "category": "News"
+    }
+  ]
+}

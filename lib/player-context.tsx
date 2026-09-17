@@ -10,17 +10,27 @@ import React, {
 } from "react";
 import Hls from "hls.js";
 import type { Station } from "@/lib/stations";
+import type { Channel } from "@/lib/channels";
 import { SafariAudioAnalyser } from "@/lib/safari-audio-analyser";
 import { isHlsUrl, streamPlaybackUrl } from "@/lib/stream-url";
 
 const STORAGE_KEY = "community-radio-player";
+const TV_STORAGE_KEY = "community-tv-player";
+
+export type MediaKind = "radio" | "tv";
+
+export type PlaybackMedia =
+  | { kind: "radio"; station: Station }
+  | { kind: "tv"; channel: Channel };
+
+type VideoHostId = "modal" | "bar";
 
 function isSafari() {
   if (typeof navigator === "undefined") return false;
   return /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 }
 
-function persistStation(s: Station | null, playing: boolean) {
+function persistRadio(s: Station | null, playing: boolean) {
   if (typeof window === "undefined") return;
   if (!s || !playing) {
     sessionStorage.removeItem(STORAGE_KEY);
@@ -35,6 +45,27 @@ function persistStation(s: Station | null, playing: boolean) {
       city: s.city,
       state: s.state,
       streamUrl: s.streamUrl,
+    })
+  );
+}
+
+function persistTv(c: Channel | null, playing: boolean) {
+  if (typeof window === "undefined") return;
+  if (!c || !playing) {
+    sessionStorage.removeItem(TV_STORAGE_KEY);
+    return;
+  }
+  sessionStorage.setItem(
+    TV_STORAGE_KEY,
+    JSON.stringify({
+      slug: c.slug,
+      channelId: c.channelId,
+      name: c.name,
+      network: c.network,
+      streamUrl: c.streamUrl,
+      logoUrl: c.logoUrl,
+      categories: c.categories,
+      state: c.state,
     })
   );
 }
@@ -70,39 +101,107 @@ function restoreStation(): Station | null {
   }
 }
 
+function restoreChannel(): Channel | null {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = sessionStorage.getItem(TV_STORAGE_KEY);
+    if (!raw) return null;
+    const data = JSON.parse(raw);
+    if (!data?.streamUrl || !data?.slug) return null;
+    return {
+      slug: data.slug,
+      channelId: data.channelId ?? data.slug,
+      name: data.name ?? "",
+      network: data.network ?? null,
+      categories: Array.isArray(data.categories) ? data.categories : [],
+      website: null,
+      logoUrl: data.logoUrl ?? null,
+      streamUrl: data.streamUrl,
+      streamQuality: null,
+      state: data.state ?? null,
+      feed: null,
+      label: null,
+    };
+  } catch {
+    return null;
+  }
+}
+
 interface PlayerState {
+  /** @deprecated Prefer `media` — kept for radio UI compatibility */
   station: Station | null;
+  media: PlaybackMedia | null;
   isPlaying: boolean;
   volume: number;
   error: string | null;
   isReconnecting: boolean;
   analyser: AnalyserNode | null;
   play: (station: Station) => void;
+  playChannel: (channel: Channel) => void;
   pause: () => void;
   setVolume: (v: number) => void;
   clearError: () => void;
+  registerVideoHost: (id: VideoHostId, el: HTMLElement | null) => void;
+  setVideoModalOpen: (open: boolean) => void;
+  videoModalOpen: boolean;
+  requestVideoFullscreen: () => Promise<void>;
+  getVideoElement: () => HTMLVideoElement | null;
 }
 
 const PlayerContext = createContext<PlayerState | null>(null);
 
 export function PlayerProvider({ children }: { children: React.ReactNode }) {
-  const [station, setStation] = useState<Station | null>(null);
+  const [media, setMedia] = useState<PlaybackMedia | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [volume, setVolumeState] = useState(1);
   const [error, setError] = useState<string | null>(null);
   const [isReconnecting, setIsReconnecting] = useState(false);
   const [analyser, setAnalyser] = useState<AnalyserNode | null>(null);
+  const [videoModalOpen, setVideoModalOpen] = useState(false);
+
   const audioRef = useRef<HTMLAudioElement>(null);
+  const videoRef = useRef<HTMLVideoElement | null>(null);
+  const videoHomeRef = useRef<HTMLDivElement>(null);
+  const videoHostsRef = useRef<Partial<Record<VideoHostId, HTMLElement | null>>>({});
+  const hlsRef = useRef<Hls | null>(null);
+
+  // Create the <video> outside React's reconciler so appendChild host moves are safe.
+  useEffect(() => {
+    const home = videoHomeRef.current;
+    if (!home) return;
+
+    const video = document.createElement("video");
+    video.setAttribute("playsinline", "");
+    video.setAttribute("webkit-playsinline", "");
+    video.preload = "none";
+    video.className = "h-full w-full bg-black object-contain";
+    home.appendChild(video);
+    videoRef.current = video;
+
+    return () => {
+      if (hlsRef.current) {
+        hlsRef.current.destroy();
+        hlsRef.current = null;
+      }
+      video.pause();
+      video.removeAttribute("src");
+      video.load();
+      video.remove();
+      if (videoRef.current === video) videoRef.current = null;
+    };
+  }, []);
+
   const hasRestored = useRef(false);
   const audioCtxRef = useRef<AudioContext | null>(null);
   const connectedRef = useRef(false);
   const safariRef = useRef<SafariAudioAnalyser | null>(null);
-  const hlsRef = useRef<Hls | null>(null);
   const intendedPlayingRef = useRef(false);
   const reconnectTimeoutRef = useRef<number | null>(null);
   const reconnectAttemptRef = useRef(0);
   const volumeRef = useRef(1);
   const scheduleReconnectRef = useRef<(() => void) | null>(null);
+  const mediaRef = useRef<PlaybackMedia | null>(null);
+  mediaRef.current = media;
 
   const destroyHls = useCallback(() => {
     if (hlsRef.current) {
@@ -111,30 +210,112 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     }
   }, []);
 
+  const disableCaptions = useCallback((el: HTMLMediaElement) => {
+    if (!("textTracks" in el)) return;
+    const tracks = el.textTracks;
+    const disable = () => {
+      for (let i = 0; i < tracks.length; i++) {
+        tracks[i].mode = "disabled";
+      }
+    };
+    disable();
+    tracks.addEventListener("addtrack", disable);
+    // Keep a handle so we can remove on next attach
+    (el as HTMLMediaElement & { __ccCleanup?: () => void }).__ccCleanup = () => {
+      tracks.removeEventListener("addtrack", disable);
+    };
+  }, []);
+
+  const placeVideo = useCallback(() => {
+    const video = videoRef.current;
+    if (!video) return;
+    const hosts = videoHostsRef.current;
+    const target = hosts.modal || hosts.bar || videoHomeRef.current;
+    if (target && video.parentElement !== target) {
+      target.appendChild(video);
+    }
+    // Resume after remount — playback often stalls if it began in a display:none node.
+    if (
+      intendedPlayingRef.current &&
+      mediaRef.current?.kind === "tv" &&
+      video.paused
+    ) {
+      void video.play().catch(() => {
+        /* autoplay / transient */
+      });
+    }
+  }, []);
+
+  const registerVideoHost = useCallback(
+    (id: VideoHostId, el: HTMLElement | null) => {
+      videoHostsRef.current[id] = el;
+      placeVideo();
+    },
+    [placeVideo]
+  );
+
+  const stopAudioElement = useCallback(() => {
+    const audio = audioRef.current;
+    if (audio) {
+      audio.pause();
+      audio.removeAttribute("src");
+      audio.load();
+    }
+    safariRef.current?.stop();
+  }, []);
+
+  const stopVideoElement = useCallback(() => {
+    const video = videoRef.current;
+    if (video) {
+      video.pause();
+      video.removeAttribute("src");
+      video.load();
+    }
+  }, []);
+
   const attachSource = useCallback(
     (
-      audio: HTMLAudioElement,
+      el: HTMLMediaElement,
       streamUrl: string,
       onPlayFailed: (err: unknown) => void
     ) => {
       const url = streamPlaybackUrl(streamUrl);
       destroyHls();
       safariRef.current?.stop();
+      const prevCleanup = (
+        el as HTMLMediaElement & { __ccCleanup?: () => void }
+      ).__ccCleanup;
+      prevCleanup?.();
 
       if (isHlsUrl(streamUrl)) {
         if (Hls.isSupported()) {
           const hls = new Hls({
             enableWorker: true,
-            lowLatencyMode: true,
+            // lowLatencyMode breaks a number of AU live playlists
+            lowLatencyMode: false,
+            capLevelToPlayerSize: false,
+            backBufferLength: 90,
+            maxBufferLength: 30,
           });
           hlsRef.current = hls;
-          hls.loadSource(url);
-          hls.attachMedia(audio);
+          hls.subtitleDisplay = false;
+          hls.attachMedia(el);
+          hls.on(Hls.Events.MEDIA_ATTACHED, () => {
+            hls.loadSource(url);
+          });
           hls.on(Hls.Events.MANIFEST_PARSED, () => {
-            void audio.play().catch(onPlayFailed);
+            disableCaptions(el);
+            try {
+              hls.subtitleTrack = -1;
+              hls.subtitleDisplay = false;
+            } catch {
+              /* noop */
+            }
+            void el.play().catch(onPlayFailed);
           });
           hls.on(Hls.Events.ERROR, (_event, data) => {
             if (!data.fatal) return;
+            console.warn("HLS fatal error", data.type, data.details);
             if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
               hls.startLoad();
               return;
@@ -145,22 +326,25 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
             }
             onPlayFailed(data);
           });
+          disableCaptions(el);
           return { mode: "hls" as const, url };
         }
-        if (audio.canPlayType("application/vnd.apple.mpegurl")) {
-          audio.src = url;
-          void audio.play().catch(onPlayFailed);
+        if (el.canPlayType("application/vnd.apple.mpegurl")) {
+          el.src = url;
+          disableCaptions(el);
+          void el.play().catch(onPlayFailed);
           return { mode: "native-hls" as const, url };
         }
         onPlayFailed(new Error("HLS not supported"));
         return { mode: "unsupported" as const, url };
       }
 
-      audio.src = url;
-      void audio.play().catch(onPlayFailed);
+      el.src = url;
+      disableCaptions(el);
+      void el.play().catch(onPlayFailed);
       return { mode: "progressive" as const, url };
     },
-    [destroyHls]
+    [destroyHls, disableCaptions]
   );
 
   useEffect(() => {
@@ -203,66 +387,147 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     }
   }, []);
 
-  const play = useCallback((s: Station) => {
-    if (!s.streamUrl) {
-      setError("Stream URL not available");
-      return;
-    }
+  const pause = useCallback(() => {
     clearReconnectTimer();
     reconnectAttemptRef.current = 0;
-    intendedPlayingRef.current = true;
-    setError(null);
+    intendedPlayingRef.current = false;
     setIsReconnecting(false);
-    setStation(s);
-    persistStation(s, true);
+    destroyHls();
+    stopAudioElement();
+    stopVideoElement();
+    setIsPlaying(false);
+    const current = mediaRef.current;
+    if (current?.kind === "radio") persistRadio(current.station, false);
+    if (current?.kind === "tv") persistTv(current.channel, false);
+  }, [clearReconnectTimer, destroyHls, stopAudioElement, stopVideoElement]);
 
-    const audio = audioRef.current;
-    if (audio) {
-      ensureAudioContext();
-      audio.volume = volume;
+  const play = useCallback(
+    (s: Station) => {
+      if (!s.streamUrl) {
+        setError("Stream URL not available");
+        return;
+      }
+      clearReconnectTimer();
+      reconnectAttemptRef.current = 0;
+      intendedPlayingRef.current = true;
+      setError(null);
+      setIsReconnecting(false);
+
+      // Exclusive: stop TV
+      destroyHls();
+      stopVideoElement();
+      persistTv(null, false);
+
+      setMedia({ kind: "radio", station: s });
+      persistRadio(s, true);
+      sessionStorage.removeItem(TV_STORAGE_KEY);
+
+      const audio = audioRef.current;
+      if (audio) {
+        ensureAudioContext();
+        audio.volume = volumeRef.current;
+        audio.muted = volumeRef.current === 0;
+
+        const onPlayFailed = (err: unknown) => {
+          console.error("Playback failed:", err);
+          if (intendedPlayingRef.current && s.streamUrl) {
+            scheduleReconnectRef.current?.();
+            return;
+          }
+          setError("Stream unavailable");
+          setIsPlaying(false);
+          setIsReconnecting(false);
+          persistRadio(s, false);
+        };
+
+        const { mode } = attachSource(audio, s.streamUrl, onPlayFailed);
+
+        if (mode === "progressive" && isSafari()) {
+          const sa = new SafariAudioAnalyser(audioCtxRef.current!);
+          safariRef.current = sa;
+          setAnalyser(sa.getAnalyser());
+        } else if (!isSafari() && mode !== "unsupported") {
+          connectChromeAnalyser();
+        }
+        setIsPlaying(true);
+      }
+    },
+    [
+      clearReconnectTimer,
+      destroyHls,
+      stopVideoElement,
+      ensureAudioContext,
+      connectChromeAnalyser,
+      attachSource,
+    ]
+  );
+
+  const playChannel = useCallback(
+    (c: Channel) => {
+      if (!c.streamUrl) {
+        setError("Stream URL not available");
+        return;
+      }
+      clearReconnectTimer();
+      reconnectAttemptRef.current = 0;
+      intendedPlayingRef.current = true;
+      setError(null);
+      setIsReconnecting(false);
+
+      // Exclusive: stop radio
+      destroyHls();
+      stopAudioElement();
+      setAnalyser(null);
+      persistRadio(null, false);
+      sessionStorage.removeItem(STORAGE_KEY);
+
+      setMedia({ kind: "tv", channel: c });
+      persistTv(c, true);
+
+      // Prefer the visible modal/bar host before attaching MediaSource.
+      placeVideo();
+
+      const video = videoRef.current;
+      if (!video) {
+        setError("Video player unavailable");
+        setIsPlaying(false);
+        return;
+      }
+
+      video.volume = volumeRef.current;
+      video.muted = volumeRef.current === 0;
 
       const onPlayFailed = (err: unknown) => {
-        console.error("Playback failed:", err);
-        if (intendedPlayingRef.current && s.streamUrl) {
+        console.error("Video playback failed:", err);
+        if (intendedPlayingRef.current && c.streamUrl) {
           scheduleReconnectRef.current?.();
           return;
         }
         setError("Stream unavailable");
         setIsPlaying(false);
         setIsReconnecting(false);
-        persistStation(s, false);
+        persistTv(c, false);
       };
 
-      const { mode } = attachSource(audio, s.streamUrl, onPlayFailed);
-
-      if (mode === "progressive" && isSafari()) {
-        // Safari: createMediaElementSource is broken for streams.
-        // Use fetch + decodeAudioData via the proxy instead.
-        // (HLS uses native playback — skip the fetch analyser.)
-        const sa = new SafariAudioAnalyser(audioCtxRef.current!);
-        safariRef.current = sa;
-        setAnalyser(sa.getAnalyser());
-      } else if (!isSafari() && mode !== "unsupported") {
-        connectChromeAnalyser();
-      }
+      attachSource(video, c.streamUrl, onPlayFailed);
       setIsPlaying(true);
-    }
-  }, [volume, ensureAudioContext, connectChromeAnalyser, clearReconnectTimer, attachSource]);
 
-  const stationRef = useRef<Station | null>(null);
-  stationRef.current = station;
-
-  const pause = useCallback(() => {
-    clearReconnectTimer();
-    reconnectAttemptRef.current = 0;
-    intendedPlayingRef.current = false;
-    setIsReconnecting(false);
-    audioRef.current?.pause();
-    safariRef.current?.stop();
-    destroyHls();
-    setIsPlaying(false);
-    if (stationRef.current) persistStation(stationRef.current, false);
-  }, [clearReconnectTimer, destroyHls]);
+      // One more place+play after layout in case the host registered mid-attach.
+      requestAnimationFrame(() => {
+        placeVideo();
+        if (intendedPlayingRef.current && video.paused) {
+          void video.play().catch(onPlayFailed);
+        }
+      });
+    },
+    [
+      clearReconnectTimer,
+      destroyHls,
+      stopAudioElement,
+      placeVideo,
+      attachSource,
+    ]
+  );
 
   const setVolume = useCallback((v: number) => {
     const val = Math.max(0, Math.min(1, v));
@@ -271,19 +536,60 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       audioRef.current.volume = val;
       audioRef.current.muted = val === 0;
     }
+    if (videoRef.current) {
+      videoRef.current.volume = val;
+      videoRef.current.muted = val === 0;
+    }
   }, []);
 
   const clearError = useCallback(() => setError(null), []);
 
+  const getVideoElement = useCallback(() => videoRef.current, []);
+
+  const requestVideoFullscreen = useCallback(async () => {
+    const video = videoRef.current;
+    if (!video) return;
+    const host = video.parentElement;
+    const target = (host && host !== videoHomeRef.current ? host : video) as
+      | HTMLElement
+      | (HTMLVideoElement & {
+          webkitEnterFullscreen?: () => void;
+        });
+
+    try {
+      if (document.fullscreenElement) {
+        await document.exitFullscreen();
+        return;
+      }
+      if (target.requestFullscreen) {
+        await target.requestFullscreen();
+        return;
+      }
+      const webkit = video as HTMLVideoElement & {
+        webkitEnterFullscreen?: () => void;
+      };
+      if (typeof webkit.webkitEnterFullscreen === "function") {
+        webkit.webkitEnterFullscreen();
+      }
+    } catch (e) {
+      console.warn("Fullscreen failed:", e);
+    }
+  }, []);
+
   useEffect(() => {
     if (hasRestored.current) return;
     hasRestored.current = true;
+    const savedTv = restoreChannel();
+    if (savedTv?.streamUrl) {
+      setMedia({ kind: "tv", channel: savedTv });
+      setIsPlaying(false);
+      return;
+    }
     const saved = restoreStation();
     if (!saved?.streamUrl) return;
-    setStation(saved);
+    setMedia({ kind: "radio", station: saved });
     const audio = audioRef.current;
     if (audio) {
-      // Don't autoplay on restore — only set metadata / prepare progressive src.
       if (!isHlsUrl(saved.streamUrl)) {
         audio.src = streamPlaybackUrl(saved.streamUrl);
       }
@@ -294,11 +600,22 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     const audio = audioRef.current;
-    if (!audio) return;
+    const video = videoRef.current;
+    if (!audio || !video) return;
+
+    const activeEl = () =>
+      mediaRef.current?.kind === "tv" ? video : audio;
 
     const scheduleReconnect = () => {
       if (!intendedPlayingRef.current) return;
-      if (!stationRef.current?.streamUrl) return;
+      const current = mediaRef.current;
+      const streamUrl =
+        current?.kind === "radio"
+          ? current.station.streamUrl
+          : current?.kind === "tv"
+            ? current.channel.streamUrl
+            : null;
+      if (!streamUrl) return;
 
       clearReconnectTimer();
       const attempt = reconnectAttemptRef.current;
@@ -310,13 +627,14 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
       reconnectTimeoutRef.current = window.setTimeout(() => {
         reconnectTimeoutRef.current = null;
-        if (!intendedPlayingRef.current || !stationRef.current?.streamUrl) return;
+        if (!intendedPlayingRef.current || !mediaRef.current) return;
 
-        const el = audioRef.current;
+        const el = activeEl();
         if (!el) return;
-
-        const st = stationRef.current;
-        if (!st.streamUrl) return;
+        const st = mediaRef.current;
+        const url =
+          st.kind === "radio" ? st.station.streamUrl : st.channel.streamUrl;
+        if (!url) return;
 
         const onPlayFailed = () => {
           if (intendedPlayingRef.current) scheduleReconnect();
@@ -325,7 +643,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         try {
           el.pause();
           el.volume = volumeRef.current;
-          attachSource(el, st.streamUrl, onPlayFailed);
+          attachSource(el, url, onPlayFailed);
         } catch (e) {
           console.warn("Stream reconnect load failed:", e);
           scheduleReconnect();
@@ -340,7 +658,9 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         setError("Stream unavailable");
         setIsPlaying(false);
         setIsReconnecting(false);
-        if (stationRef.current) persistStation(stationRef.current, false);
+        const current = mediaRef.current;
+        if (current?.kind === "radio") persistRadio(current.station, false);
+        if (current?.kind === "tv") persistTv(current.channel, false);
         return;
       }
       scheduleReconnect();
@@ -350,13 +670,20 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       if (intendedPlayingRef.current) scheduleReconnect();
     };
 
-    const onPlay = () => {
+    const onPlay = (e: Event) => {
+      const target = e.target as HTMLMediaElement;
+      const expectingVideo = mediaRef.current?.kind === "tv";
+      if (expectingVideo && target !== video) return;
+      if (!expectingVideo && target !== audio) return;
+
       intendedPlayingRef.current = true;
       reconnectAttemptRef.current = 0;
       setError(null);
       setIsReconnecting(false);
       setIsPlaying(true);
-      if (stationRef.current) persistStation(stationRef.current, true);
+      const current = mediaRef.current;
+      if (current?.kind === "radio") persistRadio(current.station, true);
+      if (current?.kind === "tv") persistTv(current.channel, true);
       if ("mediaSession" in navigator) {
         try {
           navigator.mediaSession.playbackState = "playing";
@@ -365,8 +692,13 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         }
       }
       void audioCtxRef.current?.resume();
-      const streamUrl = stationRef.current?.streamUrl;
-      if (isSafari() && audioCtxRef.current && streamUrl && !isHlsUrl(streamUrl)) {
+      if (
+        current?.kind === "radio" &&
+        isSafari() &&
+        audioCtxRef.current &&
+        current.station.streamUrl &&
+        !isHlsUrl(current.station.streamUrl)
+      ) {
         const url = audio.currentSrc || audio.src;
         if (!url) return;
         if (!safariRef.current) {
@@ -378,11 +710,18 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       }
     };
 
-    const onPause = () => {
+    const onPause = (e: Event) => {
+      const target = e.target as HTMLMediaElement;
+      const expectingVideo = mediaRef.current?.kind === "tv";
+      if (expectingVideo && target !== video) return;
+      if (!expectingVideo && target !== audio) return;
+
       safariRef.current?.stop();
       setIsPlaying(false);
-      if (!intendedPlayingRef.current && stationRef.current) {
-        persistStation(stationRef.current, false);
+      if (!intendedPlayingRef.current && mediaRef.current) {
+        const current = mediaRef.current;
+        if (current.kind === "radio") persistRadio(current.station, false);
+        if (current.kind === "tv") persistTv(current.channel, false);
       }
       if ("mediaSession" in navigator) {
         try {
@@ -395,31 +734,39 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       }
     };
 
-    audio.addEventListener("error", onError);
-    audio.addEventListener("ended", onEnded);
-    audio.addEventListener("play", onPlay);
-    audio.addEventListener("pause", onPause);
+    for (const el of [audio, video]) {
+      el.addEventListener("error", onError);
+      el.addEventListener("ended", onEnded);
+      el.addEventListener("play", onPlay);
+      el.addEventListener("pause", onPause);
+    }
     return () => {
       scheduleReconnectRef.current = null;
       clearReconnectTimer();
       destroyHls();
-      audio.removeEventListener("error", onError);
-      audio.removeEventListener("ended", onEnded);
-      audio.removeEventListener("play", onPlay);
-      audio.removeEventListener("pause", onPause);
+      for (const el of [audio, video]) {
+        el.removeEventListener("error", onError);
+        el.removeEventListener("ended", onEnded);
+        el.removeEventListener("play", onPlay);
+        el.removeEventListener("pause", onPause);
+      }
     };
   }, [clearReconnectTimer, attachSource, destroyHls]);
 
   useEffect(() => {
     if (typeof navigator === "undefined" || !("mediaSession" in navigator)) return;
-    const audio = audioRef.current;
-    if (!audio) return;
     try {
       navigator.mediaSession.setActionHandler("play", () => {
-        void audio.play();
+        const current = mediaRef.current;
+        if (!current) return;
+        if (current.kind === "tv") {
+          void videoRef.current?.play();
+        } else {
+          void audioRef.current?.play();
+        }
       });
       navigator.mediaSession.setActionHandler("pause", () => {
-        audio.pause();
+        pause();
       });
     } catch {
       /* unsupported */
@@ -432,12 +779,12 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         /* noop */
       }
     };
-  }, []);
+  }, [pause]);
 
   useEffect(() => {
-    if (!station || typeof navigator === "undefined" || !("mediaSession" in navigator)) return;
+    if (!media || typeof navigator === "undefined" || !("mediaSession" in navigator))
+      return;
     const origin = typeof window !== "undefined" ? window.location.origin : "";
-    // Cache-bust: macOS/iOS Media Session caches artwork by URL aggressively.
     const artwork =
       origin.length > 0
         ? [
@@ -453,32 +800,50 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
             },
           ]
         : [];
-    // iOS lock screen: "artist" is the subline under the title — use location, not callsign
-    // (many stations encode callsign + MHz in callsign, which duplicates the title).
-    const locationLine = [station.city?.trim(), station.state?.trim()]
-      .filter(Boolean)
-      .join(", ");
-    const artist = locationLine || "Australia";
 
-    const cs = station.callsign?.trim() ?? "";
-    const nameLow = station.name.toLowerCase();
-    const csLow = cs.toLowerCase();
-    const album =
-      cs && cs.length <= 48 && !nameLow.includes(csLow.slice(0, Math.min(csLow.length, 16)))
-        ? cs
-        : "Live stream";
+    if (media.kind === "radio") {
+      const station = media.station;
+      const locationLine = [station.city?.trim(), station.state?.trim()]
+        .filter(Boolean)
+        .join(", ");
+      const artist = locationLine || "Australia";
+      const cs = station.callsign?.trim() ?? "";
+      const nameLow = station.name.toLowerCase();
+      const csLow = cs.toLowerCase();
+      const album =
+        cs &&
+        cs.length <= 48 &&
+        !nameLow.includes(csLow.slice(0, Math.min(csLow.length, 16)))
+          ? cs
+          : "Live stream";
+      try {
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title: station.name,
+          artist,
+          album,
+          artwork,
+        });
+      } catch {
+        /* ignore */
+      }
+      return;
+    }
 
+    const channel = media.channel;
+    const artist =
+      [channel.network, channel.state].filter(Boolean).join(" · ") ||
+      "Australian TV";
     try {
       navigator.mediaSession.metadata = new MediaMetadata({
-        title: station.name,
+        title: channel.name,
         artist,
-        album,
+        album: "Live TV",
         artwork,
       });
     } catch {
       /* ignore */
     }
-  }, [station]);
+  }, [media]);
 
   useEffect(() => {
     const onVisible = () => {
@@ -491,23 +856,47 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
     return () => document.removeEventListener("visibilitychange", onVisible);
   }, []);
 
+  const station = media?.kind === "radio" ? media.station : null;
+
   return (
     <PlayerContext.Provider
       value={{
         station,
+        media,
         isPlaying,
         volume,
         error,
         isReconnecting,
         analyser,
         play,
+        playChannel,
         pause,
         setVolume,
         clearError,
+        registerVideoHost,
+        setVideoModalOpen,
+        videoModalOpen,
+        requestVideoFullscreen,
+        getVideoElement,
       }}
     >
       {children}
       <audio ref={audioRef} preload="none" aria-hidden className="hidden" />
+      {/* Parking slot only — video node is created imperatively (see mount effect). */}
+      <div
+        ref={videoHomeRef}
+        aria-hidden
+        style={{
+          position: "fixed",
+          left: "-100vw",
+          top: 0,
+          width: 1,
+          height: 1,
+          overflow: "hidden",
+          opacity: 0,
+          pointerEvents: "none",
+        }}
+      />
     </PlayerContext.Provider>
   );
 }

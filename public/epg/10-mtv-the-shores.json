@@ -1,0 +1,112 @@
+{
+  "slug": "10-mtv-the-shores",
+  "epgId": "mjh-10-mtv-the-shores",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:00:00.000Z",
+      "stop": "2026-09-17T10:48:00.000Z",
+      "title": "Jersey Shore S4 Ep. 412",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:48:00.000Z",
+      "stop": "2026-09-17T11:36:00.000Z",
+      "title": "Jersey Shore S4 Ep. 453",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:36:00.000Z",
+      "stop": "2026-09-17T12:26:00.000Z",
+      "title": "Geordie Shore S4 Ep. 401",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:26:00.000Z",
+      "stop": "2026-09-17T13:16:12.000Z",
+      "title": "Geordie Shore S4 Ep. 402",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:16:12.000Z",
+      "stop": "2026-09-17T14:05:00.000Z",
+      "title": "Geordie Shore S4 Ep. 403",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:05:00.000Z",
+      "stop": "2026-09-17T14:55:00.000Z",
+      "title": "Geordie Shore S4 Ep. 404",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:55:00.000Z",
+      "stop": "2026-09-17T15:45:00.000Z",
+      "title": "Geordie Shore S4 Ep. 405",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:45:00.000Z",
+      "stop": "2026-09-17T16:35:00.000Z",
+      "title": "Geordie Shore S4 Ep. 406",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:35:00.000Z",
+      "stop": "2026-09-17T17:25:00.000Z",
+      "title": "Geordie Shore S4 Ep. 407",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:25:00.000Z",
+      "stop": "2026-09-17T18:14:00.000Z",
+      "title": "Geordie Shore S4 Ep. 408",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:14:00.000Z",
+      "stop": "2026-09-17T19:04:00.000Z",
+      "title": "Geordie Shore S5 Ep. 501",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:04:00.000Z",
+      "stop": "2026-09-17T19:54:00.000Z",
+      "title": "Geordie Shore S5 Ep. 502",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:54:00.000Z",
+      "stop": "2026-09-17T20:24:00.000Z",
+      "title": "Geordie Shore S5 Ep. 503",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

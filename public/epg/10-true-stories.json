@@ -1,0 +1,112 @@
+{
+  "slug": "10-true-stories",
+  "epgId": "mjh-10-true-stories",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:53:00.000Z",
+      "stop": "2026-09-17T10:42:00.000Z",
+      "title": "Vanity Fair Confidential AU S3 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:42:00.000Z",
+      "stop": "2026-09-17T11:33:00.000Z",
+      "title": "Vanity Fair Confidential AU S2 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:33:00.000Z",
+      "stop": "2026-09-17T12:22:00.000Z",
+      "title": "Vanity Fair Confidential AU S3 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:22:00.000Z",
+      "stop": "2026-09-17T13:14:21.000Z",
+      "title": "Vanity Fair Confidential AU S2 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:14:21.000Z",
+      "stop": "2026-09-17T14:06:00.000Z",
+      "title": "Vanity Fair Confidential AU S1 Ep. 12",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:06:00.000Z",
+      "stop": "2026-09-17T14:58:00.000Z",
+      "title": "Vanity Fair Confidential AU S1 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:58:00.000Z",
+      "stop": "2026-09-17T15:46:00.000Z",
+      "title": "Vanity Fair Confidential AU S4 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:46:00.000Z",
+      "stop": "2026-09-17T16:35:00.000Z",
+      "title": "Vanity Fair Confidential AU S3 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:35:00.000Z",
+      "stop": "2026-09-17T17:24:00.000Z",
+      "title": "Vanity Fair Confidential AU S4 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:24:00.000Z",
+      "stop": "2026-09-17T18:12:00.000Z",
+      "title": "Vanity Fair Confidential AU S4 Ep. 11",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:12:00.000Z",
+      "stop": "2026-09-17T19:01:00.000Z",
+      "title": "Vanity Fair Confidential AU S4 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:01:00.000Z",
+      "stop": "2026-09-17T19:50:00.000Z",
+      "title": "Vanity Fair Confidential AU S3 Ep. 10",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:50:00.000Z",
+      "stop": "2026-09-17T20:20:00.000Z",
+      "title": "Vanity Fair Confidential AU S4 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "slug": "sbs-sbst",
+  "epgId": "mjh-sbs-sbst",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:35:00.000Z",
+      "stop": "2026-09-17T10:30:00.000Z",
+      "title": "Hollywood Crime Story",
+      "subtitle": "Episode 1",
+      "description": "Organised crime infiltrates Hollywood, as gangsters and stars mix and the mob shapes the industry.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T10:30:00.000Z",
+      "stop": "2026-09-17T11:25:00.000Z",
+      "title": "9/11: One Day In America",
+      "subtitle": "The Cloud",
+      "description": "Survivors become separated when they are engulfed by a gigantic dust cloud after the fall of the south tower. We follow them as they wrestle with the trauma of their experiences.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T11:25:00.000Z",
+      "stop": "2026-09-17T12:20:00.000Z",
+      "title": "Say Nothing",
+      "subtitle": "I Lay Waiting",
+      "description": "For Dolours and Gerry Adams, the past won't go away, you know.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T12:20:00.000Z",
+      "stop": "2026-09-17T12:50:00.000Z",
+      "title": "SBS World News Late",
+      "subtitle": "Episode 174",
+      "description": "Latest reports and analysis of major national and international news of the day from Australia's only world news service.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T12:50:00.000Z",
+      "stop": "2026-09-17T13:45:00.000Z",
+      "title": "Reyka",
+      "subtitle": "Episode 6",
+      "description": "Speelman slips through Reyka's fingers but has to seek refuge in the harbour underworld. Reyka draws links between the cobber shop and Lover's Lane murders.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T13:45:00.000Z",
+      "stop": "2026-09-17T14:55:00.000Z",
+      "title": "Prisoner",
+      "subtitle": "Is There Bad News?",
+      "description": "The information from Sammi's secret source leads to more successful raids, which impresses the consultants but puts the inmates under pressure and makes them desperate as their business is ruined.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T14:55:00.000Z",
+      "stop": "2026-09-17T16:00:00.000Z",
+      "title": "Prisoner",
+      "subtitle": "Can I Get A Cough?",
+      "description": "Sammi and Ariana are getting closer although she seemed like a difficult and annoying roommate at first. Gert must take a difficult and heartbreaking decision.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T16:00:00.000Z",
+      "stop": "2026-09-17T16:55:00.000Z",
+      "title": "Prince's Master Crafters Next Generation",
+      "subtitle": "Pargeting",
+      "description": "Today is pargetting, a form of ornamental plasterwork. Johanna Welsh is the third generation of pargeters and has tasked the students to create a panel featuring oak leaves and acorns.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T16:55:00.000Z",
+      "stop": "2026-09-17T17:45:00.000Z",
+      "title": "Prince's Master Crafters Next Generation",
+      "subtitle": "Grand Final",
+      "description": "It's finally time for the students to head to Dumfries House to seek inspiration for their graduation projects in their own discipline for His Royal Highness, the Prince of Wales.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T17:45:00.000Z",
+      "stop": "2026-09-17T18:35:00.000Z",
+      "title": "Along Ancient Tracks",
+      "subtitle": "Albania's Last Trains",
+      "description": "Slow, old, and defying extinction - Albania's last surviving railways wind past lakes, coastlines, and mountain valleys. This film rides the final lines at 40 km per hour.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:35:00.000Z",
+      "stop": "2026-09-17T19:00:00.000Z",
+      "title": "Bamay",
+      "subtitle": "Arrernte Country",
+      "description": "A slow TV showcase of the stunning landscapes found in Arrernte Country.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T19:00:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "NHK World English News Morning",
+      "subtitle": "Friday 18 September 2026",
+      "description": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T19:30:00.000Z",
+      "stop": "2026-09-17T20:00:00.000Z",
+      "title": "ANC Philippines The World Tonight",
+      "subtitle": "Friday 18 September 2026",
+      "description": "Multi-award winning newscast on ABS-CBN and ANC, The World Tonight delivers the top stories of the day, covering political, economic, and social sectors on both local and global fronts.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T20:00:00.000Z",
+      "stop": "2026-09-17T20:30:00.000Z",
+      "title": "DW English News",
+      "subtitle": "Morning",
+      "description": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T20:30:00.000Z",
+      "stop": "2026-09-17T21:00:00.000Z",
+      "title": "Al Jazeera News",
+      "subtitle": "Friday 18 September 2026",
+      "description": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T21:00:00.000Z",
+      "stop": "2026-09-17T21:30:00.000Z",
+      "title": "BBC News At Six",
+      "subtitle": "Friday 18 September 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T21:30:00.000Z",
+      "stop": "2026-09-17T22:00:00.000Z",
+      "title": "France 24 English News",
+      "subtitle": "Morning First Edition",
+      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T22:00:00.000Z",
+      "stop": "2026-09-17T23:00:00.000Z",
+      "title": "DD India News Hour",
+      "subtitle": "Friday 18 September 2026",
+      "description": "The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T23:00:00.000Z",
+      "stop": "2026-09-17T23:10:00.000Z",
+      "title": "Destination Flavour Singapore Bitesize",
+      "subtitle": "Hainanese Chicken",
+      "description": "The best bits of Adam Liaw's travels in Singapore, as he explores its vibrant food scene.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T23:10:00.000Z",
+      "stop": "2026-09-17T23:40:00.000Z",
+      "title": "Paul O'Grady For The Love Of Dogs",
+      "subtitle": "Episode 6",
+      "description": "In this episode, Paul meets a terrier stray rescued from a terrifying ordeal, a labrador with a mysterious lurgy, and the strangest looking dog he's ever seen.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T23:40:00.000Z",
+      "stop": "2026-09-18T00:10:00.000Z",
+      "title": "Paul O'Grady For The Love Of Dogs",
+      "subtitle": "Episode 7",
+      "description": "In this episode, Paul meets a Staffie-cross who is terrified of going outside, a warring gang of Japanese Chin-crosses, and an unusually quiet chihuahua in need of knee surgery.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T00:10:00.000Z",
+      "stop": "2026-09-18T01:00:00.000Z",
+      "title": "Vintage Voltage",
+      "subtitle": "Land Rover Series 2a",
+      "description": "The Land Rover series 2A from 1970 is a high-profile classic car, a global icon of rough-tough engineering. But its' owner is keen to keep a low profile and wants to bankroll the project from afar.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T01:00:00.000Z",
+      "stop": "2026-09-18T02:00:00.000Z",
+      "title": "Wales: Land Of The Wild",
+      "subtitle": "The Heat Is On",
+      "description": "It's the middle of spring and the brightest time of year in Wales. This should be the best of times for wildlife, but the race to breed is on, and predators are on the hunt.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T02:00:00.000Z",
+      "stop": "2026-09-18T02:30:00.000Z",
+      "title": "BBC News At Ten",
+      "subtitle": "Friday 18 September 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T02:30:00.000Z",
+      "stop": "2026-09-18T02:55:00.000Z",
+      "title": "France 24 International SBS Midday",
+      "subtitle": "Friday 18 September 2026",
+      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T02:55:00.000Z",
+      "stop": "2026-09-18T03:55:00.000Z",
+      "title": "PBS Newshour",
+      "subtitle": "Friday 18 September 2026",
+      "description": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T03:55:00.000Z",
+      "stop": "2026-09-18T05:00:00.000Z",
+      "title": "DNA Family Secrets",
+      "subtitle": "Episode 3",
+      "description": "Stephanie was left as a newborn and knows nothing more about where she comes from. Mark believed his birth father was Egyptian but has recently started to question it. Viv searches for her sister.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T05:00:00.000Z",
+      "stop": "2026-09-18T05:30:00.000Z",
+      "title": "NITV News: Nula",
+      "subtitle": "Episode 34",
+      "description": "The latest news from the oldest living culture, join Natalie Ahmat and the team of NITV journalists for stories from an Indigenous perspective.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T05:30:00.000Z",
+      "stop": "2026-09-18T06:00:00.000Z",
+      "title": "The Cook Up With Adam Liaw",
+      "subtitle": "Vege Patch Pasta",
+      "description": "Fresh from the vege patch, Adam and his guests, comedic genius Kitty Flanagan and culinary genius Katie White, make pasta with their harvest.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T06:00:00.000Z",
+      "stop": "2026-09-18T07:05:00.000Z",
+      "title": "Who Do You Think You Are? UK",
+      "subtitle": "Matt Lucas",
+      "description": "Matt had a close bond with his late grandmother who came to the UK as a Jewish refugee from Nazi Germany. His journey takes him to Berlin and Amsterdam to discover the connection with his family.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T07:05:00.000Z",
+      "stop": "2026-09-18T07:30:00.000Z",
+      "title": "Jeopardy!",
+      "subtitle": "Episode 135",
+      "description": "Ken Jennings hosts Jeopardy! Where the answers are revealed, and the contestants must guess the appropriate questions.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T07:30:00.000Z",
+      "stop": "2026-09-18T08:00:00.000Z",
+      "title": "Letters And Numbers",
+      "subtitle": "Episode 46",
+      "description": "Two contestants pit their linguistic and numerical skills against each other and the clock in this entertaining quiz show. Join host Richard Morecroft along with Lily Serna and David Astle.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T08:00:00.000Z",
+      "stop": "2026-09-18T08:30:00.000Z",
+      "title": "Mastermind Australia",
+      "subtitle": "Episode 35",
+      "description": "In this round, the specialty subjects are a musical, invention, book, and a word.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T08:30:00.000Z",
+      "stop": "2026-09-18T09:35:00.000Z",
+      "title": "SBS World News",
+      "subtitle": "Episode 261",
+      "description": "Latest reports and analysis of major national and international news of the day from Australia's only world news service.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T09:35:00.000Z",
+      "stop": "2026-09-18T10:30:00.000Z",
+      "title": "The Good Ship Murder",
+      "subtitle": "Ibiza",
+      "description": "In Ibiza, an old flame rekindles at a nightclub, but when a business partner is found dead, Jack and Kate face a dangerous local crime boss. Meanwhile, romance blooms for Piers too.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T10:30:00.000Z",
+      "stop": "2026-09-18T11:20:00.000Z",
+      "title": "WWII With Tom Hanks",
+      "subtitle": "Home Front",
+      "description": "As the tide begins to turn against the Axis powers, the leaders of Germany and Japan deploy opposite strategies on their home fronts.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T11:20:00.000Z",
+      "stop": "2026-09-18T12:10:00.000Z",
+      "title": "WWII With Tom Hanks",
+      "subtitle": "Resistance",
+      "description": "Resistance to Nazi occupation and oppression is a constant throughout the war, with results both triumphant and devastating.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T12:10:00.000Z",
+      "stop": "2026-09-18T12:40:00.000Z",
+      "title": "SBS World News Late",
+      "subtitle": "Episode 175",
+      "description": "Latest reports and analysis of major national and international news of the day from Australia's only world news service.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T12:40:00.000Z",
+      "stop": "2026-09-18T13:35:00.000Z",
+      "title": "Spy/Master",
+      "subtitle": "The Safe House",
+      "description": "News of a missing diplomat spreads as Victor hides in a safehouse and Frank makes a risky move to force the CIA's hand. Back in Romania, Ileana and Adela reel from his disappearance.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T13:35:00.000Z",
+      "stop": "2026-09-18T14:30:00.000Z",
+      "title": "Darkness: Those Who Kill",
+      "subtitle": "Episode 3",
+      "description": "Louise Bergstein and Karina Horup know that the serial killer has claimed a new victim in William Fjeldby, who was kidnapped and abducted in his own car.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T14:30:00.000Z",
+      "stop": "2026-09-18T15:25:00.000Z",
+      "title": "Darkness: Those Who Kill",
+      "subtitle": "Episode 4",
+      "description": "Alice Ejbye receives some bad news from the doctor. At the same time, despite two new victims, the police have yet to find the man who killed her son Markus.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T15:25:00.000Z",
+      "stop": "2026-09-18T18:05:00.000Z",
+      "title": "The Goldfinch",
+      "subtitle": null,
+      "description": "Theodore Decker was 13 years old when his mother was killed in a bombing. The tragedy changes the course of his life, sending him on a stirring odyssey of grief and redemption.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T18:05:00.000Z",
+      "stop": "2026-09-18T18:55:00.000Z",
+      "title": "Along Ancient Tracks",
+      "subtitle": "Bulgaria's Rhodope Railway",
+      "description": "Albania's ageing single-track railways are slow, adventurous, and clinging to survival. This film travels the last surviving lines at 40 km per hour, uncovering the stories along the way.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T18:55:00.000Z",
+      "stop": "2026-09-18T19:00:00.000Z",
+      "title": "Destination Flavour China Bitesize",
+      "subtitle": "Shanghai Style Wonton Soup",
+      "description": "All the best moments and bits from Destination Flavour China, led by famed chef and author Adam Liaw.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T19:00:00.000Z",
+      "stop": "2026-09-18T19:30:00.000Z",
+      "title": "NHK World English News Morning",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T19:30:00.000Z",
+      "stop": "2026-09-18T20:00:00.000Z",
+      "title": "ANC Philippines The World Tonight",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "Multi-award winning newscast on ABS-CBN and ANC, The World Tonight delivers the top stories of the day, covering political, economic, and social sectors on both local and global fronts.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T20:00:00.000Z",
+      "stop": "2026-09-18T20:30:00.000Z",
+      "title": "DW English News",
+      "subtitle": "Morning",
+      "description": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T20:30:00.000Z",
+      "stop": "2026-09-18T21:00:00.000Z",
+      "title": "Al Jazeera News",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T21:00:00.000Z",
+      "stop": "2026-09-18T21:30:00.000Z",
+      "title": "BBC News At Six",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T21:30:00.000Z",
+      "stop": "2026-09-18T22:00:00.000Z",
+      "title": "France 24 English News",
+      "subtitle": "Morning First Edition",
+      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-18T22:00:00.000Z",
+      "stop": "2026-09-18T23:00:00.000Z",
+      "title": "DD India News Hour",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.",
+      "category": "News"
+    }
+  ]
+}

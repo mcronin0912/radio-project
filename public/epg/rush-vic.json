@@ -1,0 +1,408 @@
+{
+  "slug": "rush-vic",
+  "epgId": "mjh-rush-vic",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:33:00.000Z",
+      "stop": "2026-09-17T10:33:00.000Z",
+      "title": "Kindig Customs",
+      "subtitle": "The Secret Client",
+      "description": "Dave is tasked with finding and transforming a 1967 Pontiac GTO for a secret client from South Africa; Dave buys back one of his first builds, a Volkswagen Karmann Ghia, but doesn't know what he'll do when he gets it back on the road.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T10:33:00.000Z",
+      "stop": "2026-09-17T11:31:00.000Z",
+      "title": "Ice Road Truckers",
+      "subtitle": "Of Ice And Men",
+      "description": "The ice roads are at their meanest and slickest when Reno Ward has a disastrous encounter with a speeding pick-up, then, as Lisa Kelly attempts to rescue him, her truck is pushed to the breaking point.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T11:31:00.000Z",
+      "stop": "2026-09-17T13:18:00.000Z",
+      "title": "America's War On Drugs",
+      "subtitle": "Cocaine, Cartels & Crackdowns",
+      "description": "Cocaine lands in America from secret airports, lining the pockets of violent cartel bosses, and an infamous \"black widow\", as the CIA's shadow wars have unintended consequences. President Reagan cracks down as crack invades the USA.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T13:18:00.000Z",
+      "stop": "2026-09-17T14:17:00.000Z",
+      "title": "Kindig Customs",
+      "subtitle": "The Secret Client",
+      "description": "Dave is tasked with finding and transforming a 1967 Pontiac GTO for a secret client from South Africa; Dave buys back one of his first builds, a Volkswagen Karmann Ghia, but doesn't know what he'll do when he gets it back on the road.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T14:17:00.000Z",
+      "stop": "2026-09-17T15:14:00.000Z",
+      "title": "Ice Road Truckers",
+      "subtitle": "Of Ice And Men",
+      "description": "The ice roads are at their meanest and slickest when Reno Ward has a disastrous encounter with a speeding pick-up, then, as Lisa Kelly attempts to rescue him, her truck is pushed to the breaking point.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T15:14:00.000Z",
+      "stop": "2026-09-17T15:44:00.000Z",
+      "title": "Drive TV - Launch Pad",
+      "subtitle": "Land & Legacy",
+      "description": "Jess Morris takes the CUPRA Terramar inland, exploring Spanish grapes at Centennial Vineyards and the grace of pure-bred Spanish horses at Black Horse Manor.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T15:44:00.000Z",
+      "stop": "2026-09-17T17:29:00.000Z",
+      "title": "America's War On Drugs",
+      "subtitle": "Cocaine, Cartels & Crackdowns",
+      "description": "Cocaine lands in America from secret airports, lining the pockets of violent cartel bosses, and an infamous \"black widow\", as the CIA's shadow wars have unintended consequences. President Reagan cracks down as crack invades the USA.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T17:29:00.000Z",
+      "stop": "2026-09-17T17:59:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Los Angeles - Old Rivals, New Wars",
+      "description": "Rivals Brandon and Jesse team up for a massive locker, a vintage motorcycle brings big cash, and the Taylor Brothers arrive in LA ready for a brutal fight.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T17:59:00.000Z",
+      "stop": "2026-09-17T18:28:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Los Angeles - Cash Dash",
+      "description": "Brandon and Lori battle the Taylor brothers, Jesse bets on marksman weapons, and a locker with a rancid stench turns out to hold a mind-blowing score.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:28:00.000Z",
+      "stop": "2026-09-17T18:58:00.000Z",
+      "title": "Drive TV - Launch Pad",
+      "subtitle": "Land & Legacy",
+      "description": "Jess Morris takes the CUPRA Terramar inland, exploring Spanish grapes at Centennial Vineyards and the grace of pure-bred Spanish horses at Black Horse Manor.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:58:00.000Z",
+      "stop": "2026-09-17T19:03:00.000Z",
+      "title": "Explore Moments",
+      "subtitle": "Weta Workshop",
+      "description": "Some of the best bits from the Explore series.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T19:03:00.000Z",
+      "stop": "2026-09-17T19:31:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Man. Make. Fire.",
+      "description": "Go cruising with the Pawn Stars when Rick and the Old Man eye a 1949 Hudson Commodore. A premium luxury ride of the post-war era, will the guys add this classic car to their collection, or put the brakes on negotiations?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T19:31:00.000Z",
+      "stop": "2026-09-17T20:00:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Lord of the Ring",
+      "description": "The Pawn Stars say their prayers when a guy brings in a ring believed to have been owned by a Catholic Cardinal.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T20:00:00.000Z",
+      "stop": "2026-09-17T21:00:00.000Z",
+      "title": "Salvage Hunters: The Restorers",
+      "subtitle": "The Beautiful Game",
+      "description": "Michael and Maria tackle a football arcade game from the 1950's, Serkan sets Ted a challenge of restoring two art deco cinema lights; and Saxon enlists joiner Robin to help save a huge haberdashers cabinet.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T21:00:00.000Z",
+      "stop": "2026-09-17T21:30:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Carlsbad - Medieval Melee",
+      "description": "The buyers go to war in Carlsbad, throwing down serious cash to win a locker packed with highly valuable vintage surf gear.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T21:30:00.000Z",
+      "stop": "2026-09-17T22:00:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "San Diego - Dirty Deeds, Dirtier Dealings",
+      "description": "Buyers fight for rare movie memorabilia, while Papa Bear and T-Money gamble on low-grade trash bins that hide a childhood dream-come-true.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T22:00:00.000Z",
+      "stop": "2026-09-17T23:00:00.000Z",
+      "title": "Wheeler Dealers",
+      "subtitle": "1987 Renault 5 GT Turbo",
+      "description": "Mike buys a Renault 5 GT Turbo, the ultimate '80s hot hatch, from Charlotte, a racing driver who runs a garage just up the road; Charlotte soon regrets selling the car, and her husband contacts Mike hoping to buy it back for her birthday.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T23:00:00.000Z",
+      "stop": "2026-09-17T23:30:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "On Guard",
+      "description": "All hail the Pawn Stars when they check out a uniform from the King of England s royal guard. Used by those guarding the royal palace in England since the 1700s, can the guys get the seller to crack a smile, or is he strictly business?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T23:30:00.000Z",
+      "stop": "2026-09-18T00:00:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "The Offer",
+      "description": "Start your engines with the Pawn Stars as the guys check out a 1956 Chevy drag racing car. Custom built for the 1/4 mile, will the guys race to make an offer or will negotiations stall before the light turns green?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T00:00:00.000Z",
+      "stop": "2026-09-18T01:00:00.000Z",
+      "title": "Bush Wreck Rescue",
+      "subtitle": "Showtime",
+      "description": "Midnight Oil's plan to unveil their 68 Chevy at a major car show is put in jeopardy; Wreckless Restorations scrambles to deliver the \"hippie van,\" and Robin finds a farm that's a treasure trove of classic vehicles.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T01:00:00.000Z",
+      "stop": "2026-09-18T02:00:00.000Z",
+      "title": "Salvage Hunters: The Restorers",
+      "subtitle": "The Beautiful Game",
+      "description": "Michael and Maria tackle a football arcade game from the 1950's, Serkan sets Ted a challenge of restoring two art deco cinema lights; and Saxon enlists joiner Robin to help save a huge haberdashers cabinet.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T02:00:00.000Z",
+      "stop": "2026-09-18T03:00:00.000Z",
+      "title": "Alaskan Bush People",
+      "subtitle": "A Bottle for Your Thoughts",
+      "description": "Bear overnights in the wild as he absorbs life-changing news. A gentler Bam takes the lead on a critical step of the main house build, while Noah creates a Bush Monster Plow to clear heavy snow. Sister Bird makes an unusual gift for Gabe.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T03:00:00.000Z",
+      "stop": "2026-09-18T04:00:00.000Z",
+      "title": "Ice Road Truckers",
+      "subtitle": "Jackknife Jeopardy",
+      "description": "The ice road season is off to a bad start. Lisa finds herself in a real jam after jack-knifing her truck deep in the back country, then Alex gets more than he bargained for when he falls through a patch of thin ice.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T04:00:00.000Z",
+      "stop": "2026-09-18T05:00:00.000Z",
+      "title": "Wheeler Dealers",
+      "subtitle": "1987 Renault 5 GT Turbo",
+      "description": "Mike buys a Renault 5 GT Turbo, the ultimate '80s hot hatch, from Charlotte, a racing driver who runs a garage just up the road; Charlotte soon regrets selling the car, and her husband contacts Mike hoping to buy it back for her birthday.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T05:00:00.000Z",
+      "stop": "2026-09-18T05:30:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Carlsbad - Medieval Melee",
+      "description": "The buyers go to war in Carlsbad, throwing down serious cash to win a locker packed with highly valuable vintage surf gear.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T05:30:00.000Z",
+      "stop": "2026-09-18T06:00:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "San Diego - Dirty Deeds, Dirtier Dealings",
+      "description": "Buyers fight for rare movie memorabilia, while Papa Bear and T-Money gamble on low-grade trash bins that hide a childhood dream-come-true.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T06:00:00.000Z",
+      "stop": "2026-09-18T06:30:00.000Z",
+      "title": "Drive TV - What Drives Us",
+      "subtitle": "Episode 1 of Season 2026",
+      "description": "Join Kris Smith as he speaks to industry experts to discover the latest vehicles, technology, and news. In this episode, we look at the lay of the automotive space in 2026.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T06:30:00.000Z",
+      "stop": "2026-09-18T07:30:00.000Z",
+      "title": "Salvage Hunters: The Restorers",
+      "subtitle": "The Beautiful Game",
+      "description": "Michael and Maria tackle a football arcade game from the 1950's, Serkan sets Ted a challenge of restoring two art deco cinema lights; and Saxon enlists joiner Robin to help save a huge haberdashers cabinet.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T07:30:00.000Z",
+      "stop": "2026-09-18T08:00:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "On Guard",
+      "description": "All hail the Pawn Stars when they check out a uniform from the King of England s royal guard. Used by those guarding the royal palace in England since the 1700s, can the guys get the seller to crack a smile, or is he strictly business?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T08:00:00.000Z",
+      "stop": "2026-09-18T08:30:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "The Offer",
+      "description": "Start your engines with the Pawn Stars as the guys check out a 1956 Chevy drag racing car. Custom built for the 1/4 mile, will the guys race to make an offer or will negotiations stall before the light turns green?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T08:30:00.000Z",
+      "stop": "2026-09-18T09:30:00.000Z",
+      "title": "Wheeler Dealers",
+      "subtitle": "1987 Renault 5 GT Turbo",
+      "description": "Mike buys a Renault 5 GT Turbo, the ultimate '80s hot hatch, from Charlotte, a racing driver who runs a garage just up the road; Charlotte soon regrets selling the car, and her husband contacts Mike hoping to buy it back for her birthday.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T09:30:00.000Z",
+      "stop": "2026-09-18T10:30:00.000Z",
+      "title": "Expedition Bigfoot",
+      "subtitle": "Breeding Ground",
+      "description": "Bryce, Dr. Mireya, and Russell search North America for Bigfoot. Returning to northern California, they investigate compelling evidence, seeking to solve the centuries-old mystery.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T10:30:00.000Z",
+      "stop": "2026-09-18T11:30:00.000Z",
+      "title": "Beyond Skinwalker Ranch",
+      "subtitle": "Thomas Miller Ranch",
+      "description": "Ranch experiences cattle mutilations, highway fatalities. Andy and Paul investigate potential connection, encounter unexplained phenomena during probe into strange occurrences.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T11:30:00.000Z",
+      "stop": "2026-09-18T12:30:00.000Z",
+      "title": "Ancient Aliens",
+      "subtitle": "The Druid Connection",
+      "description": "Did ancient Druids travel to New England and New York's Hudson Valley centuries ago, bringing with them the beliefs and technologies of their alien mentors? And did they leave behind vital clues in the form of mysterious stone structures?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T12:30:00.000Z",
+      "stop": "2026-09-18T13:00:00.000Z",
+      "title": "Paranormal State",
+      "subtitle": "Vendetta",
+      "description": "PRS investigates claims of supernatural revenge in the Poconos. Did the haunting start when a boyfriend moved in or did a bitter ex-husband place a hex on the house and family?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T13:00:00.000Z",
+      "stop": "2026-09-18T13:30:00.000Z",
+      "title": "Paranormal State",
+      "subtitle": "Southern Discomfort at Sweetwater Mansion",
+      "description": "PRS visits a decaying Southern mansion where a dark past is unearthed. The caretaker shares tales of activity, leading the team to roots of the haunting and the lingering spirits.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T13:30:00.000Z",
+      "stop": "2026-09-18T14:30:00.000Z",
+      "title": "Expedition Unknown",
+      "subtitle": "Searching for World War II's Lost Hero",
+      "description": "Josh travels to Micronesia and dives the Pacific to find a lost P-47 Thunderbolt flown by a WWII American hero. Guided by new eyewitness accounts and cutting-edge tech, he searches for clues to a daring, final-days war raid.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T14:30:00.000Z",
+      "stop": "2026-09-18T15:30:00.000Z",
+      "title": "Expedition Bigfoot",
+      "subtitle": "Breeding Ground",
+      "description": "Bryce, Dr. Mireya, and Russell search North America for Bigfoot. Returning to northern California, they investigate compelling evidence, seeking to solve the centuries-old mystery.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T15:30:00.000Z",
+      "stop": "2026-09-18T16:30:00.000Z",
+      "title": "Ancient Aliens",
+      "subtitle": "The Druid Connection",
+      "description": "Did ancient Druids travel to New England and New York's Hudson Valley centuries ago, bringing with them the beliefs and technologies of their alien mentors? And did they leave behind vital clues in the form of mysterious stone structures?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T16:30:00.000Z",
+      "stop": "2026-09-18T17:00:00.000Z",
+      "title": "Paranormal State",
+      "subtitle": "Vendetta",
+      "description": "PRS investigates claims of supernatural revenge in the Poconos. Did the haunting start when a boyfriend moved in or did a bitter ex-husband place a hex on the house and family?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T17:00:00.000Z",
+      "stop": "2026-09-18T17:30:00.000Z",
+      "title": "Paranormal State",
+      "subtitle": "Southern Discomfort at Sweetwater Mansion",
+      "description": "PRS visits a decaying Southern mansion where a dark past is unearthed. The caretaker shares tales of activity, leading the team to roots of the haunting and the lingering spirits.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T17:30:00.000Z",
+      "stop": "2026-09-18T18:00:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Carlsbad - Medieval Melee",
+      "description": "The buyers go to war in Carlsbad, throwing down serious cash to win a locker packed with highly valuable vintage surf gear.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T18:00:00.000Z",
+      "stop": "2026-09-18T18:30:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "San Diego - Dirty Deeds, Dirtier Dealings",
+      "description": "Buyers fight for rare movie memorabilia, while Papa Bear and T-Money gamble on low-grade trash bins that hide a childhood dream-come-true.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T18:30:00.000Z",
+      "stop": "2026-09-18T19:00:00.000Z",
+      "title": "Drive TV - What Drives Us",
+      "subtitle": "Episode 1 of Season 2026",
+      "description": "Join Kris Smith as he speaks to industry experts to discover the latest vehicles, technology, and news. In this episode, we look at the lay of the automotive space in 2026.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T19:00:00.000Z",
+      "stop": "2026-09-18T19:30:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "On Guard",
+      "description": "All hail the Pawn Stars when they check out a uniform from the King of England s royal guard. Used by those guarding the royal palace in England since the 1700s, can the guys get the seller to crack a smile, or is he strictly business?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T19:30:00.000Z",
+      "stop": "2026-09-18T20:00:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "The Offer",
+      "description": "Start your engines with the Pawn Stars as the guys check out a 1956 Chevy drag racing car. Custom built for the 1/4 mile, will the guys race to make an offer or will negotiations stall before the light turns green?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T20:00:00.000Z",
+      "stop": "2026-09-18T21:00:00.000Z",
+      "title": "Salvage Hunters: The Restorers",
+      "subtitle": "Fat Les",
+      "description": "Rebecca Pritchard entrusts her precious heirloom, a cherub statue affectionately known as Fat Les, to sculptor Nick Elphick who must restore Les back to his best.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T21:00:00.000Z",
+      "stop": "2026-09-18T21:30:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Culver City - Dirty Gold Rush",
+      "description": "Buyers clash over construction gear, Brandon and Lori spot a hidden golden score, and a gas-scented locker leads to a showdown that gets a buyer banned.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T21:30:00.000Z",
+      "stop": "2026-09-18T22:00:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Los Angeles - Native Wars",
+      "description": "Minds are blown in Los Angeles when an unlikely pairing of rival buyers teams up to secure a major score and make a massive pile of cash.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T22:00:00.000Z",
+      "stop": "2026-09-18T23:00:00.000Z",
+      "title": "Wheeler Dealers",
+      "subtitle": "Mitsubishi Evo 7",
+      "description": "Mike and Elvis get to work on an iconic Japanese rally car: a Mitsubishi Lancer Evo7. It needs a total engine rebuild and a new look if it is to be king of the street racers once again.",
+      "category": "Special Interest"
+    }
+  ]
+}

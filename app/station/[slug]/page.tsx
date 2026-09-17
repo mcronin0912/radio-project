@@ -1,10 +1,10 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
 import { getStationBySlug, getStationContent, getStations } from "@/lib/stations";
-import { ExternalLink, Radio } from "lucide-react";
+import { ExternalLink } from "lucide-react";
 import { LiveIndicator } from "@/components/stations/LiveIndicator";
 import { PlayButton } from "@/components/stations/PlayButton";
+import { MediaLogo } from "@/components/MediaLogo";
 
 export function generateStaticParams() {
   return getStations().map((s) => ({ slug: s.slug }));
@@ -45,20 +45,13 @@ export default async function StationPage({ params }: PageProps) {
       </Link>
 
       <header className="mt-8 flex flex-col gap-6 sm:flex-row sm:items-start">
-        <div className="flex h-24 w-24 shrink-0 items-center justify-center overflow-hidden rounded-cards bg-paper p-2 shadow-subtle">
-          {station.logoUrl ? (
-            <Image
-              src={station.logoUrl}
-              alt=""
-              width={96}
-              height={96}
-              className="size-full rounded-md object-contain"
-              unoptimized
-            />
-          ) : (
-            <Radio className="h-10 w-10 text-ash" />
-          )}
-        </div>
+        <MediaLogo
+          url={station.logoUrl}
+          kind="radio"
+          className="h-24 w-24 rounded-cards p-2 shadow-subtle"
+          iconClassName="h-10 w-10"
+          size={96}
+        />
         <div className="min-w-0 flex-1">
           <h1 className="text-[32px] font-medium leading-[1.13] tracking-[-0.022em] text-paper">
             {station.name}

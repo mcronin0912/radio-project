@@ -1,0 +1,112 @@
+{
+  "slug": "10-deadlywomen",
+  "epgId": "mjh-10-deadlywomen",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:43:00.000Z",
+      "stop": "2026-09-17T10:37:00.000Z",
+      "title": "Episode 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:37:00.000Z",
+      "stop": "2026-09-17T11:31:00.000Z",
+      "title": "Episode 20",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:31:00.000Z",
+      "stop": "2026-09-17T12:23:00.000Z",
+      "title": "Episode 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:23:00.000Z",
+      "stop": "2026-09-17T13:14:49.000Z",
+      "title": "Episode 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:14:49.000Z",
+      "stop": "2026-09-17T14:08:00.000Z",
+      "title": "Episode 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:08:00.000Z",
+      "stop": "2026-09-17T15:02:00.000Z",
+      "title": "Episode 13",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:02:00.000Z",
+      "stop": "2026-09-17T15:54:00.000Z",
+      "title": "Lady of Blood",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:54:00.000Z",
+      "stop": "2026-09-17T16:46:00.000Z",
+      "title": "Three's A Crowd",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:46:00.000Z",
+      "stop": "2026-09-17T17:37:00.000Z",
+      "title": "Mom's Money",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:37:00.000Z",
+      "stop": "2026-09-17T18:31:00.000Z",
+      "title": "Never Too Young",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:31:00.000Z",
+      "stop": "2026-09-17T19:25:00.000Z",
+      "title": "Catch Me If You Can",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:25:00.000Z",
+      "stop": "2026-09-17T20:18:00.000Z",
+      "title": "Blood For Money",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:18:00.000Z",
+      "stop": "2026-09-17T20:48:00.000Z",
+      "title": "Behind the Mask",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

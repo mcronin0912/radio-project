@@ -1,0 +1,64 @@
+{
+  "slug": "10-seasonalmovies",
+  "epgId": "mjh-10-seasonalmovies",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:32:00.000Z",
+      "stop": "2026-09-17T11:10:00.000Z",
+      "title": "The Secrets She Keeps",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:10:00.000Z",
+      "stop": "2026-09-17T12:54:24.000Z",
+      "title": "The Wrong Babysitter",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:54:24.000Z",
+      "stop": "2026-09-17T14:29:00.000Z",
+      "title": "The Wrong Mother",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:29:00.000Z",
+      "stop": "2026-09-17T16:00:00.000Z",
+      "title": "A Deadly Abduction",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:00:00.000Z",
+      "stop": "2026-09-17T17:32:00.000Z",
+      "title": "A Housekeeper's Revenge",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:32:00.000Z",
+      "stop": "2026-09-17T19:19:00.000Z",
+      "title": "A Killer in My Home",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:19:00.000Z",
+      "stop": "2026-09-17T19:49:00.000Z",
+      "title": "A Mother's Crime",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

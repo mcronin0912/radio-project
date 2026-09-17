@@ -1,0 +1,216 @@
+{
+  "slug": "10-hardcorepawn",
+  "epgId": "mjh-10-hardcorepawn",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:57:00.000Z",
+      "stop": "2026-09-17T10:21:00.000Z",
+      "title": "Seth's Big Bet",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:21:00.000Z",
+      "stop": "2026-09-17T10:45:00.000Z",
+      "title": "Seth Snaps",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:45:00.000Z",
+      "stop": "2026-09-17T11:11:00.000Z",
+      "title": "Les Walks Out",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:11:00.000Z",
+      "stop": "2026-09-17T11:37:00.000Z",
+      "title": "Pilot 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:37:00.000Z",
+      "stop": "2026-09-17T12:02:00.000Z",
+      "title": "Junkyard Intervention",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:02:00.000Z",
+      "stop": "2026-09-17T12:28:00.000Z",
+      "title": "Episode 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:28:00.000Z",
+      "stop": "2026-09-17T12:54:00.000Z",
+      "title": "Father vs. Son",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:54:00.000Z",
+      "stop": "2026-09-17T13:19:00.000Z",
+      "title": "Blackout!",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:19:00.000Z",
+      "stop": "2026-09-17T13:43:52.000Z",
+      "title": "Daddy Daughter Dance",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:43:52.000Z",
+      "stop": "2026-09-17T14:09:00.000Z",
+      "title": "Storm’s a-Brewin’",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:09:00.000Z",
+      "stop": "2026-09-17T14:34:00.000Z",
+      "title": "Gold War",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:34:00.000Z",
+      "stop": "2026-09-17T14:59:00.000Z",
+      "title": "You Bet Your Butt",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:59:00.000Z",
+      "stop": "2026-09-17T15:23:00.000Z",
+      "title": "Seth's Big Bet",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:23:00.000Z",
+      "stop": "2026-09-17T15:48:00.000Z",
+      "title": "To Catch a Thief Part 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:48:00.000Z",
+      "stop": "2026-09-17T16:13:00.000Z",
+      "title": "Family Traitor!",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:13:00.000Z",
+      "stop": "2026-09-17T16:38:00.000Z",
+      "title": "Gold at Gunpoint",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:38:00.000Z",
+      "stop": "2026-09-17T17:04:00.000Z",
+      "title": "Dangerous Cash",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:04:00.000Z",
+      "stop": "2026-09-17T17:29:00.000Z",
+      "title": "Les Walks Out",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:29:00.000Z",
+      "stop": "2026-09-17T17:55:00.000Z",
+      "title": "Banned for Life",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:55:00.000Z",
+      "stop": "2026-09-17T18:20:00.000Z",
+      "title": "Poachers!",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:20:00.000Z",
+      "stop": "2026-09-17T18:45:00.000Z",
+      "title": "Episode 9",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:45:00.000Z",
+      "stop": "2026-09-17T19:09:00.000Z",
+      "title": "Growing Pains",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:09:00.000Z",
+      "stop": "2026-09-17T19:34:00.000Z",
+      "title": "Seth's Soft Side",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:34:00.000Z",
+      "stop": "2026-09-17T19:58:00.000Z",
+      "title": "Stolen Gold?",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:58:00.000Z",
+      "stop": "2026-09-17T20:21:00.000Z",
+      "title": "Computer Crash",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:21:00.000Z",
+      "stop": "2026-09-17T20:51:00.000Z",
+      "title": "Only in Detroit",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

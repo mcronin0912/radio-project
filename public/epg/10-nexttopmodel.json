@@ -1,0 +1,88 @@
+{
+  "slug": "10-nexttopmodel",
+  "epgId": "mjh-10-nexttopmodel",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:05:00.000Z",
+      "stop": "2026-09-17T11:04:00.000Z",
+      "title": "Australia's Next Top Model S4 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:04:00.000Z",
+      "stop": "2026-09-17T12:03:00.000Z",
+      "title": "Australia's Next Top Model S4 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:03:00.000Z",
+      "stop": "2026-09-17T13:03:15.000Z",
+      "title": "Australia's Next Top Model S4 Ep. 9",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:03:15.000Z",
+      "stop": "2026-09-17T14:04:00.000Z",
+      "title": "Australia's Next Top Model S4 Ep. 10",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:04:00.000Z",
+      "stop": "2026-09-17T15:32:00.000Z",
+      "title": "Australia's Next Top Model S4 Ep. 11",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:32:00.000Z",
+      "stop": "2026-09-17T16:31:00.000Z",
+      "title": "Australia's Next Top Model S5 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:31:00.000Z",
+      "stop": "2026-09-17T17:30:00.000Z",
+      "title": "Australia's Next Top Model S5 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:30:00.000Z",
+      "stop": "2026-09-17T18:29:00.000Z",
+      "title": "Australia's Next Top Model S5 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:29:00.000Z",
+      "stop": "2026-09-17T19:28:00.000Z",
+      "title": "Australia's Next Top Model S5 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:28:00.000Z",
+      "stop": "2026-09-17T19:58:00.000Z",
+      "title": "Australia's Next Top Model S5 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

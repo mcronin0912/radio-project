@@ -1,0 +1,112 @@
+{
+  "slug": "10-cheapseats",
+  "epgId": "mjh-10-cheapseats",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:33:00.000Z",
+      "stop": "2026-09-17T10:27:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:27:00.000Z",
+      "stop": "2026-09-17T11:21:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:21:00.000Z",
+      "stop": "2026-09-17T12:14:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:14:00.000Z",
+      "stop": "2026-09-17T13:07:46.000Z",
+      "title": "The Cheap Seats S4 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:07:46.000Z",
+      "stop": "2026-09-17T14:00:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 9",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:00:00.000Z",
+      "stop": "2026-09-17T14:53:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 10",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:53:00.000Z",
+      "stop": "2026-09-17T15:44:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 11",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:44:00.000Z",
+      "stop": "2026-09-17T16:37:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 12",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:37:00.000Z",
+      "stop": "2026-09-17T17:30:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 13",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:30:00.000Z",
+      "stop": "2026-09-17T18:24:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 14",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:24:00.000Z",
+      "stop": "2026-09-17T19:16:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 15",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:16:00.000Z",
+      "stop": "2026-09-17T20:11:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 16",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:11:00.000Z",
+      "stop": "2026-09-17T20:41:00.000Z",
+      "title": "The Cheap Seats S4 Ep. 17",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

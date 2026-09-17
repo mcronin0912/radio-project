@@ -8,8 +8,9 @@ interface LiveIndicatorProps {
 }
 
 export function LiveIndicator({ station }: LiveIndicatorProps) {
-  const { station: currentStation, isPlaying } = usePlayer();
-  const isCurrentStation = currentStation?.id === station.id;
+  const { media, isPlaying } = usePlayer();
+  const isCurrentStation =
+    media?.kind === "radio" && media.station.id === station.id;
 
   if (!isCurrentStation || !isPlaying) return null;
 

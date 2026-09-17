@@ -1,0 +1,96 @@
+{
+  "slug": "bloomberg-tv",
+  "epgId": "mjh-bloomberg-tv",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:00:00.000Z",
+      "stop": "2026-09-17T11:00:00.000Z",
+      "title": "Bloomberg Surveillance",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:00:00.000Z",
+      "stop": "2026-09-17T11:30:00.000Z",
+      "title": "The David Rubenstein Show",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:30:00.000Z",
+      "stop": "2026-09-17T12:00:00.000Z",
+      "title": "Latitude",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:00:00.000Z",
+      "stop": "2026-09-17T13:00:00.000Z",
+      "title": "Bloomberg Surveillance",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:00:00.000Z",
+      "stop": "2026-09-17T14:00:00.000Z",
+      "title": "Bloomberg Open Interest",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:00:00.000Z",
+      "stop": "2026-09-17T15:00:00.000Z",
+      "title": "Bloomberg Open Interest",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:00:00.000Z",
+      "stop": "2026-09-17T16:00:00.000Z",
+      "title": "Bloomberg Tech",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:00:00.000Z",
+      "stop": "2026-09-17T17:00:00.000Z",
+      "title": "Bloomberg Real Yield",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:00:00.000Z",
+      "stop": "2026-09-17T18:00:00.000Z",
+      "title": "Bloomberg: Balance of Power",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:00:00.000Z",
+      "stop": "2026-09-17T19:00:00.000Z",
+      "title": "Bloomberg Businessweek Daily",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:00:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "Bloomberg The Close",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

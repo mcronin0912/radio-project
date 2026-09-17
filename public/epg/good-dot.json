@@ -1,0 +1,104 @@
+{
+  "slug": "good-dot",
+  "epgId": "mjh-good-dot",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:00:00.000Z",
+      "stop": "2026-09-17T10:30:00.000Z",
+      "title": "Be Great. Do Good",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:30:00.000Z",
+      "stop": "2026-09-17T11:30:00.000Z",
+      "title": "A Cathedral Pilgrimage",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:30:00.000Z",
+      "stop": "2026-09-17T12:00:00.000Z",
+      "title": "Walking in the Footsteps of Faith",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:00:00.000Z",
+      "stop": "2026-09-17T12:30:00.000Z",
+      "title": "Mums at the Table",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:30:00.000Z",
+      "stop": "2026-09-17T13:00:00.000Z",
+      "title": "New Creation Church",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:00:00.000Z",
+      "stop": "2026-09-17T13:30:00.000Z",
+      "title": "Bible Land Passages",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:30:00.000Z",
+      "stop": "2026-09-17T14:00:00.000Z",
+      "title": "Katherine Ruonala",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:00:00.000Z",
+      "stop": "2026-09-17T14:30:00.000Z",
+      "title": "Enjoying Everyday Life",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:30:00.000Z",
+      "stop": "2026-09-17T16:40:00.000Z",
+      "title": "Sound of Hope",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:40:00.000Z",
+      "stop": "2026-09-17T18:05:00.000Z",
+      "title": "Valentine in the Vineyard",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:05:00.000Z",
+      "stop": "2026-09-17T19:40:00.000Z",
+      "title": "Once Upon a Time in Mongolia",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:40:00.000Z",
+      "stop": "2026-09-17T20:10:00.000Z",
+      "title": "Authorized",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

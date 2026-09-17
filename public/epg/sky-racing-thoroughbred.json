@@ -1,0 +1,160 @@
+{
+  "slug": "sky-racing-thoroughbred",
+  "epgId": "mjh-sky-racing-thoroughbred",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:00:00.000Z",
+      "stop": "2026-09-17T10:30:00.000Z",
+      "title": "Racing Replay: Illawarra Grange",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:30:00.000Z",
+      "stop": "2026-09-17T11:00:00.000Z",
+      "title": "Racing Replay: Beaudesert",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:00:00.000Z",
+      "stop": "2026-09-17T12:00:00.000Z",
+      "title": "Finding Winners",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:00:00.000Z",
+      "stop": "2026-09-17T12:30:00.000Z",
+      "title": "Racing Replay: Bunbury",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:30:00.000Z",
+      "stop": "2026-09-17T13:00:00.000Z",
+      "title": "Bred To Win",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:00:00.000Z",
+      "stop": "2026-09-17T13:30:00.000Z",
+      "title": "It's Gold Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:30:00.000Z",
+      "stop": "2026-09-17T14:00:00.000Z",
+      "title": "Punter's Intelligence Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:00:00.000Z",
+      "stop": "2026-09-17T15:00:00.000Z",
+      "title": "Formline Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:00:00.000Z",
+      "stop": "2026-09-17T15:30:00.000Z",
+      "title": "Racing Replay: Illawarra Grange",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:30:00.000Z",
+      "stop": "2026-09-17T16:00:00.000Z",
+      "title": "Racing Replay: Beaudesert",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:00:00.000Z",
+      "stop": "2026-09-17T16:30:00.000Z",
+      "title": "Formline Extra Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:30:00.000Z",
+      "stop": "2026-09-17T17:00:00.000Z",
+      "title": "Black Bookers Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:00:00.000Z",
+      "stop": "2026-09-17T17:30:00.000Z",
+      "title": "Racing Replay: Bunbury",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:30:00.000Z",
+      "stop": "2026-09-17T18:00:00.000Z",
+      "title": "Bred To Win",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:00:00.000Z",
+      "stop": "2026-09-17T18:30:00.000Z",
+      "title": "It's Gold Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:30:00.000Z",
+      "stop": "2026-09-17T19:00:00.000Z",
+      "title": "Punter's Intelligence Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:00:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "Racing Replay: Illawarra Grange",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:30:00.000Z",
+      "stop": "2026-09-17T20:00:00.000Z",
+      "title": "Racing Replay: Beaudesert",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:00:00.000Z",
+      "stop": "2026-09-17T20:30:00.000Z",
+      "title": "Black Bookers Encore",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

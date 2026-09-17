@@ -1,0 +1,96 @@
+{
+  "slug": "10-crime-hunters",
+  "epgId": "mjh-10-crime-hunters",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:22:00.000Z",
+      "stop": "2026-09-17T10:22:00.000Z",
+      "title": "Critical Rescue S1 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:22:00.000Z",
+      "stop": "2026-09-17T11:24:00.000Z",
+      "title": "The New Detectives: Case Studies in Forensic Science S3 Ep. 18",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:24:00.000Z",
+      "stop": "2026-09-17T12:24:00.000Z",
+      "title": "The New Detectives: Case Studies in Forensic Science S4 Ep. 34",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:24:00.000Z",
+      "stop": "2026-09-17T13:23:47.000Z",
+      "title": "Critical Rescue S1 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:23:47.000Z",
+      "stop": "2026-09-17T14:22:00.000Z",
+      "title": "The New Detectives: Case Studies in Forensic Science S8 Ep. 93",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:22:00.000Z",
+      "stop": "2026-09-17T15:24:00.000Z",
+      "title": "The New Detectives: Case Studies in Forensic Science S6 Ep. 60",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:24:00.000Z",
+      "stop": "2026-09-17T16:26:00.000Z",
+      "title": "The FBI Files S1 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:26:00.000Z",
+      "stop": "2026-09-17T17:28:00.000Z",
+      "title": "The New Detectives: Case Studies in Forensic Science S4 Ep. 30",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:28:00.000Z",
+      "stop": "2026-09-17T18:28:00.000Z",
+      "title": "The New Detectives: Case Studies in Forensic Science S5 Ep. 54",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:28:00.000Z",
+      "stop": "2026-09-17T19:28:00.000Z",
+      "title": "The FBI Files S7 Ep. 109",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:28:00.000Z",
+      "stop": "2026-09-17T19:58:00.000Z",
+      "title": "The New Detectives: Case Studies in Forensic Science S5 Ep. 43",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "slug": "10peach-vic",
+  "epgId": "mjh-10peach-vic",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:01:23.000Z",
+      "stop": "2026-09-17T10:31:08.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Principal Gallagher's Lesbian Lover",
+      "description": "Alan has to lobby the principal to keep Jake from getting expelled, while Charlie is left to manage the chiropractic office for the day.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T10:31:08.000Z",
+      "stop": "2026-09-17T11:00:38.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Carpet Burns And A Bite Mark",
+      "description": "After it's revealed that Alan and Judith have been trying to reconcile, Charlie, Evelyn, and Rose vie for the role of spoiler.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T11:00:38.000Z",
+      "stop": "2026-09-17T11:30:54.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Your Dismissive Attitude Towards Boobs",
+      "description": "Alan looks for a new place after he invites Berta to stay at Charlie's house, bringing the brothers to blows.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T11:30:54.000Z",
+      "stop": "2026-09-17T12:01:11.000Z",
+      "title": "Becker",
+      "subtitle": "Everybody Loves Becker",
+      "description": "Becker finds himself an unwilling participant in a romantic triangle.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T12:01:11.000Z",
+      "stop": "2026-09-17T13:03:12.000Z",
+      "title": "The Cheap Seats",
+      "subtitle": "Episode 22",
+      "description": "Taking a fun look at the week that was are The Cheap Seats hosts Melanie Bracewell & Tim McDonald. Joining in on the action are Mel Tracina, UK comedy legend Bill Bailey and AFL & NFL star Ben Graham.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T13:03:12.000Z",
+      "stop": "2026-09-17T13:30:48.000Z",
+      "title": "Frasier",
+      "subtitle": "Fraternal Schwinns",
+      "description": "Frasier and Niles are convinced to participate in a bike-a-thon. However, neither know how to ride.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T13:30:48.000Z",
+      "stop": "2026-09-17T13:59:01.000Z",
+      "title": "Frasier",
+      "subtitle": "Kenny On The Couch",
+      "description": "Frasier finds himself entangled in Kenny's life when Kenny's divorce causes him depression.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T13:59:01.000Z",
+      "stop": "2026-09-17T14:27:49.000Z",
+      "title": "Ridiculousness",
+      "subtitle": "Sterling And Brie Bella IV",
+      "description": "On Ridiculousness, Rob, Steelo, and special guest Brie Bella fight off some MEAN GEESE, take a leap off JUMP TRUCKS, and offer some belts to the BUTTCRACK BOYZ.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T14:27:49.000Z",
+      "stop": "2026-09-17T15:01:53.000Z",
+      "title": "Entertainment Tonight",
+      "subtitle": "Episode 2",
+      "description": "Anchors and correspondents cover the top stories in the world of entertainment, ranging from exclusives in celebrity gossip to show business news.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T15:01:53.000Z",
+      "stop": "2026-09-17T15:32:03.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 69 of Season 2019",
+      "description": "Paid programming.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T15:32:03.000Z",
+      "stop": "2026-09-17T16:02:13.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 70 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T16:02:13.000Z",
+      "stop": "2026-09-17T16:32:03.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 71 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T16:32:03.000Z",
+      "stop": "2026-09-17T17:00:27.000Z",
+      "title": "The Bold and The Beautiful",
+      "subtitle": "Episode 9857",
+      "description": "Will turns to Bill for some fatherly advice. Katie makes a decision about Dylan.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T17:00:27.000Z",
+      "stop": "2026-09-17T17:28:56.000Z",
+      "title": "The Bold and The Beautiful",
+      "subtitle": "Episode 9857",
+      "description": "Darcy puts Katie on blast. R.J. takes responsibility for his actions.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T17:28:56.000Z",
+      "stop": "2026-09-17T18:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 149 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:00:00.000Z",
+      "stop": "2026-09-17T18:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 23 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:30:00.000Z",
+      "stop": "2026-09-17T19:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 24 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T19:00:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 25 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T19:30:00.000Z",
+      "stop": "2026-09-17T20:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 26 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T20:00:00.000Z",
+      "stop": "2026-09-17T20:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 149 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T20:30:00.000Z",
+      "stop": "2026-09-17T21:00:00.000Z",
+      "title": "Ridiculousness",
+      "subtitle": "Sterling And Camille Kostek IV",
+      "description": "On Ridiculousness, Rob and Sterling are joined by Camille Kostek, who shares an embarrassing moment before checking out SPOTLESS GLASS, bounce house dangers in BOUNCE HOUSE OF PAIN.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T21:00:00.000Z",
+      "stop": "2026-09-17T21:30:00.000Z",
+      "title": "Ridiculousness",
+      "subtitle": "Sterling And Nina Agdal Xv",
+      "description": "On Ridiculousness, Rob, Steelo, and Nina Agdal take in some SCOOTPARK SLAMS, go to the bar and commit BOUNCEABLE OFFENSES, and confront animals that are PRACTICALLY MONSTERS.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T21:30:00.000Z",
+      "stop": "2026-09-17T22:30:00.000Z",
+      "title": "MasterChef Australia",
+      "subtitle": "Episode 15",
+      "description": "MasterChef alum and social media star Khanh Ong sets an epic challenge to create a bold, out-there sandwich with a banging cross section, to win the first immunity pin of the season.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T22:30:00.000Z",
+      "stop": "2026-09-17T23:00:00.000Z",
+      "title": "Entertainment Tonight",
+      "subtitle": "Episode 3",
+      "description": "Anchors and correspondents cover the top stories in the world of entertainment, ranging from exclusives in celebrity gossip to show business news.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T23:00:00.000Z",
+      "stop": "2026-09-17T23:30:00.000Z",
+      "title": "Good Chef Bad Chef",
+      "subtitle": "Episode 40",
+      "description": "A chef and a nutritionist bring their distinctive styles of cooking together for food showdowns.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T23:30:00.000Z",
+      "stop": "2026-09-18T00:00:00.000Z",
+      "title": "Farm To Fork",
+      "subtitle": "Episode 75",
+      "description": "Farm to Fork journeys across Australia with acclaimed chefs, discovering fresh local produce and inspiring healthy recipes to ignite passion for cooking at home.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T00:00:00.000Z",
+      "stop": "2026-09-18T00:30:00.000Z",
+      "title": "The Bold and The Beautiful",
+      "subtitle": "Episode 9861",
+      "description": "Finn's medical expertise proves invaluable. Electra is surprised by an unexpected visitor.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T00:30:00.000Z",
+      "stop": "2026-09-18T01:00:00.000Z",
+      "title": "Deal Or No Deal",
+      "subtitle": "Episode 194 of Season 1",
+      "description": "The high-pressure, high-stakes game of risk versus reward where contestants must beat the Banker to win a huge cash prize of $100,000.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T01:00:00.000Z",
+      "stop": "2026-09-18T01:30:00.000Z",
+      "title": "Millionaire Hot Seat",
+      "subtitle": "Episode 31 of Season 16",
+      "description": "In this episode, an oracle card reader and a psychology teacher are amongst the six eager contestants from Victoria and Queensland taking on the million-dollar challenge.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T01:30:00.000Z",
+      "stop": "2026-09-18T02:30:00.000Z",
+      "title": "Lingo",
+      "subtitle": "Episode 47",
+      "description": "Twins Rachel and Sarah from Stratford-upon-Avon, married couple Julia and Ian from South Shields, and Mica and her mum Trish from Burton-on-Trent compete in the game show.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T02:30:00.000Z",
+      "stop": "2026-09-18T03:00:00.000Z",
+      "title": "Becker",
+      "subtitle": "Everybody Loves Becker",
+      "description": "Becker finds himself an unwilling participant in a romantic triangle.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T03:00:00.000Z",
+      "stop": "2026-09-18T03:30:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One With Joey's Big Break",
+      "description": "Joey and Chandler take a road trip to Las Vegas, where Joey has landed the lead role in a movie. Meanwhile, Rachel battles with an eye infection.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T03:30:00.000Z",
+      "stop": "2026-09-18T04:00:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One In Vegas - Part 1",
+      "description": "The gang fly to Las Vegas to surprise Joey and to celebrate Monica's and Chandler's one-year anniversary. Ross and Rachel try to embarrass each other after an awkward encounter.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T04:00:00.000Z",
+      "stop": "2026-09-18T04:30:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One In Vegas - Part 2",
+      "description": "Chandler and Monica reconcile and hastily decide to get married. Ross and Rachel get drunk and roam the casino. Phoebe deals with a 'lurker' on the slot machines.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T04:30:00.000Z",
+      "stop": "2026-09-18T05:00:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One After Vegas",
+      "description": "Ross and Rachel wake up with hangovers and married.  Chandler and Monica don't get married, but he asks her if he can move in with her instead.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T05:00:00.000Z",
+      "stop": "2026-09-18T05:30:00.000Z",
+      "title": "Frasier",
+      "subtitle": "Fraternal Schwinns",
+      "description": "Frasier and Niles are convinced to participate in a bike-a-thon. However, neither know how to ride.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T05:30:00.000Z",
+      "stop": "2026-09-18T06:00:00.000Z",
+      "title": "Frasier",
+      "subtitle": "Kenny On The Couch",
+      "description": "Frasier finds himself entangled in Kenny's life when Kenny's divorce causes him depression.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T06:00:00.000Z",
+      "stop": "2026-09-18T06:30:00.000Z",
+      "title": "Everyday Gourmet With Justine Schofield",
+      "subtitle": "Episode 65",
+      "description": "Develop your prowess in the kitchen with one of Australia’s most loved cooks, Justine Schofield. Along with an array of amazing guests Justine inspires cooks of all skill levels to be more ambitious and creative in their kitchens.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T06:30:00.000Z",
+      "stop": "2026-09-18T07:00:00.000Z",
+      "title": "Becker",
+      "subtitle": "Do The Right Thing",
+      "description": "John tries desperately to persuade Chris that he is not with her on the rebound. Meanwhile, Margaret and Linda try to find out the identity of a man who claims he is a former patient.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T07:00:00.000Z",
+      "stop": "2026-09-18T07:30:00.000Z",
+      "title": "Frasier",
+      "subtitle": "Farewell, Nervosa",
+      "description": "Frasier decides to boycott Cafe Nervosa when the owner hires a folk singer to perform daily.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T07:30:00.000Z",
+      "stop": "2026-09-18T08:00:00.000Z",
+      "title": "Frasier",
+      "subtitle": "The Devil And Dr. Phil",
+      "description": "Frasier has a bone to pick with Dr. Phil, and is stunned to learn that Bebe is his agent.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T08:00:00.000Z",
+      "stop": "2026-09-18T08:30:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One With The Routine",
+      "description": "Joey plots the perfect opportunity to kiss Janine on a televised New Year's Eve dance show. Ross and Monica resurrect their dorky high school dance routine for the broadcast.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T08:30:00.000Z",
+      "stop": "2026-09-18T09:00:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One With The Apothecary Table",
+      "description": "Janine forces Joey to choose between her and his friends. Rachel buys an apothecary table from a store that Phoebe abhors.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T09:00:00.000Z",
+      "stop": "2026-09-18T09:30:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One With The Joke",
+      "description": "Chandler is upset when a men's magazine prints Ross' cartoon; both Chandler and Ross claim to have originated the joke. Phoebe antagonises Monica and Rachel with her candor.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T09:30:00.000Z",
+      "stop": "2026-09-18T10:00:00.000Z",
+      "title": "Friends",
+      "subtitle": "The One With Rachel's Sister",
+      "description": "Rachel tries to help her younger sister, Jill, find independence; but Jill flirting with Ross is not part of the plan. Meanwhile, Monica won't admit that she's sick and tries to seduce Chandler.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T10:00:00.000Z",
+      "stop": "2026-09-18T10:30:00.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "We Called IT Mr. Pinky",
+      "description": "Charlie's inability to reciprocate his girlfriend's love forces him to examine his relationships with women.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T10:30:00.000Z",
+      "stop": "2026-09-18T11:00:00.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Hi, Mr. Horned ONE",
+      "description": "Charlie's Satan-worshiping girlfriend has a knack for the supernatural, and seems to be the cause of some strange happenings around the Harper house.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T11:00:00.000Z",
+      "stop": "2026-09-18T11:30:00.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Sleep Tight, Puddin' Pop",
+      "description": "Charlie gets drunk and sleeps with Rose on her birthday. Rose says she knows it's no big deal. But her father quickly shows up at Charlie's house, thinking they've been dating for two years.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T11:30:00.000Z",
+      "stop": "2026-09-18T12:00:00.000Z",
+      "title": "Becker",
+      "subtitle": "Someone's In The Kitchen With Reggie",
+      "description": "Becker's feelings for Reggie and Chris get him in hot water. Meanwhile, Margaret is at her wits end dealing with Linda's ongoing antics.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T12:00:00.000Z",
+      "stop": "2026-09-18T12:30:00.000Z",
+      "title": "Frasier",
+      "subtitle": "Roe To Perdition",
+      "description": "Frasier and Niles become a big hit when, at a party, they serve beluga caviar they purchased on the black market. Meanwhile, Martin has a tough time returning $40 that an ATM gave him in error.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T12:30:00.000Z",
+      "stop": "2026-09-18T13:00:00.000Z",
+      "title": "Frasier",
+      "subtitle": "Some Assembly Required",
+      "description": "Frasier's minimal participation in building a house for Habitat for Humanity leads him to a bizarre attachment to its inhabitants.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T13:00:00.000Z",
+      "stop": "2026-09-18T13:30:00.000Z",
+      "title": "Ridiculousness",
+      "subtitle": "Sterling And Brittney Elena",
+      "description": "In Ridiculousness, Rob and Steelo welcome Brittney Elena as they lose their snacks in FOOD FUMBLERS, and discover that phones can be dangerous in PHONE BOMBS.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T13:30:00.000Z",
+      "stop": "2026-09-18T14:00:00.000Z",
+      "title": "Entertainment Tonight",
+      "subtitle": "Episode 3",
+      "description": "Anchors and correspondents cover the top stories in the world of entertainment, ranging from exclusives in celebrity gossip to show business news.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T14:00:00.000Z",
+      "stop": "2026-09-18T14:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 196 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T14:30:00.000Z",
+      "stop": "2026-09-18T15:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 333 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T15:00:00.000Z",
+      "stop": "2026-09-18T15:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 72 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T15:30:00.000Z",
+      "stop": "2026-09-18T16:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 73 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T16:00:00.000Z",
+      "stop": "2026-09-18T16:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 74 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T16:30:00.000Z",
+      "stop": "2026-09-18T17:00:00.000Z",
+      "title": "The Bold and The Beautiful",
+      "subtitle": "Episode 9859",
+      "description": "An unexpected dinner catches Steffy and Carter off guard. Katie tries to have an open mind when it comes to Will's love life.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T17:00:00.000Z",
+      "stop": "2026-09-18T17:30:00.000Z",
+      "title": "The Bold and The Beautiful",
+      "subtitle": "Episode 9860",
+      "description": "Daphne accepts the truth. Dylan shocks her mother about her past.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T17:30:00.000Z",
+      "stop": "2026-09-18T18:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 150 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T18:00:00.000Z",
+      "stop": "2026-09-18T18:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 27 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T18:30:00.000Z",
+      "stop": "2026-09-18T19:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 28 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T19:00:00.000Z",
+      "stop": "2026-09-18T19:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 29 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T19:30:00.000Z",
+      "stop": "2026-09-18T20:00:00.000Z",
+      "title": "Joseph Prince: New Creation Church",
+      "subtitle": "639 The Year Of Much More",
+      "description": "Pastor Joseph Prince is a leading voice in proclaiming the gospel of grace around the world. He is the senior pastor of New Creation Church, a vibrant and fast-growing church in Singapore.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T20:00:00.000Z",
+      "stop": "2026-09-18T20:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 151 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T20:30:00.000Z",
+      "stop": "2026-09-18T21:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 152 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T21:00:00.000Z",
+      "stop": "2026-09-18T21:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 367 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T21:30:00.000Z",
+      "stop": "2026-09-18T22:00:00.000Z",
+      "title": "Deal Or No Deal",
+      "subtitle": "Episode 173 of Season 1",
+      "description": "Join Grant Denyer in Deal or No Deal, the high-pressure, high-stakes game of risk versus reward where contestants must beat the Banker to win a huge cash prize of $100,000.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T22:00:00.000Z",
+      "stop": "2026-09-18T22:30:00.000Z",
+      "title": "Deal Or No Deal",
+      "subtitle": "Episode 174 of Season 1",
+      "description": "Join Grant Denyer in Deal or No Deal, the high-pressure, high-stakes game of risk versus reward where contestants must beat the Banker to win a huge cash prize of $100,000.",
+      "category": "Special Interest"
+    }
+  ]
+}

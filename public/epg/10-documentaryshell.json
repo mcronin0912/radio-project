@@ -1,0 +1,160 @@
+{
+  "slug": "10-documentaryshell",
+  "epgId": "mjh-10-documentaryshell",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:42:00.000Z",
+      "stop": "2026-09-17T10:15:00.000Z",
+      "title": "Shark Man with Riley Elliott S1 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:15:00.000Z",
+      "stop": "2026-09-17T10:45:00.000Z",
+      "title": "Snake Boss S2 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:45:00.000Z",
+      "stop": "2026-09-17T11:16:00.000Z",
+      "title": "Snake Boss S2 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:16:00.000Z",
+      "stop": "2026-09-17T11:46:00.000Z",
+      "title": "Snake Boss S2 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:46:00.000Z",
+      "stop": "2026-09-17T12:18:00.000Z",
+      "title": "Shark Man with Riley Elliott S1 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:18:00.000Z",
+      "stop": "2026-09-17T12:48:00.000Z",
+      "title": "Snake Boss S1 Ep. 11",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:48:00.000Z",
+      "stop": "2026-09-17T13:17:00.000Z",
+      "title": "Snake Boss S1 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:17:00.000Z",
+      "stop": "2026-09-17T13:46:29.000Z",
+      "title": "Snake Boss S1 Ep. 13",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:46:29.000Z",
+      "stop": "2026-09-17T14:16:00.000Z",
+      "title": "Snake Boss S2 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:16:00.000Z",
+      "stop": "2026-09-17T14:46:00.000Z",
+      "title": "Snake Boss S1 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:46:00.000Z",
+      "stop": "2026-09-17T15:18:00.000Z",
+      "title": "Shark Man with Riley Elliott S1 Ep. 9",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:18:00.000Z",
+      "stop": "2026-09-17T16:22:00.000Z",
+      "title": "Sharks: The Big Five",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:22:00.000Z",
+      "stop": "2026-09-17T17:20:00.000Z",
+      "title": "Human Prey S1 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:20:00.000Z",
+      "stop": "2026-09-17T17:52:00.000Z",
+      "title": "Shark Man with Riley Elliott S1 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:52:00.000Z",
+      "stop": "2026-09-17T18:24:00.000Z",
+      "title": "Shark Man with Riley Elliott S1 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:24:00.000Z",
+      "stop": "2026-09-17T18:54:00.000Z",
+      "title": "Snake Boss S1 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:54:00.000Z",
+      "stop": "2026-09-17T19:24:00.000Z",
+      "title": "Snake Boss S2 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:24:00.000Z",
+      "stop": "2026-09-17T20:22:00.000Z",
+      "title": "Human Prey S1 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:22:00.000Z",
+      "stop": "2026-09-17T20:52:00.000Z",
+      "title": "Ocean Predators S1 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

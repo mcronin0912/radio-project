@@ -1,0 +1,104 @@
+{
+  "slug": "10-diagnosismurder",
+  "epgId": "mjh-10-diagnosismurder",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:50:00.000Z",
+      "stop": "2026-09-17T10:44:00.000Z",
+      "title": "Diagnosis Murder S5 Ep. 24",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:44:00.000Z",
+      "stop": "2026-09-17T11:36:00.000Z",
+      "title": "Diagnosis Murder S5 Ep. 25",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:36:00.000Z",
+      "stop": "2026-09-17T12:28:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:28:00.000Z",
+      "stop": "2026-09-17T13:25:16.000Z",
+      "title": "Diagnosis Murder S6 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:25:16.000Z",
+      "stop": "2026-09-17T14:18:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:18:00.000Z",
+      "stop": "2026-09-17T15:10:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:10:00.000Z",
+      "stop": "2026-09-17T16:06:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:06:00.000Z",
+      "stop": "2026-09-17T16:59:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:59:00.000Z",
+      "stop": "2026-09-17T17:52:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:52:00.000Z",
+      "stop": "2026-09-17T18:45:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:45:00.000Z",
+      "stop": "2026-09-17T19:38:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 9",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:38:00.000Z",
+      "stop": "2026-09-17T20:08:00.000Z",
+      "title": "Diagnosis Murder S6 Ep. 10",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

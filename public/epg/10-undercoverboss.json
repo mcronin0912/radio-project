@@ -1,0 +1,112 @@
+{
+  "slug": "10-undercoverboss",
+  "epgId": "mjh-10-undercoverboss",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:31:00.000Z",
+      "stop": "2026-09-17T10:24:00.000Z",
+      "title": "Undercover Boss S2 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:24:00.000Z",
+      "stop": "2026-09-17T11:18:00.000Z",
+      "title": "Undercover Boss S2 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:18:00.000Z",
+      "stop": "2026-09-17T12:11:00.000Z",
+      "title": "Undercover Boss S2 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:11:00.000Z",
+      "stop": "2026-09-17T13:05:00.000Z",
+      "title": "Undercover Boss S2 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:05:00.000Z",
+      "stop": "2026-09-17T13:58:25.000Z",
+      "title": "Undercover Boss S2 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:58:25.000Z",
+      "stop": "2026-09-17T14:51:00.000Z",
+      "title": "Undercover Boss S2 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:51:00.000Z",
+      "stop": "2026-09-17T15:45:00.000Z",
+      "title": "Undercover Boss S2 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:45:00.000Z",
+      "stop": "2026-09-17T16:38:00.000Z",
+      "title": "Undercover Boss S2 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:38:00.000Z",
+      "stop": "2026-09-17T17:32:00.000Z",
+      "title": "Undercover Boss S2 Ep. 9",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:32:00.000Z",
+      "stop": "2026-09-17T18:25:00.000Z",
+      "title": "Undercover Boss S2 Ep. 10",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:25:00.000Z",
+      "stop": "2026-09-17T19:19:00.000Z",
+      "title": "Undercover Boss S2 Ep. 11",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:19:00.000Z",
+      "stop": "2026-09-17T20:13:00.000Z",
+      "title": "Undercover Boss S2 Ep. 12",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:13:00.000Z",
+      "stop": "2026-09-17T20:43:00.000Z",
+      "title": "Undercover Boss S2 Ep. 13",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

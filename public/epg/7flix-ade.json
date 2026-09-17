@@ -1,0 +1,336 @@
+{
+  "slug": "7flix-ade",
+  "epgId": "mjh-7flix-ade",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:03:00.000Z",
+      "stop": "2026-09-17T11:02:15.000Z",
+      "title": "Ramsay's Hotel Hell",
+      "subtitle": "The Cambridge",
+      "description": "Gordon Ramsay checks into a haunted hotel.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T11:02:15.000Z",
+      "stop": "2026-09-17T12:00:45.000Z",
+      "title": "Ramsay's Kitchen Nightmares USA",
+      "subtitle": "In The Drink",
+      "description": "Ramsay attempts to revamp a country club restaurant that struggles to find cohesiveness.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T12:00:45.000Z",
+      "stop": "2026-09-17T12:59:55.000Z",
+      "title": "Ramsay's Kitchen Nightmares USA",
+      "subtitle": "Love Bites",
+      "description": "Gordon Ramsay steps in to save a small cafe and a couple's engagement.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T12:59:55.000Z",
+      "stop": "2026-09-17T13:52:55.000Z",
+      "title": "NCIS: New Orleans",
+      "subtitle": "Hell On The High Water",
+      "description": "After Pride travels to a deep sea oil rig for a murder investigation, the team uncovers a gas leak that’s on the verge of causing a catastrophic explosion. Also, Sebastian starts his NCIS special agent training at FLETEC.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T13:52:55.000Z",
+      "stop": "2026-09-17T15:00:00.000Z",
+      "title": "NCIS: New Orleans",
+      "subtitle": "Return Of The King",
+      "description": "The team search for a group of underground hackers led by Elvis Bertrand after thousands of classified-government files are stolen. Meanwhile, Sebastian joins the team as an NCIS Special Agent.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T15:00:00.000Z",
+      "stop": "2026-09-17T15:53:40.000Z",
+      "title": "New Amsterdam",
+      "subtitle": "We're In This Together",
+      "description": "Max and Sharpe go public with their relationship at the hospital. The team struggles to handle an overcrowded and understaffed ICU. Iggy's overly critical feedback alienates his residents.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T15:53:40.000Z",
+      "stop": "2026-09-17T16:47:15.000Z",
+      "title": "New Amsterdam",
+      "subtitle": "Same As It Ever Was",
+      "description": "Max advises a young student at a science fair but encounters legal complications with her brilliant invention. Bloom encourages Dr. Shinwari to be more aggressive in the ED. Iggy gets a lesson in humility. Brantley has a surprise for the staff.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T16:47:15.000Z",
+      "stop": "2026-09-17T18:00:00.000Z",
+      "title": "New Amsterdam",
+      "subtitle": "Seed Money",
+      "description": "Max struggles with a new fiscal reality at the hospital. Dr. Sharpe is on a mission to provide follow-up cancer screenings for patients before it’s too late. Bloom grapples with Dr. Shinwari’s new overnight schedule. Reynolds has an interesting conversation with Dr. Malvo about their future.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T18:00:00.000Z",
+      "stop": "2026-09-17T18:27:40.000Z",
+      "title": "Malaysia Kitchen",
+      "subtitle": "Episode 7 of Season 1",
+      "description": "Alvin shares his recipe for a tangy seafood and okra curry, dishes up some delicious noodles with mushrooms and black vinegar and is joined by veteran chef, Carol Selva Rajah.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T18:27:40.000Z",
+      "stop": "2026-09-17T19:20:50.000Z",
+      "title": "Ramsay's Hotel Hell",
+      "subtitle": "The Cambridge",
+      "description": "Gordon Ramsay checks into a haunted hotel.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T19:20:50.000Z",
+      "stop": "2026-09-17T20:30:00.000Z",
+      "title": "First Dates UK",
+      "subtitle": "Carol & Keith",
+      "description": "One time star of Monty Python, Carol meets interior designer Keith. He might be the leading man she's been waiting for.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T20:30:00.000Z",
+      "stop": "2026-09-17T21:01:30.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 26 of Season 19",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T21:01:30.000Z",
+      "stop": "2026-09-17T21:33:00.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 27 of Season 19",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T21:33:00.000Z",
+      "stop": "2026-09-17T22:05:00.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 28 of Season 19",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T22:05:00.000Z",
+      "stop": "2026-09-17T22:35:55.000Z",
+      "title": "Get Clever",
+      "subtitle": "Episode 37",
+      "description": "An outrageous series where adventure, fun and the wonders of science are burst wide open.",
+      "category": null
+    },
+    {
+      "start": "2026-09-17T22:35:55.000Z",
+      "stop": "2026-09-17T23:07:15.000Z",
+      "title": "Get Clever",
+      "subtitle": "Episode 38",
+      "description": "An outrageous series where adventure, fun and the wonders of science are burst wide open.",
+      "category": null
+    },
+    {
+      "start": "2026-09-17T23:07:15.000Z",
+      "stop": "2026-09-17T23:39:10.000Z",
+      "title": "Flushed",
+      "subtitle": "Episode 12",
+      "description": "FLUSHED is a children's game show that tests not only mental but physical skills of the contestants. Two teams gather minutes by answering questions correctly and then it's a race to fit together a sequence of connective tubing within the timeframe racked up from the questions. If a team has more minutes, they've got a better chance of completing the build. And the stakes are high as the losing team faces getting slimed by the winners.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T23:39:10.000Z",
+      "stop": "2026-09-18T00:09:10.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Five Minute Clever Chef (5MCC2830B14888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T00:09:10.000Z",
+      "stop": "2026-09-18T00:39:10.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Pocket Hose Copper Head (PHCH2830A14888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T00:39:10.000Z",
+      "stop": "2026-09-18T01:09:30.000Z",
+      "title": "The Great Australian Doorstep",
+      "subtitle": "New Zealand Motorhome Tour",
+      "description": "We finish our New Zealand motorhome tour with an open air double decker bus tour of Christchurch's earthquake ravaged CBD before finishing off in the breathtaking Milford Sound and Queenstown.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T01:09:30.000Z",
+      "stop": "2026-09-18T02:32:40.000Z",
+      "title": "House Rules",
+      "subtitle": "Episode 4 of Season 6",
+      "description": "The pressure is mounting on contestants as they continue to tackle another house. Cracks start to show with an announcement that will amp up the pressure.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T02:32:40.000Z",
+      "stop": "2026-09-18T03:30:10.000Z",
+      "title": "The Unit",
+      "subtitle": "Sub-Conscious",
+      "description": "Col. Ryan suspects a security breach when Kim has a dream containing too many similarities to the Unit's current mission in North Korea...a mission planned by Bob.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T03:30:10.000Z",
+      "stop": "2026-09-18T04:27:50.000Z",
+      "title": "The Unit",
+      "subtitle": "Johnny B. Good",
+      "description": "The Unit is assigned to plant radiation \"sniffers\" in Iran, but when things go awry, Mack faces a hard decision about their guide's fate; Crystal abandons a badly wounded Jeremy to have an affair with a married member of the Unit.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T04:27:50.000Z",
+      "stop": "2026-09-18T05:40:30.000Z",
+      "title": "The Unit",
+      "subtitle": "The Water Is Wide",
+      "description": "The Unit deal with a bomb scare in the UN building, and Molly and Tiffy search for an MIA soldier in Vietnam.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T05:40:30.000Z",
+      "stop": "2026-09-18T06:00:00.000Z",
+      "title": "Malaysia Kitchen",
+      "subtitle": "Episode 8 of Season 1",
+      "description": "Alvin makes a hearty lamb stir-fry and shows you how to make claypot chicken rice. Malaysian street food extraordinaire, Jackie M drops in to make her noodles with prawn and chicken.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T06:00:00.000Z",
+      "stop": "2026-09-18T07:20:45.000Z",
+      "title": "The Big Adventure",
+      "subtitle": "Episode 8",
+      "description": "Twelve Aussies compete in extreme conditions for a life-changing prize. As their skills and smarts are tested, a fortune lies waiting. Who will dig their way to victory?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T07:20:45.000Z",
+      "stop": "2026-09-18T08:50:45.000Z",
+      "title": "Britain's Got Talent",
+      "subtitle": "Audition 3",
+      "description": "Join superstar judges Simon Cowell, Amanda Holden, Alesha Dixon and Bruno Tonioli as they search for the next big entertainment act to perform at the Royal Variety Performance.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T08:50:45.000Z",
+      "stop": "2026-09-18T11:00:00.000Z",
+      "title": "The Call Of The Wild",
+      "subtitle": null,
+      "description": "Buck, a big-hearted sled dog, struggles for survival in the exotic wilds of the Yukon. He experiences the adventure of a lifetime as he ultimately finds his true place in the world.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-18T11:00:00.000Z",
+      "stop": "2026-09-18T13:14:35.000Z",
+      "title": "Maid In Manhattan",
+      "subtitle": null,
+      "description": "An affluent politician falls for a gorgeous housemaid, thinking she's a guest at the flash hotel she works in. This is a rags-to-riches update of the Cinderella story.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T13:14:35.000Z",
+      "stop": "2026-09-18T15:39:15.000Z",
+      "title": "Dream Horse",
+      "subtitle": null,
+      "description": "A Welsh bartender decides to breed a racehorse even when she lacks the necessary experience and money. So, she convinces people from her community to contribute a small amount to raise the foal.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T15:39:15.000Z",
+      "stop": "2026-09-18T16:07:35.000Z",
+      "title": "The Great Australian Doorstep",
+      "subtitle": "New Zealand Motorhome Tour",
+      "description": "We finish our New Zealand motorhome tour with an open air double decker bus tour of Christchurch's earthquake ravaged CBD before finishing off in the breathtaking Milford Sound and Queenstown.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T16:07:35.000Z",
+      "stop": "2026-09-18T16:35:05.000Z",
+      "title": "Malaysia Kitchen",
+      "subtitle": "Episode 8 of Season 1",
+      "description": "Alvin makes a hearty lamb stir-fry and shows you how to make claypot chicken rice. Malaysian street food extraordinaire, Jackie M drops in to make her noodles with prawn and chicken.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T16:35:05.000Z",
+      "stop": "2026-09-18T17:04:05.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Dr Hos MotionCiser (DRMC2830B24888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T17:04:05.000Z",
+      "stop": "2026-09-18T17:33:05.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Pocket Hose Copper Head (PHCH2830A14888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T17:33:05.000Z",
+      "stop": "2026-09-18T18:30:20.000Z",
+      "title": "The Chicago Code",
+      "subtitle": "Mike Royko's Revenge",
+      "description": "Teresa gets a return visit from FBI agent Cuyler, and Jarek is determined to resolve some lingering issues that have plagued the Wysockis.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T18:30:20.000Z",
+      "stop": "2026-09-18T19:26:10.000Z",
+      "title": "Next",
+      "subtitle": "File #1",
+      "description": "A tech legend warns the world of a dangerous artificial intelligence.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T19:26:10.000Z",
+      "stop": "2026-09-18T20:30:00.000Z",
+      "title": "Next",
+      "subtitle": "File #2",
+      "description": "After being mishandled by a Zava employee, the A.I. called NEXT escapes the confined servers of its home company and gains internet access.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T20:30:00.000Z",
+      "stop": "2026-09-18T21:01:35.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 29 of Season 19",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T21:01:35.000Z",
+      "stop": "2026-09-18T21:33:10.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 30 of Season 19",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T21:33:10.000Z",
+      "stop": "2026-09-18T22:05:10.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 31 of Season 19",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T22:05:10.000Z",
+      "stop": "2026-09-18T22:36:10.000Z",
+      "title": "Get Clever",
+      "subtitle": "Episode 39",
+      "description": "An outrageous series where adventure, fun and the wonders of science are burst wide open.",
+      "category": null
+    }
+  ]
+}

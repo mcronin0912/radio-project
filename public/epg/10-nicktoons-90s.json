@@ -1,0 +1,200 @@
+{
+  "slug": "10-nicktoons-90s",
+  "epgId": "mjh-10-nicktoons-90s",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:36:00.000Z",
+      "stop": "2026-09-17T10:06:00.000Z",
+      "title": "Hey Arnold! S4 Ep. 69",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:06:00.000Z",
+      "stop": "2026-09-17T10:36:00.000Z",
+      "title": "Hey Arnold! S4 Ep. 70",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:36:00.000Z",
+      "stop": "2026-09-17T11:06:00.000Z",
+      "title": "Hey Arnold! S3 Ep. 52",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:06:00.000Z",
+      "stop": "2026-09-17T11:30:00.000Z",
+      "title": "The Angry Beavers S2 Ep. 10",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:30:00.000Z",
+      "stop": "2026-09-17T11:57:00.000Z",
+      "title": "Hey Arnold! S2 Ep. 28",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:57:00.000Z",
+      "stop": "2026-09-17T12:27:00.000Z",
+      "title": "Hey Arnold! S4 Ep. 73",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:27:00.000Z",
+      "stop": "2026-09-17T12:54:00.000Z",
+      "title": "Hey Arnold! S2 Ep. 37",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:54:00.000Z",
+      "stop": "2026-09-17T13:24:00.000Z",
+      "title": "Hey Arnold! S3 Ep. 46",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:24:00.000Z",
+      "stop": "2026-09-17T13:48:12.000Z",
+      "title": "The Angry Beavers S1 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:48:12.000Z",
+      "stop": "2026-09-17T14:12:00.000Z",
+      "title": "The Angry Beavers S1 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:12:00.000Z",
+      "stop": "2026-09-17T14:39:00.000Z",
+      "title": "Hey Arnold! S2 Ep. 22",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:39:00.000Z",
+      "stop": "2026-09-17T15:06:00.000Z",
+      "title": "Hey Arnold! S1 Ep. 16",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:06:00.000Z",
+      "stop": "2026-09-17T15:33:00.000Z",
+      "title": "Hey Arnold! S2 Ep. 36",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:33:00.000Z",
+      "stop": "2026-09-17T16:03:00.000Z",
+      "title": "Hey Arnold! S4 Ep. 74",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:03:00.000Z",
+      "stop": "2026-09-17T16:33:00.000Z",
+      "title": "Hey Arnold! S3 Ep. 48",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:33:00.000Z",
+      "stop": "2026-09-17T16:57:00.000Z",
+      "title": "The Angry Beavers S2 Ep. 9",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:57:00.000Z",
+      "stop": "2026-09-17T17:21:00.000Z",
+      "title": "The Angry Beavers S1 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:21:00.000Z",
+      "stop": "2026-09-17T17:45:00.000Z",
+      "title": "The Angry Beavers S2 Ep. 12",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:45:00.000Z",
+      "stop": "2026-09-17T18:15:00.000Z",
+      "title": "Hey Arnold! S4 Ep. 64",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:15:00.000Z",
+      "stop": "2026-09-17T18:45:00.000Z",
+      "title": "Hey Arnold! S3 Ep. 44",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:45:00.000Z",
+      "stop": "2026-09-17T19:15:00.000Z",
+      "title": "Hey Arnold! S4 Ep. 66",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:15:00.000Z",
+      "stop": "2026-09-17T19:42:00.000Z",
+      "title": "Hey Arnold! S2 Ep. 27",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:42:00.000Z",
+      "stop": "2026-09-17T20:06:00.000Z",
+      "title": "Rocket Power S1 Ep. 16",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:06:00.000Z",
+      "stop": "2026-09-17T20:36:00.000Z",
+      "title": "Hey Arnold! S1 Ep. 12",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

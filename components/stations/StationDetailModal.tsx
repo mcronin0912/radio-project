@@ -1,11 +1,12 @@
 "use client";
 
-import Image from "next/image";
-import { ExternalLink, Radio, X } from "lucide-react";
+import { useEffect } from "react";
+import { ExternalLink, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LiveIndicator } from "@/components/stations/LiveIndicator";
 import { FavouriteButton } from "@/components/stations/FavouriteButton";
 import { PlayButton } from "@/components/stations/PlayButton";
+import { MediaLogo } from "@/components/MediaLogo";
 import { getStationContent, type Station } from "@/lib/stations";
 
 interface StationDetailModalProps {
@@ -16,34 +17,35 @@ interface StationDetailModalProps {
 export function StationDetailModal({ station, onClose }: StationDetailModalProps) {
   const content = getStationContent(station);
 
+  useEffect(() => {
+    const prevOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = prevOverflow;
+    };
+  }, []);
+
   return (
     <div
-      className="fixed inset-0 z-40 bg-void"
+      className="fixed inset-0 z-40 overflow-y-auto overscroll-contain bg-void"
       role="dialog"
       aria-modal="true"
       aria-labelledby="station-modal-title"
     >
-      <div className="mx-auto max-h-[100dvh] max-w-page overflow-y-auto px-4 py-8 pb-32 sm:px-6">
+      <div className="mx-auto min-h-full max-w-page px-4 py-8 pb-32 sm:px-6">
         <Button variant="ghost" size="sm" onClick={onClose} aria-label="Close">
           <X className="mr-2 h-4 w-4" />
           Back to directory
         </Button>
 
         <header className="mt-8 flex flex-col gap-6 sm:flex-row sm:items-start">
-          <div className="flex h-24 w-24 shrink-0 items-center justify-center overflow-hidden rounded-cards bg-paper p-2 shadow-subtle">
-            {station.logoUrl ? (
-              <Image
-                src={station.logoUrl}
-                alt=""
-                width={96}
-                height={96}
-                className="size-full rounded-md object-contain"
-                unoptimized
-              />
-            ) : (
-              <Radio className="h-10 w-10 text-ash" />
-            )}
-          </div>
+          <MediaLogo
+            url={station.logoUrl}
+            kind="radio"
+            className="h-24 w-24 rounded-cards p-2 shadow-subtle"
+            iconClassName="h-10 w-10"
+            size={96}
+          />
           <div className="min-w-0 flex-1">
             <h1
               id="station-modal-title"

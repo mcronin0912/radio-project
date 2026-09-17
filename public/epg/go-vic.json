@@ -1,0 +1,408 @@
+{
+  "slug": "go-vic",
+  "epgId": "mjh-go-vic",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:00:00.000Z",
+      "stop": "2026-09-17T10:32:00.000Z",
+      "title": "Seinfeld",
+      "subtitle": "The Betrayal",
+      "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T10:32:00.000Z",
+      "stop": "2026-09-17T13:23:00.000Z",
+      "title": "Den of Thieves",
+      "subtitle": null,
+      "description": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank. (Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.)",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-17T13:23:00.000Z",
+      "stop": "2026-09-17T13:54:00.000Z",
+      "title": "Seinfeld",
+      "subtitle": "The Slicer",
+      "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-17T13:54:00.000Z",
+      "stop": "2026-09-17T14:46:00.000Z",
+      "title": "Jane The Virgin",
+      "subtitle": "Chapter Nine",
+      "description": "Jane and Rafael make a shocking discovery regarding Petra. Rogelio invites Jane, Xo and Alba to an awards show, and Michael uncovers a big clue.",
+      "category": "Similar"
+    },
+    {
+      "start": "2026-09-17T14:46:00.000Z",
+      "stop": "2026-09-17T15:39:00.000Z",
+      "title": "Love Island UK: All Stars",
+      "subtitle": "Episode 14",
+      "description": "One boy tries to win back his girl, and another has second thoughts. A scandalous Vegas night gets viscous, leaving tears and anger amongst the Islanders by the end of the night.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T15:39:00.000Z",
+      "stop": "2026-09-17T16:30:00.000Z",
+      "title": "Legacies",
+      "subtitle": "You Have to Pick One This Time",
+      "description": "Hope and the Super Squad try to rescue Landon and Cleo, and an impromptu date with Finch brings up a subject that Josie is not ready to talk about.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-17T16:30:00.000Z",
+      "stop": "2026-09-17T17:20:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Strangers Among Us",
+      "description": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-17T17:20:00.000Z",
+      "stop": "2026-09-17T17:28:00.000Z",
+      "title": "Talking Honey",
+      "subtitle": "Love and money: Should You Combine Finances After Marriage?",
+      "description": "Host Shelly Horton is joined on the 9Honey panel by Ben Fordham, Georgie Gardner and Richard Wilkins to discuss relationship dilemmas and social issues.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-17T17:28:00.000Z",
+      "stop": "2026-09-17T17:54:00.000Z",
+      "title": "Cry Babies Magic Tears",
+      "subtitle": "A Different Christmas",
+      "description": "Susu is covering a report on \"The authentic Christmas\". The Cry Babies Magic Tears of the Valley go see if the Fantasy babies celebrate Christmas too. Will they have the same traditions?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T17:54:00.000Z",
+      "stop": "2026-09-17T18:20:00.000Z",
+      "title": "Barbie: Dreamhouse Adventures",
+      "subtitle": "A Delicate Situation",
+      "description": "Barbie tries to help Renee find a talent to impress her family in China, but can't bear to reveal the truth about how far from perfect Renee's talents really are.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T18:20:00.000Z",
+      "stop": "2026-09-17T18:43:00.000Z",
+      "title": "Hop",
+      "subtitle": "Sister Brother Day/who's The Best",
+      "description": "Lonny loves \"Sister Brother Day,\" when she and Alfred get to do everything together. / Hop and Penny aren't competitive. Or are they? When Benny invents a new game Hop and Penny become obsessed with being the best.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-17T18:43:00.000Z",
+      "stop": "2026-09-17T19:07:00.000Z",
+      "title": "LEGO City Adventures",
+      "subtitle": "Buster Moves/To Cop or Not To Cop",
+      "description": "Buster attempts to retrieve his runaway mustache in a fast-paced, zany citywide chase; Grizzled and Rooky go under cover to root out the criminal mastermind behind a counterfeit pie operation.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T19:07:00.000Z",
+      "stop": "2026-09-17T19:31:00.000Z",
+      "title": "Barney's World",
+      "subtitle": "Someone's Missing/Lights Out",
+      "description": "When a cold keeps David stuck inside, his friends get creative and play with him from outside his window. / When a blackout upends Vivie's evening plans, Barney and the kids pivot to night time fun with help from the community.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T19:31:00.000Z",
+      "stop": "2026-09-17T20:00:00.000Z",
+      "title": "Beyblade Burst - Quad Drive",
+      "subtitle": "To the Skies! World Domination!",
+      "description": "Bel drags others to BC Sol and Free De La Hoya to battle the strongest Bladers. He will need all the help he can get.",
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:00:00.000Z",
+      "stop": "2026-09-17T20:30:00.000Z",
+      "title": "Beyblade X",
+      "subtitle": "Pro Blader",
+      "description": "A fierce battle begins as Pro Bladers gather to face the Kurosu Clan. Sigrid and Yoko Kyubi seek revenge in high-stakes matches while the world watches via livestream. Will their pride and hopes lead them to a victory?",
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:30:00.000Z",
+      "stop": "2026-09-17T21:00:00.000Z",
+      "title": "LEGO DreamZzz",
+      "subtitle": "Outside the Box",
+      "description": "Dream chasers are faced with the Brain's Final Protocol, to box the dream world for all of eternity.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T21:00:00.000Z",
+      "stop": "2026-09-17T21:30:00.000Z",
+      "title": "Barbie: Dreamhouse Adventures",
+      "subtitle": "All Dogs Go To The Beach",
+      "description": "When dogs get banned from the beach, Barbie and Nikki decide to fight City Hall; victory looks certain until Poppy Reardon joins the race and fights anything but fair.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T21:30:00.000Z",
+      "stop": "2026-09-17T22:00:00.000Z",
+      "title": "Smashhdown! - Search For The G.O.A.T",
+      "subtitle": "Beethoven vs. Adele",
+      "description": "Beethoven and Adele are warming up for a powerhouse performance today! Will it be another good gig by Ludwig? Or will Adele blast him away with her triumphant trills and vigorous vibrato?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-17T22:00:00.000Z",
+      "stop": "2026-09-17T22:30:00.000Z",
+      "title": "LEGO City Adventures",
+      "subtitle": "Handle With Car/The Silver Blur",
+      "description": "Duke and his high-tech, temperamental smart car chase ice-cream truck bandits; the oblivious Ms. Blumfeld turns into a superhero, stopping crimes around the city as Duke struggles with his orders to arrest her.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-17T22:30:00.000Z",
+      "stop": "2026-09-17T23:30:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Lifeguards Can't Jump",
+      "description": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-17T23:30:00.000Z",
+      "stop": "2026-09-18T00:00:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "Fester Goes On A Diet",
+      "description": "Tarantulas, torture, racks and tombstones have never been so much fun! Join Gomez, Morticia, Uncle Fester, Lurch and the rest of the gang. It's time to pay a call on...The Addams Family.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T00:00:00.000Z",
+      "stop": "2026-09-18T00:30:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "The Great Treasure Hunt",
+      "description": "Tarantulas, torture, racks and tombstones have never been so much fun! Join Gomez, Morticia, Uncle Fester, Lurch and the rest of the gang. It's time to pay a call on...The Addams Family.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T00:30:00.000Z",
+      "stop": "2026-09-18T01:00:00.000Z",
+      "title": "Bewitched",
+      "subtitle": "Hansel And Gretel In Samantha land",
+      "description": "After Tabitha zaps Hansel and Gretel out of the story, Samantha must enter it to go after the runaway Tabitha.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T01:00:00.000Z",
+      "stop": "2026-09-18T01:30:00.000Z",
+      "title": "Bewitched",
+      "subtitle": "The Warlock In The Grey Flannel Suit",
+      "description": "Endora causes trouble at McMahon and Tate when she has a warlock join the firm.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T01:30:00.000Z",
+      "stop": "2026-09-18T02:30:00.000Z",
+      "title": "World's Greatest Natural Wonders",
+      "subtitle": "Mountains",
+      "description": "Explore some of the world's greatest mountains including Mount Everest, Andes, Canadian Rockies, Swiss Alps, the Dolomites and the Pindus Mountains in Europe.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T02:30:00.000Z",
+      "stop": "2026-09-18T04:30:00.000Z",
+      "title": "Costa Concordia: Chronicle Of Disaster",
+      "subtitle": "Die letzte Fahrt der Costa Concordia",
+      "description": "Ten years after the Costa Concordia cruise ship capsized and sank, the film sheds light on the tragedy that captured the world's attention.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T04:30:00.000Z",
+      "stop": "2026-09-18T05:30:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Lifeguards Can't Jump",
+      "description": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T05:30:00.000Z",
+      "stop": "2026-09-18T06:00:00.000Z",
+      "title": "Seinfeld",
+      "subtitle": "The Slicer",
+      "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T06:00:00.000Z",
+      "stop": "2026-09-18T06:30:00.000Z",
+      "title": "Seinfeld",
+      "subtitle": "The Betrayal",
+      "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T06:30:00.000Z",
+      "stop": "2026-09-18T07:00:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "Ophelia Finds Romance",
+      "description": "Tarantulas, torture, racks and tombstones have never been so much fun! Join Gomez, Morticia, Uncle Fester, Lurch and the rest of the gang. It's time to pay a call on...The Addams Family.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T07:00:00.000Z",
+      "stop": "2026-09-18T07:30:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "Pugsley's Allowance",
+      "description": "Tarantulas, torture, racks and tombstones have never been so much fun! Join Gomez, Morticia, Uncle Fester, Lurch and the rest of the gang. It's time to pay a call on...The Addams Family.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T07:30:00.000Z",
+      "stop": "2026-09-18T08:00:00.000Z",
+      "title": "Bewitched",
+      "subtitle": "The Phrase Is Familiar",
+      "description": "After learning that plays on words helps Darrin in his line of work, Endora casts a spell that makes Darrin speak only in clichés.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T08:00:00.000Z",
+      "stop": "2026-09-18T08:30:00.000Z",
+      "title": "Bewitched",
+      "subtitle": "Samantha's Secret Is Discovered",
+      "description": "Samantha finally shows her powers to her mother-in-law. After Sam's powers are removed and Phyliss can't prove it to her husband, he has Phyliss committed.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-18T08:30:00.000Z",
+      "stop": "2026-09-18T09:30:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "A Matter of Life and Death",
+      "description": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T09:30:00.000Z",
+      "stop": "2026-09-18T11:35:00.000Z",
+      "title": "The Duff",
+      "subtitle": null,
+      "description": "A high school senior instigates a social pecking order revolution after finding out that she has been labelled the DUFF - Designated Ugly Fat Friend - by her prettier, more popular counterparts. Starring: Mae Whitman, Bella Thorne, Robbie Amell, Allison Janney",
+      "category": "Similar"
+    },
+    {
+      "start": "2026-09-18T11:35:00.000Z",
+      "stop": "2026-09-18T14:35:00.000Z",
+      "title": "Sex and the City 2",
+      "subtitle": null,
+      "description": "While wrestling with the pressures of life, love, and work in Manhattan, Carrie, Miranda, and Charlotte join Samantha for a trip to Abu Dhabi, where Samantha's ex is filming a new movie. Starring Sarah Jessica Parker, Kim Cattrall, Kristin Davis.",
+      "category": "Similar"
+    },
+    {
+      "start": "2026-09-18T14:35:00.000Z",
+      "stop": "2026-09-18T15:30:00.000Z",
+      "title": "Love Island UK: All Stars",
+      "subtitle": "Episode 15",
+      "description": "Passions run high as the Islanders navigate the fallout of the explosive Vegas night. A close friendship is tested, whilst one boy's hopes of rekindling an old flame are tempered.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T15:30:00.000Z",
+      "stop": "2026-09-18T16:25:00.000Z",
+      "title": "Legacies",
+      "subtitle": "There's No I in Team, or Whatever",
+      "description": "Josie and the Super Squad enact a risky plan that could save Landon, Landon and Cleo meet in Malivore's darkness, and Kaleb and Ethan volunteer together.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-18T16:25:00.000Z",
+      "stop": "2026-09-18T17:10:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Vacation Part 1",
+      "description": "The Baywatch lifeguards' vacation cruise turns serious when an escaped convict on the ship sends Mitch and Stephanie overboard.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T17:10:00.000Z",
+      "stop": "2026-09-18T18:00:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Vacation Part 2",
+      "description": "The Baywatch lifeguards' efforts to rescue Mitch and Stephanie are hampered when Rogo takes over their cruise ship.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T18:00:00.000Z",
+      "stop": "2026-09-18T18:30:00.000Z",
+      "title": "Barbie: Dreamhouse Adventures",
+      "subtitle": "All Dogs Go To The Beach",
+      "description": "When dogs get banned from the beach, Barbie and Nikki decide to fight City Hall; victory looks certain until Poppy Reardon joins the race and fights anything but fair.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-18T18:30:00.000Z",
+      "stop": "2026-09-18T18:50:00.000Z",
+      "title": "Hop",
+      "subtitle": "Dragon Terry/Penny's Big Break",
+      "description": "When Baby Terry meets a big dragon, he tries to learn to do everything dragons do. Hop learns Penny is helping Filipa build a huge statue and becomes worried.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-18T18:50:00.000Z",
+      "stop": "2026-09-18T19:10:00.000Z",
+      "title": "LEGO City Adventures",
+      "subtitle": "Handle With Car/The Silver Blur",
+      "description": "Duke and his high-tech, temperamental smart car chase ice-cream truck bandits; the oblivious Ms. Blumfeld turns into a superhero, stopping crimes around the city as Duke struggles with his orders to arrest her.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-18T19:10:00.000Z",
+      "stop": "2026-09-18T19:30:00.000Z",
+      "title": "Wild Manes",
+      "subtitle": "Queen Of The Wild / The Hoof Polish / The Night Mares / Best Wishes / Escape Room",
+      "description": "Dreamer hosts a sleepover party with her horsepals Cocoa, Candi, and Cherie, and tells a spooky story about a monster named Trottenstein! When Cherie mysteriously goes missing, the others must band together and face their fears.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T19:30:00.000Z",
+      "stop": "2026-09-18T20:00:00.000Z",
+      "title": "Beyblade Burst - Quad Drive",
+      "subtitle": "The Other Valtryek!",
+      "description": "Bel's unruly antics cost him some training privileges at El Astro. With another battle around the corner, he has to find a way to help Belfyre unleash its true strength.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T20:00:00.000Z",
+      "stop": "2026-09-18T20:30:00.000Z",
+      "title": "Beyblade X",
+      "subtitle": "Crafter vs. Crafter",
+      "description": "As revenge matches heat up, Five Kurosu challenges Jaxon at Komaba Sushi, but Multi Nana-iro steps in for a crafter showdown. Persona soon learns Five's experiments are tied to the whereabouts of Pendragon's Khrome Ryugu.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T20:30:00.000Z",
+      "stop": "2026-09-18T21:00:00.000Z",
+      "title": "Bubble's Hotel",
+      "subtitle": "Party Popper/Boxed In/Chain Reactions/Cat-Proof Bubble",
+      "description": "When Bubble keeps trying to make her guest's party better and better, she ends up ignoring what he really wants. / When Bubble tries to help her guest Marie with her science experiments, they start to merge and run rampant in the hotel.",
+      "category": null
+    },
+    {
+      "start": "2026-09-18T21:00:00.000Z",
+      "stop": "2026-09-18T21:30:00.000Z",
+      "title": "Barney's World",
+      "subtitle": "A Work Of Parts/Time To Try",
+      "description": "Vivie discovers that even though she's small, she can still have a big effect on the park. / When Mel's friends are reluctant to try kimchi, they learn the importance of trying new things.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-18T21:30:00.000Z",
+      "stop": "2026-09-18T22:00:00.000Z",
+      "title": "Smashhdown! - Search For The G.O.A.T",
+      "subtitle": "Puccini vs. Francesca Caccini",
+      "description": "Puccini can't afford to botch his crotchets again today, or his title ambitions will be blown out the spit-valve. While Caccini is also looking to take her performance from pianissimo to fortissimo.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-18T22:00:00.000Z",
+      "stop": "2026-09-18T22:30:00.000Z",
+      "title": "Spidey and His Amazing Friends",
+      "subtitle": "The Campout Mystery / Gobby's Metal Menace",
+      "description": "Peter Parker, Miles Morales and Gwen Stacy join forces with Hulk, Ms Marvel and Black Panther to fight their common enemies and learn that working together as a team is the best.",
+      "category": "Kids & Family"
+    }
+  ]
+}

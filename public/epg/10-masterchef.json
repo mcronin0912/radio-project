@@ -1,0 +1,96 @@
+{
+  "slug": "10-masterchef",
+  "epgId": "mjh-10-masterchef",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:22:00.000Z",
+      "stop": "2026-09-17T10:19:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 50",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:19:00.000Z",
+      "stop": "2026-09-17T11:40:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 51",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:40:00.000Z",
+      "stop": "2026-09-17T12:44:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 52",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:44:00.000Z",
+      "stop": "2026-09-17T13:50:03.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 53",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:50:03.000Z",
+      "stop": "2026-09-17T14:55:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 54",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:55:00.000Z",
+      "stop": "2026-09-17T15:54:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 55",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:54:00.000Z",
+      "stop": "2026-09-17T17:15:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 56",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:15:00.000Z",
+      "stop": "2026-09-17T18:16:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 57",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:16:00.000Z",
+      "stop": "2026-09-17T19:21:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 58",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:21:00.000Z",
+      "stop": "2026-09-17T20:24:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 59",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:24:00.000Z",
+      "stop": "2026-09-17T20:54:00.000Z",
+      "title": "MasterChef Australia AU S9 Ep. 60",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

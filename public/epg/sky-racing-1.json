@@ -1,0 +1,40 @@
+{
+  "slug": "sky-racing-1",
+  "epgId": "mjh-sky-racing-1",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T08:00:00.000Z",
+      "stop": "2026-09-17T12:00:00.000Z",
+      "title": "Live: Sky Racing 1 Race Night",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:00:00.000Z",
+      "stop": "2026-09-17T14:00:00.000Z",
+      "title": "Live: Sky Racing 1 Late Night",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:00:00.000Z",
+      "stop": "2026-09-17T19:00:00.000Z",
+      "title": "Live: Sky Racing 1 Late Night",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:00:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "Live: Sky Racing 1 Early Morning",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

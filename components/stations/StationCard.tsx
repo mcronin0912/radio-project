@@ -1,10 +1,10 @@
 "use client";
 
-import Image from "next/image";
-import { Pause, Play, Radio } from "lucide-react";
+import { Pause, Play } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { FavouriteButton } from "@/components/stations/FavouriteButton";
+import { MediaLogo } from "@/components/MediaLogo";
 import { cn } from "@/lib/utils";
 import { usePlayer } from "@/lib/player-context";
 import type { Station } from "@/lib/stations";
@@ -15,8 +15,9 @@ interface StationCardProps {
 }
 
 export function StationCard({ station, onStationSelect }: StationCardProps) {
-  const { station: currentStation, isPlaying, play, pause } = usePlayer();
-  const isCurrentStation = currentStation?.id === station.id;
+  const { media, isPlaying, play, pause } = usePlayer();
+  const isCurrentStation =
+    media?.kind === "radio" && media.station.id === station.id;
   const isLive = isCurrentStation && isPlaying;
 
   return (
@@ -29,20 +30,12 @@ export function StationCard({ station, onStationSelect }: StationCardProps) {
       <CardHeader>
         <div className="flex items-start justify-between gap-2">
           <div className="flex min-w-0 flex-1 items-start gap-3">
-            <div className="flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-md bg-paper p-1">
-              {station.logoUrl ? (
-                <Image
-                  src={station.logoUrl}
-                  alt=""
-                  width={48}
-                  height={48}
-                  className="size-full rounded-badges object-contain"
-                  unoptimized
-                />
-              ) : (
-                <Radio className="h-5 w-5 text-ash" />
-              )}
-            </div>
+            <MediaLogo
+              url={station.logoUrl}
+              kind="radio"
+              className="h-12 w-12"
+              size={48}
+            />
             <div className="min-w-0 flex-1">
               <h3 className="break-words text-[15px] font-medium tracking-tight text-paper">
                 {station.name}

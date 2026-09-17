@@ -1,0 +1,120 @@
+{
+  "slug": "10-forty-eight-hours",
+  "epgId": "mjh-10-forty-eight-hours",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:20:00.000Z",
+      "stop": "2026-09-17T10:09:00.000Z",
+      "title": "48 Hours S22 Ep. 43",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:09:00.000Z",
+      "stop": "2026-09-17T10:59:00.000Z",
+      "title": "48 Hours S22 Ep. 57",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:59:00.000Z",
+      "stop": "2026-09-17T11:49:00.000Z",
+      "title": "48 Hours S22 Ep. 38",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:49:00.000Z",
+      "stop": "2026-09-17T12:40:00.000Z",
+      "title": "48 Hours S22 Ep. 41",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:40:00.000Z",
+      "stop": "2026-09-17T13:30:32.000Z",
+      "title": "48 Hours S22 Ep. 36",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:30:32.000Z",
+      "stop": "2026-09-17T14:20:00.000Z",
+      "title": "48 Hours S22 Ep. 42",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:20:00.000Z",
+      "stop": "2026-09-17T15:09:00.000Z",
+      "title": "48 Hours S23 Ep. 45",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:09:00.000Z",
+      "stop": "2026-09-17T15:57:00.000Z",
+      "title": "48 Hours S23 Ep. 37",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:57:00.000Z",
+      "stop": "2026-09-17T16:47:00.000Z",
+      "title": "48 Hours S23 Ep. 21",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:47:00.000Z",
+      "stop": "2026-09-17T17:37:00.000Z",
+      "title": "48 Hours S23 Ep. 2358",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:37:00.000Z",
+      "stop": "2026-09-17T18:25:00.000Z",
+      "title": "48 Hours S23 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:25:00.000Z",
+      "stop": "2026-09-17T19:14:00.000Z",
+      "title": "48 Hours S23 Ep. 50",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:14:00.000Z",
+      "stop": "2026-09-17T20:04:00.000Z",
+      "title": "48 Hours S23 Ep. 44",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:04:00.000Z",
+      "stop": "2026-09-17T20:34:00.000Z",
+      "title": "48 Hours S23 Ep. 62",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

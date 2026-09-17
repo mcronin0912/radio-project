@@ -1,0 +1,32 @@
+{
+  "slug": "sky-racing-2",
+  "epgId": "mjh-sky-racing-2",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T08:00:00.000Z",
+      "stop": "2026-09-17T14:00:00.000Z",
+      "title": "Live: Sky Racing 2 Race Night",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:00:00.000Z",
+      "stop": "2026-09-17T19:00:00.000Z",
+      "title": "Live: Sky Racing 2 Late Night",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:00:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "Live: Sky Racing 2 Early Morning",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

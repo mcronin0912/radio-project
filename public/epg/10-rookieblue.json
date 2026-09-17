@@ -1,0 +1,120 @@
+{
+  "slug": "10-rookieblue",
+  "epgId": "mjh-10-rookieblue",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:26:00.000Z",
+      "stop": "2026-09-17T10:15:00.000Z",
+      "title": "Two Truths and a Lie",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:15:00.000Z",
+      "stop": "2026-09-17T11:04:00.000Z",
+      "title": "Deal with the Devil",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:04:00.000Z",
+      "stop": "2026-09-17T11:53:00.000Z",
+      "title": "Exit Strategy",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:53:00.000Z",
+      "stop": "2026-09-17T12:42:00.000Z",
+      "title": "Moving Day",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:42:00.000Z",
+      "stop": "2026-09-17T13:31:13.000Z",
+      "title": "Fragments",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:31:13.000Z",
+      "stop": "2026-09-17T14:20:00.000Z",
+      "title": "Everlasting",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:20:00.000Z",
+      "stop": "2026-09-17T15:09:00.000Z",
+      "title": "Open Windows",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:09:00.000Z",
+      "stop": "2026-09-17T15:57:00.000Z",
+      "title": "Perfect Family",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:57:00.000Z",
+      "stop": "2026-09-17T16:46:00.000Z",
+      "title": "Uprising",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:46:00.000Z",
+      "stop": "2026-09-17T17:35:00.000Z",
+      "title": "Letting Go",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:35:00.000Z",
+      "stop": "2026-09-17T18:24:00.000Z",
+      "title": "A Real Gentleman",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:24:00.000Z",
+      "stop": "2026-09-17T19:12:00.000Z",
+      "title": "Home Run",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:12:00.000Z",
+      "stop": "2026-09-17T20:01:00.000Z",
+      "title": "Best Man",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:01:00.000Z",
+      "stop": "2026-09-17T20:31:00.000Z",
+      "title": "Integrity Test",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

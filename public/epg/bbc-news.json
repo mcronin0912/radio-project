@@ -1,0 +1,128 @@
+{
+  "slug": "bbc-news",
+  "epgId": "mjh-bbc-news",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T10:00:00.000Z",
+      "stop": "2026-09-17T10:30:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:30:00.000Z",
+      "stop": "2026-09-17T10:45:00.000Z",
+      "title": "Business Today",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:45:00.000Z",
+      "stop": "2026-09-17T10:55:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:55:00.000Z",
+      "stop": "2026-09-17T11:00:00.000Z",
+      "title": "Talking Movies",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:00:00.000Z",
+      "stop": "2026-09-17T11:30:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:30:00.000Z",
+      "stop": "2026-09-17T12:00:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:00:00.000Z",
+      "stop": "2026-09-17T12:30:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:30:00.000Z",
+      "stop": "2026-09-17T12:55:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:55:00.000Z",
+      "stop": "2026-09-17T13:00:00.000Z",
+      "title": "Talking Movies",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:00:00.000Z",
+      "stop": "2026-09-17T13:30:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:30:00.000Z",
+      "stop": "2026-09-17T13:45:00.000Z",
+      "title": "Business Today USA",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:45:00.000Z",
+      "stop": "2026-09-17T14:00:00.000Z",
+      "title": "BBC News",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:00:00.000Z",
+      "stop": "2026-09-17T14:30:00.000Z",
+      "title": "Verified Live",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:30:00.000Z",
+      "stop": "2026-09-17T15:00:00.000Z",
+      "title": "Verified Live",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:00:00.000Z",
+      "stop": "2026-09-17T15:30:00.000Z",
+      "title": "Verified Live",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "10-highwaythruhell",
+  "epgId": "mjh-10-highwaythruhell",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:21:00.000Z",
+      "stop": "2026-09-17T10:17:00.000Z",
+      "title": "Close Calls",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:17:00.000Z",
+      "stop": "2026-09-17T11:13:00.000Z",
+      "title": "Winch Wizard",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:13:00.000Z",
+      "stop": "2026-09-17T12:07:00.000Z",
+      "title": "Hats and Jalapenos",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:07:00.000Z",
+      "stop": "2026-09-17T13:03:27.000Z",
+      "title": "The Bait",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:03:27.000Z",
+      "stop": "2026-09-17T13:59:00.000Z",
+      "title": "Up In Smoke",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:59:00.000Z",
+      "stop": "2026-09-17T14:55:00.000Z",
+      "title": "Weather The Storm (Special)",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:55:00.000Z",
+      "stop": "2026-09-17T15:51:00.000Z",
+      "title": "Cold Comfort",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:51:00.000Z",
+      "stop": "2026-09-17T16:47:00.000Z",
+      "title": "Where there's smoke",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:47:00.000Z",
+      "stop": "2026-09-17T17:43:00.000Z",
+      "title": "Not your regular fender-bender",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:43:00.000Z",
+      "stop": "2026-09-17T18:37:00.000Z",
+      "title": "feels like a win",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:37:00.000Z",
+      "stop": "2026-09-17T19:30:00.000Z",
+      "title": "A really long night",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:30:00.000Z",
+      "stop": "2026-09-17T20:00:00.000Z",
+      "title": "Bent Metal Dynasty",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

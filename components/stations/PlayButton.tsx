@@ -10,8 +10,9 @@ interface PlayButtonProps {
 }
 
 export function PlayButton({ station }: PlayButtonProps) {
-  const { station: currentStation, isPlaying, play, pause } = usePlayer();
-  const isCurrentStation = currentStation?.id === station.id;
+  const { media, isPlaying, play, pause } = usePlayer();
+  const isCurrentStation =
+    media?.kind === "radio" && media.station.id === station.id;
   const showPause = isCurrentStation && isPlaying;
 
   return (

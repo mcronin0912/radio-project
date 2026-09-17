@@ -1,0 +1,3464 @@
+[
+  {
+    "slug": "10-nsw",
+    "channelId": "mjh-10-nsw",
+    "name": "10 NSW",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png",
+    "streamUrl": "https://i.mjh.nz/.r/10-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "10",
+    "label": "Ch 10",
+    "hasGuide": true
+  },
+  {
+    "slug": "10-qld",
+    "channelId": "mjh-10-qld",
+    "name": "10 QLD",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png",
+    "streamUrl": "https://i.mjh.nz/.r/10-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "10",
+    "label": "Ch 10",
+    "hasGuide": true
+  },
+  {
+    "slug": "10-sa",
+    "channelId": "mjh-10-sa",
+    "name": "10 SA",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png",
+    "streamUrl": "https://i.mjh.nz/.r/10-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "10",
+    "label": "Ch 10",
+    "hasGuide": true
+  },
+  {
+    "slug": "10-vic",
+    "channelId": "mjh-10-vic",
+    "name": "10 VIC",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png",
+    "streamUrl": "https://i.mjh.nz/.r/10-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "10",
+    "label": "Ch 10",
+    "hasGuide": true
+  },
+  {
+    "slug": "10-wa",
+    "channelId": "mjh-10-wa",
+    "name": "10 WA",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png",
+    "streamUrl": "https://i.mjh.nz/.r/10-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "10",
+    "label": "Ch 10",
+    "hasGuide": true
+  },
+  {
+    "slug": "10peach-nsw",
+    "channelId": "mjh-10peach-nsw",
+    "name": "10 Comedy NSW",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png",
+    "streamUrl": "https://i.mjh.nz/.r/10peach-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "11",
+    "label": "Ch 11",
+    "hasGuide": true
+  },
+  {
+    "slug": "10peach-qld",
+    "channelId": "mjh-10peach-qld",
+    "name": "10 Comedy QLD",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png",
+    "streamUrl": "https://i.mjh.nz/.r/10peach-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "11",
+    "label": "Ch 11",
+    "hasGuide": true
+  },
+  {
+    "slug": "10peach-sa",
+    "channelId": "mjh-10peach-sa",
+    "name": "10 Comedy SA",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png",
+    "streamUrl": "https://i.mjh.nz/.r/10peach-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "11",
+    "label": "Ch 11",
+    "hasGuide": true
+  },
+  {
+    "slug": "10peach-vic",
+    "channelId": "mjh-10peach-vic",
+    "name": "10 Comedy VIC",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png",
+    "streamUrl": "https://i.mjh.nz/.r/10peach-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "11",
+    "label": "Ch 11",
+    "hasGuide": true
+  },
+  {
+    "slug": "10peach-wa",
+    "channelId": "mjh-10peach-wa",
+    "name": "10 Comedy WA",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "comedy",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png",
+    "streamUrl": "https://i.mjh.nz/.r/10peach-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "11",
+    "label": "Ch 11",
+    "hasGuide": true
+  },
+  {
+    "slug": "10bold-nsw",
+    "channelId": "mjh-10bold-nsw",
+    "name": "10 Drama NSW",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png",
+    "streamUrl": "https://i.mjh.nz/.r/10bold-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "12",
+    "label": "Ch 12",
+    "hasGuide": true
+  },
+  {
+    "slug": "10bold-qld",
+    "channelId": "mjh-10bold-qld",
+    "name": "10 Drama QLD",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png",
+    "streamUrl": "https://i.mjh.nz/.r/10bold-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "12",
+    "label": "Ch 12",
+    "hasGuide": true
+  },
+  {
+    "slug": "10bold-sa",
+    "channelId": "mjh-10bold-sa",
+    "name": "10 Drama SA",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png",
+    "streamUrl": "https://i.mjh.nz/.r/10bold-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "12",
+    "label": "Ch 12",
+    "hasGuide": true
+  },
+  {
+    "slug": "10bold-vic",
+    "channelId": "mjh-10bold-vic",
+    "name": "10 Drama VIC",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png",
+    "streamUrl": "https://i.mjh.nz/.r/10bold-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "12",
+    "label": "Ch 12",
+    "hasGuide": true
+  },
+  {
+    "slug": "10bold-wa",
+    "channelId": "mjh-10bold-wa",
+    "name": "10 Drama WA",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png",
+    "streamUrl": "https://i.mjh.nz/.r/10bold-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "12",
+    "label": "Ch 12",
+    "hasGuide": true
+  },
+  {
+    "slug": "10shake-nsw",
+    "channelId": "mjh-10shake-nsw",
+    "name": "Nickelodeon NSW",
+    "network": "Ten",
+    "categories": [
+      "kids",
+      "factual",
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png",
+    "streamUrl": "https://i.mjh.nz/.r/10shake-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "13",
+    "label": "Ch 13",
+    "hasGuide": true
+  },
+  {
+    "slug": "10shake-qld",
+    "channelId": "mjh-10shake-qld",
+    "name": "Nickelodeon QLD",
+    "network": "Ten",
+    "categories": [
+      "kids",
+      "factual",
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png",
+    "streamUrl": "https://i.mjh.nz/.r/10shake-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "13",
+    "label": "Ch 13",
+    "hasGuide": true
+  },
+  {
+    "slug": "10shake-sa",
+    "channelId": "mjh-10shake-sa",
+    "name": "Nickelodeon SA",
+    "network": "Ten",
+    "categories": [
+      "kids",
+      "factual",
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png",
+    "streamUrl": "https://i.mjh.nz/.r/10shake-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "13",
+    "label": "Ch 13",
+    "hasGuide": true
+  },
+  {
+    "slug": "10shake-vic",
+    "channelId": "mjh-10shake-vic",
+    "name": "Nickelodeon VIC",
+    "network": "Ten",
+    "categories": [
+      "kids",
+      "factual",
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png",
+    "streamUrl": "https://i.mjh.nz/.r/10shake-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "13",
+    "label": "Ch 13",
+    "hasGuide": true
+  },
+  {
+    "slug": "10shake-wa",
+    "channelId": "mjh-10shake-wa",
+    "name": "Nickelodeon WA",
+    "network": "Ten",
+    "categories": [
+      "kids",
+      "factual",
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png",
+    "streamUrl": "https://i.mjh.nz/.r/10shake-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "13",
+    "label": "Ch 13",
+    "hasGuide": true
+  },
+  {
+    "slug": "10-youtv",
+    "channelId": "mjh-10-youtv",
+    "name": "YouTV",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-youtv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "16",
+    "label": "Ch 16",
+    "hasGuide": true
+  },
+  {
+    "slug": "10-geckotv",
+    "channelId": "mjh-10-geckotv",
+    "name": "Gecko TV",
+    "network": "Ten",
+    "categories": [
+      "factual",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-geckotv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "17",
+    "label": "Ch 17",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-act",
+    "channelId": "mjh-abc-act",
+    "name": "ABC TV ACT",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-act.m3u8",
+    "streamQuality": null,
+    "state": "ACT",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-nsw",
+    "channelId": "mjh-abc-nsw",
+    "name": "ABC TV NSW",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-nt",
+    "channelId": "mjh-abc-nt",
+    "name": "ABC TV NT",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-nt.m3u8",
+    "streamQuality": null,
+    "state": "NT",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-qld",
+    "channelId": "mjh-abc-qld",
+    "name": "ABC TV QLD",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-sa",
+    "channelId": "mjh-abc-sa",
+    "name": "ABC TV SA",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-tas",
+    "channelId": "mjh-abc-tas",
+    "name": "ABC TV TAS",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-tas.m3u8",
+    "streamQuality": null,
+    "state": "TAS",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-vic",
+    "channelId": "mjh-abc-vic",
+    "name": "ABC TV VIC",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-wa",
+    "channelId": "mjh-abc-wa",
+    "name": "ABC TV WA",
+    "network": "ABC",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-nsw.png",
+    "streamUrl": "https://c.mjh.nz/abc-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "21",
+    "label": "Ch 21",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-tv-plus",
+    "channelId": "mjh-abc-tv-plus",
+    "name": "ABC Family",
+    "network": "ABC",
+    "categories": [
+      "kids",
+      "comedy",
+      "factual"
+    ],
+    "website": null,
+    "logoUrl": "https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png",
+    "streamUrl": "https://c.mjh.nz/abc-tv-plus.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "22",
+    "label": "Ch 22",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-kids",
+    "channelId": "mjh-abc-kids",
+    "name": "ABC Kids",
+    "network": "ABC",
+    "categories": [
+      "kids",
+      "factual"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-kids.png",
+    "streamUrl": "https://c.mjh.nz/abc-kids.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "22",
+    "label": "Ch 22",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-me",
+    "channelId": "mjh-abc-me",
+    "name": "ABC Entertains",
+    "network": "ABC",
+    "categories": [
+      "kids",
+      "factual",
+      "drama",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://cdn.iview.abc.net.au/thumbs/256/6_Entertains_C-1054_iview_LivestreamOn_2000x2000_new.png",
+    "streamUrl": "https://c.mjh.nz/abc-me.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "23",
+    "label": "Ch 23",
+    "hasGuide": true
+  },
+  {
+    "slug": "abc-news",
+    "channelId": "mjh-abc-news",
+    "name": "ABC NEWS",
+    "network": "ABC",
+    "categories": [
+      "news",
+      "factual",
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/abc-news.png",
+    "streamUrl": "https://c.mjh.nz/abc-news.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "24",
+    "label": "Ch 24",
+    "hasGuide": true
+  },
+  {
+    "slug": "sbs-sbst",
+    "channelId": "mjh-sbs-sbst",
+    "name": "SBS",
+    "network": "SBS",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-sbst.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "30",
+    "label": "Ch 30",
+    "hasGuide": true
+  },
+  {
+    "slug": "sbs-2syd",
+    "channelId": "mjh-sbs-2syd",
+    "name": "SBS2",
+    "network": "SBS",
+    "categories": [
+      "news",
+      "factual",
+      "drama",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/e7f27bb4-4672-599e-b9b4-a72cfdd8d3ba",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-2syd.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "31",
+    "label": "Ch 31",
+    "hasGuide": true
+  },
+  {
+    "slug": "sbs-4syd",
+    "channelId": "mjh-sbs-4syd",
+    "name": "SBS World Movies",
+    "network": "SBS",
+    "categories": [
+      "drama",
+      "comedy",
+      "kids",
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-4syd.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "32",
+    "label": "Ch 32",
+    "hasGuide": true
+  },
+  {
+    "slug": "sbs-3syd",
+    "channelId": "mjh-sbs-3syd",
+    "name": "SBS Food",
+    "network": "SBS",
+    "categories": [
+      "factual",
+      "lifestyle",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-3syd.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "33",
+    "label": "Ch 33",
+    "hasGuide": true
+  },
+  {
+    "slug": "sbs-5nsw",
+    "channelId": "mjh-sbs-5nsw",
+    "name": "NITV",
+    "network": "SBS",
+    "categories": [
+      "factual",
+      "kids",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/00ff96cd-68c3-5219-b792-c0c2faec1fe6",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-5nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "34",
+    "label": "Ch 34",
+    "hasGuide": true
+  },
+  {
+    "slug": "sbs-6nat",
+    "channelId": "mjh-sbs-6nat",
+    "name": "SBS WorldWatch",
+    "network": "SBS",
+    "categories": [
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/ca2194b7-6b91-58b3-a731-e0b7f04d9555",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-6nat.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "35",
+    "label": "Ch 35",
+    "hasGuide": true
+  },
+  {
+    "slug": "first-nations-tv",
+    "channelId": "mjh-first-nations-tv",
+    "name": "First Nations TV",
+    "network": null,
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/first-nations-tv.png",
+    "streamUrl": "https://i.mjh.nz/.r/first-nations-tv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "41",
+    "label": "Ch 41",
+    "hasGuide": true
+  },
+  {
+    "slug": "tourism-tv",
+    "channelId": "mjh-tourism-tv",
+    "name": "Tourism TV",
+    "network": null,
+    "categories": [
+      "factual",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/tourism-tv.png",
+    "streamUrl": "https://i.mjh.nz/.r/tourism-tv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "42",
+    "label": "Ch 42",
+    "hasGuide": true
+  },
+  {
+    "slug": "c31",
+    "channelId": "mjh-c31",
+    "name": "Channel 31",
+    "network": "Community",
+    "categories": [
+      "factual",
+      "sports",
+      "news",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/c31.png",
+    "streamUrl": "https://i.mjh.nz/.r/c31.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "44",
+    "label": "Ch 44",
+    "hasGuide": true
+  },
+  {
+    "slug": "c44",
+    "channelId": "mjh-c44",
+    "name": "Channel 44",
+    "network": "Community",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/c44.png",
+    "streamUrl": "https://i.mjh.nz/.r/c44.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "44",
+    "label": "Ch 44",
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-syd",
+    "channelId": "mjh-seven-syd",
+    "name": "Seven NSW",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-syd-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-syd.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "71",
+    "label": "Ch 71",
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-bri",
+    "channelId": "mjh-seven-bri",
+    "name": "Seven QLD",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-bri-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-bri.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "71",
+    "label": "Ch 71",
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-ade",
+    "channelId": "mjh-seven-ade",
+    "name": "Seven SA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-ade-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-ade.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "71",
+    "label": "Ch 71",
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-hob",
+    "channelId": "mjh-seven-hob",
+    "name": "Seven TAS",
+    "network": "Seven",
+    "categories": [
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-hob-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-hob.m3u8",
+    "streamQuality": null,
+    "state": "TAS",
+    "feed": "71",
+    "label": "Ch 71",
+    "hasGuide": false
+  },
+  {
+    "slug": "seven-mel",
+    "channelId": "mjh-seven-mel",
+    "name": "Seven VIC",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-mel-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-mel.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "71",
+    "label": "Ch 71",
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-per",
+    "channelId": "mjh-seven-per",
+    "name": "Seven WA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "drama",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-per-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-per.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "71",
+    "label": "Ch 71",
+    "hasGuide": true
+  },
+  {
+    "slug": "7two-syd",
+    "channelId": "mjh-7two-syd",
+    "name": "7two NSW",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7two-syd-701123.png",
+    "streamUrl": "https://i.mjh.nz/.r/7two-syd.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "72",
+    "label": "Ch 72",
+    "hasGuide": true
+  },
+  {
+    "slug": "7two-bri",
+    "channelId": "mjh-7two-bri",
+    "name": "7two QLD",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7two-bri-701123.png",
+    "streamUrl": "https://i.mjh.nz/.r/7two-bri.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "72",
+    "label": "Ch 72",
+    "hasGuide": true
+  },
+  {
+    "slug": "7two-ade",
+    "channelId": "mjh-7two-ade",
+    "name": "7two SA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7two-ade-701123.png",
+    "streamUrl": "https://i.mjh.nz/.r/7two-ade.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "72",
+    "label": "Ch 72",
+    "hasGuide": true
+  },
+  {
+    "slug": "7two-mel",
+    "channelId": "mjh-7two-mel",
+    "name": "7two VIC",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7two-mel-701123.png",
+    "streamUrl": "https://i.mjh.nz/.r/7two-mel.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "72",
+    "label": "Ch 72",
+    "hasGuide": true
+  },
+  {
+    "slug": "7two-per",
+    "channelId": "mjh-7two-per",
+    "name": "7two WA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7two-per-701123.png",
+    "streamUrl": "https://i.mjh.nz/.r/7two-per.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "72",
+    "label": "Ch 72",
+    "hasGuide": true
+  },
+  {
+    "slug": "7mate-syd",
+    "channelId": "mjh-7mate-syd",
+    "name": "7mate NSW",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "sports",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7mate-syd-360d60.png",
+    "streamUrl": "https://i.mjh.nz/.r/7mate-syd.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "74",
+    "label": "Ch 74",
+    "hasGuide": true
+  },
+  {
+    "slug": "7mate-bri",
+    "channelId": "mjh-7mate-bri",
+    "name": "7mate QLD",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "sports",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7mate-bri-360d60.png",
+    "streamUrl": "https://i.mjh.nz/.r/7mate-bri.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "74",
+    "label": "Ch 74",
+    "hasGuide": true
+  },
+  {
+    "slug": "7mate-ade",
+    "channelId": "mjh-7mate-ade",
+    "name": "7mate SA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "sports",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7mate-ade-360d60.png",
+    "streamUrl": "https://i.mjh.nz/.r/7mate-ade.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "74",
+    "label": "Ch 74",
+    "hasGuide": true
+  },
+  {
+    "slug": "7mate-mel",
+    "channelId": "mjh-7mate-mel",
+    "name": "7mate VIC",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "sports",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7mate-mel-360d60.png",
+    "streamUrl": "https://i.mjh.nz/.r/7mate-mel.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "74",
+    "label": "Ch 74",
+    "hasGuide": true
+  },
+  {
+    "slug": "7mate-per",
+    "channelId": "mjh-7mate-per",
+    "name": "7mate WA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "sports",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7mate-per-360d60.png",
+    "streamUrl": "https://i.mjh.nz/.r/7mate-per.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "74",
+    "label": "Ch 74",
+    "hasGuide": true
+  },
+  {
+    "slug": "7flix-syd",
+    "channelId": "mjh-7flix-syd",
+    "name": "7flix NSW",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7flix-syd-c6badc.png",
+    "streamUrl": "https://i.mjh.nz/.r/7flix-syd.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "76",
+    "label": "Ch 76",
+    "hasGuide": true
+  },
+  {
+    "slug": "7flix-bri",
+    "channelId": "mjh-7flix-bri",
+    "name": "7flix QLD",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7flix-bri-c6badc.png",
+    "streamUrl": "https://i.mjh.nz/.r/7flix-bri.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "76",
+    "label": "Ch 76",
+    "hasGuide": true
+  },
+  {
+    "slug": "7flix-ade",
+    "channelId": "mjh-7flix-ade",
+    "name": "7flix SA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7flix-ade-c6badc.png",
+    "streamUrl": "https://i.mjh.nz/.r/7flix-ade.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "76",
+    "label": "Ch 76",
+    "hasGuide": true
+  },
+  {
+    "slug": "7flix-mel",
+    "channelId": "mjh-7flix-mel",
+    "name": "7flix VIC",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7flix-mel-c6badc.png",
+    "streamUrl": "https://i.mjh.nz/.r/7flix-mel.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "76",
+    "label": "Ch 76",
+    "hasGuide": true
+  },
+  {
+    "slug": "7flix-per",
+    "channelId": "mjh-7flix-per",
+    "name": "7flix WA",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7flix-per-c6badc.png",
+    "streamUrl": "https://i.mjh.nz/.r/7flix-per.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "76",
+    "label": "Ch 76",
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-9-nsw",
+    "channelId": "mjh-channel-9-nsw",
+    "name": "Channel 9 NSW",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "91",
+    "label": "Ch 91",
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-9-qld",
+    "channelId": "mjh-channel-9-qld",
+    "name": "Channel 9 QLD",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "91",
+    "label": "Ch 91",
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-9-sa",
+    "channelId": "mjh-channel-9-sa",
+    "name": "Channel 9 SA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "kids",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "91",
+    "label": "Ch 91",
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-9-vic",
+    "channelId": "mjh-channel-9-vic",
+    "name": "Channel 9 VIC",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "kids",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "91",
+    "label": "Ch 91",
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-9-wa",
+    "channelId": "mjh-channel-9-wa",
+    "name": "Channel 9 WA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "kids",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "91",
+    "label": "Ch 91",
+    "hasGuide": true
+  },
+  {
+    "slug": "gem-nsw",
+    "channelId": "mjh-gem-nsw",
+    "name": "9Gem NSW",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/gem-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "92",
+    "label": "Ch 92",
+    "hasGuide": true
+  },
+  {
+    "slug": "gem-qld",
+    "channelId": "mjh-gem-qld",
+    "name": "9Gem QLD",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/gem-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "92",
+    "label": "Ch 92",
+    "hasGuide": true
+  },
+  {
+    "slug": "gem-sa",
+    "channelId": "mjh-gem-sa",
+    "name": "9Gem SA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/gem-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "92",
+    "label": "Ch 92",
+    "hasGuide": true
+  },
+  {
+    "slug": "gem-vic",
+    "channelId": "mjh-gem-vic",
+    "name": "9Gem VIC",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/gem-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "92",
+    "label": "Ch 92",
+    "hasGuide": true
+  },
+  {
+    "slug": "gem-wa",
+    "channelId": "mjh-gem-wa",
+    "name": "9Gem WA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/gem-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "92",
+    "label": "Ch 92",
+    "hasGuide": true
+  },
+  {
+    "slug": "go-nsw",
+    "channelId": "mjh-go-nsw",
+    "name": "9Go! NSW",
+    "network": "Nine",
+    "categories": [
+      "kids",
+      "movies",
+      "comedy",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png",
+    "streamUrl": "https://i.mjh.nz/.r/go-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "93",
+    "label": "Ch 93",
+    "hasGuide": true
+  },
+  {
+    "slug": "go-qld",
+    "channelId": "mjh-go-qld",
+    "name": "9Go! QLD",
+    "network": "Nine",
+    "categories": [
+      "kids",
+      "movies",
+      "comedy",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png",
+    "streamUrl": "https://i.mjh.nz/.r/go-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "93",
+    "label": "Ch 93",
+    "hasGuide": true
+  },
+  {
+    "slug": "go-sa",
+    "channelId": "mjh-go-sa",
+    "name": "9Go! SA",
+    "network": "Nine",
+    "categories": [
+      "kids",
+      "comedy",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png",
+    "streamUrl": "https://i.mjh.nz/.r/go-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "93",
+    "label": "Ch 93",
+    "hasGuide": true
+  },
+  {
+    "slug": "go-vic",
+    "channelId": "mjh-go-vic",
+    "name": "9Go! VIC",
+    "network": "Nine",
+    "categories": [
+      "kids",
+      "movies",
+      "comedy",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png",
+    "streamUrl": "https://i.mjh.nz/.r/go-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "93",
+    "label": "Ch 93",
+    "hasGuide": true
+  },
+  {
+    "slug": "go-wa",
+    "channelId": "mjh-go-wa",
+    "name": "9Go! WA",
+    "network": "Nine",
+    "categories": [
+      "comedy",
+      "movies",
+      "kids",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png",
+    "streamUrl": "https://i.mjh.nz/.r/go-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "93",
+    "label": "Ch 93",
+    "hasGuide": true
+  },
+  {
+    "slug": "life-nsw",
+    "channelId": "mjh-life-nsw",
+    "name": "9Life NSW",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png",
+    "streamUrl": "https://i.mjh.nz/.r/life-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "94",
+    "label": "Ch 94",
+    "hasGuide": true
+  },
+  {
+    "slug": "life-qld",
+    "channelId": "mjh-life-qld",
+    "name": "9Life QLD",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png",
+    "streamUrl": "https://i.mjh.nz/.r/life-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "94",
+    "label": "Ch 94",
+    "hasGuide": true
+  },
+  {
+    "slug": "life-sa",
+    "channelId": "mjh-life-sa",
+    "name": "9Life SA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png",
+    "streamUrl": "https://i.mjh.nz/.r/life-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "94",
+    "label": "Ch 94",
+    "hasGuide": true
+  },
+  {
+    "slug": "life-vic",
+    "channelId": "mjh-life-vic",
+    "name": "9Life VIC",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png",
+    "streamUrl": "https://i.mjh.nz/.r/life-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "94",
+    "label": "Ch 94",
+    "hasGuide": true
+  },
+  {
+    "slug": "life-wa",
+    "channelId": "mjh-life-wa",
+    "name": "9Life WA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png",
+    "streamUrl": "https://i.mjh.nz/.r/life-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "94",
+    "label": "Ch 94",
+    "hasGuide": true
+  },
+  {
+    "slug": "rush-nsw",
+    "channelId": "mjh-rush-nsw",
+    "name": "9Rush NSW",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png",
+    "streamUrl": "https://i.mjh.nz/.r/rush-nsw.m3u8",
+    "streamQuality": null,
+    "state": "NSW",
+    "feed": "96",
+    "label": "Ch 96",
+    "hasGuide": true
+  },
+  {
+    "slug": "rush-qld",
+    "channelId": "mjh-rush-qld",
+    "name": "9Rush QLD",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png",
+    "streamUrl": "https://i.mjh.nz/.r/rush-qld.m3u8",
+    "streamQuality": null,
+    "state": "QLD",
+    "feed": "96",
+    "label": "Ch 96",
+    "hasGuide": true
+  },
+  {
+    "slug": "rush-sa",
+    "channelId": "mjh-rush-sa",
+    "name": "9Rush SA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png",
+    "streamUrl": "https://i.mjh.nz/.r/rush-sa.m3u8",
+    "streamQuality": null,
+    "state": "SA",
+    "feed": "96",
+    "label": "Ch 96",
+    "hasGuide": true
+  },
+  {
+    "slug": "rush-vic",
+    "channelId": "mjh-rush-vic",
+    "name": "9Rush VIC",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png",
+    "streamUrl": "https://i.mjh.nz/.r/rush-vic.m3u8",
+    "streamQuality": null,
+    "state": "VIC",
+    "feed": "96",
+    "label": "Ch 96",
+    "hasGuide": true
+  },
+  {
+    "slug": "rush-wa",
+    "channelId": "mjh-rush-wa",
+    "name": "9Rush WA",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png",
+    "streamUrl": "https://i.mjh.nz/.r/rush-wa.m3u8",
+    "streamQuality": null,
+    "state": "WA",
+    "feed": "96",
+    "label": "Ch 96",
+    "hasGuide": true
+  },
+  {
+    "slug": "al-jazeera",
+    "channelId": "mjh-al-jazeera",
+    "name": "Al Jazeera",
+    "network": null,
+    "categories": [
+      "news",
+      "factual"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/al-jazeera.png",
+    "streamUrl": "https://i.mjh.nz/.r/al-jazeera.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "bbc-news",
+    "channelId": "mjh-bbc-news",
+    "name": "BBC News",
+    "network": null,
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/bbc-news.png",
+    "streamUrl": "https://i.mjh.nz/.r/bbc-news.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "bloomberg-tv",
+    "channelId": "mjh-bloomberg-tv",
+    "name": "Bloomberg TV",
+    "network": null,
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/bloomberg-tv.png",
+    "streamUrl": "https://i.mjh.nz/.r/bloomberg-tv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-news-asia",
+    "channelId": "mjh-channel-news-asia",
+    "name": "Channel News Asia (CNA)",
+    "network": null,
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/channel-news-asia.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-news-asia.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "dw-news",
+    "channelId": "mjh-dw-news",
+    "name": "DW English",
+    "network": null,
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://www.dw.com/images/icons/favicon-540x540.png",
+    "streamUrl": "https://i.mjh.nz/.r/dw-news.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "good-dot",
+    "channelId": "mjh-good-dot",
+    "name": "GOOD.",
+    "network": null,
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/good-dot.png",
+    "streamUrl": "https://c.mjh.nz/good-dot.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "redbull-tv",
+    "channelId": "mjh-redbull-tv",
+    "name": "Redbull TV",
+    "network": null,
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/redbull-tv.png",
+    "streamUrl": "https://i.mjh.nz/.r/redbull-tv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "snowy-mountains",
+    "channelId": "mjh-snowy-mountains",
+    "name": "Snowy Mountains Television",
+    "network": null,
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/smtv.png",
+    "streamUrl": "https://i.mjh.nz/.r/snowy-mountains.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "60-minutes-australia-fast",
+    "channelId": "mjh-60-minutes-australia-fast",
+    "name": "60 Minutes Australia",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png",
+    "streamUrl": "https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "9crime-fast",
+    "channelId": "mjh-9crime-fast",
+    "name": "9Crime",
+    "network": "Nine",
+    "categories": [
+      "drama"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png",
+    "streamUrl": "https://i.mjh.nz/.r/9crime-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "9mysteryparanormal-fast",
+    "channelId": "mjh-9mysteryparanormal-fast",
+    "name": "9Mystery&Paranormal",
+    "network": "Nine",
+    "categories": [
+      "drama"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "bbc-antiques-roadshow-247-fast",
+    "channelId": "mjh-bbc-antiques-roadshow-247-fast",
+    "name": "BBC Antiques Roadshow",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png",
+    "streamUrl": "https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "bbc-comedy-fast",
+    "channelId": "mjh-bbc-comedy-fast",
+    "name": "BBC Comedy",
+    "network": "Nine",
+    "categories": [
+      "comedy"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png",
+    "streamUrl": "https://i.mjh.nz/.r/bbc-comedy-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "bbc-food-fast",
+    "channelId": "mjh-bbc-food-fast",
+    "name": "BBC Food",
+    "network": "Nine",
+    "categories": [
+      "lifestyle"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png",
+    "streamUrl": "https://i.mjh.nz/.r/bbc-food-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "bbc-home-garden-fast",
+    "channelId": "mjh-bbc-home-garden-fast",
+    "name": "BBC Home & Garden",
+    "network": "Nine",
+    "categories": [
+      "lifestyle"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png",
+    "streamUrl": "https://i.mjh.nz/.r/bbc-home-garden-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "bbc-news-fast",
+    "channelId": "mjh-bbc-news-fast",
+    "name": "BBC News",
+    "network": "Nine",
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/bbc-news-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "bbc-top-gear-247-fast",
+    "channelId": "mjh-bbc-top-gear-247-fast",
+    "name": "BBC Top Gear",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png",
+    "streamUrl": "https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "channel-9-gold-coast",
+    "channelId": "mjh-channel-9-gold-coast",
+    "name": "Channel 9 (Gold Coast)",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-gold-coast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-9-newcastle",
+    "channelId": "mjh-channel-9-newcastle",
+    "name": "Channel 9 (Newcastle)",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-newcastle.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "channel-9-lismore",
+    "channelId": "mjh-channel-9-lismore",
+    "name": "Channel 9 (Norther Rivers)",
+    "network": "Nine",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/channel-9-lismore.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "dance-moms-247-fast",
+    "channelId": "mjh-dance-moms-247-fast",
+    "name": "Dance Moms 24/7",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png",
+    "streamUrl": "https://i.mjh.nz/.r/dance-moms-247-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "drive-fast",
+    "channelId": "mjh-drive-fast",
+    "name": "Drive",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/drive-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "h2-fast",
+    "channelId": "mjh-h2-fast",
+    "name": "H2",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/h2-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "lmn-fast",
+    "channelId": "mjh-lmn-fast",
+    "name": "LMN",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png",
+    "streamUrl": "https://i.mjh.nz/.r/lmn-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "married-at-first-sight-fast",
+    "channelId": "mjh-married-at-first-sight-fast",
+    "name": "Married At First Sight",
+    "network": "Nine",
+    "categories": [
+      "lifestyle"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/OCF69HZLp4AWm0cGB8bvgx4U8mQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585176%2Fsquircle_mafs.png",
+    "streamUrl": "https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "qrl-hostplus-cup-2026-fast",
+    "channelId": "mjh-qrl-hostplus-cup-2026-fast",
+    "name": "QRL Hostplus Cup 2026",
+    "network": "Nine",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png",
+    "streamUrl": "https://i.mjh.nz/.r/qrl-hostplus-cup-2026-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "real-emergency-fast",
+    "channelId": "mjh-real-emergency-fast",
+    "name": "Real Emergency",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/real-emergency-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "seinfeld-fast",
+    "channelId": "mjh-seinfeld-fast",
+    "name": "Seinfeld",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png",
+    "streamUrl": "https://i.mjh.nz/.r/seinfeld-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "taronga-247-fast",
+    "channelId": "mjh-taronga-247-fast",
+    "name": "Taronga 24/7",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/taronga-247-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "the-block-247-fast",
+    "channelId": "mjh-the-block-247-fast",
+    "name": "The Block 24/7",
+    "network": "Nine",
+    "categories": [
+      "lifestyle"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/the-block-247-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "wnbl-townsville-tip-off-2026-fast",
+    "channelId": "mjh-wnbl-townsville-tip-off-2026-fast",
+    "name": "WNBL Townsville Tip-off 2026",
+    "network": "Nine",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/wnbl-townsville-tip-off-2026-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-sb03",
+    "channelId": "mjh-sbs-sb03",
+    "name": "Dateline",
+    "network": "SBS",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/8664060f-f5f6-598d-8d6a-8f7f59bc91c1",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-sb03.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-euronews",
+    "channelId": "mjh-sbs-euronews",
+    "name": "euronews",
+    "network": "SBS",
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/60e599d9-82ed-5eac-b51c-7c23a9bb0c55",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-euronews.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-sysdata-s-p-a-fifa-6",
+    "channelId": "mjh-sbs-sysdata_s_p_a_fifa_6",
+    "name": "FIFA+",
+    "network": "SBS",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/82e2f8e9-238d-599f-84e7-891a54026c9f",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-sysdata_s_p_a_fifa_6.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-france24",
+    "channelId": "mjh-sbs-france24",
+    "name": "France 24",
+    "network": "SBS",
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/940bda61-531e-5e30-bb1e-69db1cdbb077",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-france24.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-sb02",
+    "channelId": "mjh-sbs-sb02",
+    "name": "Insight",
+    "network": "SBS",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/ac68f57a-4655-5dc2-b17e-2ca3505e5e6c",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-sb02.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-sb04",
+    "channelId": "mjh-sbs-sb04",
+    "name": "Koori Knockout",
+    "network": "SBS",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/241574b9-51a2-55a5-bef8-a555021dd833",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-sb04.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-7faa",
+    "channelId": "mjh-sbs-7faa",
+    "name": "Planet Luke Nguyen",
+    "network": "SBS",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/6c1ccae0-2ddb-5e67-ae24-a4e42f23b2a0",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-7faa.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sbs-sb01",
+    "channelId": "mjh-sbs-sb01",
+    "name": "The Cook Up",
+    "network": "SBS",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://image.pr.sbsod.com/82c5d9dc-bda6-5a6b-affa-67f1ba01ff38",
+    "streamUrl": "https://i.mjh.nz/.r/sbs-sb01.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "7flix-regional",
+    "channelId": "mjh-7flix-regional",
+    "name": "7flix Regional",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7flix-regional-c6badc.png",
+    "streamUrl": "https://i.mjh.nz/.r/7flix-regional.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "7mate-regional",
+    "channelId": "mjh-7mate-regional",
+    "name": "7mate Regional",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "sports",
+      "movies",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7mate-regional-360d60.png",
+    "streamUrl": "https://i.mjh.nz/.r/7mate-regional.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "7two-regional",
+    "channelId": "mjh-7two-regional",
+    "name": "7two Regional",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "news",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7two-regional-701123.png",
+    "streamUrl": "https://i.mjh.nz/.r/7two-regional.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-cns",
+    "channelId": "mjh-seven-cns",
+    "name": "Seven Cairns",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-cns-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-cns.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-mky",
+    "channelId": "mjh-seven-mky",
+    "name": "Seven Mackay",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-mky-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-mky.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-rky",
+    "channelId": "mjh-seven-rky",
+    "name": "Seven Rockhampton",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-rky-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-rky.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-ssc",
+    "channelId": "mjh-seven-ssc",
+    "name": "Seven Sunshine Coast",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-ssc.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-twb",
+    "channelId": "mjh-seven-twb",
+    "name": "Seven Toowoomba",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-twb-e627be.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-twb.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-tsv",
+    "channelId": "mjh-seven-tsv",
+    "name": "Seven Townsville",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-tsv-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-tsv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "seven-wby",
+    "channelId": "mjh-seven-wby",
+    "name": "Seven Wide Bay",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "news",
+      "sports",
+      "general"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-seven-wby-9608a4.png",
+    "streamUrl": "https://i.mjh.nz/.r/seven-wby.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "sky-news-now",
+    "channelId": "mjh-sky-news-now",
+    "name": "Sky News Now",
+    "network": "Sky",
+    "categories": [
+      "news"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/sky-news-now.png",
+    "streamUrl": "https://i.mjh.nz/.r/sky-news-now.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "sky-racing-thoroughbred",
+    "channelId": "mjh-sky-racing-thoroughbred",
+    "name": "Sky Racing - Thoroughbred Central",
+    "network": "Sky",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/sky-racing-thoroughbred.png",
+    "streamUrl": "https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "sky-racing-1",
+    "channelId": "mjh-sky-racing-1",
+    "name": "Sky Racing #1",
+    "network": "Sky",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/sky-racing-1.png",
+    "streamUrl": "https://i.mjh.nz/.r/sky-racing-1.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "sky-racing-2",
+    "channelId": "mjh-sky-racing-2",
+    "name": "Sky Racing #2",
+    "network": "Sky",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/sky-racing-2.png",
+    "streamUrl": "https://i.mjh.nz/.r/sky-racing-2.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-forty-eight-hours",
+    "channelId": "mjh-10-forty-eight-hours",
+    "name": "48 Hours",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-forty-eight-hours.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-eightoutof10cats",
+    "channelId": "mjh-10-eightoutof10cats",
+    "name": "8 Out Of 10 Cats",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-eightoutof10cats.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-adultanimation",
+    "channelId": "mjh-10-adultanimation",
+    "name": "Adult Animation",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-adultanimation.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-anthonybourdain",
+    "channelId": "mjh-10-anthonybourdain",
+    "name": "Anthony Bourdain: Parts Unknown",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-anthonybourdain.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-becker",
+    "channelId": "mjh-10-becker",
+    "name": "Becker",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-becker.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-cops",
+    "channelId": "mjh-10-cops",
+    "name": "COPS",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-cops.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-crime-hunters",
+    "channelId": "mjh-10-crime-hunters",
+    "name": "Crime Hunters",
+    "network": "Ten",
+    "categories": [
+      "drama"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-crime-hunters.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-crime-time",
+    "channelId": "mjh-10-crime-time",
+    "name": "Crime Time",
+    "network": "Ten",
+    "categories": [
+      "drama"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-crime-time.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-deadlywomen",
+    "channelId": "mjh-10-deadlywomen",
+    "name": "Deadly Women",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-deadlywomen.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-diagnosismurder",
+    "channelId": "mjh-10-diagnosismurder",
+    "name": "Diagnosis Murder",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-diagnosismurder.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-embarrassing-bodies",
+    "channelId": "mjh-10-embarrassing-bodies",
+    "name": "Embarrassing Bodies",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-ghosthunters",
+    "channelId": "mjh-10-ghosthunters",
+    "name": "Ghost Hunters",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-ghosthunters.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-hardcorepawn",
+    "channelId": "mjh-10-hardcorepawn",
+    "name": "Hardcore Pawn",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-hardcorepawn.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-haunt-tv",
+    "channelId": "mjh-10-haunt-tv",
+    "name": "Haunt TV",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-haunt-tv.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-haveyoubeenpayingattention",
+    "channelId": "mjh-10-haveyoubeenpayingattention",
+    "name": "Have You Been Paying Attention?",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/12/17/20963e84ceedc64212b60c21c883e5c4-1356262.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-haveyoubeenpayingattention.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-heartland",
+    "channelId": "mjh-10-heartland",
+    "name": "Heartland",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-heartland.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-highwaythruhell",
+    "channelId": "mjh-10-highwaythruhell",
+    "name": "Highway Thru Hell",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-highwaythruhell.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-historyandwarfare",
+    "channelId": "mjh-10-historyandwarfare",
+    "name": "History & Warfare",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-historyandwarfare.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-judge-judy",
+    "channelId": "mjh-10-judge-judy",
+    "name": "Judge Judy",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2022/09/02/461008ac0d02137f713ec0e4883be6c4-1177265.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-judge-judy.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-masterchef",
+    "channelId": "mjh-10-masterchef",
+    "name": "MasterChef",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-masterchef.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-medical-emergency",
+    "channelId": "mjh-10-medical-emergency",
+    "name": "Medical Emergency",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-medical-emergency.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-mtvridiculousness",
+    "channelId": "mjh-10-mtvridiculousness",
+    "name": "MTV Ridiculousness",
+    "network": "Ten",
+    "categories": [
+      "music"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-mtvridiculousness.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-mtv-the-shores",
+    "channelId": "mjh-10-mtv-the-shores",
+    "name": "MTV The Shores",
+    "network": "Ten",
+    "categories": [
+      "music"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/07/11/3901f5c4522a0c36cfed8630ab781a5e-1248401.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-mtv-the-shores.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-nexttopmodel",
+    "channelId": "mjh-10-nexttopmodel",
+    "name": "Next Top Model",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2026/08/04/7b46b0620b6c96c6afcd7c47bf356f79-1448048.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-nexttopmodel.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-nick-jr",
+    "channelId": "mjh-10-nick-jr",
+    "name": "Nick Jr Club",
+    "network": "Ten",
+    "categories": [
+      "kids"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/06/06/d14509f218578984e3a6f6f34f0ee12c-1319009.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-nick-jr.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-nickteen",
+    "channelId": "mjh-10-nickteen",
+    "name": "NickTeen",
+    "network": "Ten",
+    "categories": [
+      "kids"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/06/04/ecc540be818b29d753e036e046028a27-1318595.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-nickteen.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-nicktoons",
+    "channelId": "mjh-10-nicktoons",
+    "name": "NickToons",
+    "network": "Ten",
+    "categories": [
+      "kids"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/06/04/f2f7c4166d8450351c2ae5d8b28c769e-1318512.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-nicktoons.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-nicktoons-90s",
+    "channelId": "mjh-10-nicktoons-90s",
+    "name": "NickToons 90s",
+    "network": "Ten",
+    "categories": [
+      "kids"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-nicktoons-90s.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-prisoner-cell-block-h",
+    "channelId": "mjh-10-prisoner-cell-block-h",
+    "name": "Prisoner: Cell Block H",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-projectrunway",
+    "channelId": "mjh-10-projectrunway",
+    "name": "Project Runway",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-projectrunway.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-rookieblue",
+    "channelId": "mjh-10-rookieblue",
+    "name": "rookie-blue",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-rookieblue.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-aussiedramapopup",
+    "channelId": "mjh-10-aussiedramapopup",
+    "name": "Rush",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/01/24/082f00086b990e915cd774644d67484c-1213111.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-aussiedramapopup.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-documentaryshell",
+    "channelId": "mjh-10-documentaryshell",
+    "name": "Sharks & Other Predators",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-documentaryshell.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-shockwave",
+    "channelId": "mjh-10-shockwave",
+    "name": "Shockwave",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-shockwave.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-spongebobsquarepants",
+    "channelId": "mjh-10-spongebobsquarepants",
+    "name": "SpongeBob SquarePants",
+    "network": "Ten",
+    "categories": [
+      "kids"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-thankgodyourehere",
+    "channelId": "mjh-10-thankgodyourehere",
+    "name": "Thank God You're Here",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-thankgodyourehere.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-cheapseats",
+    "channelId": "mjh-10-cheapseats",
+    "name": "The Cheap Seats",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-cheapseats.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-grahamnorton",
+    "channelId": "mjh-10-grahamnorton",
+    "name": "The Graham Norton Show",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-grahamnorton.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-theonlywayisessex",
+    "channelId": "mjh-10-theonlywayisessex",
+    "name": "The Only Way Is Essex",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/10/21/644463c986545838587c1b800be3da68-1345463.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-theonlywayisessex.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-seasonalmovies",
+    "channelId": "mjh-10-seasonalmovies",
+    "name": "Thriller Movies",
+    "network": "Ten",
+    "categories": [
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/04/01/86e45216ee9df7d873e393dccb379d94-1306209.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-seasonalmovies.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-true-stories",
+    "channelId": "mjh-10-true-stories",
+    "name": "True Stories",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-true-stories.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-undercoverboss",
+    "channelId": "mjh-10-undercoverboss",
+    "name": "Undercover Boss",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-undercoverboss.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-wicked-tuna",
+    "channelId": "mjh-10-wicked-tuna",
+    "name": "Wicked Tuna",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-wicked-tuna.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-wildest",
+    "channelId": "mjh-10-wildest",
+    "name": "Wildest",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2026/04/28/230f46ab9b55bdb4f98a00f616d8b0a2-1424324.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-wildest.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-world-of-survivor",
+    "channelId": "mjh-10-world-of-survivor",
+    "name": "World Of Survivor",
+    "network": "Ten",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-world-of-survivor.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  }
+]

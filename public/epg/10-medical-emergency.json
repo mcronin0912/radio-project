@@ -1,0 +1,112 @@
+{
+  "slug": "10-medical-emergency",
+  "epgId": "mjh-10-medical-emergency",
+  "region": "all",
+  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "programmes": [
+    {
+      "start": "2026-09-17T09:47:00.000Z",
+      "stop": "2026-09-17T10:43:00.000Z",
+      "title": "999: What's Your Emergency? S3 Ep. 12",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T10:43:00.000Z",
+      "stop": "2026-09-17T11:33:00.000Z",
+      "title": "Medical Mysteries S1 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T11:33:00.000Z",
+      "stop": "2026-09-17T12:23:00.000Z",
+      "title": "Medical Mysteries S1 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T12:23:00.000Z",
+      "stop": "2026-09-17T13:13:14.000Z",
+      "title": "Medical Mysteries S1 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T13:13:14.000Z",
+      "stop": "2026-09-17T14:03:00.000Z",
+      "title": "Medical Mysteries S1 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:03:00.000Z",
+      "stop": "2026-09-17T14:53:00.000Z",
+      "title": "Medical Mysteries S1 Ep. 5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T14:53:00.000Z",
+      "stop": "2026-09-17T15:43:00.000Z",
+      "title": "Medical Mysteries S1 Ep. 6",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T15:43:00.000Z",
+      "stop": "2026-09-17T16:33:00.000Z",
+      "title": "Medical Mysteries S1 Ep. 7",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T16:33:00.000Z",
+      "stop": "2026-09-17T17:23:00.000Z",
+      "title": "Medical Mysteries S1 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T17:23:00.000Z",
+      "stop": "2026-09-17T18:16:00.000Z",
+      "title": "Mystery Diagnosis S9 Ep. 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T18:16:00.000Z",
+      "stop": "2026-09-17T19:08:00.000Z",
+      "title": "Mystery Diagnosis S9 Ep. 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T19:08:00.000Z",
+      "stop": "2026-09-17T20:01:00.000Z",
+      "title": "Mystery Diagnosis S9 Ep. 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-17T20:01:00.000Z",
+      "stop": "2026-09-17T20:31:00.000Z",
+      "title": "Mystery Diagnosis S9 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}
