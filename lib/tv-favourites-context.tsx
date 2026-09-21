@@ -17,7 +17,9 @@ type TvFavouritesContextValue = {
   isFavourite: (slug: string) => boolean;
 };
 
-const TvFavouritesContext = createContext<TvFavouritesContextValue | null>(null);
+const TvFavouritesContext = createContext<TvFavouritesContextValue | null>(
+  null
+);
 
 function readLocal(): string[] {
   try {
@@ -25,7 +27,9 @@ function readLocal(): string[] {
     if (!raw) return [];
     const parsed = JSON.parse(raw) as unknown;
     if (!Array.isArray(parsed)) return [];
-    return parsed.filter((x): x is string => typeof x === "string" && x.length > 0);
+    return parsed.filter(
+      (x): x is string => typeof x === "string" && x.length > 0
+    );
   } catch {
     return [];
   }
@@ -39,11 +43,58 @@ function writeLocal(slugs: string[]) {
   }
 }
 
-export function TvFavouritesProvider({ children }: { children: React.ReactNode }) {
-  const [favourites, setFavourites] = useState<Set<string>>(() => new Set());
+async function persist(slugs: string[]) {
+  writeLocal(slugs);
+  if (typeof window !== "undefined" && window.radioDesktop?.setTvFavourites) {
+    try {
+      await window.radioDesktop.setTvFavourites(slugs);
+    } catch {
+      /* ignore */
+    }
+  }
+}
+
+export function TvFavouritesProvider({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  const [favourites, setFavourites] = useState<Set<string>>(
+    () => new Set()
+  );
 
   useEffect(() => {
-    setFavourites(new Set(readLocal()));
+    let cancelled = false;
+
+    async function hydrate() {
+      let slugs = readLocal();
+
+      if (window.radioDesktop?.getTvFavourites) {
+        try {
+          const desktopSlugs = await window.radioDesktop.getTvFavourites();
+          if (Array.isArray(desktopSlugs) && desktopSlugs.length > 0) {
+            slugs = desktopSlugs.filter(
+              (x): x is string => typeof x === "string" && x.length > 0
+            );
+            writeLocal(slugs);
+          } else if (slugs.length > 0 && window.radioDesktop.setTvFavourites) {
+            // Migrate browser/localStorage into the desktop file store
+            await window.radioDesktop.setTvFavourites(slugs);
+          }
+        } catch {
+          /* keep local */
+        }
+      }
+
+      if (!cancelled) {
+        setFavourites(new Set(slugs));
+      }
+    }
+
+    void hydrate();
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   const toggleFavourite = useCallback((slug: string) => {
@@ -52,7 +103,8 @@ export function TvFavouritesProvider({ children }: { children: React.ReactNode }
       const next = new Set(prev);
       if (next.has(slug)) next.delete(slug);
       else next.add(slug);
-      writeLocal(Array.from(next));
+      const list = Array.from(next);
+      void persist(list);
       return next;
     });
   }, []);

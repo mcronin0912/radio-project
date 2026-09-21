@@ -15,10 +15,22 @@ export function useChannelGuide(slug: string | null, hasGuide?: boolean) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [now, setNow] = useState(() => new Date());
+  const [reloadToken, setReloadToken] = useState(0);
 
   useEffect(() => {
     const id = window.setInterval(() => setNow(new Date()), 30_000);
     return () => clearInterval(id);
+  }, []);
+
+  // Desktop refreshes EPG in the background; refetch when that finishes.
+  useEffect(() => {
+    const unsub = window.radioDesktop?.onEpgUpdated?.(() => {
+      setReloadToken((n) => n + 1);
+      setNow(new Date());
+    });
+    return () => {
+      unsub?.();
+    };
   }, []);
 
   useEffect(() => {
@@ -33,7 +45,9 @@ export function useChannelGuide(slug: string | null, hasGuide?: boolean) {
     setLoading(true);
     setError(null);
 
-    fetch(`${BASE}/epg/${encodeURIComponent(slug)}.json`)
+    const url = `${BASE}/epg/${encodeURIComponent(slug)}.json?r=${reloadToken}`;
+
+    fetch(url)
       .then(async (r) => {
         if (r.status === 404) {
           if (!cancelled) {
@@ -59,7 +73,7 @@ export function useChannelGuide(slug: string | null, hasGuide?: boolean) {
     return () => {
       cancelled = true;
     };
-  }, [slug, hasGuide]);
+  }, [slug, hasGuide, reloadToken]);
 
   const nowPlaying: GuideProgramme | null = guide
     ? findNowPlaying(guide.programmes, now)

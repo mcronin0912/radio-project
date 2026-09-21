@@ -2,84 +2,92 @@
   "slug": "10-shockwave",
   "epgId": "mjh-10-shockwave",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T09:42:00.000Z",
-      "stop": "2026-09-17T10:44:00.000Z",
-      "title": "Tornadoes",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T10:44:00.000Z",
-      "stop": "2026-09-17T11:48:00.000Z",
-      "title": "Destructive Volcanoes",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T11:48:00.000Z",
-      "stop": "2026-09-17T12:52:00.000Z",
-      "title": "Volcano Wardens",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:52:00.000Z",
-      "stop": "2026-09-17T13:55:04.000Z",
-      "title": "Alive in the Andes",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T13:55:04.000Z",
-      "stop": "2026-09-17T15:00:00.000Z",
-      "title": "Tsunami: Facing the Global Threat",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T15:00:00.000Z",
-      "stop": "2026-09-17T16:48:00.000Z",
-      "title": "Shockwave",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T16:48:00.000Z",
-      "stop": "2026-09-17T17:44:00.000Z",
+      "start": "2026-09-19T01:32:00.000Z",
+      "stop": "2026-09-19T02:28:00.000Z",
       "title": "Avalanche: Man Versus Earth",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T17:44:00.000Z",
-      "stop": "2026-09-17T18:43:00.000Z",
+      "start": "2026-09-19T02:28:00.000Z",
+      "stop": "2026-09-19T03:27:00.000Z",
       "title": "Boeing 737 Max: What Went Wrong?",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T18:43:00.000Z",
-      "stop": "2026-09-17T19:47:00.000Z",
+      "start": "2026-09-19T03:27:00.000Z",
+      "stop": "2026-09-19T04:31:00.000Z",
       "title": "Lake Geneva: The Giant Tsunami",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:47:00.000Z",
-      "stop": "2026-09-17T20:17:00.000Z",
-      "title": "Land, Air & Sea",
+      "start": "2026-09-19T04:31:00.000Z",
+      "stop": "2026-09-19T05:31:00.000Z",
+      "title": "Monster Waves",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T05:31:00.000Z",
+      "stop": "2026-09-19T06:31:00.000Z",
+      "title": "Twister Chasers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T06:31:00.000Z",
+      "stop": "2026-09-19T07:31:00.000Z",
+      "title": "Killer Asteroid",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:31:00.000Z",
+      "stop": "2026-09-19T08:30:00.000Z",
+      "title": "Boeing 737 Max: What Went Wrong?",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T08:30:00.000Z",
+      "stop": "2026-09-19T09:34:00.000Z",
+      "title": "The Great Wall of Japan",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:34:00.000Z",
+      "stop": "2026-09-19T10:36:00.000Z",
+      "title": "Earthquakes",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T10:36:00.000Z",
+      "stop": "2026-09-19T11:39:00.000Z",
+      "title": "Volcanoes",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T11:39:00.000Z",
+      "stop": "2026-09-19T12:09:00.000Z",
+      "title": "Tornadoes",
       "subtitle": null,
       "description": null,
       "category": null

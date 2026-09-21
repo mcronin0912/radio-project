@@ -2,100 +2,100 @@
   "slug": "good-dot",
   "epgId": "mjh-good-dot",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:00:00.000Z",
-      "stop": "2026-09-17T10:30:00.000Z",
-      "title": "Be Great. Do Good",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T10:30:00.000Z",
-      "stop": "2026-09-17T11:30:00.000Z",
-      "title": "A Cathedral Pilgrimage",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T11:30:00.000Z",
-      "stop": "2026-09-17T12:00:00.000Z",
-      "title": "Walking in the Footsteps of Faith",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:00:00.000Z",
-      "stop": "2026-09-17T12:30:00.000Z",
-      "title": "Mums at the Table",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:30:00.000Z",
-      "stop": "2026-09-17T13:00:00.000Z",
+      "start": "2026-09-19T02:00:00.000Z",
+      "stop": "2026-09-19T02:30:00.000Z",
       "title": "New Creation Church",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T13:00:00.000Z",
-      "stop": "2026-09-17T13:30:00.000Z",
-      "title": "Bible Land Passages",
+      "start": "2026-09-19T02:30:00.000Z",
+      "stop": "2026-09-19T03:00:00.000Z",
+      "title": "Comedy All-Stars",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T13:30:00.000Z",
-      "stop": "2026-09-17T14:00:00.000Z",
-      "title": "Katherine Ruonala",
+      "start": "2026-09-19T03:00:00.000Z",
+      "stop": "2026-09-19T03:30:00.000Z",
+      "title": "TV4DADS: Florida",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T14:00:00.000Z",
-      "stop": "2026-09-17T14:30:00.000Z",
-      "title": "Enjoying Everyday Life",
+      "start": "2026-09-19T03:30:00.000Z",
+      "stop": "2026-09-19T05:15:00.000Z",
+      "title": "Sight",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T14:30:00.000Z",
-      "stop": "2026-09-17T16:40:00.000Z",
-      "title": "Sound of Hope",
+      "start": "2026-09-19T05:15:00.000Z",
+      "stop": "2026-09-19T07:00:00.000Z",
+      "title": "Aurora Teagarden: 3 Bedrooms, 1 Corpse",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T16:40:00.000Z",
-      "stop": "2026-09-17T18:05:00.000Z",
-      "title": "Valentine in the Vineyard",
+      "start": "2026-09-19T07:00:00.000Z",
+      "stop": "2026-09-19T08:00:00.000Z",
+      "title": "Hour of Power",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T18:05:00.000Z",
-      "stop": "2026-09-17T19:40:00.000Z",
-      "title": "Once Upon a Time in Mongolia",
+      "start": "2026-09-19T08:00:00.000Z",
+      "stop": "2026-09-19T08:30:00.000Z",
+      "title": "Joel Osteen",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:40:00.000Z",
-      "stop": "2026-09-17T20:10:00.000Z",
-      "title": "Authorized",
+      "start": "2026-09-19T08:30:00.000Z",
+      "stop": "2026-09-19T09:00:00.000Z",
+      "title": "Helping Hands TV",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:00:00.000Z",
+      "stop": "2026-09-19T10:30:00.000Z",
+      "title": "Hero",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T10:30:00.000Z",
+      "stop": "2026-09-19T11:15:00.000Z",
+      "title": "Home Is Where the Heart Is",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T11:15:00.000Z",
+      "stop": "2026-09-19T12:00:00.000Z",
+      "title": "Fragrance of Faith",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T12:00:00.000Z",
+      "stop": "2026-09-19T12:30:00.000Z",
+      "title": "LIFETV with Paul de Jong",
       "subtitle": null,
       "description": null,
       "category": null

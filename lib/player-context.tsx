@@ -164,6 +164,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const videoHomeRef = useRef<HTMLDivElement>(null);
   const videoHostsRef = useRef<Partial<Record<VideoHostId, HTMLElement | null>>>({});
   const hlsRef = useRef<Hls | null>(null);
+  const chromeAnalyserRef = useRef<AnalyserNode | null>(null);
 
   // Create the <video> outside React's reconciler so appendChild host moves are safe.
   useEffect(() => {
@@ -371,7 +372,17 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const connectChromeAnalyser = useCallback(() => {
     const audio = audioRef.current;
     const ctx = audioCtxRef.current;
-    if (!audio || !ctx || connectedRef.current) return;
+    if (!audio || !ctx) return;
+
+    // MediaElementSource can only be created once per element. After TV
+    // playback clears analyser state, re-expose the existing node.
+    if (connectedRef.current) {
+      if (chromeAnalyserRef.current) {
+        setAnalyser(chromeAnalyserRef.current);
+      }
+      void ctx.resume();
+      return;
+    }
 
     try {
       const node = ctx.createAnalyser();
@@ -380,6 +391,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
       const source = ctx.createMediaElementSource(audio);
       source.connect(node);
       node.connect(ctx.destination);
+      chromeAnalyserRef.current = node;
       connectedRef.current = true;
       setAnalyser(node);
     } catch (e) {
@@ -448,7 +460,11 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
           setAnalyser(sa.getAnalyser());
         } else if (!isSafari() && mode !== "unsupported") {
           connectChromeAnalyser();
+        } else if (isSafari() && mode !== "unsupported" && chromeAnalyserRef.current) {
+          // Native HLS on WebKit may already have a chrome analyser from earlier.
+          setAnalyser(chromeAnalyserRef.current);
         }
+        void audioCtxRef.current?.resume();
         setIsPlaying(true);
       }
     },

@@ -2,295 +2,327 @@
   "slug": "7mate-ade",
   "epgId": "mjh-7mate-ade",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:00:00.000Z",
-      "stop": "2026-09-17T11:00:40.000Z",
-      "title": "American Pickers",
-      "subtitle": "King Of Salvage",
-      "description": "The Wolfe Brothers are on the loose and get inside the salvage king's huge 200,000 square foot fortress-like warehouse filled with all kinds of treasures.",
+      "start": "2026-09-19T01:59:40.000Z",
+      "stop": "2026-09-19T02:28:55.000Z",
+      "title": "Life Off Road",
+      "subtitle": "Episode 19",
+      "description": "Life Off Road celebrates all aspects of four-wheel driving and off-roading.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T11:00:40.000Z",
-      "stop": "2026-09-17T13:22:30.000Z",
-      "title": "Green Zone",
-      "subtitle": null,
-      "description": "Discovering covert and faulty intelligence causes a U.S. Army officer to go rogue as he hunts for Weapons of Mass Destruction in an unstable region.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-17T13:22:30.000Z",
-      "stop": "2026-09-17T15:32:25.000Z",
-      "title": "The Kingdom",
-      "subtitle": null,
-      "description": "FBI agents sent to Saudi Arabia to nab a mass murderer team up with their Arab counterparts in a do-or-die mission for unlikely allies.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-17T15:32:25.000Z",
-      "stop": "2026-09-17T16:30:00.000Z",
-      "title": "American Pickers",
-      "subtitle": "King Of Salvage",
-      "description": "The Wolfe Brothers are on the loose and get inside the salvage king's huge 200,000 square foot fortress-like warehouse filled with all kinds of treasures.",
+      "start": "2026-09-19T02:28:55.000Z",
+      "stop": "2026-09-19T03:00:25.000Z",
+      "title": "Cool Cars & Bikes",
+      "subtitle": "Episode 1 of Season 2",
+      "description": "Join Dermott Brereton, stuntman “Lukey Luke”, motoring journalist Elise Elliott, and blonde bombshell Tegan Martin, as they bring us all things horsepower into our lounge rooms.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T16:30:00.000Z",
-      "stop": "2026-09-17T16:58:25.000Z",
-      "title": "American Restoration",
-      "subtitle": "Bumper Balls",
-      "description": "After Rick agrees to restore a vintage Italian bumper car from a local antique shop, the shop braces for immediate impact. And later, the shop pedals away on a 1970s kiddie tractor.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:58:25.000Z",
-      "stop": "2026-09-17T17:30:00.000Z",
-      "title": "Sound FX: Best Of",
-      "subtitle": "Brett Favre",
-      "description": "Green Bay recently inducted superstar quarterback, Brett Favre, into their Hall of Fame. Here is a candid look into his time at the Packers, and as a Minnesota Viking.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-17T17:30:00.000Z",
-      "stop": "2026-09-17T20:30:00.000Z",
-      "title": "NFL",
-      "subtitle": "Week 1: Falcons @ Steelers",
-      "description": "The Atlanta Falcons take on the Pittsburgh Steelers, live and free on 7mate AND streaming on 7plus. Start time: 3am AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-17T20:30:00.000Z",
-      "stop": "2026-09-17T21:30:00.000Z",
-      "title": "The Fishing Show By AFN",
-      "subtitle": "Spot X",
-      "description": "In search of a hitlist of species, Nige & Nicko have targeted big Barramundi and explored a whole river system from top to bottom but now they're in search of the lost Spot X.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-17T21:30:00.000Z",
-      "stop": "2026-09-17T21:59:55.000Z",
-      "title": "Oz Fish TV",
-      "subtitle": "EPs Venus Bay",
-      "description": "With the crew from Melbourne Marine Centre, we head out into mangrove infested estuary system of Venus Bay, flicking soft plastics on the hunt for Estuary Perch.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-17T21:59:55.000Z",
-      "stop": "2026-09-17T22:28:50.000Z",
-      "title": "Creek To Coast",
-      "subtitle": "Episode 36",
-      "description": "Gary has tips to keep corrosion at bay. Kim tests the new Cars for Cancer prize, Ben explores a mad mancave! Scotty tastes the best of Whitsunday seafood and Olivia is staying cool for Summer camping!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:28:50.000Z",
-      "stop": "2026-09-17T23:00:00.000Z",
-      "title": "Sound FX: Best Of",
-      "subtitle": "Jim Harbaugh",
-      "description": "Former NFL Quarterback and current Head Coach of the Michigan Wolverines, Jim Harbaugh is mic'd up for an inside look at his coaching career.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-17T23:00:00.000Z",
-      "stop": "2026-09-18T00:06:00.000Z",
-      "title": "NFL Tailgate",
-      "subtitle": "Episode 2 of Season 26",
-      "description": "Join former NFL star Ben Graham and resident NFL expert Cam Luke as they break down all the latest news, highlights and talking points from across the league.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T00:06:00.000Z",
-      "stop": "2026-09-18T03:30:00.000Z",
-      "title": "NFL",
-      "subtitle": "Week 2: Lions @ Bills",
-      "description": "The Detroit Lions take on the Buffalo Bills, live and free on 7mate AND streaming on 7plus. Start time: 10:15am AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T03:30:00.000Z",
-      "stop": "2026-09-18T04:00:00.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "Pawn No Evil",
-      "description": "A robotic Japanese monkey; a painting that reveals Glenn Ford's love affair with Marilyn Monroe; a wooden oil barrel from the 1800s; a Ming Dynasty Kuan banknote.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T04:00:00.000Z",
-      "stop": "2026-09-18T04:34:30.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "The King's Bling",
-      "description": "The Pawn Stars are presented with a necklace once owned by the King of Rock and Roll himself, Elvis Presley.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T04:34:30.000Z",
-      "stop": "2026-09-18T05:05:20.000Z",
-      "title": "The Force - Behind The Line",
-      "subtitle": "Episode 5",
-      "description": "Police conduct a search warrant on a drug premises, to locate a suspected clan lab protected by guard dogs. A disqualified driver spins a fanciful yarn as to why she is standing beside her car.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T05:05:20.000Z",
-      "stop": "2026-09-18T05:36:40.000Z",
-      "title": "Kick Ons",
-      "subtitle": "Episode 28 of Season 26",
-      "description": "Join the team as they debate the hottest AFL topics and preview the biggest games over the weekend. Sit back, relax and enjoy Kick Ons after the Footy!",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T05:36:40.000Z",
-      "stop": "2026-09-18T06:07:40.000Z",
+      "start": "2026-09-19T03:00:25.000Z",
+      "stop": "2026-09-19T03:29:05.000Z",
       "title": "STIHL Timbersports",
       "subtitle": "Team World Championship 2024, Pt. 2",
       "description": "Follow Australia's top lumberjack sports athletes as they compete with axes and saws.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T06:07:40.000Z",
-      "stop": "2026-09-18T07:02:40.000Z",
-      "title": "Engineering Disasters",
-      "subtitle": "Colorado Dam Disaster",
-      "description": "A storm of the century takes out nine dams, flooding entire towns and leaving thousands stranded. A train carrying hazardous materials derails, releasing toxic vapors throughout a small community.",
+      "start": "2026-09-19T03:29:05.000Z",
+      "stop": "2026-09-19T04:00:00.000Z",
+      "title": "Blokesworld",
+      "subtitle": "Aussie Cars & Izumi Japan",
+      "description": "Ado and Camera 89 go to Izumi in Japan and back home Cars and Coffee, Performance Pulse Expo, Crazed the Gasser racing beast and Kagoshima United play Oita.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T07:02:40.000Z",
-      "stop": "2026-09-18T07:31:00.000Z",
-      "title": "American Restoration",
-      "subtitle": "Cold Cuts",
-      "description": "Rick and his crew sharpen their service skills when a client ships in a 1900s Berkel meat slicer. And later, a 1950s stamp vending machine arrives at the shop.",
+      "start": "2026-09-19T04:00:00.000Z",
+      "stop": "2026-09-19T04:30:00.000Z",
+      "title": "The Car Club",
+      "subtitle": "Episode 10",
+      "description": "Bruce, Mark and Amelia meet car enthusiasts sharing their passion of cars from old to new, and everything in between.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T07:31:00.000Z",
-      "stop": "2026-09-18T08:01:50.000Z",
-      "title": "Storage Wars",
-      "subtitle": "Santa Ana Street Fight",
-      "description": "The buyers head to Dave Hester's old stomping grounds in Santa Ana, California. Though the units look trashy, their low rent suggests a secret gold mine filled with goods placed by wise consumers.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T08:01:50.000Z",
-      "stop": "2026-09-18T09:01:00.000Z",
-      "title": "American Pickers",
-      "subtitle": "Shelby In The Barn",
-      "description": "In Alabama, Mike goes hog wild for a super-rare, barn-fresh Shelby Mustang while Dani and Robbie visit a New Mexico town that's determined to remain a roadside attraction.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T09:01:00.000Z",
-      "stop": "2026-09-18T09:31:00.000Z",
-      "title": "AFL Friday Night Countdown",
-      "subtitle": "AFL Friday Night Countdown: Sydney v Fremantle",
-      "description": "Friday Night Countdown gives footy fans the perfect lead-in to the weekend's round of footy finals.",
+      "start": "2026-09-19T04:30:00.000Z",
+      "stop": "2026-09-19T06:30:00.000Z",
+      "title": "AFL Women's",
+      "subtitle": "Rnd 6: Port Adelaide v Sydney",
+      "description": "The Power go up against the Swans, live and free from Alberton Oval. Bounce time: 2:35 pm AEST.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T09:31:00.000Z",
-      "stop": "2026-09-18T10:00:10.000Z",
+      "start": "2026-09-19T06:30:00.000Z",
+      "stop": "2026-09-19T07:30:00.000Z",
+      "title": "Frozen Gold",
+      "subtitle": "Episode 1",
+      "description": "Six total strangers set out on the mission of a lifetime to Greenland's stark and brutal landscape, searching for mineral resources that have been trapped under ice for tens of thousands of years.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T07:30:00.000Z",
+      "stop": "2026-09-19T08:00:00.000Z",
+      "title": "Counting Cars",
+      "subtitle": "Best Of: Highways And Driveways",
+      "description": "Hit the highway with the Count's Kustoms crew and revisit some of the coolest pullovers in the history of Counting Cars: a souped up '59 Corvette gasser that leads to an unexpected reunion, a vintage fire truck that gives Roli the ride of his life, a '76 Shovelhead Harley that gets a killer restoration, a Cadillac once owned by Elvis Presley that leaves Danny weak in the knees, and a 1950 Ford coupe that lands him on a wild car chase.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T08:00:00.000Z",
+      "stop": "2026-09-19T09:00:10.000Z",
+      "title": "American Pickers",
+      "subtitle": "Kiddie Car Heaven",
+      "description": "Mike stumbles upon a once-in-a-lifetime camera collection in upstate New York. And Robbie goes hog wild for a massive stash of junior dream cars.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T09:00:10.000Z",
+      "stop": "2026-09-19T09:59:30.000Z",
       "title": "Pawn Stars",
-      "subtitle": "Hidden Pawn",
-      "description": "A 1769 set of playing cards with a hidden political message enters the shop; Corey checks out a set of \"Charlie's Angels\" figurines; Rick examines an antique stained glass lamp.",
+      "subtitle": "Thunder Pawns",
+      "description": "Rick sees red when a Rolex Submariner hits the counter. Will his offer make a splash, or is it just a waste of time? Meanwhile, Corey gets slap happy over a hockey stick signed by Paul Newman.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T10:00:10.000Z",
-      "stop": "2026-09-18T10:31:40.000Z",
-      "title": "Motorbike Cops",
-      "subtitle": "Episode 6",
-      "description": "A young P plater loses his license for the third time while another young bloke doesn't seem to know the rules when it comes to lane filtering. A truckie gets busted with no seatbelt.",
-      "category": "Special Interest"
+      "start": "2026-09-19T09:59:30.000Z",
+      "stop": "2026-09-19T11:15:00.000Z",
+      "title": "Post Game",
+      "subtitle": "Post Game: Hawthorn v Brisbane",
+      "description": "A look back at all the action from tonight's Preliminary Final.",
+      "category": "Sports"
     },
     {
-      "start": "2026-09-18T10:31:40.000Z",
-      "stop": "2026-09-18T11:04:45.000Z",
-      "title": "Motorbike Cops",
-      "subtitle": "Episode 7",
-      "description": "Paul and Mark stop two guys going full throttle on their bikes. One guy has only done 10 kilometres on his brand new R1. The motorbike cops pull over a couple of young fellas in a flashy car.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T11:04:45.000Z",
-      "stop": "2026-09-18T13:18:20.000Z",
-      "title": "Last Vegas",
+      "start": "2026-09-19T11:15:00.000Z",
+      "stop": "2026-09-19T13:48:40.000Z",
+      "title": "Ghostbusters: Afterlife",
       "subtitle": null,
-      "description": "When the group's sworn bachelor finally proposes to his thirty-something girlfriend, four friends head to Las Vegas with a plan to stop acting their age and relive their glory days.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-18T13:18:20.000Z",
-      "stop": "2026-09-18T15:21:30.000Z",
-      "title": "Skyscraper",
-      "subtitle": null,
-      "description": "A former hostage rescue commander and army veteran now works in skyscraper security. While based in Hong Kong, he is blamed for a fire in the world’s tallest tower and must clear his name.",
+      "description": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-18T15:21:30.000Z",
-      "stop": "2026-09-18T15:58:45.000Z",
+      "start": "2026-09-19T13:48:40.000Z",
+      "stop": "2026-09-19T15:55:25.000Z",
+      "title": "The Pope's Exorcist",
+      "subtitle": null,
+      "description": "In 1987, Gabriel Amorth, the Vatican's leading exorcist, investigates the demonic possession of an American boy in Spain, and discovers a secret the Vatican has tried to keep buried for centuries.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-19T15:55:25.000Z",
+      "stop": "2026-09-19T16:22:35.000Z",
+      "title": "Counting Cars",
+      "subtitle": "Best Of: Highways And Driveways",
+      "description": "Hit the highway with the Count's Kustoms crew and revisit some of the coolest pullovers in the history of Counting Cars: a souped up '59 Corvette gasser that leads to an unexpected reunion, a vintage fire truck that gives Roli the ride of his life, a '76 Shovelhead Harley that gets a killer restoration, a Cadillac once owned by Elvis Presley that leaves Danny weak in the knees, and a 1950 Ford coupe that lands him on a wild car chase.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T16:22:35.000Z",
+      "stop": "2026-09-19T16:57:00.000Z",
+      "title": "Bogan Hunters",
+      "subtitle": "Episode 3",
+      "description": "In the premiere there's some of the sickest burnouts, a car graveyard, Ned Kelly and a dog with a rock. Plus, hear some tall tales from Bogan wannabes. The Bogan Hunters continue their search at Western Australia's Power cruise event and head back to the mid-west of Tasmania.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T16:57:00.000Z",
+      "stop": "2026-09-19T17:30:25.000Z",
+      "title": "Bogan Hunters",
+      "subtitle": "Episode 4 of Season 1",
+      "description": "This week Shazza does her first burnout in a flanno car. The Bogan Hunters meet some kinky bogans and investigate the folklore of the two-headed bogan. The Bogan Hunters' quest takes them to New South Wales, Victoria and back to Tasmania.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T17:30:25.000Z",
+      "stop": "2026-09-19T18:38:45.000Z",
+      "title": "American Pickers",
+      "subtitle": "Kiddie Car Heaven",
+      "description": "Mike stumbles upon a once-in-a-lifetime camera collection in upstate New York. And Robbie goes hog wild for a massive stash of junior dream cars.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T18:38:45.000Z",
+      "stop": "2026-09-19T19:33:25.000Z",
       "title": "Pawn Stars",
-      "subtitle": "Pawn In Space",
-      "description": "A cast-signed helmet from the TV series `Lost in Space;' and a pair of sneakers signed by retired NBA player Robert Parish come into the shop. And a mystery object causes Rick and Corey to scratch their heads.",
+      "subtitle": "Thunder Pawns",
+      "description": "Rick sees red when a Rolex Submariner hits the counter. Will his offer make a splash, or is it just a waste of time? Meanwhile, Corey gets slap happy over a hockey stick signed by Paul Newman.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T15:58:45.000Z",
-      "stop": "2026-09-18T16:27:55.000Z",
-      "title": "Motorbike Cops",
-      "subtitle": "Episode 6",
-      "description": "A young P plater loses his license for the third time while another young bloke doesn't seem to know the rules when it comes to lane filtering. A truckie gets busted with no seatbelt.",
+      "start": "2026-09-19T19:33:25.000Z",
+      "stop": "2026-09-19T20:30:00.000Z",
+      "title": "Kings of Pain",
+      "subtitle": "Aquarium Nightmares",
+      "description": "Rob and Adam test the pain dished out by a trio of unlikely creatures commonly kept in home aquariums. They proceed to ruin the image of a popular cartoon movie character for millions of children.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T16:27:55.000Z",
-      "stop": "2026-09-18T16:58:50.000Z",
-      "title": "Motorbike Cops",
-      "subtitle": "Episode 7",
-      "description": "Paul and Mark stop two guys going full throttle on their bikes. One guy has only done 10 kilometres on his brand new R1. The motorbike cops pull over a couple of young fellas in a flashy car.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T16:58:50.000Z",
-      "stop": "2026-09-18T17:30:00.000Z",
-      "title": "Sound FX: Best Of",
-      "subtitle": "Jim Harbaugh",
-      "description": "Former NFL Quarterback and current Head Coach of the Michigan Wolverines, Jim Harbaugh is mic'd up for an inside look at his coaching career.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T17:30:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
-      "title": "NFL",
-      "subtitle": "Week 1: Packers @ Vikings",
-      "description": "The Green Bay Packers take on the Minnesota Vikings, live and free on 7mate AND streaming on 7plus. Start time: 6:25am AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T21:30:00.000Z",
+      "start": "2026-09-19T20:30:00.000Z",
+      "stop": "2026-09-19T21:30:00.000Z",
       "title": "The Fishing Show By AFN",
-      "subtitle": "Melsonby Rangers",
-      "description": "Nige & Nicko have now been on the road for nearly two months and had plenty of setbacks but now they've hit the Lakefield area with a whole new adventure in mind.",
+      "subtitle": "Cooktown",
+      "description": "The wet season is about to start and here in the bottom of the Cape York Peninsula Nicko & Nige have got to find the fish at the same time as avoiding the sharp end of the local crocodiles.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T21:30:00.000Z",
-      "stop": "2026-09-18T22:00:05.000Z",
+      "start": "2026-09-19T21:30:00.000Z",
+      "stop": "2026-09-19T22:00:05.000Z",
       "title": "Oz Fish TV",
-      "subtitle": "Sorrento Pier Squid",
-      "description": "Armed with a few Black Magic Squid Jigs, Mick and Jesse head to Sorrento pier with a few mates jigging off the pier hoping to land a few ten-legged Cephalopods, the tasty calamari.",
+      "subtitle": "Hawkesbury Mulloway",
+      "description": "Little bit out of his depths on a holiday in NSW Mick decides to go fishing, so he heads to a local tackle shop, Big Al’s! They get him on to Bobby from Ride That Fish to catch one of his favourites.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T22:00:05.000Z",
-      "stop": "2026-09-18T22:30:35.000Z",
-      "title": "Al McGlashan's Fish'n With Mates",
-      "subtitle": "Al's Amazing Adventures",
-      "description": "Al takes a look back at some of the best fishing spots, local and abroad, that he and his mates have experienced.",
+      "start": "2026-09-19T22:00:05.000Z",
+      "stop": "2026-09-19T22:32:40.000Z",
+      "title": "Creek To Coast",
+      "subtitle": "Episode 29",
+      "description": "We've got Spring school holidays inspo to keep the whole family happy - from fishing with junior anglers to four-wheel driving with little ones on board. And it's all on Brissy's doorstep.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:32:40.000Z",
+      "stop": "2026-09-19T23:33:55.000Z",
+      "title": "A Football Life",
+      "subtitle": "Eddie Debartolo",
+      "description": "As owner, Eddie DeBartolo Jr. guided the San Francisco 49ers to five Super Bowl Championships from throughout the 1980s and 90s. Players and coaches recall DeBartolo's generosity, ambition, and the unique friendship he built with his team.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T23:33:55.000Z",
+      "stop": "2026-09-20T00:02:05.000Z",
+      "title": "Counting Cars",
+      "subtitle": "Best Of: Highways And Driveways",
+      "description": "Hit the highway with the Count's Kustoms crew and revisit some of the coolest pullovers in the history of Counting Cars: a souped up '59 Corvette gasser that leads to an unexpected reunion, a vintage fire truck that gives Roli the ride of his life, a '76 Shovelhead Harley that gets a killer restoration, a Cadillac once owned by Elvis Presley that leaves Danny weak in the knees, and a 1950 Ford coupe that lands him on a wild car chase.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T00:02:05.000Z",
+      "stop": "2026-09-20T00:59:40.000Z",
+      "title": "American Pickers",
+      "subtitle": "Kiddie Car Heaven",
+      "description": "Mike stumbles upon a once-in-a-lifetime camera collection in upstate New York. And Robbie goes hog wild for a massive stash of junior dream cars.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T00:59:40.000Z",
+      "stop": "2026-09-20T02:01:40.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Thunder Pawns",
+      "description": "Rick sees red when a Rolex Submariner hits the counter. Will his offer make a splash, or is it just a waste of time? Meanwhile, Corey gets slap happy over a hockey stick signed by Paul Newman.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T02:01:40.000Z",
+      "stop": "2026-09-20T02:31:10.000Z",
+      "title": "Step Outside With Paul Burt",
+      "subtitle": "Episode 33 of Season 6",
+      "description": "We walk you through the tackle candy shop, as we check out the latest tackle coming your way hot from AFTA ready for your Christmas list. To rub or not to rub when it comes to the perfect steak.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T02:31:10.000Z",
+      "stop": "2026-09-20T03:30:00.000Z",
+      "title": "The Fishing Show By AFN",
+      "subtitle": "Best Of: Groote Eylandt",
+      "description": "Bill Classon ventures to one of the largest islands in Australia. Being one of most remote fishing spots in the country, this trip offers breathtaking scenery along with some spectacular fishing.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T03:30:00.000Z",
+      "stop": "2026-09-20T04:29:10.000Z",
+      "title": "Mark Berg's Fishing Addiction",
+      "subtitle": "Andy In Mackay, Pt. 2",
+      "description": "Rough weather and tough fishing hamper the team's plan to fish the Coral Coast Islands off Mackay. The team head inland to fish MacKay’s dam systems and hopefully land a one meter barramundi.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T04:29:10.000Z",
+      "stop": "2026-09-20T04:59:15.000Z",
+      "title": "Red's Fishing Adventures",
+      "subtitle": "Exmouth Sailfish",
+      "description": "Aaron and Kane take the Bucket List over to Western Australia, setting their sights on the thrilling Sailfish of Exmouth.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T04:59:15.000Z",
+      "stop": "2026-09-20T05:30:00.000Z",
+      "title": "Al McGlashan's Fish'n With Mates",
+      "subtitle": "Louisiana Bull Reds",
+      "description": "Al returns to one of his favourite places, Louisiana, in hopes of snagging some bull reds, a fish that eluded him the last time he was there.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T05:30:00.000Z",
+      "stop": "2026-09-20T06:01:55.000Z",
+      "title": "Counting Cars",
+      "subtitle": "Best Of: Outrageous Automobiles",
+      "description": "Go nuts with Danny and the Count's Kustoms crew and revisit some of the most outrageous rides ever featured on Counting Cars: a red hot '55 Chevy gasser that nearly escapes Danny's grasp, a lifeless '65 Pontiac GTO that Danny brings back from the dead and Frankenstude, the legendary ride built from four different Studebakers. Later, Danny's jaw hits the asphalt when Horny Mike unveils his monster of a Smart Car.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:01:55.000Z",
+      "stop": "2026-09-20T07:00:00.000Z",
+      "title": "Frozen Gold",
+      "subtitle": "Episode 2",
+      "description": "A long and dangerous prospecting trek through Greenland's infamous polar bear territory creates tension that spills over and threatens the whole mission.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T07:00:00.000Z",
+      "stop": "2026-09-20T08:58:05.000Z",
+      "title": "AFL Women's",
+      "subtitle": "Rnd 6: Brisbane v Adelaide",
+      "description": "The Lions challenge the Crows, live and free from Brighton Homes Arena. Bounce time: 5:05 pm AEST.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T08:58:05.000Z",
+      "stop": "2026-09-20T09:30:00.000Z",
+      "title": "Border Security: International",
+      "subtitle": "Episode 3 of Season 1",
+      "description": "An angry businessman from China hides the real reason for his hostility. A box of 'custom' wedding invitations has the makings of a different kind of party. A nervous English tourist catches the officers' attention. The detector dog sniffs out a truckload of trouble. Meanwhile, officers process some unusual Mexican migrants and a fake ID and a jar of marijuana disrupt the plans of an American woman.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T09:30:00.000Z",
+      "stop": "2026-09-20T10:00:20.000Z",
+      "title": "Border Security - Australia's Front Line",
+      "subtitle": "Episode 83 of Season 1",
+      "description": "A passenger with little more than a plastic bag and the clothes on his back loses his temper. And a frequent visitor to Australia insists he's not working illegally and some cans of beans pack a punch. Narrated by Grant Bowler.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:00:20.000Z",
+      "stop": "2026-09-20T10:32:30.000Z",
+      "title": "Border Security - Australia's Front Line",
+      "subtitle": "Episode 84 of Season 1",
+      "description": "A German contractor's work visa could be in jeopardy due to his shady past. A package contains a highly exotic but highly illegal creature. And a multi-million dollar industry is under threat. Hosted by Grant Bowler.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:32:30.000Z",
+      "stop": "2026-09-20T11:04:35.000Z",
+      "title": "Border Security - Australia's Front Line",
+      "subtitle": "Episode 85 of Season 1",
+      "description": "Customs detector dogs show off their immense talents with some remarkable discoveries, tonight on BORDER SECURITY: AUSTRALIA'S FRONTLINE. Hosted by Grant Bowler.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:04:35.000Z",
+      "stop": "2026-09-20T13:34:40.000Z",
+      "title": "Jurassic World",
+      "subtitle": null,
+      "description": "When genetically modified dinosaurs run amok at a new themed resort, a former military man and animal expert must use his special skills to halt an all-out prehistoric slaughter.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T13:34:40.000Z",
+      "stop": "2026-09-20T15:50:35.000Z",
+      "title": "The Thing",
+      "subtitle": null,
+      "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "category": "Drama"
     }
   ]
 }

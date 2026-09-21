@@ -2,415 +2,407 @@
   "slug": "10bold-sa",
   "epgId": "mjh-10bold-sa",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:01:21.000Z",
-      "stop": "2026-09-17T11:00:28.000Z",
-      "title": "NCIS",
-      "subtitle": "Code Of Conduct",
-      "description": "When a Marine known for his practical jokes is found dead on Halloween Eve, the NCIS team discovers that the victim's \"good-natured\" pranks may have inspired ghoulish retribution.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T11:00:28.000Z",
-      "stop": "2026-09-17T11:56:51.000Z",
-      "title": "Law & Order: SVU",
-      "subtitle": "Accomplice Liability",
-      "description": "Carisi attempts to put aside his role as prosecutor to serve as a witness in a trial. Benson tries to help a rape survivor struggling with her recovery.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T11:56:51.000Z",
-      "stop": "2026-09-17T12:52:48.000Z",
-      "title": "Law & Order: SVU",
-      "subtitle": "The Accuser",
-      "description": "When a man is ruthlessly assaulted and burned, the SVU's investigation uncovers a decades-old secret. Bruno helps a young witness find the courage to come forward.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T12:52:48.000Z",
-      "stop": "2026-09-17T13:47:36.000Z",
-      "title": "Bull",
-      "subtitle": "Flesh And Blood",
-      "description": "Bull assists in the murder trial defense of an old friend, Vivian Cahill, an in-debt professional gambler accused of killing her wealthy father to gain her inheritance.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T13:47:36.000Z",
-      "stop": "2026-09-17T14:45:48.000Z",
-      "title": "JAG",
-      "subtitle": "Boomerang (2)",
-      "description": "The murder and desertion trial of Kevin Lee takes a bad turn after his wife changes her testimony under cross examination.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-17T14:45:48.000Z",
-      "stop": "2026-09-17T15:46:02.000Z",
-      "title": "JAG",
-      "subtitle": "People V. Gunny",
-      "description": "Trouble in the JAG office starts when Gunnery Sargeant Victor Galindez, Gunny, is charged with assault following an off-duty altercation outside a gay bar.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-17T15:46:02.000Z",
-      "stop": "2026-09-17T16:17:42.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 438 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:17:42.000Z",
-      "stop": "2026-09-17T16:49:22.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 439 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:49:22.000Z",
-      "stop": "2026-09-17T17:20:37.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 440 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T17:20:37.000Z",
-      "stop": "2026-09-17T17:52:42.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 441 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T17:52:42.000Z",
-      "stop": "2026-09-17T18:24:22.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 442 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T18:24:22.000Z",
-      "stop": "2026-09-17T18:55:47.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 443 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T18:55:47.000Z",
-      "stop": "2026-09-17T19:27:27.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 444 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T19:27:27.000Z",
-      "stop": "2026-09-17T19:58:37.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 445 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T19:58:37.000Z",
-      "stop": "2026-09-17T20:30:00.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 494 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T20:30:00.000Z",
-      "stop": "2026-09-17T21:00:00.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 470 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T21:00:00.000Z",
-      "stop": "2026-09-17T21:30:00.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 471 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T21:30:00.000Z",
-      "stop": "2026-09-17T22:00:00.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 472 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T22:00:00.000Z",
-      "stop": "2026-09-17T22:30:00.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 473 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T22:30:00.000Z",
-      "stop": "2026-09-17T23:15:00.000Z",
-      "title": "Days Of Our Lives",
-      "subtitle": "Episode 15458",
-      "description": "Chad and Charlotte share a bittersweet moment. Xander impresses Sarah. Rachel receives a special gift from Kristen. Marlena is surprised by a mysterious memory. EJ surprises Belle and Chad.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T23:15:00.000Z",
-      "stop": "2026-09-18T00:00:00.000Z",
-      "title": "The Young and the Restless",
-      "subtitle": "Episode 233",
-      "description": "Victor gathers intel on a rival, Sally asks Adam for a favor, and Jack plays with fire to trap Patty.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T00:00:00.000Z",
-      "stop": "2026-09-18T01:00:00.000Z",
-      "title": "The Living Room",
-      "subtitle": "Episode 2 of Season 7",
-      "description": "Amanda undertakes a top-secret assignment. Miguel heads to a Dumpling Bar in Melbourne's Chinatown. Grant takes to the sky with a stunt pilot. Kyal, Kara & James Treble rescue an open plan apartment.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T01:00:00.000Z",
-      "stop": "2026-09-18T02:00:00.000Z",
+      "start": "2026-09-19T02:04:57.000Z",
+      "stop": "2026-09-19T03:06:40.000Z",
       "title": "Building The Dream",
-      "subtitle": "David And Elly",
-      "description": "David and Elly tackle a modern, contemporary twist on a traditional Victorian terrace in suburban Shrewsbury, Shropshire.",
+      "subtitle": "Carla And Elliot",
+      "description": "Charlie Luxton heads to Essex, where Carla and Elliot are building a sleek contemporary home in a woodland clearing.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T02:00:00.000Z",
-      "stop": "2026-09-18T02:30:00.000Z",
-      "title": "The Bold and The Beautiful",
-      "subtitle": "Episode 9857",
-      "description": "Will turns to Bill for some fatherly advice. Katie makes a decision about Dylan.",
-      "category": "Drama"
+      "start": "2026-09-19T03:06:40.000Z",
+      "stop": "2026-09-19T04:05:17.000Z",
+      "title": "The Living Room",
+      "subtitle": "Episode 34 of Season 6",
+      "description": "Dr. Chris lives like a local in Hoi An in central Vietnam. Miguel visits one of Melbourne's most popular restaurants. Amanda catches up with Natalie Bassingthwaighte.",
+      "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T02:30:00.000Z",
-      "stop": "2026-09-18T03:15:00.000Z",
-      "title": "Days Of Our Lives",
-      "subtitle": "Episode 15459",
-      "description": "Someone is watching EJ, Chad and Belle... Leo asks Gabi to back him. Chanel questions Johnny's loyalty. Holly opens up to Tate. Rita doesn't exactly follow orders.",
-      "category": "Drama"
+      "start": "2026-09-19T04:05:17.000Z",
+      "stop": "2026-09-19T05:02:22.000Z",
+      "title": "The Living Room",
+      "subtitle": "Episode 35 of Season 6",
+      "description": "Miguel & Chris cook dinner for the Katherines of Katherine. Renovation for profit guru Cherie Barber lends her expertise to refurbish a house on a budget.",
+      "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T03:15:00.000Z",
-      "stop": "2026-09-18T04:00:00.000Z",
-      "title": "The Young and the Restless",
-      "subtitle": "Episode 234",
-      "description": "Nikki and Billy reach an understanding, Cane presses Lily to discuss their future, and Matt turns the tables on Patty.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T04:00:00.000Z",
-      "stop": "2026-09-18T05:00:00.000Z",
-      "title": "JAG",
-      "subtitle": "Drop Zone",
-      "description": "Mac prosecutes a SEAL jumpmaster who is charged with causing the drowning death of a trainee during a parachute mishap by being hung over and is defended by Bud.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-18T05:00:00.000Z",
-      "stop": "2026-09-18T06:00:00.000Z",
-      "title": "JAG",
-      "subtitle": "The Witches Of Gulfport",
-      "description": "Mac goes undercover to help Harm investigate charges of sexual misconduct against Chief Petty Officer Merker who is the leader of the Wiccans.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-18T06:00:00.000Z",
-      "stop": "2026-09-18T07:00:00.000Z",
-      "title": "Bull",
-      "subtitle": "Flesh And Blood",
-      "description": "Bull assists in the murder trial defense of an old friend, Vivian Cahill, an in-debt professional gambler accused of killing her wealthy father to gain her inheritance.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T07:00:00.000Z",
-      "stop": "2026-09-18T08:00:00.000Z",
+      "start": "2026-09-19T05:02:22.000Z",
+      "stop": "2026-09-19T06:01:27.000Z",
       "title": "JAG",
       "subtitle": "Overdue And Presumed Lost",
       "description": "Harm and Chegwidden fight an attempt by a salvage hunter to excavate the remains of a submarine that disappeared in 1941, just before the attack of Pearl Harbor.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-18T08:00:00.000Z",
-      "stop": "2026-09-18T09:00:00.000Z",
+      "start": "2026-09-19T06:01:27.000Z",
+      "stop": "2026-09-19T07:01:24.000Z",
       "title": "JAG",
       "subtitle": "Real Deal Seal",
       "description": "Lieutenant Curtis Rivers, a Medal of Honor-winning Navy SEAL, is court-martialed for punching a Congressional candidate who falsely claims to be a Navy SEAL.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-18T09:00:00.000Z",
-      "stop": "2026-09-18T10:00:00.000Z",
-      "title": "Bull",
-      "subtitle": "Missing",
-      "description": "Bull represents a woman who is guilty of kidnapping her niece twelve years ago to stop the girl's father from abusing her.",
-      "category": "Drama"
+      "start": "2026-09-19T07:01:24.000Z",
+      "stop": "2026-09-19T07:32:05.000Z",
+      "title": "Reel Action",
+      "subtitle": "Episode 9",
+      "description": "Reel Action is that weekend trip out with your mates looking for some local fishing action. We focus on the fish, techniques, and the right tools for the job.",
+      "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T10:00:00.000Z",
-      "stop": "2026-09-18T11:00:00.000Z",
-      "title": "NCIS",
-      "subtitle": "Outlaws And In-Laws",
-      "description": "A murder investigation prompts Gibbs and the team to play family counselor to his former mentor, Mike Franks, in the hopes of preventing a bloody international conflict.",
-      "category": "Drama"
+      "start": "2026-09-19T07:32:05.000Z",
+      "stop": "2026-09-19T08:03:06.000Z",
+      "title": "Escape Fishing With ET",
+      "subtitle": "Episode 24 of Season 27",
+      "description": "A week on Frederick Reef aboard Big Cat Reality, fishing from the Surtees 540. Blowing hard, but we're chasing incredible reef fish in some of the Great Barrier Reefs wildest waters.",
+      "category": "Sports"
     },
     {
-      "start": "2026-09-18T11:00:00.000Z",
-      "stop": "2026-09-18T11:55:00.000Z",
-      "title": "NCIS",
-      "subtitle": "Endgame",
-      "description": "With the team's help, Vance faces his demons while uncovering a complex relationship with a killer that puts his whole family in danger.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T11:55:00.000Z",
-      "stop": "2026-09-18T12:50:00.000Z",
-      "title": "NCIS",
-      "subtitle": "Power Down",
-      "description": "When an attempted robbery leaves a Lieutenant dead and the entire city without power, the team must figure out what happened by utilising good old fashioned investigative methods.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T12:50:00.000Z",
-      "stop": "2026-09-18T13:45:00.000Z",
-      "title": "Bull",
-      "subtitle": "Missing",
-      "description": "Bull represents a woman who is guilty of kidnapping her niece twelve years ago to stop the girl's father from abusing her.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T13:45:00.000Z",
-      "stop": "2026-09-18T14:45:00.000Z",
+      "start": "2026-09-19T08:03:06.000Z",
+      "stop": "2026-09-19T09:02:21.000Z",
       "title": "JAG",
-      "subtitle": "The Bridge At Kang So Ri",
-      "description": "Harm and Mac are assigned to investigate charges that American GI's shot and killed civilians during the Korean War.",
+      "subtitle": "Body Talk",
+      "description": "Harm reopens a 10-year-old murder case and unexpectedly incurs the wrath of the victim's daughter, his friend Lietenant Commander Teresa Coulter.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-18T14:45:00.000Z",
-      "stop": "2026-09-18T15:45:00.000Z",
+      "start": "2026-09-19T09:02:21.000Z",
+      "stop": "2026-09-19T10:00:52.000Z",
       "title": "JAG",
-      "subtitle": "Promises",
-      "description": "Harm and Mac face-off in court when a female seaman charged with desertion, claims she left because her recruiter lied to her about what her duties would be.",
+      "subtitle": "Surface Warfare",
+      "description": "Bud's underachieving brother is accused of making a mistake during a training exercise that nearly killed 15 Marines.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-18T15:45:00.000Z",
-      "stop": "2026-09-18T16:15:00.000Z",
+      "start": "2026-09-19T10:00:52.000Z",
+      "stop": "2026-09-19T11:00:23.000Z",
+      "title": "NCIS",
+      "subtitle": "Child's Play",
+      "description": "When the death of a Marine leads the NCIS team to a government think-tank filled with child prodigies, the team has to protect a 12-year-old child who may be the next target of the killer.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-19T11:00:23.000Z",
+      "stop": "2026-09-19T11:59:19.000Z",
+      "title": "NCIS",
+      "subtitle": "Faith",
+      "description": "When the enlisted son of a retired Colonel-turned-preacher is found dead, the team believes he may be the victim of a hate crime. Meanwhile, Gibbs' father comes for a Christmas holiday visit.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-19T11:59:19.000Z",
+      "stop": "2026-09-19T12:57:47.000Z",
+      "title": "NCIS",
+      "subtitle": "Ignition",
+      "description": "When a Navy pilot is found dead under strange circumstances in a secluded area, the team finds themselves battling a no-nonsense attorney with a hidden agenda.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-19T12:57:47.000Z",
+      "stop": "2026-09-19T13:55:08.000Z",
+      "title": "JAG",
+      "subtitle": "Drop Zone",
+      "description": "Mac prosecutes a SEAL jumpmaster who is charged with causing the drowning death of a trainee during a parachute mishap by being hung over and is defended by Bud.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-19T13:55:08.000Z",
+      "stop": "2026-09-19T14:52:46.000Z",
+      "title": "JAG",
+      "subtitle": "The Witches Of Gulfport",
+      "description": "Mac goes undercover to help Harm investigate charges of sexual misconduct against Chief Petty Officer Merker who is the leader of the Wiccans.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-19T14:52:46.000Z",
+      "stop": "2026-09-19T15:23:26.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 448 of Season 2019",
+      "subtitle": "Episode 486 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T16:15:00.000Z",
-      "stop": "2026-09-18T16:45:00.000Z",
+      "start": "2026-09-19T15:23:26.000Z",
+      "stop": "2026-09-19T15:53:36.000Z",
       "title": "Home Shopping",
-      "subtitle": "Home Shopping",
-      "description": "Shopping program.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T16:45:00.000Z",
-      "stop": "2026-09-18T17:15:00.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 450 of Season 2019",
+      "subtitle": "Episode 487 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T17:15:00.000Z",
-      "stop": "2026-09-18T17:45:00.000Z",
+      "start": "2026-09-19T15:53:36.000Z",
+      "stop": "2026-09-19T16:24:31.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 451 of Season 2019",
+      "subtitle": "Episode 488 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T17:45:00.000Z",
-      "stop": "2026-09-18T18:15:00.000Z",
+      "start": "2026-09-19T16:24:31.000Z",
+      "stop": "2026-09-19T16:55:06.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 452 of Season 2019",
+      "subtitle": "Episode 489 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T18:15:00.000Z",
-      "stop": "2026-09-18T18:45:00.000Z",
+      "start": "2026-09-19T16:55:06.000Z",
+      "stop": "2026-09-19T17:25:41.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 453 of Season 2019",
+      "subtitle": "Episode 490 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T18:45:00.000Z",
-      "stop": "2026-09-18T19:15:00.000Z",
+      "start": "2026-09-19T17:25:41.000Z",
+      "stop": "2026-09-19T17:56:01.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 454 of Season 2019",
+      "subtitle": "Episode 491 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T19:15:00.000Z",
-      "stop": "2026-09-18T19:45:00.000Z",
+      "start": "2026-09-19T17:56:01.000Z",
+      "stop": "2026-09-19T18:26:56.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 455 of Season 2019",
+      "subtitle": "Episode 492 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T19:45:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
+      "start": "2026-09-19T18:26:56.000Z",
+      "stop": "2026-09-19T18:58:01.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 493 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T18:58:01.000Z",
+      "stop": "2026-09-19T19:28:26.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 494 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T19:28:26.000Z",
+      "stop": "2026-09-19T19:58:51.000Z",
       "title": "Home Shopping",
       "subtitle": "Episode 495 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T21:00:00.000Z",
+      "start": "2026-09-19T19:58:51.000Z",
+      "stop": "2026-09-19T20:30:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 474 of Season 2019",
+      "subtitle": "Episode 496 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T21:00:00.000Z",
-      "stop": "2026-09-18T21:30:00.000Z",
+      "start": "2026-09-19T20:30:00.000Z",
+      "stop": "2026-09-19T21:00:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 475 of Season 2019",
+      "subtitle": "Episode 479 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T21:30:00.000Z",
-      "stop": "2026-09-18T22:00:00.000Z",
+      "start": "2026-09-19T21:00:00.000Z",
+      "stop": "2026-09-19T21:30:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 476 of Season 2019",
+      "subtitle": "Episode 480 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T22:00:00.000Z",
-      "stop": "2026-09-18T22:30:00.000Z",
+      "start": "2026-09-19T21:30:00.000Z",
+      "stop": "2026-09-19T22:00:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 477 of Season 2019",
+      "subtitle": "Episode 481 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T22:00:00.000Z",
+      "stop": "2026-09-19T22:30:00.000Z",
+      "title": "Leading The Way",
+      "subtitle": "Episode 11 of Season 2026",
+      "description": "Leading the Way provides positive teachings to encourage better sleep, peace and life improvement.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T22:30:00.000Z",
+      "stop": "2026-09-19T23:30:00.000Z",
+      "title": "All 4 Adventure",
+      "subtitle": "Episode 1",
+      "description": "Jase, Simon and Jesse explore the beauty and secrets of K'gari, formerly known as Fraser Island, before heading towards the northern goldfields.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T23:30:00.000Z",
+      "stop": "2026-09-20T00:00:00.000Z",
+      "title": "Roads Less Travelled",
+      "subtitle": "NT Top End",
+      "description": "Shane is in Darwin, beginning at a Aboriginal cafe,  riding a jet-ski, & soaking in vibrant street art. Guest Laura Sharrad has a helicopter trip to Finniss River Lodge with a rock art tour in Kakadu.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T00:00:00.000Z",
+      "stop": "2026-09-20T00:30:00.000Z",
+      "title": "On The Fly",
+      "subtitle": "Episode 7 of Season 4",
+      "description": "Join Gavin from Hurley's Fly Fishing as he tackles lake fishing in Victoria, starting with a challenging morning before landing a stunning fish. Shifting to a nearby stream for some Mountain trout.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T00:30:00.000Z",
+      "stop": "2026-09-20T01:30:00.000Z",
+      "title": "Building The Dream",
+      "subtitle": "Glyn And Sue",
+      "description": "Charlie visits the New Forest, where Glyn and Sue are building an oak-framed home perfect for their retirement.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T01:30:00.000Z",
+      "stop": "2026-09-20T02:00:00.000Z",
+      "title": "Escape Fishing With ET",
+      "subtitle": "Episode 24 of Season 27",
+      "description": "A week on Frederick Reef aboard Big Cat Reality, fishing from the Surtees 540. Blowing hard, but we're chasing incredible reef fish in some of the Great Barrier Reefs wildest waters.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T02:00:00.000Z",
+      "stop": "2026-09-20T03:00:00.000Z",
+      "title": "Building The Dream",
+      "subtitle": "David And Elly",
+      "description": "David and Elly tackle a modern, contemporary twist on a traditional Victorian terrace in suburban Shrewsbury, Shropshire.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T03:00:00.000Z",
+      "stop": "2026-09-20T04:00:00.000Z",
+      "title": "What's Up Down Under",
+      "subtitle": "Episode 5",
+      "description": "A look at the Australian caravanning and holiday park experience featuring innovations, journeys for charity, reviews and road tests.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T04:00:00.000Z",
+      "stop": "2026-09-20T04:30:00.000Z",
+      "title": "Buy To Build",
+      "subtitle": "Episode 7 of Season 7",
+      "description": "Each episode, Walt Collins helps house hunters explore the country's latest display homes and land developments to find the perfect home to suit their needs.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T04:30:00.000Z",
+      "stop": "2026-09-20T05:30:00.000Z",
+      "title": "JAG",
+      "subtitle": "Body Talk",
+      "description": "Harm reopens a 10-year-old murder case and unexpectedly incurs the wrath of the victim's daughter, his friend Lietenant Commander Teresa Coulter.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T05:30:00.000Z",
+      "stop": "2026-09-20T06:30:00.000Z",
+      "title": "JAG",
+      "subtitle": "Surface Warfare",
+      "description": "Bud's underachieving brother is accused of making a mistake during a training exercise that nearly killed 15 Marines.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T06:30:00.000Z",
+      "stop": "2026-09-20T07:00:00.000Z",
+      "title": "Pooches At Play",
+      "subtitle": "Episode 8",
+      "description": "Explore rising vet costs, slow-cooked nutrition, place training, calming pets at the groomer or vet, canine skin conditions, Beagle Freedom Australia, plus the Whippet breed profile.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T07:00:00.000Z",
+      "stop": "2026-09-20T07:30:00.000Z",
+      "title": "Bondi Rescue",
+      "subtitle": "Episode 9",
+      "description": "In a frenzied mass rescue, lifeguards search for a student who didn't make it back to the beach. Bagus and Hoppo witness an assault on a woman. Harrison makes a young fan cry - for the right reasons.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T07:30:00.000Z",
+      "stop": "2026-09-20T08:00:00.000Z",
+      "title": "IFISH",
+      "subtitle": "Episode 4",
+      "description": "Chasing the king of the reef with big lures and locked drags, Jet lands the ultimate prize while Paul ends up in Yeppoon hospital, never a dull moment!",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T08:00:00.000Z",
+      "stop": "2026-09-20T09:00:00.000Z",
+      "title": "JAG",
+      "subtitle": "Legacy - Part One",
+      "description": "While Harm is sent to Russia to help the Russians find a better way to implement their military justice procedures, Mac and Bud remain behind to prosecute a Naval commander.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T09:00:00.000Z",
+      "stop": "2026-09-20T10:00:00.000Z",
+      "title": "JAG",
+      "subtitle": "Legacy",
+      "description": "When the captain of a U.S. Navy frigate rescues a young girl in Cuban waters and sets off the beginnings of an international incident, Harm and Bud's investigation leads them to Cuba and a meeting with Castro.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T10:00:00.000Z",
+      "stop": "2026-09-20T11:00:00.000Z",
+      "title": "NCIS",
+      "subtitle": "Flesh And Blood",
+      "description": "When Tony's father gets involved with a case concerning an assassination plot against a prince, Gibbs questions Tony's impartiality in the investigation.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T11:00:00.000Z",
+      "stop": "2026-09-20T11:55:00.000Z",
+      "title": "NCIS",
+      "subtitle": "Jet Lag",
+      "description": "Tony and Ziva's assignment to escort a Government witness back from Paris encounters turbulence when they learn a hit man may be on their flight home.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T11:55:00.000Z",
+      "stop": "2026-09-20T12:50:00.000Z",
+      "title": "NCIS",
+      "subtitle": "Masquerade",
+      "description": "The team finds themselves in a race against time when a terrorist group threatens to detonate a dirty bomb in the D.C. area.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T12:50:00.000Z",
+      "stop": "2026-09-20T13:45:00.000Z",
+      "title": "Fire Country",
+      "subtitle": "Too Many Unknowns",
+      "description": "The station 42 and third rock crews respond to a chemical plant after a dangerous toxic spill goes up in flames.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T13:45:00.000Z",
+      "stop": "2026-09-20T14:45:00.000Z",
+      "title": "JAG",
+      "subtitle": "Overdue And Presumed Lost",
+      "description": "Harm and Chegwidden fight an attempt by a salvage hunter to excavate the remains of a submarine that disappeared in 1941, just before the attack of Pearl Harbor.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T14:45:00.000Z",
+      "stop": "2026-09-20T15:45:00.000Z",
+      "title": "JAG",
+      "subtitle": "Real Deal Seal",
+      "description": "Lieutenant Curtis Rivers, a Medal of Honor-winning Navy SEAL, is court-martialed for punching a Congressional candidate who falsely claims to be a Navy SEAL.",
+      "category": "Action & Adventure"
     }
   ]
 }

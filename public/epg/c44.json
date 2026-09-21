@@ -2,479 +2,447 @@
   "slug": "c44",
   "epgId": "mjh-c44",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:00:00.000Z",
-      "stop": "2026-09-17T10:30:00.000Z",
-      "title": "Classic Restos",
+      "start": "2026-09-19T01:00:00.000Z",
+      "stop": "2026-09-19T03:00:00.000Z",
+      "title": "Bowls State Finals",
       "subtitle": null,
-      "description": "Join host Mark Fletcher as he takes you around the world to some of the most exciting automotive shows. Each episode features old, classic cars being restored to top of the line condition as Fletch interviews owners.",
-      "category": "Special Interest"
+      "description": "Bowls State Finals 10",
+      "category": "Sports"
     },
     {
-      "start": "2026-09-17T10:30:00.000Z",
-      "stop": "2026-09-17T11:00:00.000Z",
-      "title": "Bumper 2 Bumper",
+      "start": "2026-09-19T03:00:00.000Z",
+      "stop": "2026-09-19T04:30:00.000Z",
+      "title": "SA Volleyball League",
       "subtitle": null,
-      "description": "A show for all ages of car enthusiasts to capture the essence of the classic, custom and hot rod car scene. Featuring the latest interviews, events, tools and tips of the week and lots more.",
-      "category": "Special Interest"
+      "description": "South Adelaide vs. USC",
+      "category": "Sports"
     },
     {
-      "start": "2026-09-17T11:00:00.000Z",
-      "stop": "2026-09-17T11:30:00.000Z",
-      "title": "Cash 4 Trash",
-      "subtitle": null,
-      "description": "Tracey Cash and Billy Trash put themselves at risk by taking part in Australia's most dangerous sport, hard rubbish diving.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T11:30:00.000Z",
-      "stop": "2026-09-17T12:00:00.000Z",
-      "title": "Aussie Garage TV",
-      "subtitle": null,
-      "description": "Immerse yourself in a world of roaring engines, jaw-dropping customization, and expert automotive insights right here. Aussie Garage focuses not only on the finest automobiles but also on the remarkable individuals behind them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T12:00:00.000Z",
-      "stop": "2026-09-17T12:30:00.000Z",
-      "title": "Under Wraps",
-      "subtitle": null,
-      "description": "From wild wraps to big personalities, tune in for behind the scenes action on vehicle graphics.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T12:30:00.000Z",
-      "stop": "2026-09-17T13:30:00.000Z",
-      "title": "The Hard Rock Show",
-      "subtitle": null,
-      "description": "Looks at everything rock, from news, to reviews, interviews, and live performance footage, with a focus on bands that haven't had their place in the spotlight.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T13:30:00.000Z",
-      "stop": "2026-09-17T14:30:00.000Z",
-      "title": "All Aussie Access",
-      "subtitle": null,
-      "description": "The best in Australian Independent Music, hosted by Rossco Hunter, Correy Hunter, and Sean Bennett from Studio Eleven.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T14:30:00.000Z",
-      "stop": "2026-09-17T15:30:00.000Z",
-      "title": "Rider TV",
-      "subtitle": null,
-      "description": "Cheryl and Vince engage in conversations with musicians from South Australia, exploring their professional journeys and personal experiences.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T15:30:00.000Z",
-      "stop": "2026-09-17T16:00:00.000Z",
-      "title": "The Tune Up",
-      "subtitle": null,
-      "description": "A music performance show with a diverse variety of music showcasing the musical talent and performances of Melbourne artists and groups.",
-      "category": "Music"
-    },
-    {
-      "start": "2026-09-17T16:00:00.000Z",
-      "stop": "2026-09-17T16:30:00.000Z",
-      "title": "Euro Indie Music Weekly Magazine",
-      "subtitle": null,
-      "description": "Features a curated selection of the most popular music videos created by the European Indie Music Network.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:30:00.000Z",
-      "stop": "2026-09-17T17:30:00.000Z",
-      "title": "Talking Urban",
-      "subtitle": null,
-      "description": "Puts a spotlight on independent talents across various Australian creative realms, and showcases creativity, collaboration, and Australia's vibrant independent arts scene.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T17:30:00.000Z",
-      "stop": "2026-09-17T18:00:00.000Z",
-      "title": "The 77 Percent",
-      "subtitle": null,
-      "description": "77 percent of Africans are younger than 35. But they are also the least represented demographic. It's time their voices are heard as they shape the future of Africa. We bring you hard-hitting reports, personal stories and lively discussion direct from the continent about the issues that matter most.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-17T18:00:00.000Z",
-      "stop": "2026-09-17T18:30:00.000Z",
-      "title": "Reconnecting the Truth",
-      "subtitle": null,
-      "description": "Reconnecting Afghan Roots is a four-episode short documentary series that uncovers the remarkable story of the Afghan Cameleers who helped shape Australia's outback and explores the lasting legacy they left behind.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T18:30:00.000Z",
-      "stop": "2026-09-17T19:00:00.000Z",
-      "title": "Four Star Playhouse",
-      "subtitle": null,
-      "description": "Featuring four rotating stars, from surreal mysteries to light comedies, which became famous in 1952.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T19:00:00.000Z",
-      "stop": "2026-09-17T19:30:00.000Z",
-      "title": "The Roy Rogers Show",
-      "subtitle": null,
-      "description": "The Double R Ranch featured \"The King of the Cowboys\" Roy, his \"Smartest Horse in the Movies\" Trigger, \"Queen of the West\" Dale, her horse Buttermilk, their dog Bullet, and even Pat's jeep, Nellybelle.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-17T19:30:00.000Z",
-      "stop": "2026-09-17T20:00:00.000Z",
-      "title": "Dragnet",
-      "subtitle": null,
-      "description": "A no-nonsense detective who has been with the Los Angeles Police Department for years and his younger partner fight crime by tracking down elusive and notorious criminals and bringing them in for questioning and eventually to justice.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T20:00:00.000Z",
-      "stop": "2026-09-17T20:30:00.000Z",
-      "title": "Foreign Influence",
-      "subtitle": null,
-      "description": "A talk show that shares the stories of unique multicultural migrants and their contribution to Australian society as an inspiration to the wider Australian multicultural community.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-17T20:30:00.000Z",
-      "stop": "2026-09-17T21:00:00.000Z",
-      "title": "Arts unveiled",
-      "subtitle": null,
-      "description": "Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T21:00:00.000Z",
-      "stop": "2026-09-17T21:30:00.000Z",
-      "title": "Tomorrow Today",
-      "subtitle": null,
-      "description": "Dive into the fascinating world of science with Tomorrow Today. Your weekly dose of science knowledge. A show for everyone who's curious -- about our cosmos and how it works.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T21:30:00.000Z",
-      "stop": "2026-09-17T22:00:00.000Z",
-      "title": "Kiki Can Fly",
-      "subtitle": null,
-      "description": "A bird named Kiki struggles with her inability to fly. But she embarks on an expedition as she's determined to partake in the joy.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:00:00.000Z",
-      "stop": "2026-09-17T22:30:00.000Z",
-      "title": "Winged Wonders of Adelaide",
-      "subtitle": null,
-      "description": "Winged Wonders of Adelaide is a playful early learning series designed to spark a love of nature through song, story, and outdoor adventures.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T22:30:00.000Z",
-      "stop": "2026-09-17T23:00:00.000Z",
-      "title": "When Paintings Come Alive",
-      "subtitle": null,
-      "description": "Artist Daniel Taylor offers insight on how to see paintings differently. Daniel demonstrates how viewers can use easy techniques to paint animals, people and objects.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T23:00:00.000Z",
-      "stop": "2026-09-17T23:30:00.000Z",
-      "title": "To the Point",
-      "subtitle": null,
-      "description": "Strong opinions, clear points of view, international agendas. Three journalists join our presenter and go straight to the point on an international issue that’s making news. It’s controversy and confrontation.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-17T23:30:00.000Z",
-      "stop": "2026-09-18T00:00:00.000Z",
-      "title": "Enjoying Everyday Life with Joyce Meyer",
-      "subtitle": null,
-      "description": "Author and Bible teacher Joyce Meyer will deliver a series of inspirational and powerful messages of faith, love and grace taken from the Word of God, as she relays her own personal experiences in order encourage others to enjoy daily life.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T00:00:00.000Z",
-      "stop": "2026-09-18T00:30:00.000Z",
-      "title": "Move It Or Lose It",
-      "subtitle": null,
-      "description": "A daily exercise program, made by Arthritis Victoria, guides viewers through chair-based exercises, tai chi, weights, stretching, and low-impact aerobics.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T00:30:00.000Z",
-      "stop": "2026-09-18T01:00:00.000Z",
-      "title": "Table 5",
-      "subtitle": null,
-      "description": "Presents diverse voices sharing stories and perspectives from varied backgrounds. By amplifying these experiences, it builds bridges between cultures, fostering understanding and connection across the community.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T01:00:00.000Z",
-      "stop": "2026-09-18T01:30:00.000Z",
-      "title": "BTS With Jess",
-      "subtitle": null,
-      "description": "Jessica McCall explores behind-the-scenes processes of arts and encourages young people to get creative. She visits local arts groups and hears from some talented young artists around South Australia.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T01:30:00.000Z",
-      "stop": "2026-09-18T02:00:00.000Z",
-      "title": "The Adventures of Sir Lancelot",
-      "subtitle": null,
-      "description": "The infamous escapades of the notorious knight Sir Lancelot are brought to life, along with a recreation of the many adventures involving the members of the Knights of the Round Table, which was fronted by the legendary King Arthur.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T02:00:00.000Z",
-      "stop": "2026-09-18T02:30:00.000Z",
-      "title": "The Red Skelton Show",
-      "subtitle": null,
-      "description": "Monologues, pantomimes, sketches and memorable characters from the beloved comedian whose family-oriented humor has made millions laugh for more than 70 years.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-18T02:30:00.000Z",
-      "stop": "2026-09-18T04:00:00.000Z",
-      "title": "Man in the Attic",
-      "subtitle": null,
-      "description": "Jack the Ripper's rampage has all of London gripped in fear. After an enigmatic, self-described pathologist rents the attic room of a Victorian house, his landlady begins to suspect he is Jack the Ripper.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T04:00:00.000Z",
-      "stop": "2026-09-18T04:30:00.000Z",
-      "title": "The Loretta Young Show",
-      "subtitle": null,
-      "description": "A drama anthology series hosted by actress Loretta Young, where she introduces important moral lessons through dramas.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T04:30:00.000Z",
-      "stop": "2026-09-18T05:00:00.000Z",
-      "title": "Aussie Garage TV",
-      "subtitle": null,
-      "description": "Immerse yourself in a world of roaring engines, jaw-dropping customization, and expert automotive insights right here. Aussie Garage focuses not only on the finest automobiles but also on the remarkable individuals behind them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T05:00:00.000Z",
-      "stop": "2026-09-18T05:30:00.000Z",
-      "title": "Classic Restos",
-      "subtitle": null,
-      "description": "Join host Mark Fletcher as he takes you around the world to some of the most exciting automotive shows. Each episode features old, classic cars being restored to top of the line condition as Fletch interviews owners.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T05:30:00.000Z",
-      "stop": "2026-09-18T06:00:00.000Z",
-      "title": "Bumper 2 Bumper",
-      "subtitle": null,
-      "description": "A show for all ages of car enthusiasts to capture the essence of the classic, custom and hot rod car scene. Featuring the latest interviews, events, tools and tips of the week and lots more.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T06:00:00.000Z",
-      "stop": "2026-09-18T06:30:00.000Z",
-      "title": "Paul Wheel Drive",
-      "subtitle": null,
-      "description": "Planning a camping trip around Australia? Plan it with Paul for advice on everything you could need to know about reaching any landmark tourist destination in the country, while joining him on his many adventures!",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T06:30:00.000Z",
-      "stop": "2026-09-18T07:00:00.000Z",
-      "title": "Inspired By",
-      "subtitle": "Finegan Kruckemeyer",
-      "description": "Isabella interviews Finegan Kruckemeyer, an Australian and internationally renowned playwright based in Adelaide who has had 100 commissioned plays performed on 6 continents.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T07:00:00.000Z",
-      "stop": "2026-09-18T07:30:00.000Z",
-      "title": "The Fairies",
-      "subtitle": null,
-      "description": "The Fairies follows the lives of two beautiful fairies, Harmony and Rhapsody, who live in Fairyland. The Fairies live in a world of enchantment and excitement perfect for preschoolers, as they explore their world through play and adventure. Meet The Fairies is a magical fantasy full of singing, dancing, and fan-fairy-tastic fun.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T07:30:00.000Z",
-      "stop": "2026-09-18T08:30:00.000Z",
-      "title": "Life Bursts",
-      "subtitle": null,
-      "description": "Diving into the life of the people you do know, don't know, and people you should know, hosted by Matthew Carratt and Sarah Freeman.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T08:30:00.000Z",
-      "stop": "2026-09-18T09:00:00.000Z",
-      "title": "First Nations Report",
-      "subtitle": null,
-      "description": "The latest news and current affairs from Indigenous Australia presented by Marli Ryan.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T09:00:00.000Z",
-      "stop": "2026-09-18T09:30:00.000Z",
+      "start": "2026-09-19T04:30:00.000Z",
+      "stop": "2026-09-19T05:00:00.000Z",
       "title": "Sports Life",
       "subtitle": null,
       "description": "Everything we know about life can be found in sports: Success and failure, euphoria and despair. Sports Life tells stories from across the globe, where sports drives personal growth and changes lives.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T09:30:00.000Z",
-      "stop": "2026-09-18T10:00:00.000Z",
-      "title": "Cycle Adventures With Serafina & Gus",
-      "subtitle": null,
-      "description": "Serafina cycles around Adelaide and South Australia where she showcases all of the great rides around the area.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T10:00:00.000Z",
-      "stop": "2026-09-18T12:30:00.000Z",
-      "title": "Storm Boy 50th Anniversary Special",
-      "subtitle": null,
-      "description": "Celebrate the 50th anniversary of Storm Boy with a Q&A panel hosted by Deb Tribe, followed by the 1976 film.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T12:30:00.000Z",
-      "stop": "2026-09-18T13:00:00.000Z",
-      "title": "The Struggle",
-      "subtitle": null,
-      "description": "Unemployed millennials with too much time on their hands discuss top news stories, bringing their unique voice to the table.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T13:00:00.000Z",
-      "stop": "2026-09-18T13:30:00.000Z",
-      "title": "Fishin' For Love",
-      "subtitle": null,
-      "description": "Welcome to Fishin’ For Love! A brand-new dating game show hosted by a talking fish named ‘Barry Bass’. In each episode, our fishy host will guide our contestants through a series of unique challenges in the hopes of finding their one true love.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T13:30:00.000Z",
-      "stop": "2026-09-18T14:30:00.000Z",
-      "title": "RMITV Short Circuit",
-      "subtitle": null,
-      "description": "Short Circuit broadcasts a curated selection of short films by Victorian filmmakers, with host Patrick Scott joined by a special guest from the film industry to discuss the week’s line-up of short films and their career insights.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T14:30:00.000Z",
-      "stop": "2026-09-18T16:00:00.000Z",
-      "title": "Friday Night Frights",
-      "subtitle": "Friday Night Frights: Terror From Beneath the Earth",
-      "description": "This week, your host, Madam Nauseasia, brings you a team that, while exploring caves near an atomic testing area, discovers that a mutant creature has taken children.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T16:00:00.000Z",
-      "stop": "2026-09-18T16:30:00.000Z",
-      "title": "Dragnet",
-      "subtitle": null,
-      "description": "A no-nonsense detective who has been with the Los Angeles Police Department for years and his younger partner fight crime by tracking down elusive and notorious criminals and bringing them in for questioning and eventually to justice.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T16:30:00.000Z",
-      "stop": "2026-09-18T17:00:00.000Z",
+      "start": "2026-09-19T05:00:00.000Z",
+      "stop": "2026-09-19T05:30:00.000Z",
       "title": "REV",
       "subtitle": null,
       "description": "The world of cars and mobility is in flux. Rev casts a critical eye on new cars and examines climate-friendly solutions, looks into unusual new ideas and visions of the future. Take a spin through new possibilities every week with REV.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T17:00:00.000Z",
-      "stop": "2026-09-18T17:30:00.000Z",
-      "title": "Creatives On The Couch",
+      "start": "2026-09-19T05:30:00.000Z",
+      "stop": "2026-09-19T06:00:00.000Z",
+      "title": "AbiliTV",
       "subtitle": null,
-      "description": "A show designed to highlight the Melbourne talent from the literary, arts and music industries. Hosted by creatives from the entertainment world, see what the local music, art and literary scenes have to offer.",
+      "description": "AbiliTV is an inspiring series hosted and produced by individuals with physical and intellectual disabilities while showcasing the skills and abilities of people with a disability.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T17:30:00.000Z",
-      "stop": "2026-09-18T18:00:00.000Z",
+      "start": "2026-09-19T06:00:00.000Z",
+      "stop": "2026-09-19T06:30:00.000Z",
+      "title": "In Good Shape",
+      "subtitle": null,
+      "description": "Covers all aspects of health care, featuring medical treatment, alternative medicine, wellness and fitness.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T06:30:00.000Z",
+      "stop": "2026-09-19T07:00:00.000Z",
+      "title": "The Cellar Door",
+      "subtitle": null,
+      "description": "George Gaylor travels the world on a culinary tour of the finest restaurants, with the most talented chefs in the business.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T07:00:00.000Z",
+      "stop": "2026-09-19T07:30:00.000Z",
+      "title": "Cycle Adventures With Serafina & Gus",
+      "subtitle": null,
+      "description": "Serafina cycles around Adelaide and South Australia where she showcases all of the great rides around the area.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T07:30:00.000Z",
+      "stop": "2026-09-19T08:00:00.000Z",
       "title": "Fishing With Fergy",
       "subtitle": null,
       "description": "Join Victorian angler Peter Ferguson in this brand new season as he takes you all along on some memorable fishing trips he has shared with his mates",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T18:00:00.000Z",
-      "stop": "2026-09-18T18:30:00.000Z",
-      "title": "Catch and Cook",
-      "subtitle": null,
-      "description": "A look at the best hidden fishing locations all around Australia from some of the best fishermen. They also show how to snag the catch of the day and then cook it up for a seafood extravaganza.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T18:30:00.000Z",
-      "stop": "2026-09-18T19:00:00.000Z",
+      "start": "2026-09-19T08:00:00.000Z",
+      "stop": "2026-09-19T08:30:00.000Z",
       "title": "Team Justagirl - Hooked On Adventure",
       "subtitle": null,
       "description": "Get Hooked with Team Justagirl and their fishing adventures! These girls tackle everything from big tuna and sharks to blue swimmer crabs and squid.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T19:00:00.000Z",
-      "stop": "2026-09-18T19:30:00.000Z",
-      "title": "Fishing Mad",
+      "start": "2026-09-19T08:30:00.000Z",
+      "stop": "2026-09-19T09:00:00.000Z",
+      "title": "Catch and Cook",
       "subtitle": null,
-      "description": "Alan Bonnici heads out to find the best fishing species that Melbourne and Victoria has to offer and proves to be nothing shy of adventurous.",
+      "description": "A look at the best hidden fishing locations all around Australia from some of the best fishermen. They also show how to snag the catch of the day and then cook it up for a seafood extravaganza.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T19:30:00.000Z",
-      "stop": "2026-09-18T20:00:00.000Z",
+      "start": "2026-09-19T09:00:00.000Z",
+      "stop": "2026-09-19T09:30:00.000Z",
+      "title": "Pitch In",
+      "subtitle": null,
+      "description": "Pitch In, hosted by Lehmo, is a podcast that explores the people who make community sport possible. While the moments on the field often steal the spotlight, this series uncovers the stories behind the game – of the volunteers whose dedication keeps clubs alive, strengthens communities and creates places where people belong.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T09:30:00.000Z",
+      "stop": "2026-09-19T10:00:00.000Z",
+      "title": "Happy Fisherman Fishing Adventures",
+      "subtitle": null,
+      "description": "A family-friendly guide to fishing around Australia from a group of happy and enthusiastic fishermen.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-19T10:00:00.000Z",
+      "stop": "2026-09-19T10:30:00.000Z",
       "title": "Bush Tv",
       "subtitle": null,
       "description": "An adventure travel program, exploring solo camping to snow trips, four-wheel driving, high country, bush huts, and pristine camping locations.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T20:00:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
-      "title": "Hungarian Tv",
-      "subtitle": null,
-      "description": "Hungarian TV brings you weekly updates and news as well as celebrating the Hungarian community in Australia.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T21:00:00.000Z",
-      "title": "Oz Indian Tv",
-      "subtitle": null,
-      "description": "An exploration of the best of India, from cricket to Bollywood to yoga and meditation and everything in between.",
+      "start": "2026-09-19T10:30:00.000Z",
+      "stop": "2026-09-19T11:00:00.000Z",
+      "title": "Inspired By",
+      "subtitle": "Tilda Cobham Hervey",
+      "description": "Isabella interviews Tilda, an Australian actress from Adelaide, South Australia.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T21:00:00.000Z",
-      "stop": "2026-09-18T21:30:00.000Z",
-      "title": "To the Point",
+      "start": "2026-09-19T11:00:00.000Z",
+      "stop": "2026-09-19T11:30:00.000Z",
+      "title": "Under Wraps",
       "subtitle": null,
-      "description": "Strong opinions, clear points of view, international agendas. Three journalists join our presenter and go straight to the point on an international issue that’s making news. It’s controversy and confrontation.",
+      "description": "From wild wraps to big personalities, tune in for behind the scenes action on vehicle graphics.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T11:30:00.000Z",
+      "stop": "2026-09-19T12:00:00.000Z",
+      "title": "Cash 4 Trash",
+      "subtitle": null,
+      "description": "Tracey Cash and Billy Trash put themselves at risk by taking part in Australia's most dangerous sport, hard rubbish diving.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T12:00:00.000Z",
+      "stop": "2026-09-19T12:30:00.000Z",
+      "title": "Five Or Eight",
+      "subtitle": null,
+      "description": "Liam explores the wonderful world of board games and chats with experts across the board.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T12:30:00.000Z",
+      "stop": "2026-09-19T13:00:00.000Z",
+      "title": "Our Time",
+      "subtitle": null,
+      "description": "Host Malcolm Harslett presents an interesting selection of guests from a wide range of backgrounds and provide advice, support, information, music and entertainment for the family.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T13:00:00.000Z",
+      "stop": "2026-09-19T13:30:00.000Z",
+      "title": "The Tune Up",
+      "subtitle": null,
+      "description": "A music performance show with a diverse variety of music showcasing the musical talent and performances of Melbourne artists and groups.",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-19T13:30:00.000Z",
+      "stop": "2026-09-19T14:30:00.000Z",
+      "title": "Talking Urban",
+      "subtitle": null,
+      "description": "Puts a spotlight on independent talents across various Australian creative realms, and showcases creativity, collaboration, and Australia's vibrant independent arts scene.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T14:30:00.000Z",
+      "stop": "2026-09-19T15:30:00.000Z",
+      "title": "Rider TV",
+      "subtitle": null,
+      "description": "Cheryl and Vince engage in conversations with musicians from South Australia, exploring their professional journeys and personal experiences.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T15:30:00.000Z",
+      "stop": "2026-09-19T16:30:00.000Z",
+      "title": "The Hard Rock Show",
+      "subtitle": null,
+      "description": "Looks at everything rock, from news, to reviews, interviews, and live performance footage, with a focus on bands that haven't had their place in the spotlight.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T16:30:00.000Z",
+      "stop": "2026-09-19T17:30:00.000Z",
+      "title": "The Lesson TV",
+      "subtitle": null,
+      "description": "A showcase of Australian hip hop music and culture at its very best, with a focus on youth and the community.",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-19T17:30:00.000Z",
+      "stop": "2026-09-19T18:30:00.000Z",
+      "title": "All Aussie Access",
+      "subtitle": null,
+      "description": "The best in Australian Independent Music, hosted by Rossco Hunter, Correy Hunter, and Sean Bennett from Studio Eleven.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T18:30:00.000Z",
+      "stop": "2026-09-19T19:00:00.000Z",
+      "title": "Euro Indie Music Weekly Magazine",
+      "subtitle": null,
+      "description": "Features a curated selection of the most popular music videos created by the European Indie Music Network.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T19:00:00.000Z",
+      "stop": "2026-09-19T19:30:00.000Z",
+      "title": "Rave Fantastic",
+      "subtitle": null,
+      "description": "A series of student-produced live-streamed productions created to honor Melbourne's 90s DJ wizards and rave culture, influential sounds that helped shape the local scene.",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-19T19:30:00.000Z",
+      "stop": "2026-09-19T20:00:00.000Z",
+      "title": "Bent Tv",
+      "subtitle": null,
+      "description": "Looks at the LGBTQI community in Melbourne and their upcoming events and festivals, along with discussions from community events, reports, and exclusive celebrity interviews.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T20:00:00.000Z",
+      "stop": "2026-09-19T21:00:00.000Z",
+      "title": "Sri Lanka Morning Show",
+      "subtitle": null,
+      "description": "The team presents the latest in Sri Lankan news, music, and cooking as they strive to communicate with Australia's multicultural community.",
       "category": "News"
     },
     {
-      "start": "2026-09-18T21:30:00.000Z",
-      "stop": "2026-09-18T22:00:00.000Z",
+      "start": "2026-09-19T21:00:00.000Z",
+      "stop": "2026-09-19T21:30:00.000Z",
       "title": "Fossil Rock",
       "subtitle": null,
       "description": "An engaging educational video series that blends live action and animation, designed to ignite curiosity and inspire young minds by exploring the wonders of the Ediacara Period fossils in South Australia's Nilpena Ediacara National Park.",
       "category": null
     },
     {
-      "start": "2026-09-18T22:00:00.000Z",
-      "stop": "2026-09-18T22:30:00.000Z",
-      "title": "The Fairies",
+      "start": "2026-09-19T21:30:00.000Z",
+      "stop": "2026-09-19T22:00:00.000Z",
+      "title": "Kiki Can Fly",
       "subtitle": null,
-      "description": "The Fairies follows the lives of two beautiful fairies, Harmony and Rhapsody, who live in Fairyland. The Fairies live in a world of enchantment and excitement perfect for preschoolers, as they explore their world through play and adventure. Meet The Fairies is a magical fantasy full of singing, dancing, and fan-fairy-tastic fun.",
+      "description": "A bird named Kiki struggles with her inability to fly. But she embarks on an expedition as she's determined to partake in the joy.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:00:00.000Z",
+      "stop": "2026-09-19T22:30:00.000Z",
+      "title": "Our Bedtime Stories",
+      "subtitle": null,
+      "description": "Stories for kids in Indigenous languages, blending traditional storytelling methods with animation, film and music.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T22:30:00.000Z",
+      "stop": "2026-09-19T23:00:00.000Z",
+      "title": "The Lords Challenge",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T23:00:00.000Z",
+      "stop": "2026-09-19T23:30:00.000Z",
+      "title": "G'Day Sunday: Cooking",
+      "subtitle": null,
+      "description": "A collection of useful tips and handy advice around the topic of cooking to kick-off Sunday mornings.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T23:30:00.000Z",
+      "stop": "2026-09-20T00:00:00.000Z",
+      "title": "G'Day Sunday: Art",
+      "subtitle": null,
+      "description": "A morning program designed to wake you up for the Sunday ahead! Featuring gardening, cooking, art and exercise.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T00:00:00.000Z",
+      "stop": "2026-09-20T00:30:00.000Z",
+      "title": "G'Day Sunday: Exercise",
+      "subtitle": null,
+      "description": "A collection of useful tips and handy advice around the topic of exercising to kick-off Sunday mornings.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T00:30:00.000Z",
+      "stop": "2026-09-20T01:30:00.000Z",
+      "title": "Call of the Beloved",
+      "subtitle": null,
+      "description": "Chosen to deliver God's message to mankind, 19th century poet outlines a framework for the development of a global civilisation considering the spiritual and material dimensions of human life.",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T01:30:00.000Z",
+      "stop": "2026-09-20T02:00:00.000Z",
+      "title": "In Good Shape",
+      "subtitle": null,
+      "description": "Covers all aspects of health care, featuring medical treatment, alternative medicine, wellness and fitness.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T02:00:00.000Z",
+      "stop": "2026-09-20T02:30:00.000Z",
+      "title": "Arts unveiled",
+      "subtitle": null,
+      "description": "Unveiled dives deep into the international creative scene, uncovering new ideas and explaining cultural phenomena that shape our history, present and future.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T02:30:00.000Z",
+      "stop": "2026-09-20T03:00:00.000Z",
+      "title": "Conversations With Faye",
+      "subtitle": null,
+      "description": "Conversations with Faye is an immersive program that invites viewers into intimate face-to-face conversations with experts and thought leaders across various fields",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T03:00:00.000Z",
+      "stop": "2026-09-20T03:30:00.000Z",
+      "title": "A New You",
+      "subtitle": null,
+      "description": "Takes a look at the challenges faced by people who are experiencing or have experienced brain injury and the support systems helping them on their journey.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T03:30:00.000Z",
+      "stop": "2026-09-20T04:00:00.000Z",
+      "title": "Zontas 100%",
+      "subtitle": null,
+      "description": "A socio-religious spoken in the Greek language aimed at regeneration through Jesus Christ. A look at how to live a life full of joy, comfort and hope through Jesus Christ in the face of turmoil, pain and despair. With English subtitles.",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T04:00:00.000Z",
+      "stop": "2026-09-20T05:00:00.000Z",
+      "title": "Vivere",
+      "subtitle": null,
+      "description": "In a small Lombard town, the private and professional lives of a group of characters intertwine.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T05:00:00.000Z",
+      "stop": "2026-09-20T05:30:00.000Z",
+      "title": "Regional Italian Cuisine",
+      "subtitle": null,
+      "description": "The Melbourne restaurateur behind Caterina's Cucina e Bar shares all her tips and tricks for creating delicious food. She discovers ideas and techniques with guests from all over Italy.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T05:30:00.000Z",
+      "stop": "2026-09-20T06:00:00.000Z",
+      "title": "Over 50? So What!",
+      "subtitle": null,
+      "description": "Fun, fitness, wellness and inspiration for the young-at-heart who rail against ageism and embrace everything that's cool about being over 50.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:00:00.000Z",
+      "stop": "2026-09-20T06:30:00.000Z",
+      "title": "Happy Fisherman Fishing Adventures",
+      "subtitle": null,
+      "description": "A family-friendly guide to fishing around Australia from a group of happy and enthusiastic fishermen.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T06:30:00.000Z",
+      "stop": "2026-09-20T09:00:00.000Z",
+      "title": "Storm Boy 50th Anniversary Special",
+      "subtitle": null,
+      "description": "Celebrate the 50th anniversary of Storm Boy with a Q&A panel hosted by Deb Tribe, followed by the 1976 film.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T09:00:00.000Z",
+      "stop": "2026-09-20T09:30:00.000Z",
+      "title": "Sports Life",
+      "subtitle": null,
+      "description": "Everything we know about life can be found in sports: Success and failure, euphoria and despair. Sports Life tells stories from across the globe, where sports drives personal growth and changes lives.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T09:30:00.000Z",
+      "stop": "2026-09-20T10:00:00.000Z",
+      "title": "Travel Australia With The Feel Good Family",
+      "subtitle": null,
+      "description": "Join Paul, Katie and Jasper traveling full-time in their tiny home on wheels. From caravan cooking and camping tips to Australia's best destinations and true Aussie characters, this show will inspire you and leave you Feeling Good!",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:00:00.000Z",
+      "stop": "2026-09-20T11:00:00.000Z",
+      "title": "SAGE Advice 2026",
+      "subtitle": null,
+      "description": "Whether you’re a seasoned developer, an aspiring game creator, a passionate gamer, curious to learn more about games, or anywhere in between, the SAGE Advice panels have something for you.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:00:00.000Z",
+      "stop": "2026-09-20T11:30:00.000Z",
+      "title": "Reconnecting the Truth",
+      "subtitle": null,
+      "description": "Reconnecting Afghan Roots is a four-episode short documentary series that uncovers the remarkable story of the Afghan Cameleers who helped shape Australia's outback and explores the lasting legacy they left behind.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:30:00.000Z",
+      "stop": "2026-09-20T12:30:00.000Z",
+      "title": "Outta The Can",
+      "subtitle": null,
+      "description": "Wombat and Goose delve deep into the history of Victoria's short film scene; they present some great local films.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T12:30:00.000Z",
+      "stop": "2026-09-20T13:30:00.000Z",
+      "title": "Life Bursts",
+      "subtitle": null,
+      "description": "Diving into the life of the people you do know, don't know, and people you should know, hosted by Matthew Carratt and Sarah Freeman.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T13:30:00.000Z",
+      "stop": "2026-09-20T14:30:00.000Z",
+      "title": "Call of the Beloved",
+      "subtitle": null,
+      "description": "Chosen to deliver God's message to mankind, 19th century poet outlines a framework for the development of a global civilisation considering the spiritual and material dimensions of human life.",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T14:30:00.000Z",
+      "stop": "2026-09-20T15:00:00.000Z",
+      "title": "Zontas 100%",
+      "subtitle": null,
+      "description": "A socio-religious spoken in the Greek language aimed at regeneration through Jesus Christ. A look at how to live a life full of joy, comfort and hope through Jesus Christ in the face of turmoil, pain and despair. With English subtitles.",
+      "category": null
     }
   ]
 }

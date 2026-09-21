@@ -2,132 +2,100 @@
   "slug": "10-historyandwarfare",
   "epgId": "mjh-10-historyandwarfare",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T09:32:00.000Z",
-      "stop": "2026-09-17T10:36:00.000Z",
+      "start": "2026-09-19T01:56:00.000Z",
+      "stop": "2026-09-19T02:52:00.000Z",
+      "title": "JFK: The Making of a President",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T02:52:00.000Z",
+      "stop": "2026-09-19T04:15:00.000Z",
+      "title": "In Nelson's Footsteps",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T04:15:00.000Z",
+      "stop": "2026-09-19T05:22:00.000Z",
+      "title": "Aircraft Carrier: Bastions of the Sea",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T05:22:00.000Z",
+      "stop": "2026-09-19T06:18:00.000Z",
+      "title": "The Presidents: Reagan",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T06:18:00.000Z",
+      "stop": "2026-09-19T07:14:00.000Z",
+      "title": "1968: A Year of War, Turmoil, and Beyond",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:14:00.000Z",
+      "stop": "2026-09-19T08:10:00.000Z",
+      "title": "Hitler's Olympics",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T08:10:00.000Z",
+      "stop": "2026-09-19T09:18:00.000Z",
+      "title": "Dick Winters: Hang Tough",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:18:00.000Z",
+      "stop": "2026-09-19T10:22:00.000Z",
       "title": "Kanji Ishiwara: The Man Who Triggered the War",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T10:36:00.000Z",
-      "stop": "2026-09-17T11:07:00.000Z",
+      "start": "2026-09-19T10:22:00.000Z",
+      "stop": "2026-09-19T10:53:00.000Z",
       "title": "Beechcraft Model 18",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:07:00.000Z",
-      "stop": "2026-09-17T11:40:00.000Z",
+      "start": "2026-09-19T10:53:00.000Z",
+      "stop": "2026-09-19T11:25:00.000Z",
       "title": "Firefighting Fire From the Sky",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:40:00.000Z",
-      "stop": "2026-09-17T12:13:00.000Z",
+      "start": "2026-09-19T11:25:00.000Z",
+      "stop": "2026-09-19T11:58:00.000Z",
       "title": "Innovations in Aviation Firefighting",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T12:13:00.000Z",
-      "stop": "2026-09-17T12:46:00.000Z",
+      "start": "2026-09-19T11:58:00.000Z",
+      "stop": "2026-09-19T12:28:00.000Z",
       "title": "The Century Series Fighter Jets",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:46:00.000Z",
-      "stop": "2026-09-17T13:18:00.000Z",
-      "title": "The Learjet Legacy",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T13:18:00.000Z",
-      "stop": "2026-09-17T13:51:43.000Z",
-      "title": "Early Space Exploration",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T13:51:43.000Z",
-      "stop": "2026-09-17T14:24:00.000Z",
-      "title": "Antietam",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:24:00.000Z",
-      "stop": "2026-09-17T14:56:00.000Z",
-      "title": "Vicksburg",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:56:00.000Z",
-      "stop": "2026-09-17T15:28:00.000Z",
-      "title": "Gettysburg",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T15:28:00.000Z",
-      "stop": "2026-09-17T16:00:00.000Z",
-      "title": "Chickamauga",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T16:00:00.000Z",
-      "stop": "2026-09-17T16:33:00.000Z",
-      "title": "Overland Campaign",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T16:33:00.000Z",
-      "stop": "2026-09-17T17:38:00.000Z",
-      "title": "Stalin's Executioners: The Katyn Massacre",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T17:38:00.000Z",
-      "stop": "2026-09-17T18:44:00.000Z",
-      "title": "What Killed the Roman Empire?",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T18:44:00.000Z",
-      "stop": "2026-09-17T19:50:00.000Z",
-      "title": "Day of Days: American Stories",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T19:50:00.000Z",
-      "stop": "2026-09-17T20:20:00.000Z",
-      "title": "Beyond the Beach: The Hell and the Hope",
       "subtitle": null,
       "description": null,
       "category": null

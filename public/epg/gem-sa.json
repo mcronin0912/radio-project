@@ -2,311 +2,287 @@
   "slug": "gem-sa",
   "epgId": "mjh-gem-sa",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:02:00.000Z",
-      "stop": "2026-09-17T11:03:00.000Z",
-      "title": "Shakespeare & Hathaway",
-      "subtitle": "How the Rogue Roar'd",
-      "description": "When Frank and Lu are hired to help close down an old bingo hall, Frank is surprised to find an old nemesis at work. But what is he really up to?",
+      "start": "2026-09-19T02:03:00.000Z",
+      "stop": "2026-09-19T03:22:00.000Z",
+      "title": "Edgar Wallace Mysteries",
+      "subtitle": "Clue of the Twisted Candle",
+      "description": "A blackmailer is found dead in a locked room and all the suspects have unbreakable alibis.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-17T11:03:00.000Z",
-      "stop": "2026-09-17T13:05:00.000Z",
-      "title": "Agatha Christie's Poirot",
-      "subtitle": "Three Act Tragedy",
-      "description": "Poirot attends a party at the great actor Sir Charles Cartwright's Cornish mansion. A local reverend dies while drinking a cocktail, but no poison is found in his glass. Poirot and Cartwright decide to investigate when another victim is claimed in the same manner. Starring: David Suchet",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T13:05:00.000Z",
-      "stop": "2026-09-17T14:02:00.000Z",
-      "title": "Rizzoli & Isles",
-      "subtitle": "The Best Laid Plans",
-      "description": "The team investigates the murder of a wealthy woman with terminal cancer and only a few months left to live. When Maura teaches a class, she meets a man who might be her Mr. Right, but she is torn between the doubts of her scientific mind and her instincts.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T14:02:00.000Z",
-      "stop": "2026-09-17T15:12:00.000Z",
-      "title": "Agatha Christie's Poirot",
-      "subtitle": "Hercule Poirot's Christmas Part 2",
-      "description": "The tyrannical patriarch of a dysfunctional but wealthy family summons his adult children for a Christmas reunion, but prior to the holiday his throat is slashed apparently by one of them.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T15:12:00.000Z",
-      "stop": "2026-09-17T15:40:00.000Z",
-      "title": "Antiques Roadshow",
-      "subtitle": "Birmingham Symphony Hall - Part 1",
-      "description": "Michael and the team are in Birmingham where different members of the public bring their antiques and collectibles along to be valued.",
+      "start": "2026-09-19T03:22:00.000Z",
+      "stop": "2026-09-19T03:30:00.000Z",
+      "title": "Explore TV",
+      "subtitle": "Zealong",
+      "description": "Journey with Trevor and friends as they explore New Zealand's top experiences and food destinations.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T15:40:00.000Z",
-      "stop": "2026-09-17T16:09:00.000Z",
-      "title": "Creflo Dollar Ministries",
-      "subtitle": "Transactional Relationship vs. Relational Relationship (Part2/3)",
-      "description": "Hosted by Dr. Creflo and Taffi Dollar, the Changing Your World program explores the power of God in daily Christian life.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T16:09:00.000Z",
-      "stop": "2026-09-17T17:53:00.000Z",
-      "title": "The Gentle Gunman",
+      "start": "2026-09-19T03:30:00.000Z",
+      "stop": "2026-09-19T05:00:00.000Z",
+      "title": "Assassin For Hire",
       "subtitle": null,
-      "description": "IRA member Terry modifies his violent views after working undercover in wartime London. As a result, he sees to it that his co-conspirators are arrested, while ensuring his brother escapes back to Ireland. (John Mills, Dirk Bogarde).",
+      "description": "Pretending to be rare stamp dealer, a man devotedly supports wife and musically talented younger brother as a professional hit-man. (Stars Sidney Tafler and Ronald Howard).",
       "category": "Drama"
     },
     {
-      "start": "2026-09-17T17:53:00.000Z",
-      "stop": "2026-09-17T18:26:00.000Z",
-      "title": "My Favourite Martian",
-      "subtitle": "Unidentified Flying Uncle Martian",
-      "description": "Determined to keep his spaceship in flying condition, Uncle Martin takes a flight and is seen by Mrs. Brown.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T18:26:00.000Z",
-      "stop": "2026-09-17T19:29:00.000Z",
-      "title": "Dangerman",
-      "subtitle": "Sting In The Tail",
-      "description": "Drake tries to get at an assassin by tailing the killer's mistress.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-17T19:29:00.000Z",
-      "stop": "2026-09-17T20:30:00.000Z",
-      "title": "The Travelling Auctioneers",
-      "subtitle": "Luxury Watches and a Rare Teddy Get Rehomed",
-      "description": "JB and JJ help a couple with a passion for collecting. JB falls in love with some valuable watches, and JJ resists temptation when he restores a drinks cabinet to its former glory.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T20:30:00.000Z",
-      "stop": "2026-09-17T21:33:00.000Z",
-      "title": "Dangerman",
-      "subtitle": "The English Lady Takes Lodgers",
-      "description": "A spying agency is selling stolen secrets in Portugal. Drake is sent there disguised as an unsuccessful, indigent writer. He makes contact with the wife of a smuggler who has disappeared, and who is believed to be involved in the spy ring.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-17T21:33:00.000Z",
-      "stop": "2026-09-17T22:02:00.000Z",
-      "title": "Creflo Dollar Ministries",
-      "subtitle": "Transactional Relationship vs. Relational Relationship (Part3/3)",
-      "description": "Hosted by Dr. Creflo and Taffi Dollar, the Changing Your World program explores the power of God in daily Christian life.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T22:02:00.000Z",
-      "stop": "2026-09-17T22:32:00.000Z",
-      "title": "Thunderbirds",
-      "subtitle": "Lord Packer's Holiday Part 2",
-      "description": "It's 2065, the location is a secret island base. The Tracy family run International Rescue — a top secret organisation whose ongoing mission is to aid humanity. With the aid of Thunderbirds the Tracy family battle the forces of Evil.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:32:00.000Z",
-      "stop": "2026-09-17T23:01:00.000Z",
-      "title": "TV Shop - Home Shopping",
-      "subtitle": "Handy Saw",
-      "description": "Home shopping programme.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T23:01:00.000Z",
-      "stop": "2026-09-17T23:31:00.000Z",
-      "title": "TV Shop - Home Shopping",
-      "subtitle": "Kelton Cookware",
-      "description": "Home shopping programme.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T23:31:00.000Z",
-      "stop": "2026-09-18T00:01:00.000Z",
-      "title": "TV Shop - Home Shopping",
-      "subtitle": "Renovator Better Grip",
-      "description": "Home shopping programme.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T00:01:00.000Z",
-      "stop": "2026-09-18T00:31:00.000Z",
-      "title": "TV Shop - Home Shopping",
-      "subtitle": "Thin Lizzy Xcellerate35",
-      "description": "Home shopping programme.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T00:31:00.000Z",
-      "stop": "2026-09-18T01:01:00.000Z",
-      "title": "TV Shop - Home Shopping",
-      "subtitle": "TEVO Heater",
-      "description": "Home shopping programme.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T01:01:00.000Z",
-      "stop": "2026-09-18T02:00:00.000Z",
-      "title": "Pointless",
-      "subtitle": "Episode 34",
-      "description": "TV judges are on the docket for Rob Rinder in today's show. Who will be the most obscure?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T02:00:00.000Z",
-      "stop": "2026-09-18T02:32:00.000Z",
-      "title": "My Favourite Martian",
-      "subtitle": "How Are You Gonna Keep 'Em Down on the Pharmacy?",
-      "description": "Martin gets a Martian Vitamin Deficiency and causes people to spontaneously fall asleep.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T02:32:00.000Z",
-      "stop": "2026-09-18T03:31:00.000Z",
-      "title": "Iconic Australia",
-      "subtitle": "The Rebels",
-      "description": "When you look back through Australia's history, social change is almost always marked by the rebellious behaviour of larrikin Aussies.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T03:31:00.000Z",
-      "stop": "2026-09-18T05:30:00.000Z",
-      "title": "Agatha Christie's Poirot",
-      "subtitle": "Three Act Tragedy",
-      "description": "Poirot attends a party at the great actor Sir Charles Cartwright's Cornish mansion. A local reverend dies while drinking a cocktail, but no poison is found in his glass. Poirot and Cartwright decide to investigate when another victim is claimed in the same manner. Starring: David Suchet",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T05:30:00.000Z",
-      "stop": "2026-09-18T07:34:00.000Z",
-      "title": "Lucky Jim",
-      "subtitle": null,
-      "description": "A spirited and irreverent history professor rattles the atmosphere of self-righteousness in a rural college town. (Sharon Acker, Ian Carmichael, Hugh Griffith)",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-18T07:34:00.000Z",
-      "stop": "2026-09-18T08:32:00.000Z",
-      "title": "Yorkshire Auction House",
-      "subtitle": "Huge Bids for a Rare Collection",
-      "description": "Angus clears a loft stashed with bizarre but highly valuable collectables. A set of rare stamps deliver a big cash windfall at auction. Angus visits a former Harrogate tearoom owner who cohabits with the widower who used to live next door.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T08:32:00.000Z",
-      "stop": "2026-09-18T09:30:00.000Z",
-      "title": "Antiques Roadshow",
-      "subtitle": "Holkham Hall 1",
-      "description": "Michael and the team are at Holkam Hall where different members of the public bring their antiques and collectibles along to be valued.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T09:30:00.000Z",
-      "stop": "2026-09-18T11:45:00.000Z",
-      "title": "NRL Women's Premiership",
-      "subtitle": "Tigers v Raiders",
-      "description": "Wide World of Sports presents the NRL Women's Premiership 1st Semi-Final between the Tigers and Raiders, live from Campbelltown Sports Stadium. Join our expert commentary team for all the action. Kick off at 7:50PM AEST.",
+      "start": "2026-09-19T05:00:00.000Z",
+      "stop": "2026-09-19T06:00:00.000Z",
+      "title": "NRLW Wrap",
+      "subtitle": "Episode 12 of Season 2",
+      "description": "Join Bronte Gildea, Allana Ferguson, Ruan Sims and Marlee Silva for all the latest news from the NRLW.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-18T11:45:00.000Z",
-      "stop": "2026-09-18T14:04:00.000Z",
-      "title": "Lethal Weapon 2",
-      "subtitle": null,
-      "description": "Riggs and Murtaugh are at it again. When a BMW crashes, they discover the trunk is full of South African Krugerands. They're assigned to protect a federal witness and keep them out of trouble. (Mel Gibson, Danny Glover)",
-      "category": null
+      "start": "2026-09-19T06:00:00.000Z",
+      "stop": "2026-09-19T07:59:00.000Z",
+      "title": "NRL Women's Premiership",
+      "subtitle": "Broncos v Knights",
+      "description": "Wide World of Sports presents the NRL Women's Premiership 2nd Semi-Final between the Broncos and Knights, live from Totally Workwear Stadium. Join our expert commentary team for all the action Kick off at 4:05PM AEST.",
+      "category": "Sports"
     },
     {
-      "start": "2026-09-18T14:04:00.000Z",
-      "stop": "2026-09-18T14:35:00.000Z",
+      "start": "2026-09-19T07:59:00.000Z",
+      "stop": "2026-09-19T09:00:00.000Z",
+      "title": "For The Love Of Pets",
+      "subtitle": "Bruno, Benny, Bonny and Pita",
+      "description": "Vets rush to save a young Husky struck by a car, while an abandoned kitten's neglected injury shocks the vet, and RSPCA set out to find forever homes for two dogs from very different backgrounds.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T09:00:00.000Z",
+      "stop": "2026-09-19T09:30:00.000Z",
+      "title": "NRL Finals Footy",
+      "subtitle": "Roosters v Sharks",
+      "description": "Wide World of Sports presents the 1st Semi-Final between the Roosters and Sharks, live from Allianz Stadium. Join our expert commentary team for all the action, analysis and post-match interviews. Kick off at 7:50PM AEST.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-19T09:30:00.000Z",
+      "stop": "2026-09-19T10:03:00.000Z",
       "title": "Customs",
-      "subtitle": "Episode 1",
-      "description": "Sniffer-dog Badger picks out a suspect suitcase at Gatwick and his handler finds nearly three kilos of cocaine hidden inside.",
+      "subtitle": "Episode 2",
+      "description": "At Gatwick, the customs team catch a cocaine smuggler and he confesses that he's being met by an accomplice, so the officers lay a trap to catch him too.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T14:35:00.000Z",
-      "stop": "2026-09-18T15:00:00.000Z",
-      "title": "Antiques Roadshow",
-      "subtitle": "Holkham Hall 1",
-      "description": "Michael and the team are at Holkam Hall where different members of the public bring their antiques and collectibles along to be valued.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T15:00:00.000Z",
-      "stop": "2026-09-18T15:32:00.000Z",
-      "title": "Antiques Downunder",
-      "subtitle": "Episode 11 of Season 2",
-      "description": "Claudia explores the history of this Art Deco landmark. Gregory chats with artist Charles Billich as he prepares for the creation of a new artwork. Lee explores the late Patricia Begg's collection of porcelain.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T15:32:00.000Z",
-      "stop": "2026-09-18T16:00:00.000Z",
-      "title": "Creflo Dollar Ministries",
-      "subtitle": "Transactional Relationship vs. Relational Relationship (Part3/3)",
-      "description": "Hosted by Dr. Creflo and Taffi Dollar, the Changing Your World program explores the power of God in daily Christian life.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T16:00:00.000Z",
-      "stop": "2026-09-18T17:59:00.000Z",
-      "title": "Halfway House",
+      "start": "2026-09-19T10:03:00.000Z",
+      "stop": "2026-09-19T12:40:00.000Z",
+      "title": "U.S. Marshals",
       "subtitle": null,
-      "description": "A group of travellers, all with something to hide in their past, take shelter from a storm in an old inn.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T17:59:00.000Z",
-      "stop": "2026-09-18T18:30:00.000Z",
-      "title": "My Favourite Martian",
-      "subtitle": "How Are You Gonna Keep 'Em Down on the Pharmacy?",
-      "description": "Martin gets a Martian Vitamin Deficiency and causes people to spontaneously fall asleep.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T18:30:00.000Z",
-      "stop": "2026-09-18T19:32:00.000Z",
-      "title": "Dangerman",
-      "subtitle": "The English Lady Takes Lodgers",
-      "description": "A spying agency is selling stolen secrets in Portugal. Drake is sent there disguised as an unsuccessful, indigent writer. He makes contact with the wife of a smuggler who has disappeared, and who is believed to be involved in the spy ring.",
+      "description": "When a prisoner escort plane crashes, one inmate helps the police officer on board rescue the remaining trapped prisoners before bolting. This forces the detective to spark another manhunt for the convict, even though he reckons the bloke might be innocent.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-18T19:32:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
-      "title": "The Travelling Auctioneers",
-      "subtitle": "Tomato Paste Restoration",
-      "description": "Auctioneers Christina Trevanion and Izzie Balmer are joined by craftsmen JJ Chalmers and Robin Johnson as they take their travelling auction house and workshop on the road to help families cash in on their unknown treasures.",
-      "category": "Special Interest"
+      "start": "2026-09-19T12:40:00.000Z",
+      "stop": "2026-09-19T14:42:00.000Z",
+      "title": "Cry Macho",
+      "subtitle": null,
+      "description": "A one-time rodeo star and washed-up horse breeder takes a job to bring a man's young son home and away from his alcoholic mom. On their journey, the horseman finds redemption through teaching the boy what it means to be a good man.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T21:32:00.000Z",
+      "start": "2026-09-19T14:42:00.000Z",
+      "stop": "2026-09-19T16:32:00.000Z",
+      "title": "Quiet Weekend",
+      "subtitle": null,
+      "description": "A family’s planned quiet hunting weekend in the country turns into comic romantic chaos when their cottage disappoints and they accidentally end up breaking local hunting laws.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-19T16:32:00.000Z",
+      "stop": "2026-09-19T18:29:00.000Z",
+      "title": "Duel In The Jungle",
+      "subtitle": null,
+      "description": "An American insurance investigator is sent to Rhodesia to investigate the mysterious death of a diamond broker who drowned whilst diving off the coast. The broker was insured for $1 million mak(Dana Andrews and Jeanne Crain, Patrick Barr)",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-19T18:29:00.000Z",
+      "stop": "2026-09-19T19:00:00.000Z",
+      "title": "My Favourite Martian",
+      "subtitle": "Miss Jekyll and Hyde",
+      "description": "Martin makes Mrs. Brown's brainy niece beautiful.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-19T19:00:00.000Z",
+      "stop": "2026-09-19T20:01:00.000Z",
       "title": "Dangerman",
       "subtitle": "Judgement Day",
       "description": "Sent to the Middle East to bring back a German scientist accused of war crimes, Drake must defend him against Israeli agents wanting their own brand of justice.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-18T21:32:00.000Z",
-      "stop": "2026-09-18T22:02:00.000Z",
-      "title": "Leading The Way",
-      "subtitle": "Two Events",
-      "description": "Michael Youssef presents 'Leading The Way', passionately proclaiming the uncompromised Word of God, shining the light of Christ to people all around the globe.",
+      "start": "2026-09-19T20:01:00.000Z",
+      "stop": "2026-09-19T20:30:00.000Z",
+      "title": "Authentic",
+      "subtitle": "Holy Dishes",
+      "description": "Join Shawn Boonstra for the story of one remarkable redemption at the hands of one VERY unlikely redeemer. All hope and holiness seemed lost when God's people and Temple fell to Babylon.",
       "category": null
     },
     {
-      "start": "2026-09-18T22:02:00.000Z",
-      "stop": "2026-09-18T22:32:00.000Z",
+      "start": "2026-09-19T20:30:00.000Z",
+      "stop": "2026-09-19T20:59:00.000Z",
+      "title": "Creflo Dollar Ministries",
+      "subtitle": "How to Overcome Self-Deception (Part 3/3)",
+      "description": "Religious Programme.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T20:59:00.000Z",
+      "stop": "2026-09-19T21:29:00.000Z",
+      "title": "Amazing Facts With Doug Batchelor",
+      "subtitle": "The Beast of Blasphemy Part 1",
+      "description": "Pastor Doug Batchelor provides practical guidance into Christian living and prophecy.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T21:29:00.000Z",
+      "stop": "2026-09-19T21:59:00.000Z",
+      "title": "Leading The Way",
+      "subtitle": "Seven Letters from the King (Part 1)",
+      "description": "Dr. Michael Youssef passionately proclaims uncompromising truth from God's Word to people around the world through the ministries of Leading The Way.  Join him for sound Biblical teaching each week.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T21:59:00.000Z",
+      "stop": "2026-09-19T22:29:00.000Z",
+      "title": "In Touch Ministries",
+      "subtitle": "The Holy Spirit: Giving New Life",
+      "description": "Charles Stanley preaches from the Bible",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T22:29:00.000Z",
+      "stop": "2026-09-19T22:59:00.000Z",
+      "title": "Beyond Today",
+      "subtitle": "God's Holy Day Plan",
+      "description": "A Bible-based exploration of the major issues that shape our lives, such as marriage, evolution, end times, government, God's existence, the Middle East and terrorism.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T22:59:00.000Z",
+      "stop": "2026-09-19T23:29:00.000Z",
+      "title": "The Incredible Journey",
+      "subtitle": "The Man Who Fell from the Sky - Chris Rantall",
+      "description": "Archaeologist and The Incredible Journey speaker Gary Kent uses his background in ancient history and divinity to produce documentaries on Bible prophecy. His mission is to share the message of Jesus’ soon return.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T23:29:00.000Z",
+      "stop": "2026-09-19T23:59:00.000Z",
+      "title": "Turning Point With Dr. David Jeremiah",
+      "subtitle": "The Battle for Your Soul Interview",
+      "description": "Dr David Jeremiah of Turning Point Broadcast Ministries and Shadow Mountain Church has a passion for people and an extraordinary ability to reach them by getting right to heart of important issues.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T23:59:00.000Z",
+      "stop": "2026-09-20T00:30:00.000Z",
       "title": "TV Shop - Home Shopping",
-      "subtitle": "Handy Saw",
+      "subtitle": "Total Gym Fit",
       "description": "Home shopping programme.",
       "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T00:30:00.000Z",
+      "stop": "2026-09-20T01:02:00.000Z",
+      "title": "Getaway",
+      "subtitle": "Episode 32",
+      "description": "This week on Getaway, we check into one of the most beautiful hotels in the world, step back in time at Walhalla in Victoria, plus the best of the Sunshine Coast.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T01:02:00.000Z",
+      "stop": "2026-09-20T03:00:00.000Z",
+      "title": "Sunday Footy Show",
+      "subtitle": "Episode 29",
+      "description": "Join hosts Danika Mason, Andrew Johns, Brad Fittler and Billy Slater as this all star line-up deep dive into all things Rugby League & chat with the NRL's biggest stars.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T03:00:00.000Z",
+      "stop": "2026-09-20T09:00:00.000Z",
+      "title": "Davis Cup - Australia v Poland",
+      "subtitle": "Episode 2",
+      "description": "For the first time in Davis Cup's 126-year history, Australia takes on Poland on Australian soil for a spot in the 2027 Qualifiers, live from Pat Rafter Arena, Brisbane. Play from 1:00PM AEST.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T09:00:00.000Z",
+      "stop": "2026-09-20T09:30:00.000Z",
+      "title": "Keeping Up Appearances",
+      "subtitle": "Problems With Relatives",
+      "description": "A snobbish housewife is determined to climb the social ladder, in spite of her family's working class connections and the constant chagrin of her long suffering husband.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-20T09:30:00.000Z",
+      "stop": "2026-09-20T10:01:00.000Z",
+      "title": "Keeping Up Appearances",
+      "subtitle": "Singing For Emmet",
+      "description": "Richard is shocked when he is offered the prospect of early retirement. Shock soon turns to worry when he realises that this would mean spending all his time with Hyacinth.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-20T10:01:00.000Z",
+      "stop": "2026-09-20T11:02:00.000Z",
+      "title": "Clarkson's Farm",
+      "subtitle": "Porking",
+      "description": "Jeremy sets to work getting the farm ready for it's newest residents, some Sand and Black pigs. Meanwhile Kaleb is annoyed when he spots someone else drilling in his fields.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:02:00.000Z",
+      "stop": "2026-09-20T11:46:00.000Z",
+      "title": "Fawlty Towers",
+      "subtitle": "The Wedding",
+      "description": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-20T11:46:00.000Z",
+      "stop": "2026-09-20T12:27:00.000Z",
+      "title": "Fawlty Towers",
+      "subtitle": "The Hotel Inspectors",
+      "description": "When Basil hears that hotel inspectors are in town, he's horrified to realize that some of the guests he's been abusing may have been in that group -- and his efforts to learn who they may be cause confusion among guests and staff.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-20T12:27:00.000Z",
+      "stop": "2026-09-20T13:08:00.000Z",
+      "title": "Blackadder II",
+      "subtitle": "Potato",
+      "description": "After Sir Walter Raleigh takes the Queen's fancy by bringing her a potato, Blackadder decides to become an explorer with the aid of a legless sea captain.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-20T13:08:00.000Z",
+      "stop": "2026-09-20T13:48:00.000Z",
+      "title": "Blackadder II",
+      "subtitle": "Money",
+      "description": "The Queen hampers Blackadder's efforts to raise cash to pay off a debt to a sadistic bishop.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-20T13:48:00.000Z",
+      "stop": "2026-09-20T14:47:00.000Z",
+      "title": "Cold Case",
+      "subtitle": "Churchgoing People",
+      "description": "Lilly reopens a 1990 homicide, in which a church organist was found stabbed to death in his van, surrounded by pornography and drugs in a seedy part of town.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T14:47:00.000Z",
+      "stop": "2026-09-20T15:48:00.000Z",
+      "title": "Agatha Christie's Poirot",
+      "subtitle": "Jewel Robbery At The Grand Metropolitan",
+      "description": "Mrs Opalsen's famous pearls are stolen, and Poirot is happily on hand to investigate. A complex theft calls for a sophisticated solution. Unfortunately, Poirot is hindered everywhere he goes by being mistaken for 'Lucky Len'",
+      "category": "Drama"
     }
   ]
 }

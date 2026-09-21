@@ -20,6 +20,9 @@ type FavouritesContextValue = {
 type DesktopFavouritesApi = {
   getFavourites: () => Promise<string[]>;
   setFavourites: (slugs: string[]) => Promise<string[]>;
+  getTvFavourites?: () => Promise<string[]>;
+  setTvFavourites?: (slugs: string[]) => Promise<string[]>;
+  onEpgUpdated?: (callback: () => void) => () => void;
 };
 
 declare global {

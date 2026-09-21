@@ -2,284 +2,364 @@
   "slug": "first-nations-tv",
   "epgId": "mjh-first-nations-tv",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:10:13.000Z",
-      "stop": "2026-09-17T10:29:16.000Z",
-      "title": "Bakala",
+      "start": "2026-09-19T02:19:00.000Z",
+      "stop": "2026-09-19T02:26:16.000Z",
+      "title": "75\tSenator Malarndirri McCarthy interview",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T10:29:16.000Z",
-      "stop": "2026-09-17T10:39:12.000Z",
-      "title": "Dreaming Mountain",
+      "start": "2026-09-19T02:26:16.000Z",
+      "stop": "2026-09-19T02:44:54.000Z",
+      "title": "Fixing Small Engines",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T10:39:12.000Z",
-      "stop": "2026-09-17T10:59:52.000Z",
-      "title": "Cultural Burning for Resilience ",
+      "start": "2026-09-19T02:44:54.000Z",
+      "stop": "2026-09-19T03:18:17.000Z",
+      "title": "Radio Nation",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T10:59:52.000Z",
-      "stop": "2026-09-17T11:08:03.000Z",
-      "title": "NEWS 74 Surfing FNTV Special",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T11:08:03.000Z",
-      "stop": "2026-09-17T11:12:29.000Z",
+      "start": "2026-09-19T03:18:17.000Z",
+      "stop": "2026-09-19T03:25:13.000Z",
       "title": "2604A ALPA Yaka Ding Ding",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:12:29.000Z",
-      "stop": "2026-09-17T11:45:56.000Z",
-      "title": "The Little Black Book: The Benning Family",
+      "start": "2026-09-19T03:25:13.000Z",
+      "stop": "2026-09-19T03:29:25.000Z",
+      "title": "Bullan Mura",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:45:56.000Z",
-      "stop": "2026-09-17T11:55:40.000Z",
-      "title": "Cherbourgs Former Marching Girls",
+      "start": "2026-09-19T03:29:25.000Z",
+      "stop": "2026-09-19T03:34:41.000Z",
+      "title": "Our Journey Archive: Kenbi Handover 2016",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:55:40.000Z",
-      "stop": "2026-09-17T12:03:04.000Z",
-      "title": "Yiramilay",
+      "start": "2026-09-19T03:34:41.000Z",
+      "stop": "2026-09-19T04:21:38.000Z",
+      "title": "78\tADR Presentation 10 - Water Justice and the Roper River",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T12:03:04.000Z",
-      "stop": "2026-09-17T12:10:29.000Z",
-      "title": "Mangarri \"Damper\"",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:10:29.000Z",
-      "stop": "2026-09-17T12:27:15.000Z",
-      "title": "Discovering Arnhem Land",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:27:15.000Z",
-      "stop": "2026-09-17T12:32:56.000Z",
-      "title": "Caber-Ra-Nanga Engage",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:32:56.000Z",
-      "stop": "2026-09-17T12:55:35.000Z",
-      "title": "Wirriji \"Hair String\"",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:55:35.000Z",
-      "stop": "2026-09-17T13:09:03.000Z",
-      "title": "Desert Kitchen",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T13:09:03.000Z",
-      "stop": "2026-09-17T14:01:19.000Z",
-      "title": "Men of the Fifth World",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:01:19.000Z",
-      "stop": "2026-09-17T14:06:19.000Z",
-      "title": "NEWS 78 - Numbulwar IPA Sea Rights NEWS",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:06:19.000Z",
-      "stop": "2026-09-17T14:14:06.000Z",
-      "title": "The Jandamarra Story",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:14:06.000Z",
-      "stop": "2026-09-17T14:25:45.000Z",
-      "title": "Stand Your Ground: Nature Needs You",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:25:45.000Z",
-      "stop": "2026-09-17T14:38:19.000Z",
-      "title": "Tiwi and the Dutch",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:38:19.000Z",
-      "stop": "2026-09-17T14:44:20.000Z",
-      "title": "2019 AEMEE National Resource Sector Award Ceremony",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:44:20.000Z",
-      "stop": "2026-09-17T15:19:16.000Z",
-      "title": "Ramingining Bak Bididi Festival 2017",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T15:19:16.000Z",
-      "stop": "2026-09-17T15:25:23.000Z",
-      "title": "Your Stories",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T15:25:23.000Z",
-      "stop": "2026-09-17T15:32:09.000Z",
+      "start": "2026-09-19T04:21:38.000Z",
+      "stop": "2026-09-19T04:29:04.000Z",
       "title": "DrinkWise - Baker Boy",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T15:32:09.000Z",
-      "stop": "2026-09-17T15:49:19.000Z",
-      "title": "Interview with Warrimbiri",
+      "start": "2026-09-19T04:29:04.000Z",
+      "stop": "2026-09-19T04:37:42.000Z",
+      "title": "Family Photos Family Money",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T15:49:19.000Z",
-      "stop": "2026-09-17T15:53:23.000Z",
-      "title": "B2M Stronger Choices",
+      "start": "2026-09-19T04:37:42.000Z",
+      "stop": "2026-09-19T04:42:35.000Z",
+      "title": "Wamba Wamba Perrrepa Perrepa Country",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T15:53:23.000Z",
-      "stop": "2026-09-17T16:36:40.000Z",
-      "title": "2020 Annual Alternative Dispute Resolution Address",
+      "start": "2026-09-19T04:42:35.000Z",
+      "stop": "2026-09-19T04:52:35.000Z",
+      "title": "Garawa and Waanyi Garawa Fire Management",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T16:36:40.000Z",
-      "stop": "2026-09-17T17:29:49.000Z",
-      "title": "Pitch Black 2022 ",
+      "start": "2026-09-19T04:52:35.000Z",
+      "stop": "2026-09-19T05:08:33.000Z",
+      "title": "Kukumbat Gudwan Daga \"Really Cooking Good Food\": Sheppards Pie",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T17:29:49.000Z",
-      "stop": "2026-09-17T18:52:32.000Z",
-      "title": "Menzies Oration 2019 ",
+      "start": "2026-09-19T05:08:33.000Z",
+      "stop": "2026-09-19T05:18:12.000Z",
+      "title": "A Day in the Life of Hermannsburg Potters: Desert Mob 2020",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T18:52:32.000Z",
-      "stop": "2026-09-17T18:59:41.000Z",
-      "title": "Buyman and the New Car (Yolngu Matha)",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T18:59:41.000Z",
-      "stop": "2026-09-17T19:05:37.000Z",
+      "start": "2026-09-19T05:18:12.000Z",
+      "stop": "2026-09-19T05:25:24.000Z",
       "title": "NEWS 74 Surfing FNTV Special",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:05:37.000Z",
-      "stop": "2026-09-17T19:12:08.000Z",
-      "title": "Didja Know",
+      "start": "2026-09-19T05:25:24.000Z",
+      "stop": "2026-09-19T05:29:50.000Z",
+      "title": "Journeys From Heartache to Hope",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:12:08.000Z",
-      "stop": "2026-09-17T19:17:56.000Z",
-      "title": "The Original Chooky Dancers Gattjirrk Festival",
+      "start": "2026-09-19T05:29:50.000Z",
+      "stop": "2026-09-19T06:04:34.000Z",
+      "title": "84\tADR Presentation 4 - Ancient Fishing Traps and Contemporary Fishing Rights",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:17:56.000Z",
-      "stop": "2026-09-17T19:38:41.000Z",
-      "title": "Gattjirrk: Keep Culture Strong for the Next Generation",
+      "start": "2026-09-19T06:04:34.000Z",
+      "stop": "2026-09-19T06:11:31.000Z",
+      "title": "Mawarnkarra Health Service Stop Smoking Program",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:38:41.000Z",
-      "stop": "2026-09-17T19:46:45.000Z",
+      "start": "2026-09-19T06:11:31.000Z",
+      "stop": "2026-09-19T06:25:40.000Z",
+      "title": "10 Reasons Boards Fail",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T06:25:40.000Z",
+      "stop": "2026-09-19T06:37:32.000Z",
+      "title": "This Is My Language",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T06:37:32.000Z",
+      "stop": "2026-09-19T06:53:14.000Z",
+      "title": "Kuruma Mathudunera Celebrate Native Title Win After 21 Years",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T06:53:14.000Z",
+      "stop": "2026-09-19T07:00:48.000Z",
+      "title": "ALPA Retail Training",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:00:48.000Z",
+      "stop": "2026-09-19T07:05:20.000Z",
+      "title": "Journeys From Heartache to Hope",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:05:20.000Z",
+      "stop": "2026-09-19T07:09:35.000Z",
+      "title": "Manapan Furniture",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:09:35.000Z",
+      "stop": "2026-09-19T07:15:16.000Z",
+      "title": "Journeys From Heartache to Hope",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:15:16.000Z",
+      "stop": "2026-09-19T07:33:25.000Z",
+      "title": "This Is My Language",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:33:25.000Z",
+      "stop": "2026-09-19T07:43:41.000Z",
+      "title": "Milingimbi  ALPA CDP",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:43:41.000Z",
+      "stop": "2026-09-19T07:51:36.000Z",
+      "title": "Dr Donna Odegaard AM Speech Celebrating Aboriginal Women in the NT",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:51:36.000Z",
+      "stop": "2026-09-19T08:01:56.000Z",
       "title": "SeSAFE (Yolngu Matha)",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:46:45.000Z",
-      "stop": "2026-09-17T20:07:53.000Z",
-      "title": "Lets Talk with the First Circles Leadership Participants",
+      "start": "2026-09-19T08:01:56.000Z",
+      "stop": "2026-09-19T08:09:39.000Z",
+      "title": "How do Indigenous People Benefit from Norhern Development?",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T20:07:53.000Z",
-      "stop": "2026-09-17T20:37:53.000Z",
-      "title": "Jimmy Little's Gentle Journey",
+      "start": "2026-09-19T08:09:39.000Z",
+      "stop": "2026-09-19T08:25:04.000Z",
+      "title": "Becoming an ALO",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T08:25:04.000Z",
+      "stop": "2026-09-19T08:29:47.000Z",
+      "title": "Our Journey Archive: Coniston Massacre 1928",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T08:29:47.000Z",
+      "stop": "2026-09-19T08:40:44.000Z",
+      "title": "NEWS 78 - Numbulwar IPA Sea Rights NEWS",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T08:40:44.000Z",
+      "stop": "2026-09-19T09:17:22.000Z",
+      "title": "Kawarla: How to Make a Coolamon",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:17:22.000Z",
+      "stop": "2026-09-19T09:26:00.000Z",
+      "title": "Your Stories",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:26:00.000Z",
+      "stop": "2026-09-19T09:31:38.000Z",
+      "title": "On Country",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:31:38.000Z",
+      "stop": "2026-09-19T09:41:02.000Z",
+      "title": "Health Walk 2013",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:41:02.000Z",
+      "stop": "2026-09-19T10:54:12.000Z",
+      "title": "Tarnanthi",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T10:54:12.000Z",
+      "stop": "2026-09-19T10:58:38.000Z",
+      "title": "2604A ALPA Yaka Ding Ding",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T10:58:38.000Z",
+      "stop": "2026-09-19T11:16:13.000Z",
+      "title": "Rhiannan Iffland's Rainbow Dive",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T11:16:13.000Z",
+      "stop": "2026-09-19T11:25:56.000Z",
+      "title": "Restoring the Koorong Tradition:  Aboriginal Design & Technology",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T11:25:56.000Z",
+      "stop": "2026-09-19T11:29:56.000Z",
+      "title": "NEWS 78 - Numbulwar IPA Sea Rights NEWS",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T11:29:56.000Z",
+      "stop": "2026-09-19T11:34:50.000Z",
+      "title": "Health and Wellbeing in Lockhart River",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T11:34:50.000Z",
+      "stop": "2026-09-19T12:08:40.000Z",
+      "title": "Talking in the Top End",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T12:08:40.000Z",
+      "stop": "2026-09-19T12:20:29.000Z",
+      "title": "Kumpulyu \"White Current\"",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T12:20:29.000Z",
+      "stop": "2026-09-19T12:50:29.000Z",
+      "title": "Our Sporting Greats: Aunty Lesley Williams",
       "subtitle": null,
       "description": null,
       "category": null

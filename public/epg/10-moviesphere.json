@@ -1,0 +1,56 @@
+{
+  "slug": "10-moviesphere",
+  "epgId": "mjh-10-moviesphere",
+  "region": "all",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "programmes": [
+    {
+      "start": "2026-09-19T01:51:00.000Z",
+      "stop": "2026-09-19T04:03:00.000Z",
+      "title": "Never Back Down",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T04:03:00.000Z",
+      "stop": "2026-09-19T06:05:00.000Z",
+      "title": "The Forbidden Kingdom",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T06:05:00.000Z",
+      "stop": "2026-09-19T07:48:00.000Z",
+      "title": "The Giver",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:48:00.000Z",
+      "stop": "2026-09-19T09:59:00.000Z",
+      "title": "Never Back Down",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:59:00.000Z",
+      "stop": "2026-09-19T12:02:00.000Z",
+      "title": "The Forbidden Kingdom",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T12:02:00.000Z",
+      "stop": "2026-09-19T12:32:00.000Z",
+      "title": "The Giver",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

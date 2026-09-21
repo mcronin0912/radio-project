@@ -2,116 +2,100 @@
   "slug": "10-haunt-tv",
   "epgId": "mjh-10-haunt-tv",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T09:09:00.000Z",
-      "stop": "2026-09-17T10:06:00.000Z",
-      "title": "Paranormal Mysteries",
+      "start": "2026-09-19T01:38:00.000Z",
+      "stop": "2026-09-19T02:33:00.000Z",
+      "title": "The Scariest Night Of My Life",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T10:06:00.000Z",
-      "stop": "2026-09-17T11:00:00.000Z",
-      "title": "Paranormal Mysteries",
+      "start": "2026-09-19T02:33:00.000Z",
+      "stop": "2026-09-19T03:28:00.000Z",
+      "title": "The Scariest Night Of My Life",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:00:00.000Z",
-      "stop": "2026-09-17T11:48:00.000Z",
-      "title": "Paranormal Mysteries",
+      "start": "2026-09-19T03:28:00.000Z",
+      "stop": "2026-09-19T04:22:00.000Z",
+      "title": "Paranormal Survivor",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:48:00.000Z",
-      "stop": "2026-09-17T12:43:00.000Z",
-      "title": "Celebrity Help! My House is Haunted",
+      "start": "2026-09-19T04:22:00.000Z",
+      "stop": "2026-09-19T05:17:00.000Z",
+      "title": "Paranormal Survivor",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T12:43:00.000Z",
-      "stop": "2026-09-17T13:37:52.000Z",
-      "title": "Celebrity Help! My House is Haunted",
+      "start": "2026-09-19T05:17:00.000Z",
+      "stop": "2026-09-19T06:12:00.000Z",
+      "title": "Paranormal Survivor",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T13:37:52.000Z",
-      "stop": "2026-09-17T14:33:00.000Z",
-      "title": "Celebrity Help! My House is Haunted",
+      "start": "2026-09-19T06:12:00.000Z",
+      "stop": "2026-09-19T07:07:00.000Z",
+      "title": "Paranormal Survivor",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T14:33:00.000Z",
-      "stop": "2026-09-17T15:24:00.000Z",
-      "title": "My Paranormal Nightmare",
+      "start": "2026-09-19T07:07:00.000Z",
+      "stop": "2026-09-19T08:03:00.000Z",
+      "title": "Paranormal Survivor",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T15:24:00.000Z",
-      "stop": "2026-09-17T16:15:00.000Z",
-      "title": "My Paranormal Nightmare",
+      "start": "2026-09-19T08:03:00.000Z",
+      "stop": "2026-09-19T08:57:00.000Z",
+      "title": "Paranormal Survivor",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T16:15:00.000Z",
-      "stop": "2026-09-17T17:06:00.000Z",
-      "title": "My Paranormal Nightmare",
+      "start": "2026-09-19T08:57:00.000Z",
+      "stop": "2026-09-19T09:54:00.000Z",
+      "title": "Unexplained Caught on Camera",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T17:06:00.000Z",
-      "stop": "2026-09-17T17:53:00.000Z",
-      "title": "Haunted Discoveries",
+      "start": "2026-09-19T09:54:00.000Z",
+      "stop": "2026-09-19T10:46:00.000Z",
+      "title": "Unexplained Caught on Camera",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T17:53:00.000Z",
-      "stop": "2026-09-17T18:42:00.000Z",
-      "title": "Haunted Discoveries",
+      "start": "2026-09-19T10:46:00.000Z",
+      "stop": "2026-09-19T11:39:00.000Z",
+      "title": "Unexplained Caught on Camera",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T18:42:00.000Z",
-      "stop": "2026-09-17T19:28:00.000Z",
-      "title": "Haunted Discoveries",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T19:28:00.000Z",
-      "stop": "2026-09-17T20:18:00.000Z",
-      "title": "Haunted Discoveries",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T20:18:00.000Z",
-      "stop": "2026-09-17T20:48:00.000Z",
-      "title": "Haunted Discoveries: Family Spirits",
+      "start": "2026-09-19T11:39:00.000Z",
+      "stop": "2026-09-19T12:09:00.000Z",
+      "title": "Unexplained Caught on Camera",
       "subtitle": null,
       "description": null,
       "category": null

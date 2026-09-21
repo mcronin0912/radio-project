@@ -2,92 +2,108 @@
   "slug": "10-wildest",
   "epgId": "mjh-10-wildest",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T09:37:00.000Z",
-      "stop": "2026-09-17T10:33:00.000Z",
+      "start": "2026-09-19T01:23:00.000Z",
+      "stop": "2026-09-19T02:20:00.000Z",
+      "title": "Mob Rules",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T02:20:00.000Z",
+      "stop": "2026-09-19T03:18:00.000Z",
+      "title": "From Pouch To Foot",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T03:18:00.000Z",
+      "stop": "2026-09-19T04:17:00.000Z",
+      "title": "A Buck's Life",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T04:17:00.000Z",
+      "stop": "2026-09-19T05:14:00.000Z",
+      "title": "Meet The Devils",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T05:14:00.000Z",
+      "stop": "2026-09-19T06:13:00.000Z",
+      "title": "Young Devils",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T06:13:00.000Z",
+      "stop": "2026-09-19T07:11:00.000Z",
+      "title": "Wombat Wood",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:11:00.000Z",
+      "stop": "2026-09-19T08:09:00.000Z",
+      "title": "Joey's Journey",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T08:09:00.000Z",
+      "stop": "2026-09-19T09:05:00.000Z",
+      "title": "Africa's Big Cats",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:05:00.000Z",
+      "stop": "2026-09-19T10:02:00.000Z",
       "title": "The Big 5",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T10:33:00.000Z",
-      "stop": "2026-09-17T11:30:00.000Z",
+      "start": "2026-09-19T10:02:00.000Z",
+      "stop": "2026-09-19T10:58:00.000Z",
       "title": "Dung Beetles: Nature's Recycler",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T11:30:00.000Z",
-      "stop": "2026-09-17T12:26:00.000Z",
+      "start": "2026-09-19T10:58:00.000Z",
+      "stop": "2026-09-19T11:55:00.000Z",
       "title": "Meet The Meerkats",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T12:26:00.000Z",
-      "stop": "2026-09-17T13:27:02.000Z",
-      "title": "Back From The Brink",
+      "start": "2026-09-19T11:55:00.000Z",
+      "stop": "2026-09-19T12:25:00.000Z",
+      "title": "Isle Royale",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T13:27:02.000Z",
-      "stop": "2026-09-17T14:27:00.000Z",
-      "title": "Cavendish The Koala",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:27:00.000Z",
-      "stop": "2026-09-17T15:29:00.000Z",
-      "title": "Spiky And Stinky",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T15:29:00.000Z",
-      "stop": "2026-09-17T16:31:00.000Z",
-      "title": "Spoonbill Soft Shoe Shuffle",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T16:31:00.000Z",
-      "stop": "2026-09-17T17:31:00.000Z",
-      "title": "How To Catch A Lizard",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T17:31:00.000Z",
-      "stop": "2026-09-17T18:34:00.000Z",
-      "title": "An Island Home",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T18:34:00.000Z",
-      "stop": "2026-09-17T19:34:00.000Z",
-      "title": "Walking With A Pangolin",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T19:34:00.000Z",
-      "stop": "2026-09-17T20:04:00.000Z",
-      "title": "Tsiba'S New Mum",
+      "start": "2026-09-19T12:25:00.000Z",
+      "stop": "2026-09-19T12:55:00.000Z",
+      "title": "Invaders From the Deep",
       "subtitle": null,
       "description": null,
       "category": null

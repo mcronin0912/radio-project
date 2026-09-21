@@ -2,838 +2,942 @@
   "slug": "abc-kids",
   "epgId": "mjh-abc-kids",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T19:10:00.000Z",
-      "stop": "2026-09-17T19:20:00.000Z",
-      "title": "Star Wars: Young Jedi Adventures",
-      "subtitle": "Mystery Of The Opal Cave/ Clash",
-      "description": "Kai and rival Jedi Djovi team up for a mission.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T19:20:00.000Z",
-      "stop": "2026-09-17T19:30:00.000Z",
-      "title": "PJ Masks",
-      "subtitle": "Catboy's Cat",
-      "description": "Catboy is taken by the idea of having a cat sidekick.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T19:30:00.000Z",
-      "stop": "2026-09-17T19:45:00.000Z",
-      "title": "Octonauts: Above & Beyond",
-      "subtitle": "Beetle Invasion",
-      "description": "When rising sea levels drive a group of Bombardier beetles from their home, they try settling on a new island only to find that it's filled with hungry spiders and frogs.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T19:45:00.000Z",
-      "stop": "2026-09-17T19:55:00.000Z",
-      "title": "Thomas & Friends: All Engines Go!",
-      "subtitle": "Kana's Last Minute Delivery",
-      "description": "When Kana puts her delivery on hold to play a game of tag, she risks not delivering it by the end of the workday day whistle.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T19:55:00.000Z",
-      "stop": "2026-09-17T20:00:00.000Z",
-      "title": "Numberblocks",
-      "subtitle": "Land of the Giants",
-      "description": "One, Two, Three, Four and Five come with Fifty to a stage. Fifty rocks out and then shows a device that can make anything 10 times bigger.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:00:00.000Z",
-      "stop": "2026-09-17T20:05:00.000Z",
-      "title": "Mittens & Pants",
-      "subtitle": "Bunny Family Wedding",
-      "description": "When Pants the puppy goes to a family wedding, he realises that because he's adopted, every member of his family but him is a bunny.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:05:00.000Z",
-      "stop": "2026-09-17T20:15:00.000Z",
-      "title": "Fantus And The Machines",
-      "subtitle": "Tow Truck",
-      "description": "Get lifting and loading with Fantus as he learns all about forklifts.",
+      "start": "2026-09-19T02:05:00.000Z",
+      "stop": "2026-09-19T02:10:00.000Z",
+      "title": "Play School: Dance It Out",
+      "subtitle": "The Jump and Sway",
+      "description": "Are you ready to do The Jump and Sway? Strike up the band with Abi and get ready to jump, sway, and dance to Jump, Jump, Jump If You Feel You Want To.",
       "category": null
     },
     {
-      "start": "2026-09-17T20:15:00.000Z",
-      "stop": "2026-09-17T20:20:00.000Z",
+      "start": "2026-09-19T02:10:00.000Z",
+      "stop": "2026-09-19T02:15:00.000Z",
       "title": "Peppa Pig",
-      "subtitle": "Princess Peppa",
-      "description": "Granny and Grandpa Pig come for a dinner party with Mummy and Daddy Pig, but Peppa and George are too tired to go to bed, until they are told a story.",
+      "subtitle": "School Bus Trip",
+      "description": "Madame Gazelle takes Peppa and her school friends on a school bus trip to the mountains. From the top of the mountains there is a fantastic view and Peppa and her friends have fun hearing echoes.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-17T20:20:00.000Z",
-      "stop": "2026-09-17T20:35:00.000Z",
-      "title": "Ready, Steady, Wiggle!",
-      "subtitle": "Playtime Fun",
-      "description": "John, Evie, Caterina and Captain are enjoying playtime with their Wiggly dolls, but there is a problem: their dolls are feeling tired and sore. Will Dr. Lynn Burr be able to make the dolls feel better?",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T20:35:00.000Z",
-      "stop": "2026-09-17T20:40:00.000Z",
-      "title": "Shaun the Sheep",
-      "subtitle": "Express Delivery",
-      "description": "The farmer's eyesight is getting worse, which is bad news for Bitzer who has to manage the farm but good news for Shaun and the gang who are free to get up to all kinds of mischief under the Farmer's nose.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:40:00.000Z",
-      "stop": "2026-09-17T20:55:00.000Z",
-      "title": "The Adventures of Paddington",
-      "subtitle": "Paddington's Journey Into A Black Hole",
-      "description": "When things go missing in Windsor Gardens Jonathan believes a black hole is to blame, so Paddington goes on a space mission.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:55:00.000Z",
-      "stop": "2026-09-17T21:05:00.000Z",
-      "title": "Iron Man and His Awesome Friends",
-      "subtitle": "Ironheart's Awesome Playground",
-      "description": "Riri's playground plans are bugged by Swarm's power-draining robo-mosquitoes.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:05:00.000Z",
-      "stop": "2026-09-17T21:20:00.000Z",
-      "title": "Knee High Spies",
-      "subtitle": "Mission Domino Disaster",
-      "description": "The spies play a series of games against Silver Paw, trying to win back the dominoes she's stolen from the kids' domino run.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T21:20:00.000Z",
-      "stop": "2026-09-17T21:30:00.000Z",
-      "title": "Spidey and His Amazing Friends",
-      "subtitle": "Rocket Rhino!",
-      "description": "A new superpowered spidey-jetback ends up in the hands of Rhino!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:30:00.000Z",
-      "stop": "2026-09-17T21:45:00.000Z",
-      "title": "Vida the Vet",
-      "subtitle": "Juno’s Bubble Bath Breakout",
-      "description": "Juno gets sticky from tree sap, so Vida needs to give her a bubble bath, but she's nervous!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:45:00.000Z",
-      "stop": "2026-09-17T21:50:00.000Z",
-      "title": "Hey Duggee",
-      "subtitle": "The Cheese Badge",
-      "description": "Duggee shows the Squirrels his private cheese vault, where some of the rarest and smelliest cheeses on Earth are kept - but one of them makes its way into the outside world.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:50:00.000Z",
-      "stop": "2026-09-17T21:55:00.000Z",
+      "start": "2026-09-19T02:15:00.000Z",
+      "stop": "2026-09-19T02:20:00.000Z",
       "title": "Peppa Pig",
-      "subtitle": "Lost Keys",
-      "description": "Peppa and her family have been on a trip to a mountain beauty spot. When Daddy Pig loses the car keys down a drain Mr Bull offers to find them with his digger.",
+      "subtitle": "Rebecca Rabbit",
+      "description": "Peppa and George are going to Rebecca Rabbit's house today. Rebecca's house is a bit different; it is inside a hill and has tunnels instead of stairs and corridors. Peppa and George love Rebecca's house.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-17T21:55:00.000Z",
-      "stop": "2026-09-17T22:05:00.000Z",
-      "title": "Bluey",
-      "subtitle": "Pass the Parcel",
-      "description": "Lucky's Dad is outraged that modern Pass the Parcel has a present in every layer and changes the rules back to only having one prize in the middle, but Bingo is forever losing.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:05:00.000Z",
-      "stop": "2026-09-17T22:10:00.000Z",
-      "title": "Ginger and the Vegesaurs",
-      "subtitle": "Easy Sneezy",
-      "description": "When pollen in the valley causes quite a lot of sneezing amongst the Tomatodons, Ginger and the baby Pea-Rexes must harness their inner cowboy to wrangle the bouncy Tomatodons and help get them across the tundra.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:10:00.000Z",
-      "stop": "2026-09-17T22:20:00.000Z",
-      "title": "Kangaroo Beach",
-      "subtitle": "Captain Frizzy",
-      "description": "Frizzy sets sail around Boomerang Island in an effort to break Big Trev's record.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:20:00.000Z",
-      "stop": "2026-09-17T22:35:00.000Z",
-      "title": "Fizzy And Suds",
-      "subtitle": "Dumplings",
-      "description": "Fizzy and Suds discover the art of dumplings and samosas, explore nature's hidden surprises, and create squishy hacky sacks to learn about stuffing and textures. Yummo!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:35:00.000Z",
-      "stop": "2026-09-17T22:45:00.000Z",
-      "title": "HexVets And Magic Pets",
-      "subtitle": "Mile In My Paws",
-      "description": "Transformed into a fox, Annette gets a new perspective on the animals in her care.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:45:00.000Z",
-      "stop": "2026-09-17T23:00:00.000Z",
-      "title": "Andy's Dinosaur Adventures",
-      "subtitle": "Iberomesornis and Feather",
-      "description": "Andy travels back to the time of iberomesornis - a bird that lived in the forests of Spain 127 million years ago.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:00:00.000Z",
-      "stop": "2026-09-17T23:30:00.000Z",
-      "title": "Play School: Rainforest Rangers",
-      "subtitle": "Caring for the Rainforest",
-      "description": "Rangers Leah and Luke show us how we can all help care for the rainforest. They build a walkway to help protect plants and animals, make a tasty snack using macadamia nuts and figs, and clear weeds from the forest floor.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:30:00.000Z",
-      "stop": "2026-09-17T23:40:00.000Z",
-      "title": "Fireman Sam",
-      "subtitle": "I'm the Captain",
-      "description": "A lovely day out at sea turns into a major ocean rescue when Mandy and Norman tussle over who should be captain!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T23:40:00.000Z",
-      "stop": "2026-09-17T23:45:00.000Z",
-      "title": "Miffy and Friends",
-      "subtitle": "A Present For Bun",
-      "description": "Miffy gives Bun what she thinks is a cool present for his birthday, but he's much more interested in the box it came in!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T23:45:00.000Z",
-      "stop": "2026-09-17T23:55:00.000Z",
-      "title": "The Woohoos!",
-      "subtitle": "Magnificent Map",
-      "description": "Polar Bear doesn't know his way around Wise Island so the Woohoos decide to make him a map - but they don't know how. They work out what they need to make a great Wise Island map, WOOHOO!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T23:55:00.000Z",
-      "stop": "2026-09-18T00:05:00.000Z",
-      "title": "Nikhil & Jay",
-      "subtitle": "Nikhil and Jay and the Missing Appalams",
-      "description": "Nikhil and Jay are detectives today. When the homemade appalams go missing under their watch, they need to solve the case and save lunch!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:05:00.000Z",
-      "stop": "2026-09-18T00:20:00.000Z",
-      "title": "Daniel Tiger's Neighbourhood",
-      "subtitle": "Daniel And Max Visit The Farm",
-      "description": "Daniel helps to take care of Margaret. At the farm, Daniel and Max take care of ducks and Peaches the horse.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:20:00.000Z",
-      "stop": "2026-09-18T00:25:00.000Z",
-      "title": "Mittens & Pants",
-      "subtitle": "Tractor Tracker",
-      "description": "When Monsieur LaFleur's tractor takes off with no one at the wheel, Pants seems to be the only one who can chase it down. But what if it's too fast even for Pants to catch?",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:25:00.000Z",
-      "stop": "2026-09-18T00:35:00.000Z",
-      "title": "BeddyByes",
-      "subtitle": "Circles",
-      "description": "MeMo and BaBa discover different types of circles all over Planet BeddyByes.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:35:00.000Z",
-      "stop": "2026-09-18T00:50:00.000Z",
-      "title": "Fantus And The Machines",
-      "subtitle": "Excavator",
-      "description": "Join Fantus and dig into the world of excavators.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T00:50:00.000Z",
-      "stop": "2026-09-18T00:55:00.000Z",
-      "title": "Ready Eddie Go!",
-      "subtitle": "Musical Instruments",
-      "description": "Eddie, Nina and Akil are exploring musical instruments. Eddie learns how to play the xylophone by looking, touching, playing, and finally - enjoying making music in a band.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T00:55:00.000Z",
-      "stop": "2026-09-18T01:05:00.000Z",
-      "title": "Bluey",
-      "subtitle": "Keepy Uppy",
-      "description": "Bluey, Bingo and Mum are enjoying playing Keepy-Uppy around the house with their last balloon, when Dad joins in and the game becomes the ultimate test of skill.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T01:05:00.000Z",
-      "stop": "2026-09-18T01:15:00.000Z",
-      "title": "Fizzy And Suds",
-      "subtitle": "Fossils",
-      "description": "Fizzy and Suds explore dinosaurs at the museum! They ride skeletons, meet scientists, fix bones, and find out how fossils tell us what dinosaurs ate and how they lived.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T01:15:00.000Z",
-      "stop": "2026-09-18T01:30:00.000Z",
-      "title": "Gardening Australia Junior",
-      "subtitle": "Butterfly Cafe",
-      "description": "Hannah and Frida make a butterfly cafe to attract more winged creatures to their garden.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T01:30:00.000Z",
-      "stop": "2026-09-18T01:40:00.000Z",
-      "title": "The Wiggles: Wiggle and Learn",
-      "subtitle": "Episode 10",
-      "description": "Join Caterina and Henry the Octopus for a fun fitness adventure! Dance, tackle an obstacle course, and sing along to 'Do Your Ears Hang Low?' Come join the Wiggly fun and let's get moving and grooving!",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T01:40:00.000Z",
-      "stop": "2026-09-18T01:50:00.000Z",
-      "title": "Iron Man and His Awesome Friends",
-      "subtitle": "Ironheart's Awesome Playground",
-      "description": "Riri's playground plans are bugged by Swarm's power-draining robo-mosquitoes.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T01:50:00.000Z",
-      "stop": "2026-09-18T02:00:00.000Z",
-      "title": "Mecha Builders",
-      "subtitle": "Sun Block",
-      "description": "Pretty Big City is cooling off from a hot day with an ice slide in the park, but the situation gets slippery when the ice slide starts melting.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T02:00:00.000Z",
-      "stop": "2026-09-18T02:10:00.000Z",
-      "title": "Thomas & Friends",
-      "subtitle": "Free the roads",
-      "description": "Bulgy thinks that people should travel by bus instead of rail until he learns that having so many passengers is not so easy for the buses on their own.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T02:10:00.000Z",
-      "stop": "2026-09-18T02:15:00.000Z",
-      "title": "Peppa Pig",
-      "subtitle": "The Long Grass",
-      "description": "The grass is very long. It is so long that when Peppa and George play outside they can't see each other and lose their ball. The grass is too much for Daddy Pig's rusty old lawnmower so he calls Grandpa Pig for help.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T02:15:00.000Z",
-      "stop": "2026-09-18T02:20:00.000Z",
-      "title": "Peppa Pig",
-      "subtitle": "Dentist",
-      "description": "Peppa and George are going to the dentist for a check-up. Peppa and George's teeth are lovely and clean but George's plastic toy \"Mr Dinosaur\" teeth are a bit yellow.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T02:20:00.000Z",
-      "stop": "2026-09-18T02:25:00.000Z",
+      "start": "2026-09-19T02:20:00.000Z",
+      "stop": "2026-09-19T02:25:00.000Z",
       "title": "Kiri and Lou",
-      "subtitle": "Friends",
-      "description": "Kiri and Lou sing a song celebrating their wonderful friends of all shapes, sizes and personalities.",
+      "subtitle": "Schmiri And Schmoo",
+      "description": "Kiri and Lou take shelter from the rain and Kiri tells a story in which nothing really happens.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T02:25:00.000Z",
-      "stop": "2026-09-18T02:35:00.000Z",
+      "start": "2026-09-19T02:25:00.000Z",
+      "stop": "2026-09-19T02:35:00.000Z",
       "title": "Ginger and the Vegesaurs",
-      "subtitle": "Slippery Skins",
-      "description": "The fearsome Bananaraptors are beginning to shed their skin - an annual (and comical!) process in which their firm peels turn mottled brown and their bodies become soft, limp and anything but intimidating!",
+      "subtitle": "Following Forest",
+      "description": "Ginger and the baby Pea-Rexes help remove a thorn from the foot of a giant Asparagusaur, who shows their gratitude by following them everywhere.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T02:35:00.000Z",
-      "stop": "2026-09-18T02:45:00.000Z",
+      "start": "2026-09-19T02:35:00.000Z",
+      "stop": "2026-09-19T02:45:00.000Z",
       "title": "Ben & Holly's Little Kingdom",
-      "subtitle": "Planet Bong - Part 2",
-      "description": "The elves and fairies arrive at Planet Bong and meet The Great Leader, the aliens and their pets. The Wise Old Elf has to make Planet Bong beautiful again by bringing back all the plants.",
+      "subtitle": "The Queen Bakes Cakes",
+      "description": "Mrs Figg's magic school has been damaged by a falling apple. A cake stall is arranged to pay for the repairs, but no one can eat Queen Thistle's cakes.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T02:45:00.000Z",
-      "stop": "2026-09-18T02:55:00.000Z",
+      "start": "2026-09-19T02:45:00.000Z",
+      "stop": "2026-09-19T02:55:00.000Z",
       "title": "Vida the Vet",
-      "subtitle": "Fergie’s Wobbly Wheel",
-      "description": "When Fergie breaks her wheelchair doing an awesome trick, Vida knows where to get a new one.",
+      "subtitle": "Vida’s Wandering Wonders",
+      "description": "When Vida's vet bag goes missing, she and her Sweetwoodian friends need to track it down!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T02:55:00.000Z",
-      "stop": "2026-09-18T03:10:00.000Z",
+      "start": "2026-09-19T02:55:00.000Z",
+      "stop": "2026-09-19T03:10:00.000Z",
       "title": "Talking Tom Heroes: Suddenly Super",
-      "subtitle": "Trouble in Peak City",
-      "description": "The Heroes get frustrated when Ben's trouble-alert system keeps sending them on seemingly tiny and unimportant rescues.",
+      "subtitle": "Hank's Low-Low Mojo",
+      "description": "Hank doubts himself when he can't find his lucky rubber ducky, which he takes everywhere.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T03:10:00.000Z",
-      "stop": "2026-09-18T03:20:00.000Z",
+      "start": "2026-09-19T03:10:00.000Z",
+      "stop": "2026-09-19T03:20:00.000Z",
       "title": "Santiago of the Seas",
-      "subtitle": "Little Shrimp, Big Problems",
-      "description": "The grand opening of Martin's paleta shop is almost ruined when a mysterious creature begins wreaking havoc in Merlandia.",
+      "subtitle": "Pig Island",
+      "description": "When Barbarito swipes the Windless Sail from Pig Island, the crew teams up their new pig friends to retrieve it.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T03:20:00.000Z",
-      "stop": "2026-09-18T03:35:00.000Z",
+      "start": "2026-09-19T03:20:00.000Z",
+      "stop": "2026-09-19T03:35:00.000Z",
       "title": "PJ Masks",
-      "subtitle": "The Jolly Ninjalino",
-      "description": "Pirate Robot seeks help when Night Ninja steals his hat. When Pirate Robot is left out of the PJs plans, he tries to help anyway and only makes the situation much worse!",
+      "subtitle": "The Power of Mystery Mountain / The Power of Mystery Mountain Part II",
+      "description": "Mystery Mountain breaks out of its dimension and floats over the city, the heroes band together to save the day.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T03:35:00.000Z",
-      "stop": "2026-09-18T03:45:00.000Z",
+      "start": "2026-09-19T03:35:00.000Z",
+      "stop": "2026-09-19T03:45:00.000Z",
       "title": "The Octonauts",
-      "subtitle": "The Octonauts And The Giant Jelly",
-      "description": "The Octonauts must rescue Peso when he gets trapped inside a giant Comb Jelly!",
+      "subtitle": "The Octonauts And The Cookie Cutter Sharks",
+      "description": "What keeps making strange holes in the Octonauts' equipment? Turns out it's a trio of pesky Cookiecutter Sharks, the mosquitoes of the sea!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T03:45:00.000Z",
-      "stop": "2026-09-18T03:50:00.000Z",
+      "start": "2026-09-19T03:45:00.000Z",
+      "stop": "2026-09-19T03:50:00.000Z",
       "title": "Hey Duggee",
-      "subtitle": "The Wish Badge",
-      "description": "The Squirrels are helping Duggee clean up when they find an old lamp. Duggee explains that in old stories, if you rub the lamp three times it can grant three magical wishes.",
+      "subtitle": "The List Badge",
+      "description": "Duggee's lost his list for the day's activities at Squirrel Club. The Squirrels have great fun trying to help him write a new one and think about all the activities they'd like to do!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T03:50:00.000Z",
-      "stop": "2026-09-18T04:05:00.000Z",
+      "start": "2026-09-19T03:50:00.000Z",
+      "stop": "2026-09-19T04:05:00.000Z",
       "title": "Kangaroo Beach",
-      "subtitle": "Captain Frizzy",
-      "description": "Frizzy sets sail around Boomerang Island in an effort to break Big Trev's record.",
+      "subtitle": "Canoe Adventure",
+      "description": "The cadets hit the river with their canoes for a picnic day. But while Frizzy and Gemma cannot paddle in sync, Neville and Pounce find themselves in hot water.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T04:05:00.000Z",
-      "stop": "2026-09-18T04:15:00.000Z",
+      "start": "2026-09-19T04:05:00.000Z",
+      "stop": "2026-09-19T04:15:00.000Z",
       "title": "Fireman Sam",
-      "subtitle": "History Trail",
-      "description": "Professor Pickles attempts to create an EPIC historical walking trail, but he creates emergency of EPIC proportions instead!",
+      "subtitle": "The Future of The Seas",
+      "description": "When Hannah turns the Pontypandy Ocean Parade into a race, an ocean rescue is required.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T04:15:00.000Z",
-      "stop": "2026-09-18T04:25:00.000Z",
+      "start": "2026-09-19T04:15:00.000Z",
+      "stop": "2026-09-19T04:25:00.000Z",
       "title": "Nikhil & Jay",
-      "subtitle": "Nikhil and Jay and the Swapsies Day",
-      "description": "Appa is doing Amma jobs, and Amma is doing Appa jobs - it's swapsies day! After swapping toys, Nikhil and Jay decide to swap being each other!",
+      "subtitle": "Nikhil and Jay and the Dream Detectives",
+      "description": "When Nikhil wakes up, he misses the end of his amazing dream! Jay tries lots of ways to help him find the ending so they can tell it at their 'share a story' picnic.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T04:25:00.000Z",
-      "stop": "2026-09-18T04:30:00.000Z",
+      "start": "2026-09-19T04:25:00.000Z",
+      "stop": "2026-09-19T04:35:00.000Z",
       "title": "Numberblocks",
-      "subtitle": "Numberblock Castle",
-      "description": "One, Two, Three and Four are off on a castle exploring adventure, with a little help from the friends they make along the way. Learn how to make numbers up to 10 by adding with the Numberblocks.",
+      "subtitle": "Ten Green Bottles",
+      "description": "One of the bottles in Ten's collection accidentally falls off the wall, setting off a spectacular numbery hullabaloo. Learn to count down from ten by taking one away with the Numberblocks.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T04:30:00.000Z",
-      "stop": "2026-09-18T04:45:00.000Z",
-      "title": "The Makery",
-      "subtitle": "Magic Clock",
-      "description": "The Makery clock is not working well at all, unlike Nim and The Makery. They make a creepy pasta picture, bake a cookie dough pinecone and create a hippo box.",
+      "start": "2026-09-19T04:35:00.000Z",
+      "stop": "2026-09-19T05:00:00.000Z",
+      "title": "Fizzy And Suds",
+      "subtitle": "Roads / Cheese",
+      "description": "Fizzy and Suds explore road construction. /  Fizzy and Suds visit cheese factories.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T05:00:00.000Z",
+      "stop": "2026-09-19T05:30:00.000Z",
+      "title": "Play School: Make and Create",
+      "subtitle": "Crafty Artists",
+      "description": "Rachael and Teo get creative making swirly whirly marbling patterns on paper and fabric. They create a paper puppet world, and Teo uses the marbled fabric to make a fun hat to twist and shake in!",
       "category": null
     },
     {
-      "start": "2026-09-18T04:45:00.000Z",
-      "stop": "2026-09-18T05:00:00.000Z",
+      "start": "2026-09-19T05:30:00.000Z",
+      "stop": "2026-09-19T05:55:00.000Z",
+      "title": "We're Going On A Bear Hunt",
+      "subtitle": null,
+      "description": "A moving and reflective adaptation of Michael Rosen's book that follows the intrepid adventures of siblings Stan, Katie, Rosie, baby Max, and Rufus the dog, who come up against a host of obstacles on their quest in search of bears.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T05:55:00.000Z",
+      "stop": "2026-09-19T06:05:00.000Z",
+      "title": "Talking Tom Heroes: Suddenly Super",
+      "subtitle": "Angela and the Super Plant",
+      "description": "The Heroes find themselves battling a rogue plant that threatens to drink up the city's whole water supply.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T06:05:00.000Z",
+      "stop": "2026-09-19T06:15:00.000Z",
+      "title": "Talking Tom Heroes: Suddenly Super",
+      "subtitle": "The Trouble with Tom",
+      "description": "The Rakoonz set up a series of tricks that make Tom doubt his powers. Tom's friends help him out.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T06:15:00.000Z",
+      "stop": "2026-09-19T06:30:00.000Z",
+      "title": "Stan & Gran",
+      "subtitle": "The Porthole Penguin",
+      "description": "When a penguin takes a shine to Stink's bed and Grumblestunk decides to open a zoo, Brody is unimpressed, and Stan and Gran are forced to investigate!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T06:30:00.000Z",
+      "stop": "2026-09-19T06:40:00.000Z",
+      "title": "Little J And Big Cuz",
+      "subtitle": "Finding Home",
+      "description": "Little J and Levi squabble over a 'pile of junk' in the bush - should they build a fortress or pirate ship cubby? They compromise and love their creation - until Big Cuz throws a spanner in the works.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T06:40:00.000Z",
+      "stop": "2026-09-19T06:50:00.000Z",
+      "title": "Flower & Flour",
+      "subtitle": "Flower On A Plate",
+      "description": "Flower must bring a dish representing her family to a school picnic, but how can she choose when she loves both Dad's Austrian and Mum's Cantonese cooking equally? Time to get creative!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T06:50:00.000Z",
+      "stop": "2026-09-19T07:00:00.000Z",
       "title": "Gardening Australia Junior",
-      "subtitle": "Sensory Garden",
-      "description": "Hannah works with two brothers to create a garden that delights all of the senses. Alfie is vision impaired and loves being active and playing, so they create a garden of games he can enjoy with his brother, William.",
+      "subtitle": "Mindful Garden",
+      "description": "Costa and the kids are inspired by nature to create a green space that is for relaxation, reflection and mindfulness. It's a place to breathe in nature and forget about your worries.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T05:00:00.000Z",
-      "stop": "2026-09-18T05:25:00.000Z",
-      "title": "Play School: Mighty Machines",
-      "subtitle": "Mighty Playful Machines",
-      "description": "It's time to have fun with Playful Machines! Zindzi and Matt drive little dodgem cars around a track and the toys ride the rollercoaster \"The Dragon\"! We learn about the different parts of a Ferris Wheel.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T05:25:00.000Z",
-      "stop": "2026-09-18T05:35:00.000Z",
-      "title": "Ready, Steady, Wiggle!",
-      "subtitle": "Lachy's Famous Stiry-Fry",
-      "description": "Shake along to 'Shake Like a Tree', help Lachy cook a veggie stir fry with a shopping trip to Buddy's store, and sing along to 'Quack Quack'.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T05:35:00.000Z",
-      "stop": "2026-09-18T05:50:00.000Z",
-      "title": "Fizzy And Suds",
-      "subtitle": "Dogs",
-      "description": "Ruff ruff! Did you know, dogs have their own doctors called vets and sometimes they even have jobs? See what it takes to be a police dog - a very important job, indeed.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T05:50:00.000Z",
-      "stop": "2026-09-18T05:55:00.000Z",
-      "title": "Lil' stompers",
-      "subtitle": "L'il Breezy's Naptime",
-      "description": "It's naptime, and all the l'il dinos have their favourite places to sleep - except for Breezy. She can't find a place in the Stomping Grounds that's comfortable.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T05:55:00.000Z",
-      "stop": "2026-09-18T06:00:00.000Z",
-      "title": "Ginger and the Vegesaurs",
-      "subtitle": "Hiccups",
-      "description": "When one of the Baby Pea-Rexes gets the hiccups, Ginger and the other two try all manner of cures to get rid of them.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T06:00:00.000Z",
-      "stop": "2026-09-18T06:20:00.000Z",
-      "title": "Andy's Global Adventures",
-      "subtitle": "Andy and the African Penguins",
-      "description": "Andy, Jen and Scout head to Cape Town off the coast of South Africa on a global adventure to find out why African penguins are living in the city.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T06:20:00.000Z",
-      "stop": "2026-09-18T06:30:00.000Z",
-      "title": "Santiago of the Seas",
-      "subtitle": "The Curse of the Pirate Baby",
-      "description": "Bonnie Bones transforms into a baby and it's up to the good pirates to change her back.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T06:30:00.000Z",
-      "stop": "2026-09-18T06:45:00.000Z",
-      "title": "Superkitties",
-      "subtitle": "Country Kitty",
-      "description": "To guard a new dinosaur bone, Buddy must learn to pay attention.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T06:45:00.000Z",
-      "stop": "2026-09-18T06:55:00.000Z",
-      "title": "Hey Duggee",
-      "subtitle": "The Yoga Badge",
-      "description": "It's one of those days. The squirrels have arrived and they're all a little bit hyped up with bundles of energy. Things start to get a bit frantic, and Duggee needs to calm them all down. Fortunately, he has his Yoga Badge.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T06:55:00.000Z",
-      "stop": "2026-09-18T07:00:00.000Z",
-      "title": "Bluey",
-      "subtitle": "Bedroom",
-      "description": "Bluey is excited to get her own room. But when bedtime comes, she misses Bingo more than she expected and must find a way to stay in touch with her sister.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T07:00:00.000Z",
-      "stop": "2026-09-18T07:05:00.000Z",
+      "start": "2026-09-19T07:00:00.000Z",
+      "stop": "2026-09-19T07:05:00.000Z",
       "title": "Peppa Pig",
-      "subtitle": "Recorders",
-      "description": "The children have a music lesson with Madame Gazelle and all learn how to play the recorder. After lots of practising at home, the children put on a wonderful performance for all the parents to enjoy.",
+      "subtitle": "Parking Ticket",
+      "description": "When Daddy Pig gets a parking ticket whilst parked in the wrong place, Peppa and George learn that adults have rules too just like children and also get told off too.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T07:05:00.000Z",
-      "stop": "2026-09-18T07:10:00.000Z",
+      "start": "2026-09-19T07:05:00.000Z",
+      "stop": "2026-09-19T07:10:00.000Z",
       "title": "Peppa Pig",
-      "subtitle": "Miss Rabbits Relaxation Class",
-      "description": "Mummy Pig is persuaded by Miss Rabbit to come along to her relaxation class to help Mummy Pig relax but actual relaxing proves to be more challenging than expected.",
+      "subtitle": "Peppa Goes to Paris",
+      "description": "Mummy and Daddy Pig take Peppa and George to a castle to feast on medieval banquets, play King and Queen and even meet a dragon. It's George's favourite day ever!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T07:10:00.000Z",
-      "stop": "2026-09-18T07:15:00.000Z",
-      "title": "Kiri and Lou",
-      "subtitle": "What's It Like to Be a Tree?",
-      "description": "Kiri and Lou try out being trees, which is mostly about keeping still, and they make a very large new friend named Moa.",
+      "start": "2026-09-19T07:10:00.000Z",
+      "stop": "2026-09-19T07:20:00.000Z",
+      "title": "It's Andrew!",
+      "subtitle": "Big BIG Bird House",
+      "description": "Andrew and Dazzle must learn how to work together when they are paired up on a special project at Kindy School.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T07:15:00.000Z",
-      "stop": "2026-09-18T07:30:00.000Z",
-      "title": "The Octonauts",
-      "subtitle": "The Octonauts And The Barracudas",
-      "description": "Shellington and the Vegimals are on a mission to replant a mangrove forest.",
+      "start": "2026-09-19T07:20:00.000Z",
+      "stop": "2026-09-19T07:45:00.000Z",
+      "title": "Peter Rabbit",
+      "subtitle": "Peter Rabbit: The Tale Of The Missing Egg",
+      "description": "When Jemima's new egg goes missing, only Peter Rabbit is able to put the clues together and find the culprit. But can he find the egg before it hatches, or has he finally met his match in the devious newcomer Samuel Whiskers?",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T07:30:00.000Z",
-      "stop": "2026-09-18T07:40:00.000Z",
-      "title": "Talking Tom Heroes: Suddenly Super",
-      "subtitle": "Suddenly Controlled",
-      "description": "Professor Kranium hacks into Tom's super-suit to control his movements. Tom must trust his team to save him.",
+      "start": "2026-09-19T07:45:00.000Z",
+      "stop": "2026-09-19T08:10:00.000Z",
+      "title": "Iron Man and His Awesome Friends",
+      "subtitle": "Totally Awesome Beach Day / Swarm Stinks it Up",
+      "description": "Ultron crashes beach day to build his HQ, and the Iron Friends must stop him. The Iron Friends race to save Granny Williams' peach pies from Swarm's stink bugs.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T07:40:00.000Z",
-      "stop": "2026-09-18T07:50:00.000Z",
-      "title": "Kangaroo Beach",
-      "subtitle": "Dream Team",
-      "description": "Pounce, Frizzy and Gemma each have their own personal superstar lifeguard hero. But during an action-packed ride-along day, they discover that it's not about the individual, but the team.",
+      "start": "2026-09-19T08:10:00.000Z",
+      "stop": "2026-09-19T08:20:00.000Z",
+      "title": "Shaun the Sheep",
+      "subtitle": "Bathtime",
+      "description": "The flock refuse to have a wash in the freezing sheep dip, so Shaun goes on a commando raid to hi-jack the hot water from the Farmer's bath tub.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T07:50:00.000Z",
-      "stop": "2026-09-18T08:05:00.000Z",
-      "title": "PJ Masks: Power Heroes",
-      "subtitle": "The Curse Of Armadylan",
-      "description": "When paired for hero duty with Armadylan, Bastet assumes he is an evil armadillo from ancient Egypt come to hunt her down and Armadylan must desperately try to prove his innocence!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T08:05:00.000Z",
-      "stop": "2026-09-18T08:20:00.000Z",
-      "title": "Spidey and His Amazing Friends",
-      "subtitle": "Construction Destruction",
-      "description": "Spidey, Hulk and Ms. Marvel get in over their heads when a squirrel wreaks havoc.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T08:20:00.000Z",
-      "stop": "2026-09-18T08:25:00.000Z",
+      "start": "2026-09-19T08:20:00.000Z",
+      "stop": "2026-09-19T08:25:00.000Z",
       "title": "Bluey",
-      "subtitle": "Obstacle Course",
-      "description": "Mum sets up a backyard obstacle course just for fun, but Dad wants to race! Now the kids are determined to win by any means necessary.",
+      "subtitle": "Promises",
+      "description": "Bluey keeps breaking her promises! But after seeing how much Bingo trusts Mum's word, Bluey learns the power of promises and why it's important not to break them.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T08:25:00.000Z",
-      "stop": "2026-09-18T08:35:00.000Z",
-      "title": "The Adventures of Paddington",
-      "subtitle": "Paddington And The Wardrobe",
-      "description": "Paddington is accidentally delivered inside a wardrobe to Mr Curry's house. How will he get out before being discovered?",
+      "start": "2026-09-19T08:25:00.000Z",
+      "stop": "2026-09-19T08:40:00.000Z",
+      "title": "Zog",
+      "subtitle": "Don't Wake Zog",
+      "description": "Zog starts sleepwalking, wreaking havoc in the forest. Pearland Gadabout need to work together to help him but they can't seem to put their personal disagreements aside.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T08:35:00.000Z",
-      "stop": "2026-09-18T08:45:00.000Z",
+      "start": "2026-09-19T08:40:00.000Z",
+      "stop": "2026-09-19T08:45:00.000Z",
       "title": "Big Lizard",
-      "subtitle": "Astronaut Health Check",
-      "description": "Cosima and Big Lizard are helping Dad train for his astronaut fitness test. When Rex gets in to trouble Dad's hard work finally pays off.",
+      "subtitle": "How to Fix a Tyre",
+      "description": "When the buggy gets a flat tyre Dad, Cosima and Big Lizard are stranded. Big Lizard's playful nature helps reveal a creative solution to their problem.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T08:45:00.000Z",
-      "stop": "2026-09-18T08:55:00.000Z",
-      "title": "HexVets And Magic Pets",
-      "subtitle": "Familiar Territory",
-      "description": "Annette and Clarion transform into creatures and go undercover to stop the Creature Catchers.",
+      "start": "2026-09-19T08:45:00.000Z",
+      "stop": "2026-09-19T08:55:00.000Z",
+      "title": "Superbuns",
+      "subtitle": "Too Many Tiaras",
+      "description": "Neville's having a crisis. His dad accidentally gave away his favourite Saturday tiara. Superbuns comes to the rescue.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T08:55:00.000Z",
-      "stop": "2026-09-18T09:05:00.000Z",
-      "title": "Supertato",
-      "subtitle": "Operation Kiwi",
-      "description": "Supertato, Carrot and Tomato are exploring in the plant aisle when they hear a strange noise. They follow the noise and meet the famous Kiwi the Explorer, who needs their help.",
+      "start": "2026-09-19T08:55:00.000Z",
+      "stop": "2026-09-19T09:05:00.000Z",
+      "title": "Rocket Club",
+      "subtitle": "Ice Planet Meltdown",
+      "description": "Rocket Club races to save a village of Purpguins (purple alien penguins) after Calvin's failed WUP test leads to a meltdown of Planet Freezeball!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T09:05:00.000Z",
-      "stop": "2026-09-18T09:20:00.000Z",
-      "title": "Gardening Australia Junior",
-      "subtitle": "Weaving Stories",
-      "description": "In Kakadu, Traditional Owners welcome Clarence and invite him to join them as they weave pandanus. They carefully harvest the leaves, then they get busy dyeing, drying, and finally weaving them into beautiful creations.",
+      "start": "2026-09-19T09:05:00.000Z",
+      "stop": "2026-09-19T09:20:00.000Z",
+      "title": "Do Not Watch This Show",
+      "subtitle": "Squeak",
+      "description": "Wizz is introducing the King at a grand event, and he wants to take his voice to the next level. After drinking a tonic to help, something unexpected happens to Wizz's voice, right before his big speech.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:20:00.000Z",
+      "stop": "2026-09-19T09:30:00.000Z",
+      "title": "Bluey",
+      "subtitle": "Shadowlands",
+      "description": "On a picnic in the park, Bluey and her friends play Shadowlands. But when Coco keeps taking shortcuts, Bluey has to show her that following the rules can make the game more fun.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T09:30:00.000Z",
+      "stop": "2026-09-19T09:55:00.000Z",
+      "title": "Teenage Boss: Next Level",
+      "subtitle": "Eva M",
+      "description": "Eva is saving for her dream formal dress, but life with a baby sister and a reptile loving dad adds pressure. Can she stay on track for her big moment?",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T09:20:00.000Z",
-      "stop": "2026-09-18T09:30:00.000Z",
-      "title": "Bluey",
-      "subtitle": "Daddy Robot",
-      "description": "Bluey and Bingo don't want to tidy the playroom, so they get Daddy Robot to do it for them. But when Bluey takes things too far, Daddy Robot malfunctions with disastrous results.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T09:30:00.000Z",
-      "stop": "2026-09-18T09:35:00.000Z",
-      "title": "Shaun the Sheep",
-      "subtitle": "Operation Pidsley",
-      "description": "While the Farmer is away on a night out, the sheep sneak into the farmhouse for a party!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T19:10:00.000Z",
-      "stop": "2026-09-18T19:20:00.000Z",
+      "start": "2026-09-19T19:10:00.000Z",
+      "stop": "2026-09-19T19:20:00.000Z",
       "title": "Star Wars: Young Jedi Adventures",
-      "subtitle": "The Girl And Her Gargantua",
-      "description": "The younglings track an escaped creature.",
+      "subtitle": "The Show Must Go On",
+      "description": "Nash's Jedi friends help reunite her favourite band.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T19:20:00.000Z",
-      "stop": "2026-09-18T19:30:00.000Z",
+      "start": "2026-09-19T19:20:00.000Z",
+      "stop": "2026-09-19T19:30:00.000Z",
       "title": "PJ Masks",
-      "subtitle": "Mad with Moon Power",
-      "description": "The PJ Masks think Luna and Motsuki are causing moon trouble, but it's actually Pharaoh Boy.",
+      "subtitle": "Pharaoh And The Ninjalinos / Pharaoh's Boomerangs",
+      "description": "When Night Ninja needs the PJs' help, our heroes can't help taking advantage of it.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T19:30:00.000Z",
-      "stop": "2026-09-18T19:45:00.000Z",
+      "start": "2026-09-19T19:30:00.000Z",
+      "stop": "2026-09-19T19:45:00.000Z",
       "title": "Octonauts: Above & Beyond",
-      "subtitle": "Wild Windstorms",
-      "description": "Dashi demonstrates her piloting prowess while steering the Octoray through strong winds in Antarctica, but the true test comes when a distress call from Kwazii and Calico Jack takes her straight into another wild windstorm.",
+      "subtitle": "Siberian Salamander",
+      "description": "While trying to rescue Paani's science equipment from an icy river in Siberia, he, Inkling, Peso and Dashi discover a frozen salamander. The salamander safely exits the ice, and everyone's focus shifts to explosive craters.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T19:45:00.000Z",
-      "stop": "2026-09-18T19:55:00.000Z",
+      "start": "2026-09-19T19:45:00.000Z",
+      "stop": "2026-09-19T19:55:00.000Z",
       "title": "Thomas & Friends: All Engines Go!",
-      "subtitle": "Goodnight, Gordon",
-      "description": "When Thomas and his friends accidentally wake Gordon up from his nap, they make it their mission to help Gordon fall back asleep.",
+      "subtitle": "Cronks Crossing Conundrum",
+      "description": "The new Cronk's Crossing has made deliveries on Sodor SO much easier! And fast -- super fast. So fast that Toby is having a hard time shunting all the cars needed for the deliveries.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T19:55:00.000Z",
-      "stop": "2026-09-18T20:00:00.000Z",
+      "start": "2026-09-19T19:55:00.000Z",
+      "stop": "2026-09-19T20:00:00.000Z",
       "title": "Numberblocks",
-      "subtitle": "Fifty",
-      "description": "Superstar Fifty rocks out the Numberland stadium with her shining gold guitar.",
+      "subtitle": "Sixtys High Score",
+      "description": "It's time to meet Sixty and friends in a rocket-powered game of How Many Tens.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:00:00.000Z",
-      "stop": "2026-09-18T20:05:00.000Z",
+      "start": "2026-09-19T20:00:00.000Z",
+      "stop": "2026-09-19T20:05:00.000Z",
       "title": "Mittens & Pants",
-      "subtitle": "My Carrots",
-      "description": "When Monsieur LaFleur gets Apricot's help to shoot a carrot commercial, he worries that he's dropping his carrots too much.",
+      "subtitle": "Fish in Water",
+      "description": "DJ Swimfins is driving to her concert in the park, but her RV gets stuck in the mud. Mittens, Fire Chief Grapefruit and others in Kibble Corners try to help the DJ move her van. Will they succeed?",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:05:00.000Z",
-      "stop": "2026-09-18T20:15:00.000Z",
+      "start": "2026-09-19T20:05:00.000Z",
+      "stop": "2026-09-19T20:15:00.000Z",
       "title": "Fantus And The Machines",
-      "subtitle": "Snow Blower",
-      "description": "Fantus learns all about how snow is removed from driveway, roads and sidewalks, using a snowblower machine.",
+      "subtitle": "Snow Grooming Machine",
+      "description": "Learn all about snow grooming machines as Fantus hits the slops to find out how snow trails are created.",
       "category": null
     },
     {
-      "start": "2026-09-18T20:15:00.000Z",
-      "stop": "2026-09-18T20:20:00.000Z",
+      "start": "2026-09-19T20:15:00.000Z",
+      "stop": "2026-09-19T20:20:00.000Z",
       "title": "Peppa Pig",
-      "subtitle": "Princess Peppa",
-      "description": "Peppa brings home a Teddy from Playgroup to look after, but she is worried that he won't have a very exciting time.",
+      "subtitle": "Danny's Pirate Party",
+      "description": "It's Danny Dog's birthday, and with the help of Grandad Dog and Grandpa Pig, the children take part in a pirate treasure hunt.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:20:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
+      "start": "2026-09-19T20:20:00.000Z",
+      "stop": "2026-09-19T20:30:00.000Z",
       "title": "Ready, Steady, Wiggle!",
-      "subtitle": "Music With Anthony",
-      "description": "Join Anthony on a musical adventure as he rocks and plays his guitar! The Wiggles love music and it's time for a music lesson. Join Caterina, Tsehay, and Simon who are experts at replicating instrument sounds.",
+      "subtitle": "Recycling Day",
+      "description": "The Wiggles love making craft, and today they are cutting out shapes, but they have a little problem. Their recycle bins are full of all the craft scraps they've collected; will Rob Ish be able to help?",
       "category": null
     },
     {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T20:40:00.000Z",
+      "start": "2026-09-19T20:30:00.000Z",
+      "stop": "2026-09-19T20:40:00.000Z",
       "title": "Shaun the Sheep",
-      "subtitle": "Sheep Sheep Goose",
-      "description": "Goz, a newly hatched gosling, misses the last flight home from Mossy Bottom but is soon welcomed into the gang by Shaun and the flock. Goz enjoys life on the farm although his sense of humour isn't shared by all.",
+      "subtitle": "Costume Drama",
+      "description": "A movie crew have chosen Mossy Bottom Farm as a location for a historical drama. When Mowermouth eats the film, Shaun and the gang have to step in to make sure the movie makes it to the silver screen.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:40:00.000Z",
-      "stop": "2026-09-18T20:50:00.000Z",
+      "start": "2026-09-19T20:40:00.000Z",
+      "stop": "2026-09-19T20:50:00.000Z",
       "title": "Spidey and His Amazing Friends",
-      "subtitle": "Green Thumb",
-      "description": "Green Goblin invents a wicked weather machine to wreak havoc on the city!",
+      "subtitle": "Mother's Day Mayhem",
+      "description": "Doc Ock's escape from jail interrupts the Spidey Team's mother's day picnic.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:50:00.000Z",
-      "stop": "2026-09-18T21:00:00.000Z",
+      "start": "2026-09-19T20:50:00.000Z",
+      "stop": "2026-09-19T21:00:00.000Z",
       "title": "Supertato",
-      "subtitle": "Super Birthday",
-      "description": "Supertato is delighted when Evil Pea comes to his birthday party, but Carrot is suspicious. Soon Evil Pea unleashes the Mini Peas, who try to steal Supertato's birthday present.",
+      "subtitle": "Winter Wonderland",
+      "description": "Evil Pea thinks the Veggies won't like it when she covers the supermarket in ice, but instead they have the best snow day ever, so she creates a giant snowball to ruin their fun.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:00:00.000Z",
-      "stop": "2026-09-18T21:25:00.000Z",
+      "start": "2026-09-19T21:00:00.000Z",
+      "stop": "2026-09-19T21:25:00.000Z",
       "title": "Superkitties",
-      "subtitle": "Cat Tree Caper / Showstopper",
-      "description": "The SuperKitties have to stop Cat Burglar from swiping all the cat trees from the cats of Kittydale. / Mr. Puppypaws tries to make the Singing Squirrels give him a private concert.",
+      "subtitle": "Sparks vs. Sparks / Poochy Playdate",
+      "description": "When animals accuse Sparks of stealing, the SuperKitties must find the real thief. / A jealous Mr. Puppypaws traps all the other dogs to keep them away from the park.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:25:00.000Z",
-      "stop": "2026-09-18T21:35:00.000Z",
+      "start": "2026-09-19T21:25:00.000Z",
+      "stop": "2026-09-19T21:35:00.000Z",
       "title": "Ben & Holly's Little Kingdom",
-      "subtitle": "King Thistle Is Not Well",
-      "description": "King Thistle has a cold and needs medicine. Nanny Plum, Holly and Ben have fun collecting the ingredients for a magic potion to make him better, including a dewdrop from a spider's web, slug slime and the burp of a frog.",
+      "subtitle": "The Lost Egg",
+      "description": "Ben, Holly and Gaston the Ladybird find a large egg in the meadow. A tiny chick hatches from the egg and the children must find the mummy bird.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:35:00.000Z",
-      "stop": "2026-09-18T21:45:00.000Z",
+      "start": "2026-09-19T21:35:00.000Z",
+      "stop": "2026-09-19T21:45:00.000Z",
       "title": "Vida the Vet",
-      "subtitle": "Tidbit's Tender Tootsies",
-      "description": "Tidbit is so excited about his hiking badge that he gets blisters from over-preparing!",
+      "subtitle": "Zigzag's Scabby Scab",
+      "description": "Zigzag can't stop picking her scab! Vida has an ADHD-friendly solution.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:45:00.000Z",
-      "stop": "2026-09-18T21:50:00.000Z",
+      "start": "2026-09-19T21:45:00.000Z",
+      "stop": "2026-09-19T21:50:00.000Z",
       "title": "Peppa Pig",
-      "subtitle": "Lucky Hamper",
-      "description": "The Playgroup is going to raise the money for a good cause by making a hamper full of lovely things that a lucky parent can win by buying a raffle ticket.",
+      "subtitle": "Potty Training",
+      "description": "Mummy and Daddy teach George how to use a potty.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:50:00.000Z",
-      "stop": "2026-09-18T22:00:00.000Z",
+      "start": "2026-09-19T21:50:00.000Z",
+      "stop": "2026-09-19T22:00:00.000Z",
       "title": "Peppa Pig",
-      "subtitle": "Jelly",
-      "description": "Daddy Pig shows Peppa and George how to make jelly.",
+      "subtitle": "Trampolines",
+      "description": "Peppa and her friends have fun at a trampoline park.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T22:00:00.000Z",
-      "stop": "2026-09-18T22:05:00.000Z",
+      "start": "2026-09-19T22:00:00.000Z",
+      "stop": "2026-09-19T22:05:00.000Z",
       "title": "Bluey",
-      "subtitle": "Explorers",
-      "description": "While waiting to be picked up from school, Jack plays at being a sailor trying to find his way back home to Australia. Meanwhile, Jack's Dad has got lost on route to collect him.",
+      "subtitle": "Pavlova",
+      "description": "Mum won't let Bingo have Pavlova, so the kids find a way by playing a cheeky game of Cafe in the kitchen. But Dad the chef sets up a competing shop that only serves edamame beans.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T22:05:00.000Z",
-      "stop": "2026-09-18T22:15:00.000Z",
+      "start": "2026-09-19T22:05:00.000Z",
+      "stop": "2026-09-19T22:15:00.000Z",
       "title": "Bluey",
-      "subtitle": "Phones",
-      "description": "Bluey and Bingo want to play restaurants with Grandad, but it's a little different than he's used to. he's going to need an app to order the food!",
+      "subtitle": "Rain",
+      "description": "When a heavy summer rain thunders over the Heeler home, Bluey is determined to dam the water in the front yard, while Mum tries to stop her constantly tracking mud into the house.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T22:15:00.000Z",
-      "stop": "2026-09-18T22:20:00.000Z",
+      "start": "2026-09-19T22:15:00.000Z",
+      "stop": "2026-09-19T22:20:00.000Z",
       "title": "Ginger and the Vegesaurs",
-      "subtitle": "Huff and Puff",
-      "description": "The gang rescue a trapped Baby Watermelonsuchus with the help of some Lycheemodus.",
+      "subtitle": "Meet Ginger",
+      "description": "After narrowly escaping a pod of hungry Pea-Rexes, Ginger discovers some unexpected guests hiding in her tail - three baby Pea Rexes, Minty, Wasabi and Split.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T22:20:00.000Z",
-      "stop": "2026-09-18T22:25:00.000Z",
+      "start": "2026-09-19T22:20:00.000Z",
+      "stop": "2026-09-19T22:25:00.000Z",
       "title": "Ginger and the Vegesaurs",
-      "subtitle": "Fuzzy Eaters",
-      "description": "The Broccolisaurus need a haircut. Luckily, their florets are a Pea-Rex's favourite snack!",
+      "subtitle": "Fly Bok Fly",
+      "description": "Ginger and the baby Pea-Rexes must teach a lost baby BokChoydactyl how to fly so it can return to it's parents. Unfortunately baby Bokchoydactyls are terrible flyers.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:25:00.000Z",
+      "stop": "2026-09-19T22:35:00.000Z",
+      "title": "Zog",
+      "subtitle": "Don't Wake Zog",
+      "description": "Zog starts sleepwalking, wreaking havoc in the forest. Pearland Gadabout need to work together to help him but they can't seem to put their personal disagreements aside.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:35:00.000Z",
+      "stop": "2026-09-19T22:45:00.000Z",
+      "title": "Hey Duggee",
+      "subtitle": "The Omelette Badge",
+      "description": "Duggee decides to make an omelette, but there are no eggs so the squirrels turn to the chickens for help.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:45:00.000Z",
+      "stop": "2026-09-19T22:50:00.000Z",
+      "title": "Hey Duggee",
+      "subtitle": "The Food Growing Badge",
+      "description": "Duggee is sowing seeds. The squirrels want to grow something too, but who will grow what?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:50:00.000Z",
+      "stop": "2026-09-19T23:05:00.000Z",
+      "title": "Gardening Australia Junior",
+      "subtitle": "Soil Day Spa",
+      "description": "Clarence and the kids learn all about regenerative farming and treat the soil to a pampering session. Then they create their own day spa to treat themselves.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T23:05:00.000Z",
+      "stop": "2026-09-19T23:35:00.000Z",
+      "title": "Play School: Party Animals",
+      "subtitle": "Space Explorers Party",
+      "description": "Diddle is having a birthday party! Michelle and Takaya help her celebrate with a.Space Explorers Party! They make a bubbling volcano, play asteroid toss, take photos in a rocket photo booth and eat wobbly alien jelly!",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T23:35:00.000Z",
+      "stop": "2026-09-19T23:45:00.000Z",
+      "title": "Piggy Builders",
+      "subtitle": "Naptime",
+      "description": "The bunnies' mobile breaks, so the Piggies build an even better one. But it's so much fun, the bunnies get too excited to sleep!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T23:45:00.000Z",
+      "stop": "2026-09-20T00:10:00.000Z",
+      "title": "Santiago of the Seas",
+      "subtitle": "Lorelai’s Family Vacation",
+      "description": "Santiago joins Lorelai and her family on an underwater vacation, but when the opportunity arises to impress her adventure-seeking father, Lorelai sets out on a mission to recover the legendary Sand Spear of Sirena.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T00:10:00.000Z",
+      "stop": "2026-09-20T00:35:00.000Z",
+      "title": "The Most Magnificent Thing",
+      "subtitle": null,
+      "description": "A young girl receives a tool kit from her mum and decides to make something for her faithful dog. Through trial and error and wrestling with creative doubts, she persists until she builds the most magnificent thing of all.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T00:35:00.000Z",
+      "stop": "2026-09-20T00:45:00.000Z",
+      "title": "Nikhil & Jay",
+      "subtitle": "Nikhil and Jay and the Imaginary Friends",
+      "description": "When Nikhil is too busy to play with him, Jay creates a new imaginary friend. Nikhil makes one up too and they compete to find out which one is the best!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T00:45:00.000Z",
+      "stop": "2026-09-20T00:55:00.000Z",
+      "title": "Millie Magnificent",
+      "subtitle": "The Most Magnificent Treehouse",
+      "description": "When Millie realizes she could use another 'maker space' at Dad's house, she and Dad set out to build their very own treehouse.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T00:55:00.000Z",
+      "stop": "2026-09-20T01:10:00.000Z",
+      "title": "Stan & Gran",
+      "subtitle": "Lucky Star",
+      "description": "Stan finds a special star stone which Grandad believes will bring him luck, and it does! But when Stan loses his star stone, will his luck change?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T01:10:00.000Z",
+      "stop": "2026-09-20T01:15:00.000Z",
+      "title": "Miffy and Friends",
+      "subtitle": "Cast Envy",
+      "description": "Poor Melanie has broken her arm by playing football and must get an arm cast. Miffy starts to be a bit envious of Melanie. Having an arm cast seems so cool!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T01:15:00.000Z",
+      "stop": "2026-09-20T01:25:00.000Z",
+      "title": "Mittens & Pants",
+      "subtitle": "Ants in the Pants",
+      "description": "Pants goes to Mittens' house to play a 'kitten game'. Mittens shows him all her favourites, from staring into space to box sitting, but can Pants the puppy be patient enough to play kitten games?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T01:25:00.000Z",
+      "stop": "2026-09-20T01:30:00.000Z",
+      "title": "Mittens & Pants",
+      "subtitle": "Mummy Puppy Day",
+      "description": "When Pants joins his mum on her errand run, he expects more adventure and excitement. Instead, he learns that sometimes being responsible means it's not always play time.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T01:30:00.000Z",
+      "stop": "2026-09-20T01:40:00.000Z",
+      "title": "The Wiggles: Wiggle and Learn",
+      "subtitle": "Episode 12",
+      "description": "Spread joy and happiness with Caterina, Bubbles the Mermaid, and The Wiggles in this episode all about friendship!",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T01:40:00.000Z",
+      "stop": "2026-09-20T02:00:00.000Z",
+      "title": "Mini Kids",
+      "subtitle": "Episode 2",
+      "description": "The toddlers are visited by a baby goose. Fantus helps a little zebra find its parent.",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T02:00:00.000Z",
+      "stop": "2026-09-20T02:05:00.000Z",
+      "title": "Numberblocks",
+      "subtitle": "Subtraction Somersaults",
+      "description": "Fourteen is showing the Numberblocks how to somersault and take numbers away. Thirteen is learning to jump, take away some blocks and see what's left.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T02:05:00.000Z",
+      "stop": "2026-09-20T02:10:00.000Z",
+      "title": "Play School: Dance It Out",
+      "subtitle": "The Puddle Jump Jete",
+      "description": "Are you ready to do The Puddle Jump Jete? Takaya is practising ballet. Plie and jete along to Ballet Song and learn how to be a ballet dancer too!",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T02:10:00.000Z",
+      "stop": "2026-09-20T02:15:00.000Z",
+      "title": "Peppa Pig",
+      "subtitle": "Nature Trail",
+      "description": "Peppa and her family go for a walk in the woods. Peppa and George discover trails left by birds and ants. When they get lost they follow their own footprints back to the picnic.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T02:15:00.000Z",
+      "stop": "2026-09-20T02:20:00.000Z",
+      "title": "Peppa Pig",
+      "subtitle": "Pen Pal",
+      "description": "Peppa has a new pen pal in France, named Delphine. Peppa speaks to her on the telephone. Although Peppa speaks English and Delphine French, they discover that they love lots of the same things, especially muddy puddles.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T02:20:00.000Z",
+      "stop": "2026-09-20T02:25:00.000Z",
+      "title": "Kiri and Lou",
+      "subtitle": "Beautiful Flower",
+      "description": "Lou sings a song about a flower, while Kiri's big pet rock Rockaroonie is rolling down the hill towards him. Can Kiri stop the rock in time?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T02:25:00.000Z",
+      "stop": "2026-09-20T02:35:00.000Z",
+      "title": "Ginger and the Vegesaurs",
+      "subtitle": "Ball Games",
+      "description": "Ginger and the baby Pea-Rexes have to tread ever so lightly if they want to retrieve their ball from a cluster of sleeping Cucumberdiles - but keeping a low profile is not in a Pea-Rexes nature.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T02:35:00.000Z",
+      "stop": "2026-09-20T02:45:00.000Z",
+      "title": "Ben & Holly's Little Kingdom",
+      "subtitle": "The Witch Competition",
+      "description": "A young witch is planning on moving into Mrs Witch's house. Mrs Witch has to come out of retirement to keep her place in the Little Kingdom.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T02:45:00.000Z",
+      "stop": "2026-09-20T02:55:00.000Z",
+      "title": "Vida the Vet",
+      "subtitle": "Tibit's Achy Ankles",
+      "description": "Tidbit sprains his ankles before his dance performance. Fergie teaches him wheelchair dance moves.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T02:55:00.000Z",
+      "stop": "2026-09-20T03:10:00.000Z",
+      "title": "Talking Tom Heroes: Suddenly Super",
+      "subtitle": "Chaos Before the Storm",
+      "description": "Using her super-speed at a beach clean-up, Angela accidentally creates a giant whirlwind that threatens the event.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T03:10:00.000Z",
+      "stop": "2026-09-20T03:20:00.000Z",
+      "title": "Santiago of the Seas",
+      "subtitle": "The Lost Treasure of Merlandia",
+      "description": "When Anani learns of a treasure chest filled with magic pearls, she enlists the help of the Pirate Protectors to find it.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T03:20:00.000Z",
+      "stop": "2026-09-20T03:35:00.000Z",
+      "title": "PJ Masks",
+      "subtitle": "The Power of Mystery Mountain / The Power of Mystery Mountain Part II",
+      "description": "Mystery Mountain breaks out of its dimension and floats over the city, the heroes band together to save the day.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T03:35:00.000Z",
+      "stop": "2026-09-20T03:45:00.000Z",
+      "title": "The Octonauts",
+      "subtitle": "The Oarfish",
+      "description": "Dashi snaps a picture of what appears to be a sea serpent, but the truth is stranger than fiction when it turns out to be an awesomely long Oarfish!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T03:45:00.000Z",
+      "stop": "2026-09-20T03:50:00.000Z",
+      "title": "Hey Duggee",
+      "subtitle": "The Music Video Badge",
+      "description": "The Squirrels have made a song, but they wish they could watch themselves back whilst they perform it! Luckily Duggee has his. Music Video Badge!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T03:50:00.000Z",
+      "stop": "2026-09-20T04:05:00.000Z",
+      "title": "Kangaroo Beach",
+      "subtitle": "The Cave",
+      "description": "Pounce leads an adventure into a cave, but the cadets become trapped by the rising tide. Meanwhile, Frizzy goes in search of a volcano.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T04:05:00.000Z",
+      "stop": "2026-09-20T04:15:00.000Z",
+      "title": "Fireman Sam",
+      "subtitle": "The Taste of Pontypandy",
+      "description": "When James, Mandy and Annie use the horse and cart to deliver their cherry pop to The Taste of Pontypandy competition, chaos ensues!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T04:15:00.000Z",
+      "stop": "2026-09-20T04:25:00.000Z",
+      "title": "Nikhil & Jay",
+      "subtitle": "Nikhil and Jay and the Happy Hospital",
+      "description": "Nikhil and Jay make a hospital at home. They look after Nana and Jim, Amma and Appa and try lots of ways to make their patient.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T04:25:00.000Z",
+      "stop": "2026-09-20T04:30:00.000Z",
+      "title": "Numberblocks",
+      "subtitle": "Once Upon a Time",
+      "description": "Are you sitting comfortably? Then we'll begin a bedtime story all about the first five Numberblocks.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T04:30:00.000Z",
+      "stop": "2026-09-20T04:45:00.000Z",
+      "title": "The Makery",
+      "subtitle": "Buttons",
+      "description": "At the touch of a button, bizarre things are appearing in The Makery. These inspire today's makes: a bird in a hat, frozen yoghurt monster bark, and a bull costume.",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T04:45:00.000Z",
+      "stop": "2026-09-20T05:00:00.000Z",
+      "title": "Fizzy And Suds",
+      "subtitle": "Buses",
+      "description": "Beep! Beep! Jump aboard with Fizzy and Suds as they spend a day riding on a beautiful big bus. After that, let's see the bus have a bubble bath!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T05:00:00.000Z",
+      "stop": "2026-09-20T05:30:00.000Z",
+      "title": "Play School: Make and Create",
+      "subtitle": "Foodie Makers",
+      "description": "Zindzi and Alex are decorating tucker boxes for the toys using bits and bobs from The Useful Box! Special guest Dave showcases his cake decorating skills, and we visit Humpty's Sandwich Van for 'Build Your Own Sandwich Day'!",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T05:30:00.000Z",
+      "stop": "2026-09-20T05:55:00.000Z",
+      "title": "The Gruffalo",
+      "subtitle": null,
+      "description": "Tells the magical tale of a mouse who takes a walk through the woods in search of a nut. Encountering predators, the plucky mouse has to use his wits to survive, creating an imaginary monster who turns out to be real.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T05:55:00.000Z",
+      "stop": "2026-09-20T06:10:00.000Z",
+      "title": "Talking Tom Heroes: Suddenly Super",
+      "subtitle": "Takin' Credit",
+      "description": "When the Heroes don't thank Ginger after he helps them battle Kranium, Ginger is upset.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T06:10:00.000Z",
+      "stop": "2026-09-20T06:20:00.000Z",
+      "title": "Talking Tom Heroes: Suddenly Super",
+      "subtitle": "High Stakes",
+      "description": "Tom throws a dumpster into space to impress others, but must catch it to prevent disaster as it falls back to Earth.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T06:20:00.000Z",
+      "stop": "2026-09-20T06:30:00.000Z",
+      "title": "Stan & Gran",
+      "subtitle": "The Sneaking Spotters",
+      "description": "Stan and his friends are at the Ley to do a nature survey but strangely, there doesn't seem to be anything to spot. Where has all the wildlife gone?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T06:30:00.000Z",
+      "stop": "2026-09-20T06:45:00.000Z",
+      "title": "Little J And Big Cuz",
+      "subtitle": "Kid Detectives",
+      "description": "The kids are baffled when precious things go missing so detectives Little J and Levi search for clues. Big Cuz knows one piece of the puzzle - overwhelmed by receiving her pen licence, she's hidden her pen.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T06:45:00.000Z",
+      "stop": "2026-09-20T06:50:00.000Z",
+      "title": "Flower & Flour",
+      "subtitle": "Flour On The Loose",
+      "description": "Flour has a small rip but refuses to be mended. Can Flower catch him before he causes any more floury chaos in the restaurant?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T06:50:00.000Z",
+      "stop": "2026-09-20T07:05:00.000Z",
+      "title": "Gardening Australia Junior",
+      "subtitle": "Bathroom Green-ovation",
+      "description": "You can still have a green thumb if you don't have a garden. Tammy and Pia build their very own rainforest for the bathroom, which will thrive off all the moisture and steam to grow beautiful, oxygen rich ferns.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T07:05:00.000Z",
+      "stop": "2026-09-20T07:10:00.000Z",
+      "title": "Peppa Pig",
+      "subtitle": "Funny Music",
+      "description": "Daddy Pig has a new synthesiser. Peppa, George and Mummy Pig have fun finding and sampling sounds from around the house.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T07:10:00.000Z",
+      "stop": "2026-09-20T07:15:00.000Z",
+      "title": "Peppa Pig",
+      "subtitle": "Buttercups, Daisies and Dandelions",
+      "description": "Cousin Chloe, Peppa and George pick flowers making daisy-chains and transforming George into a fearsome dandy-lion.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T07:15:00.000Z",
+      "stop": "2026-09-20T07:20:00.000Z",
+      "title": "It's Andrew!",
+      "subtitle": "Big BIG Birthday",
+      "description": "At Dasha's birthday, Andrew doesn't want to put his special number five candle on her cake, so she magically turns three instead of thirty-five.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T07:20:00.000Z",
+      "stop": "2026-09-20T07:35:00.000Z",
+      "title": "Peppa Pig",
+      "subtitle": "Run Daddy Run",
+      "description": "After seeing an advert for the London Marathon, Daddy Pig applies to take part to show the kids what grit and determination really looks like! So, Peppa and George step in to help train him.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T07:35:00.000Z",
+      "stop": "2026-09-20T07:50:00.000Z",
+      "title": "Peppa Pig",
+      "subtitle": "Peppa Pig: Wedding Party!",
+      "description": "Mr. Bull and Mrs. Cow surprise everyone with their wedding announcement and everyone rallies around to make it memorable!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T07:50:00.000Z",
+      "stop": "2026-09-20T08:20:00.000Z",
+      "title": "Iron Man and His Awesome Friends",
+      "subtitle": "The Ultron Song / Black Panther and the Bot",
+      "description": "Ultron takes over the airwaves, and the Iron Friends must stop him. A visit from T'Challa turns tense when a device threatens his suit and the IQ.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T08:20:00.000Z",
+      "stop": "2026-09-20T08:25:00.000Z",
+      "title": "Bluey",
+      "subtitle": "Omelette",
+      "description": "Bingo is helping Mum make an omelette for Dad's birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T08:25:00.000Z",
+      "stop": "2026-09-20T08:40:00.000Z",
+      "title": "Zog",
+      "subtitle": "Fifi's Sad Pies",
+      "description": "The doctors visit Fifi and see that she is feeling sad because her pies aren't up to her usual standard. They take her out to cheer her up - until Zog realises what she really needs.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T08:40:00.000Z",
+      "stop": "2026-09-20T08:45:00.000Z",
+      "title": "Big Lizard",
+      "subtitle": "Cosima in Charge",
+      "description": "Dad has left Cosima in charge for the day. It seems like an excellent opportunity to have a massive party! What could possibly go wrong?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T08:45:00.000Z",
+      "stop": "2026-09-20T08:55:00.000Z",
+      "title": "Superbuns",
+      "subtitle": "Swing Day",
+      "description": "Buns plays on her old baby swing that she loves, despite being too big for it and gets stuck - really stuck - until Blossom comes to her rescue!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T08:55:00.000Z",
+      "stop": "2026-09-20T09:05:00.000Z",
+      "title": "Rocket Club",
+      "subtitle": "Voyage To Oceania",
+      "description": "Rocket Club are excited to visit Planet Oceania, but their voyage of discovery takes an unexpected turn when Ravi becomes obsessed with his hi-tech underwater speeder!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T09:05:00.000Z",
+      "stop": "2026-09-20T09:20:00.000Z",
+      "title": "Do Not Watch This Show",
+      "subtitle": "Popular",
+      "description": "A new country has been discovered and the most popular person in the world will be chosen to move there. Wizz discovers it could be him and desperately tries to reduce his popularity in order to stay home.",
+      "category": null
+    },
+    {
+      "start": "2026-09-20T09:20:00.000Z",
+      "stop": "2026-09-20T09:30:00.000Z",
+      "title": "Bluey",
+      "subtitle": "The Weekend",
+      "description": "At the weekend, Bluey and Bingo are playing in the garden with Dad. But Bingo gets upset when she discovers a walking leaf insect and Dad is too caught up in the game to notice.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T09:30:00.000Z",
+      "stop": "2026-09-20T11:00:00.000Z",
+      "title": "Paddington",
+      "subtitle": "Chapter",
+      "description": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
       "category": "Kids & Family"
     }
   ]

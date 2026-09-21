@@ -8,6 +8,7 @@ const {
 const path = require("path");
 const fs = require("fs");
 const { startLocalServer } = require("./server");
+const { refreshEpgGuides } = require("./epg-refresh");
 
 /** @type {BrowserWindow | null} */
 let mainWindow = null;
@@ -19,6 +20,9 @@ const DEV_URL = process.env.ELECTRON_START_URL || "http://127.0.0.1:4173";
 const BOUNDS_FILE = () => path.join(app.getPath("userData"), "window-bounds.json");
 const FAVOURITES_FILE = () =>
   path.join(app.getPath("userData"), "favourites.json");
+const TV_FAVOURITES_FILE = () =>
+  path.join(app.getPath("userData"), "tv-favourites.json");
+const EPG_OVERLAY_DIR = () => path.join(app.getPath("userData"), "epg");
 const VOID = "#08090a";
 /** Stable port so browser origin (and localStorage) stay consistent across launches. */
 const PREFERRED_PORT = 47821;
@@ -52,9 +56,9 @@ function saveBounds(win) {
   }
 }
 
-function readFavouritesFile() {
+function readJsonSlugFile(filePath) {
   try {
-    const raw = fs.readFileSync(FAVOURITES_FILE(), "utf8");
+    const raw = fs.readFileSync(filePath, "utf8");
     const parsed = JSON.parse(raw);
     if (!Array.isArray(parsed)) return [];
     return parsed.filter((x) => typeof x === "string" && x.length > 0);
@@ -63,12 +67,12 @@ function readFavouritesFile() {
   }
 }
 
-function writeFavouritesFile(slugs) {
+function writeJsonSlugFile(filePath, slugs) {
   const list = Array.isArray(slugs)
     ? slugs.filter((x) => typeof x === "string" && x.length > 0)
     : [];
-  fs.mkdirSync(path.dirname(FAVOURITES_FILE()), { recursive: true });
-  fs.writeFileSync(FAVOURITES_FILE(), JSON.stringify(list));
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, JSON.stringify(list));
   return list;
 }
 
@@ -79,9 +83,46 @@ function staticRoot() {
   return path.join(process.resourcesPath, "out");
 }
 
+function channelsCatalogPath() {
+  return path.join(staticRoot(), "channels-from-api.json");
+}
+
 function registerIpc() {
-  ipcMain.handle("favourites:get", () => readFavouritesFile());
-  ipcMain.handle("favourites:set", (_event, slugs) => writeFavouritesFile(slugs));
+  ipcMain.handle("favourites:get", () => readJsonSlugFile(FAVOURITES_FILE()));
+  ipcMain.handle("favourites:set", (_event, slugs) =>
+    writeJsonSlugFile(FAVOURITES_FILE(), slugs)
+  );
+  ipcMain.handle("tv-favourites:get", () =>
+    readJsonSlugFile(TV_FAVOURITES_FILE())
+  );
+  ipcMain.handle("tv-favourites:set", (_event, slugs) =>
+    writeJsonSlugFile(TV_FAVOURITES_FILE(), slugs)
+  );
+}
+
+function broadcastEpgUpdated() {
+  for (const win of BrowserWindow.getAllWindows()) {
+    if (!win.isDestroyed()) {
+      win.webContents.send("epg:updated");
+    }
+  }
+}
+
+async function runEpgRefresh() {
+  try {
+    const catalog = channelsCatalogPath();
+    if (!fs.existsSync(catalog)) {
+      console.warn("[epg-refresh] No channels catalog at", catalog);
+      return;
+    }
+    await refreshEpgGuides({
+      channelsPath: catalog,
+      outDir: EPG_OVERLAY_DIR(),
+    });
+    broadcastEpgUpdated();
+  } catch (err) {
+    console.warn("[epg-refresh] Failed:", err);
+  }
 }
 
 async function createWindow() {
@@ -90,6 +131,7 @@ async function createWindow() {
   if (!isDev || process.env.ELECTRON_USE_STATIC === "1") {
     const { server, origin } = await startLocalServer({
       staticRoot: staticRoot(),
+      epgOverlayRoot: EPG_OVERLAY_DIR(),
       port: PREFERRED_PORT,
     });
     localServer = server;
@@ -139,6 +181,9 @@ async function createWindow() {
   });
 
   await mainWindow.loadURL(startUrl);
+
+  // Refresh guides after UI is up so Now/Next aren't stuck on expired bake.
+  void runEpgRefresh();
 
   mainWindow.on("closed", () => {
     if (saveTimer) clearTimeout(saveTimer);

@@ -2,679 +2,503 @@
   "slug": "abc-me",
   "epgId": "mjh-abc-me",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:00:00.000Z",
-      "stop": "2026-09-17T10:30:00.000Z",
-      "title": "Would I Lie To You?",
-      "subtitle": "James Acaster, Gabby Logan, Melvin Odoom & Fay Ripley",
-      "description": "Celebrity guests reveal amazing stories, some of which are true. Host Rob Brydon and lightning-quick team captains David Mitchell and Lee Mack are joined by James Acaster, Gabby Logan, Melvin Odoom and Fay Ripley.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T10:30:00.000Z",
-      "stop": "2026-09-17T11:00:00.000Z",
-      "title": "Hard Quiz",
-      "subtitle": "F Troop, Khabib Nurmagomedov, Crowded House and. eggs",
-      "description": "Chasing after Tom Gleeson's Big Brass Mug this week on Hard Quiz are experts in F Troop, Khabib Nurmagomedov, Crowded House and. eggs. Yes, eggs!",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T11:00:00.000Z",
-      "stop": "2026-09-17T11:40:00.000Z",
-      "title": "Gruen",
-      "subtitle": "Episode 10",
-      "description": "It's the season final so we're grabbing a Malibu, sitting back and relaxing. We've got you covered with moisturiser for men, Pistachio Papi and Punirunes. Wil and Todd join Christina Aventi, Karen Ferry and Renata Yannoulis.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T11:40:00.000Z",
-      "stop": "2026-09-17T12:20:00.000Z",
-      "title": "Shaun Micallef's Eve Of Destruction",
-      "subtitle": "Rhys Nicholson and Marcia Hines",
-      "description": "Another hilarious episode of Shaun Micallef's Eve of Destruction, with celebrity guests Rhys Nicholson and Marcia Hines.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T12:20:00.000Z",
-      "stop": "2026-09-17T13:05:00.000Z",
-      "title": "ER",
-      "subtitle": "Another Perfect Day",
-      "description": "Doug's hopes regarding Carol take a positive turn after the two of them kiss following a stressful trauma. Benton and Langworthy both interview for the Starzl fellowship. A drunk Chloe throws a tantrum in the hospital.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T13:05:00.000Z",
-      "stop": "2026-09-17T13:35:00.000Z",
-      "title": "Not Going Out",
-      "subtitle": "Drugs",
-      "description": "After a night spent out clubbing, Tim returns to the flat wearing the wrong coat, and convinces Lee to help him return it to its owner.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-17T13:35:00.000Z",
-      "stop": "2026-09-17T14:35:00.000Z",
-      "title": "rage Charts",
-      "subtitle": "Episode 260",
-      "description": "Count down the hottest chart hits and catch up on some of the most promising new popular music videos on rage.",
-      "category": "Music"
-    },
-    {
-      "start": "2026-09-17T14:35:00.000Z",
-      "stop": "2026-09-17T15:25:00.000Z",
-      "title": "Patience",
-      "subtitle": "The Locked Room",
-      "description": "A bestselling crime writer is found dead behind locked doors - and Detective Bea asks Patience to help with the investigation.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T15:25:00.000Z",
-      "stop": "2026-09-17T16:10:00.000Z",
-      "title": "Portrait Artist Of The Year",
-      "subtitle": "Painting Kim Cattrall",
-      "description": "This special film follows the winner of Portrait Artist of the Year 2018 as they paint a commissioned portrait of Sex and the City actress Kim Cattrall.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:10:00.000Z",
-      "stop": "2026-09-17T16:45:00.000Z",
-      "title": "QI",
-      "subtitle": "Episode 7",
-      "description": "Dust off your tinfoil hats and join Sandi Toksvig for a QI look at Ufology with Cally Beaton, Nish Kumar, Tom Ward, and Alan Davies.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:45:00.000Z",
-      "stop": "2026-09-17T17:25:00.000Z",
-      "title": "Penn & Teller: Fool Us",
-      "subtitle": "Burning Down the House",
-      "description": "Featured magicians include Spencer Scurr, Markus Tervo, Adrian Vega and Simone Turkington.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T17:25:00.000Z",
-      "stop": "2026-09-17T17:30:00.000Z",
-      "title": "ABC News Update",
-      "subtitle": "Friday 18 September 2026",
-      "description": "The headlines from ABC News, updating you on the day's top stories from across Australia and around the world.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-17T17:30:00.000Z",
-      "stop": "2026-09-17T18:00:00.000Z",
-      "title": "QI",
-      "subtitle": "Hodge Podge",
-      "description": "This episode QI Master Stephen Fry is joined by panellists Alan Davies, Phill Jupitus, Jack Dee and Ross Noble to explore the higgledy piggledy theme of 'Hodge Podge'.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T18:00:00.000Z",
-      "stop": "2026-09-17T18:10:00.000Z",
-      "title": "The Powerpuff Girls",
-      "subtitle": "Professor Proofed",
-      "description": "The Professor's latest experiment goes awry.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T18:10:00.000Z",
-      "stop": "2026-09-17T18:20:00.000Z",
-      "title": "We Bare Bears",
-      "subtitle": "Crowbar Jones",
-      "description": "Grizz screens an epic amateur movie he just made for a focus group.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T18:20:00.000Z",
-      "stop": "2026-09-17T18:35:00.000Z",
-      "title": "Teen Titans Go!",
-      "subtitle": "Kabooms Part: 2",
-      "description": "Inspired by the \"Babies vs. Dogs\" movie, the Titans set out to make a big Hollywood film of their own.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T18:35:00.000Z",
-      "stop": "2026-09-17T18:45:00.000Z",
-      "title": "The Powerpuff Girls",
-      "subtitle": "Clawdad",
-      "description": "While visiting the lake, Buttercup vows to capture a legendary uncatchable crawdad.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T18:45:00.000Z",
-      "stop": "2026-09-17T19:05:00.000Z",
-      "title": "Miraculous: Tales Of Ladybug And Cat Noir",
-      "subtitle": "The Pharaoh",
-      "description": "Jalil, a young Egyptologist, is akumatised by Hawk Moth. He becomes Pharaoh and wants to sacrifice Alya in a ritual. Can Ladybug and Cat Noir stop him?",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T19:05:00.000Z",
-      "stop": "2026-09-17T19:35:00.000Z",
-      "title": "Malory Towers",
-      "subtitle": "The Inter-Tower Match",
-      "description": "Gwen learns Clarissa has been keeping a big secret after she falls ill during a lacrosse game. Meanwhile, Irene hears that her father has a new love interest.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T19:35:00.000Z",
-      "stop": "2026-09-17T20:00:00.000Z",
-      "title": "Lagging",
-      "subtitle": "Supreme Aruler",
-      "description": "Good and evil battle in Zaag and at the Respawn Point, as Arul wants some peace from his messy brothers, while everyone else wants some peace from Lok's annoying singing.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T20:00:00.000Z",
-      "stop": "2026-09-17T20:05:00.000Z",
-      "title": "Slugterra: Ascension",
-      "subtitle": "Follow That Flopper / Hidden Depths",
-      "description": "Eli and Trixie's new slug friend, Uni, could be the key to helping them escape, but they soon learn that Uni's amazing battle moves come with disastrous consequences to their own slugs' powers.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:05:00.000Z",
-      "stop": "2026-09-17T20:30:00.000Z",
-      "title": "Iyanu",
-      "subtitle": "The Offer",
-      "description": "Uwa returns to Elu to warn Kanfo of a possible invasion. Meanwhile, Team Chosen searches for the energy wave's source while Biyi struggles with magic.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T20:30:00.000Z",
-      "stop": "2026-09-17T20:40:00.000Z",
-      "title": "The Strange Chores",
-      "subtitle": "Hunt A Monster",
-      "description": "A lie gets out of control when Que takes credit for taking out a class five lava monster single-handed and receives an unexpected promotion.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:40:00.000Z",
-      "stop": "2026-09-17T21:00:00.000Z",
-      "title": "Be Cool, Scooby-Doo!",
-      "subtitle": "Kitchen Frightmare",
-      "description": "Shaggy and Scooby's favourite chef is finally opening his own restaurant but a monstrous Yeti threatens the opening night.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:00:00.000Z",
-      "stop": "2026-09-17T21:15:00.000Z",
-      "title": "Summer Camp Island",
-      "subtitle": "Wild Hearts Can't Be Caboodled",
-      "description": "Things get wonky when Oscar and Hedgehog use magic to get an edge on their fellow campers in the Rainbow Unicorn Badge contest.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:15:00.000Z",
-      "stop": "2026-09-17T21:25:00.000Z",
-      "title": "The Amazing World of Gumball",
-      "subtitle": "The Slap",
-      "description": "Gumball is jealous when he realizes that Tobias doesn't greet him with his special high-five slap.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:25:00.000Z",
-      "stop": "2026-09-17T21:35:00.000Z",
-      "title": "Unikitty",
-      "subtitle": "Scary Tales 2",
-      "description": "During the gang's Halloween party, Unikitty discovers Rick isn't scared of anything! They each tell their own ideas of what a spooky story is, hoping to scare the emotionless Rick for once.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:35:00.000Z",
-      "stop": "2026-09-17T22:00:00.000Z",
-      "title": "Miraculous: Tales Of Ladybug And Cat Noir",
-      "subtitle": "Grendiaper",
-      "description": "While Zoe looks for a way to stop ill intentioned people on her path from doing evil, Ladybug is faced with a series of strange events in Paris.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:00:00.000Z",
-      "stop": "2026-09-17T22:20:00.000Z",
-      "title": "LEGO Ninjago: Masters of Spinjitzu",
-      "subtitle": "Return of the Overlord",
-      "description": "When Garmadon uses his new Super-Weapon to turn Jamakai Village evil, he unwittingly unsettles the balance, allowing the spirit of the Overlord to cross over and possesses his body.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:20:00.000Z",
-      "stop": "2026-09-17T22:45:00.000Z",
-      "title": "Pokemon Horizons: The Series",
-      "subtitle": "The Catcher in the Sky",
-      "description": "As Friede returns from space, his reentry capsule malfunctions.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:45:00.000Z",
-      "stop": "2026-09-17T23:00:00.000Z",
-      "title": "GG: Spawn Squad",
-      "subtitle": "Jonny fights a Frost Gleeok in TOTK",
-      "description": "Jonny shows Harry around his favourite parts of The Legend of Zelda: Tears of the Kingdom! Together they attempt some shrines and explore the Depths, before taking on one of the most fearsome bosses: the dreaded Frost Gleeok!",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:00:00.000Z",
-      "stop": "2026-09-17T23:05:00.000Z",
-      "title": "Numberblocks",
-      "subtitle": "Sky High Fives",
-      "description": "Five gets ready to perform at the Tower of Rock with a little help from the Five Times Table. Learn the five times table with the Numberblocks.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T23:05:00.000Z",
-      "stop": "2026-09-17T23:10:00.000Z",
-      "title": "One, Two, Threebies!",
-      "subtitle": "Partying a Round",
-      "description": "It's Round Day! Roh teaches Boxy and Tri about the calendar.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:10:00.000Z",
-      "stop": "2026-09-17T23:20:00.000Z",
-      "title": "Let's Sing!",
-      "subtitle": "Mile Mile",
-      "description": "Join Suara Indonesia Dance and Emma Watkins and sing along to the traditional Indonesian seated song and dance from Aceh, Mile-Mile from Ratoh Duek.",
-      "category": "Music"
-    },
-    {
-      "start": "2026-09-17T23:20:00.000Z",
-      "stop": "2026-09-17T23:25:00.000Z",
-      "title": "ABC Education Story Time (Auslan)",
-      "subtitle": "Too Many Cheeky Dogs",
-      "description": "Too Many Cheeky Dogs, a book by Johanna Bell and Dion Beasley, signed for you by Calvin Black. Enjoy this story about cheeky camp dogs causing trouble in a remote outback community.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:25:00.000Z",
-      "stop": "2026-09-17T23:45:00.000Z",
-      "title": "Bitesize Daily",
-      "subtitle": "Outside Your Window",
-      "description": "Learn about composition, mark making and drawing birds.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:45:00.000Z",
-      "stop": "2026-09-17T23:50:00.000Z",
-      "title": "Art Blast",
-      "subtitle": "Someone Elsies",
-      "description": "If a picture of yourself is called a selfie, then surely a picture of someone else is called a Someone Elsie, (and a picture of a butt is called a smellfie?). Well that's what Matt reckons anyway.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:50:00.000Z",
-      "stop": "2026-09-17T23:55:00.000Z",
-      "title": "Know It Alls: Visual Art",
-      "subtitle": "Blue Poles",
-      "description": "Comedian Carlo Ritchie and Ruby get to express themselves abstractedly as they weave their way around the National Galleries abstract art. Only one can pass with flying colours on their way to the Know It Alls trophy!",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T23:55:00.000Z",
-      "stop": "2026-09-18T00:05:00.000Z",
-      "title": "The Brilliant World Of Tom Gates",
-      "subtitle": "Rock, Paper, Scissors",
-      "description": "Tom and his friends play Rock, Paper, Scissors at school but Marcus adds a new the rule. Liz draws around a paperclip, a pencil sharpener and a straw to create 3D doodles.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:05:00.000Z",
-      "stop": "2026-09-18T00:30:00.000Z",
-      "title": "Shaun Tan's Tales from Outer Suburbia",
-      "subtitle": "Water Buffalo",
-      "description": "Klara and Pim arrive in their new home, daunted by the upheaval. Klara meets two strange girls-edgy, street-smart Cat and mysterious, reclusive Esme. Meanwhile, Pim runs away and discovers a huge, enigmatic Water Buffalo.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:30:00.000Z",
-      "stop": "2026-09-18T00:50:00.000Z",
-      "title": "Shaun Tan's Tales from Outer Suburbia",
-      "subtitle": "Broken Toys",
-      "description": "Exploring their neighbourhood, Pim and Klara come across a curious stranger-a lost deep-sea diver who seems to need their help. Can the siblings work together and figure out where he belongs?",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:50:00.000Z",
-      "stop": "2026-09-18T01:05:00.000Z",
-      "title": "BtN Newsbreak",
-      "subtitle": "Episode 162",
-      "description": "Find out what's going on in the world with a news bulletin designed for children, featuring stories that are relevant and easy to understand.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T01:05:00.000Z",
-      "stop": "2026-09-18T01:55:00.000Z",
-      "title": "George Clarke's Old House, New Home",
-      "subtitle": "Clapham and Hove",
-      "description": "In Clapham, Masum and Maria's Victorian terraced home is no longer working for the three generations of family living there. And George meets Louis and Sarah, who are tackling the upstairs of their 16th century gatehouse.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T01:55:00.000Z",
-      "stop": "2026-09-18T02:20:00.000Z",
-      "title": "Not Going Out",
-      "subtitle": "Debbie",
-      "description": "A 20-year-old girl turns up on Lee's doorstep and announces that he might be her father. Lee goes into immediate denial, until he remembers a one-night stand he had at a party that Tim threw back in the 1980s.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-18T02:20:00.000Z",
-      "stop": "2026-09-18T03:10:00.000Z",
-      "title": "Patience",
-      "subtitle": "My Brother's Keeper",
-      "description": "A body disappears from the morgue. The victim is the brother of Patience's friend Billy, and she knows she must help him.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T03:10:00.000Z",
-      "stop": "2026-09-18T04:05:00.000Z",
-      "title": "The Luminaries",
-      "subtitle": "The Place You Return",
-      "description": "Lydia and Carver hatch a plan to free Carver from his convict past. Emery sets sail to the goldfields in search of Anna. In 1866, the results of Crosbie Wells's autopsy are revealed.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T04:05:00.000Z",
-      "stop": "2026-09-18T04:45:00.000Z",
-      "title": "ER",
-      "subtitle": "Another Perfect Day",
-      "description": "Doug's hopes regarding Carol take a positive turn after the two of them kiss following a stressful trauma. Benton and Langworthy both interview for the Starzl fellowship. A drunk Chloe throws a tantrum in the hospital.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T04:45:00.000Z",
-      "stop": "2026-09-18T05:10:00.000Z",
-      "title": "Fresh Off the Boat",
-      "subtitle": "So Chineez",
-      "description": "Jessica fears her family has assimilated so much to life in Orlando that they've lost their Taiwanese identity, so she drives everyone nuts making them reconnect with their culture. (Final)",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-18T05:10:00.000Z",
-      "stop": "2026-09-18T05:40:00.000Z",
-      "title": "QI",
-      "subtitle": "Jam, Jelly And Juice",
-      "description": "Joining Stephen to talk all things Jam, Jelly and Juice are Jo Brand, Liza Tarbuck, Sue Perkins and Alan Davies.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T05:40:00.000Z",
-      "stop": "2026-09-18T06:10:00.000Z",
-      "title": "Would I Lie To You?",
-      "subtitle": "Episode 8",
-      "description": "Jack Whitehall, Emily Maitlis, Jim Carter and Armando Iannucci join the regulars.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T06:10:00.000Z",
-      "stop": "2026-09-18T07:00:00.000Z",
-      "title": "Mythbusters",
-      "subtitle": "Holiday Special",
-      "description": "'Tis the season to bust Holiday myths. Whether you think the Yuletide season is the most magical time of the year or a bunch of bah-humbug, it's full of fables to unwrap.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T07:00:00.000Z",
-      "stop": "2026-09-18T07:45:00.000Z",
-      "title": "Portrait Artist Of The Year",
-      "subtitle": "Matthew Goode, Geraldine James & Andi Oliver",
-      "description": "Stephen Mangan and Joan Bakewell co-present Portrait Artist of the Year from the prestigious Wallace Collection in London, which is transformed into an art studio in a quest to find the best creative talent.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T07:45:00.000Z",
-      "stop": "2026-09-18T08:35:00.000Z",
-      "title": "George Clarke's Old House, New Home",
-      "subtitle": "Lighthorne",
-      "description": "George takes on a 17th century, Grade II listed thatched cottage in Warwickshire. Anthony, a builder, and Emily, a physiotherapist, are determined to turn this rather ramshackle build into their family home. (Final)",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T08:35:00.000Z",
-      "stop": "2026-09-18T09:00:00.000Z",
-      "title": "Richard Osman's House of Games",
-      "subtitle": "Episode 40",
-      "description": "Richard Osman hosts as actress Samantha Womack, Top Gear's Rory Reid, broadcaster Anne Diamond and comedian James Acaster test their general knowledge skills.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T09:00:00.000Z",
-      "stop": "2026-09-18T09:30:00.000Z",
-      "title": "Spicks and Specks",
-      "subtitle": "Wendy Stapleton, Tom Ballard, Antionette Halloran & Damian Callinan",
-      "description": "Joining Adam, Alan and Myf are singer and actress Wendy Stapleton, radio presenter and comedian Tom Ballard, operatic soprano Antoinette Halloran, and stand-up comic Damian Callinan.",
-      "category": "Music"
-    },
-    {
-      "start": "2026-09-18T09:30:00.000Z",
-      "stop": "2026-09-18T10:00:00.000Z",
-      "title": "QI",
-      "subtitle": "Liblabble",
-      "description": "Stephen Fry looks through a list of L-themed larks - a 'liblabble', as he calls it. The Reverend Richard Coles, Sara Pascoe, Bill Bailey and Alan Davies are on the panel.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T10:00:00.000Z",
-      "stop": "2026-09-18T10:30:00.000Z",
-      "title": "Would I Lie To You?",
-      "subtitle": "Sophie Ellis-bextor, Loyiso Gola, Jason Manford And Briony May Williams",
-      "description": "Sorting fact from fiction this week are guests Sophie Ellis-Bextor, Loyiso Gola, Jason Manford and Briony May Williams.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T10:30:00.000Z",
-      "stop": "2026-09-18T11:05:00.000Z",
-      "title": "Planet America",
-      "subtitle": "Episode 27 of Season 2026",
-      "description": "Donald Trump promises Americans $5000 if Republicans win November's midterms, but will it be enough to save them? Plus is the president already undermining the elections? We ask election law expert Professor Rick Hasen.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T11:05:00.000Z",
-      "stop": "2026-09-18T13:10:00.000Z",
-      "title": "Presumed Innocent",
+      "start": "2026-09-19T01:50:00.000Z",
+      "stop": "2026-09-19T03:55:00.000Z",
+      "title": "Extremely Loud & Incredibly Close",
       "subtitle": null,
-      "description": "A dedicated criminal prosecutor is seduced into a short-lived extramarital affair by a beautiful colleague. When she is found dead--apparently the victim of rape and murder--all the evidence incriminates Sabich",
+      "description": "A nine-year-old boy finds a mysterious key that once belonged to his father, a victim of the September 11th terrorist attacks. With childhood determination, the boy sets out on a quest to find what secrets the key unlocks.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-18T13:10:00.000Z",
-      "stop": "2026-09-18T13:50:00.000Z",
+      "start": "2026-09-19T03:55:00.000Z",
+      "stop": "2026-09-19T04:40:00.000Z",
       "title": "ER",
       "subtitle": "9 1/2 Hours",
       "description": "Dr. Ross tries to maintain order at the ER on Greene's day off. Hathaway treats a rape victim who is afraid to cooperate with police. Carter works on a high school wrestler who starved himself to make weight.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-18T13:50:00.000Z",
-      "stop": "2026-09-18T14:20:00.000Z",
-      "title": "Not Going Out",
-      "subtitle": "Debbie",
-      "description": "A 20-year-old girl turns up on Lee's doorstep and announces that he might be her father. Lee goes into immediate denial, until he remembers a one-night stand he had at a party that Tim threw back in the 1980s.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-18T14:20:00.000Z",
-      "stop": "2026-09-18T14:25:00.000Z",
-      "title": "Like A Version - triple j",
-      "subtitle": "Episode 40",
-      "description": "The idea of Like A Version is pretty simple. We invite a musician or band into our studios, tell them to bring their instruments along, and ask them to play one of their own compositions as well as a song by someone else that they love.",
-      "category": "Music"
-    },
-    {
-      "start": "2026-09-18T14:25:00.000Z",
-      "stop": "2026-09-18T15:30:00.000Z",
-      "title": "rage Charts",
-      "subtitle": "Episode 261",
-      "description": "Australia's longest running music TV show, rage is home to the biggest vault of music videos from a diverse range of artists, genres and eras. We curate the best clips of all time to surprise and entertain you for hours.",
-      "category": "Music"
-    },
-    {
-      "start": "2026-09-18T15:30:00.000Z",
-      "stop": "2026-09-18T16:15:00.000Z",
-      "title": "Patience",
-      "subtitle": "My Brother's Keeper",
-      "description": "A body disappears from the morgue. The victim is the brother of Patience's friend Billy, and she knows she must help him.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T16:15:00.000Z",
-      "stop": "2026-09-18T17:00:00.000Z",
-      "title": "Portrait Artist Of The Year",
-      "subtitle": "Matthew Goode, Geraldine James & Andi Oliver",
-      "description": "Stephen Mangan and Joan Bakewell co-present Portrait Artist of the Year from the prestigious Wallace Collection in London, which is transformed into an art studio in a quest to find the best creative talent.",
+      "start": "2026-09-19T04:40:00.000Z",
+      "stop": "2026-09-19T05:20:00.000Z",
+      "title": "Penn & Teller: Fool Us",
+      "subtitle": "Penn & Teller In 3d...Glasses",
+      "description": "Featured magicians include Hans Klok, Michael Bourada, Hedne and Vincenzo Ravina; special appearance by Rich Sommer.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T17:00:00.000Z",
-      "stop": "2026-09-18T17:20:00.000Z",
-      "title": "Fresh Off the Boat",
-      "subtitle": "So Chineez",
-      "description": "Jessica fears her family has assimilated so much to life in Orlando that they've lost their Taiwanese identity, so she drives everyone nuts making them reconnect with their culture. (Final)",
+      "start": "2026-09-19T05:20:00.000Z",
+      "stop": "2026-09-19T05:50:00.000Z",
+      "title": "QI",
+      "subtitle": "Campanology",
+      "description": "Stephen Fry is joined by guests Bill Bailey, Alan Davies, Rob Brydon and Rich Hall.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T05:50:00.000Z",
+      "stop": "2026-09-19T07:25:00.000Z",
+      "title": "Mythbusters",
+      "subtitle": "Episode 2",
+      "description": "Arggghhh me hearties... Jamie and Adam have plundered the seven seas in search of pirate parables and maritime myths and the result is this 2-hour spectacular. And with four stories of hi-jinks on the high seas the action is thick and fast.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T07:25:00.000Z",
+      "stop": "2026-09-19T08:10:00.000Z",
+      "title": "Portrait Artist Of The Year",
+      "subtitle": "David Gandy, Anne Reid & Ashley Walters",
+      "description": "Nine artists are challenged to paint either actor and rapper Ashley Walters, model David Gandy or actress Anne Reid. The artists will need to impress judges Kathleen Soriano, Tai Shan Schierenberg and Kate Bryan.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T08:10:00.000Z",
+      "stop": "2026-09-19T09:00:00.000Z",
+      "title": "George Clarke's Old House, New Home",
+      "subtitle": "Southwick And Southport",
+      "description": "George visits an 18th century barn containing some very dodgy decor including a purple '80s kitchen. Plus, George takes on a Victorian gothic pile in the seaside resort of Southport.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T09:00:00.000Z",
+      "stop": "2026-09-19T09:30:00.000Z",
+      "title": "Spicks and Specks",
+      "subtitle": "John Williamson, Jimeoin, Leah Flanagan & Dave O'neil",
+      "description": "Joining Adam, Alan and Myf are Australia's true blue balladeer John Williamson, stand-up comedian Jimeoin, cabaret singer/songwriter Leah Flanagan and show favourite Dave O'Neil. That 1 Guy closes the show.",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-19T09:30:00.000Z",
+      "stop": "2026-09-19T10:00:00.000Z",
+      "title": "QI",
+      "subtitle": "Episode 8",
+      "description": "Join Sandi Toksvig as she looks at some animals beginning with \"U\" with Rhod Gilbert, Lara Ricote, Ahir Shah, and Alan Davies.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T10:00:00.000Z",
+      "stop": "2026-09-19T10:30:00.000Z",
+      "title": "Would I Lie To You?",
+      "subtitle": "Nadiya Hussain, Diane Morgan, Bob Mortimer & Michael Smiley",
+      "description": "Rob Brydon hosts the tenth series of the comedy panel show. Joining team captains David Mitchell and Lee Mack are Nadiya Hussain, Diane Morgan, Bob Mortimer and Michael Smiley.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T10:30:00.000Z",
+      "stop": "2026-09-19T11:15:00.000Z",
+      "title": "Live At The Apollo",
+      "subtitle": "Episode 6",
+      "description": "The hilarious Iain Stirling is your host for this episode of the award winning Live at the Apollo as he introduces comedians Harriet Dyer and Maria Shehata to the stage.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T11:15:00.000Z",
+      "stop": "2026-09-19T12:40:00.000Z",
+      "title": "Kath & Kimderella",
+      "subtitle": null,
+      "description": "When foxy empty-nester Kath Day-Knight wins the trip of a lifetime to a tiny European kingdom with her spoilt princess daughter Kim, she embarks on a fairy-tale adventure filled with power, love, lust, and a royal wedding.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-18T17:20:00.000Z",
-      "stop": "2026-09-18T17:25:00.000Z",
+      "start": "2026-09-19T12:40:00.000Z",
+      "stop": "2026-09-19T13:15:00.000Z",
+      "title": "Arrested Development",
+      "subtitle": "Smashed",
+      "description": "Tobias returns to his roots and reunites with his leading lady after a rough few weeks. (Final)",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-19T13:15:00.000Z",
+      "stop": "2026-09-19T13:40:00.000Z",
+      "title": "Arrested Development",
+      "subtitle": "Family Leave",
+      "description": "Surprises greet Michael at the penthouse and Sudden Valley. George-Michael confides in Maeby, who's trying to avoid Sudden Valley.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-19T13:40:00.000Z",
+      "stop": "2026-09-19T14:05:00.000Z",
+      "title": "Arrested Development",
+      "subtitle": "Self-Deportation",
+      "description": "For varying reasons, most of the Bluths (even Steve Holt) feel compelled to run off to Mexico. Michael tries to convince Buster to go to the police.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-19T14:05:00.000Z",
+      "stop": "2026-09-19T14:50:00.000Z",
+      "title": "ER",
+      "subtitle": "ER Confidential",
+      "description": "It's Thanksgiving and the ER treat an animal rights activist who was attacked by the turkey he was trying to save. Doctors help a suicidal transgender woman and try to save two boys who killed a girl in a car accident.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-19T14:50:00.000Z",
+      "stop": "2026-09-19T15:50:00.000Z",
+      "title": "rage Charts",
+      "subtitle": "rage Video Game Special",
+      "description": "All your music video are belong to us XD From Junior Senior to Mi Sex, Moby, Montaigne and more, rage lines up the best video game inspired music videos.",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-19T15:50:00.000Z",
+      "stop": "2026-09-19T16:20:00.000Z",
+      "title": "Not Going Out",
+      "subtitle": "Movie",
+      "description": "Lucy is fed up of Lee treating her flat as if he owns it. Lee promises to change but omits to mention that he's already let the flat out to a film director who is paying him 500 quid to make a porn movie while Lucy's out.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-19T16:20:00.000Z",
+      "stop": "2026-09-19T17:05:00.000Z",
+      "title": "Portrait Artist Of The Year",
+      "subtitle": "David Gandy, Anne Reid & Ashley Walters",
+      "description": "Nine artists are challenged to paint either actor and rapper Ashley Walters, model David Gandy or actress Anne Reid. The artists will need to impress judges Kathleen Soriano, Tai Shan Schierenberg and Kate Bryan.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T17:05:00.000Z",
+      "stop": "2026-09-19T17:25:00.000Z",
+      "title": "Whose Line Is It Anyway?",
+      "subtitle": "Jeff Davis",
+      "description": "In a succession of brilliant games, lonely heart Jeff Davis seeks love in Let's Make a Date as he has to choose between Wayne's all action lifeguard, Colin's gung-ho caver and Ryan's horny grizzly bear.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T17:25:00.000Z",
+      "stop": "2026-09-19T17:30:00.000Z",
       "title": "ABC News Update",
-      "subtitle": "Saturday 19 September 2026",
+      "subtitle": "Sunday 20 September 2026",
       "description": "The headlines from ABC News, updating you on the day's top stories from across Australia and around the world.",
       "category": "News"
     },
     {
-      "start": "2026-09-18T17:25:00.000Z",
-      "stop": "2026-09-18T18:00:00.000Z",
+      "start": "2026-09-19T17:30:00.000Z",
+      "stop": "2026-09-19T18:00:00.000Z",
       "title": "QI",
-      "subtitle": "Jam, Jelly And Juice",
-      "description": "Joining Stephen to talk all things Jam, Jelly and Juice are Jo Brand, Liza Tarbuck, Sue Perkins and Alan Davies.",
+      "subtitle": "Campanology",
+      "description": "Stephen Fry is joined by guests Bill Bailey, Alan Davies, Rob Brydon and Rich Hall.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T18:00:00.000Z",
-      "stop": "2026-09-18T18:25:00.000Z",
+      "start": "2026-09-19T18:00:00.000Z",
+      "stop": "2026-09-19T18:25:00.000Z",
       "title": "Deadly Predators",
-      "subtitle": "Sharks",
-      "description": "Steve uncovers the secrets of sharks, the world's most infamous predators. From the ocean's most graceful killers to the biggest shark to have ever existed.",
+      "subtitle": "Speed",
+      "description": "Steve goes in search of the fastest predators and high-dives like a gannet off a cliff.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T18:25:00.000Z",
-      "stop": "2026-09-18T18:55:00.000Z",
+      "start": "2026-09-19T18:25:00.000Z",
+      "stop": "2026-09-19T18:55:00.000Z",
       "title": "Operation Ouch!",
-      "subtitle": "Mind You Don’t Fall!",
-      "description": "There's flamenco dancing in the lab as the doctors take a look at fat pads in your feet. Find out what to do if someone falls from height and watch out for a big Gross Alert in A&E.",
+      "subtitle": "Achilles",
+      "description": "George the tree frog joins the doctors to investigate how your Achilles tendon works using huge catapults! Plus there's a suspected spider-bite in the Emergency Department.",
       "category": null
     },
     {
-      "start": "2026-09-18T18:55:00.000Z",
-      "stop": "2026-09-18T19:15:00.000Z",
+      "start": "2026-09-19T18:55:00.000Z",
+      "stop": "2026-09-19T19:15:00.000Z",
       "title": "Scooby-Doo and Guess Who?",
-      "subtitle": "Scooby on Ice!",
-      "description": "Scooby Doo and the gang are in Austria for the International Ice Games and meet Tara Lipinski.",
+      "subtitle": "Caveman on the Half Pipe!",
+      "description": "Scooby Doo and the gang run into American Gold Medalist and famous snowboarder, Chloe Kim.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T19:15:00.000Z",
-      "stop": "2026-09-18T19:25:00.000Z",
+      "start": "2026-09-19T19:15:00.000Z",
+      "stop": "2026-09-19T19:25:00.000Z",
       "title": "Teen Titans Go!",
-      "subtitle": "Fat Cats",
-      "description": "After winning a huge cash prize, the Titans learn about the IRS and taxes.",
+      "subtitle": "Jam",
+      "description": "Harley Quinn, Poison Ivy, and Catwoman recruit Starfire and Raven for their roller derby team.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T19:25:00.000Z",
-      "stop": "2026-09-18T19:50:00.000Z",
+      "start": "2026-09-19T19:25:00.000Z",
+      "stop": "2026-09-19T19:50:00.000Z",
       "title": "Miraculous: Tales Of Ladybug And Cat Noir",
-      "subtitle": "Psycomedian",
-      "description": "A famous comedian gets akumatised into Psycomedian. Able to impose any emotions on anyone, he wants to wipe the smiles off everyone's faces...starting with Ladybug and Cat Noir!",
+      "subtitle": "Furious Fu",
+      "description": "Ladybug and Cat Noir face someone they know well... and never imagined they would have to fight someday.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T19:50:00.000Z",
-      "stop": "2026-09-18T20:00:00.000Z",
+      "start": "2026-09-19T19:50:00.000Z",
+      "stop": "2026-09-19T20:00:00.000Z",
       "title": "Teen Titans Go!",
-      "subtitle": "Two Parter: Part One",
-      "description": "The Titans visit the Hall of Justice.",
+      "subtitle": "Two Parter: Part Two",
+      "description": "The Titans save the Justice League from the clutches of Darkseid.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:00:00.000Z",
-      "stop": "2026-09-18T20:10:00.000Z",
+      "start": "2026-09-19T20:00:00.000Z",
+      "stop": "2026-09-19T20:10:00.000Z",
       "title": "Ninjago",
-      "subtitle": "A Sinister Shadow",
-      "description": "Harumi tells Lloyd how she survived and became the herald of the Crystal King. Lloyd learns her plan for Ninjago but is powerless to stop her.",
+      "subtitle": "The Fall of the Monastery",
+      "description": "The Ninja search for escape while Master Wu and the others defend the Weapons of Spinjitzu from the Council of the Crystal King.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:10:00.000Z",
-      "stop": "2026-09-18T20:20:00.000Z",
+      "start": "2026-09-19T20:10:00.000Z",
+      "stop": "2026-09-19T20:20:00.000Z",
       "title": "Ninjago",
-      "subtitle": "The Spider's Design",
-      "description": "The Ninja search for Lloyd and walk right into Harumi's trap as Lloyd falls victim to her manipulation.",
+      "subtitle": "Darkness Within",
+      "description": "Nya, as Samurai X, rescues the Ninja, but Harumi's plan for the Weapons of Spinjitzu is already in motion.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:20:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
+      "start": "2026-09-19T20:20:00.000Z",
+      "stop": "2026-09-19T20:30:00.000Z",
       "title": "The Strange Chores",
-      "subtitle": "Debate A Bully",
-      "description": "The school debate championships are looming and Pierce is struggling with being unkind to his opponent, until his Future Self arrives with the perfect comeback.",
+      "subtitle": "Stop Mr. Shop",
+      "description": "Charlie's teacher is revealed as an alien who is here to destroy the Earth! The Gang have to convince him that Earth is worth saving.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T20:55:00.000Z",
+      "start": "2026-09-19T20:30:00.000Z",
+      "stop": "2026-09-19T20:55:00.000Z",
       "title": "Be Cool, Scooby-Doo!",
-      "subtitle": "Me, Myself, And A.i.",
-      "description": "An artificial intelligence takes over a tech company.",
+      "subtitle": "Area 51 Adjacent",
+      "description": "The gang track a scary alien monster to Area 53!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:55:00.000Z",
-      "stop": "2026-09-18T21:15:00.000Z",
+      "start": "2026-09-19T20:55:00.000Z",
+      "stop": "2026-09-19T21:15:00.000Z",
       "title": "The Deep",
-      "subtitle": "The Phantom Sub",
-      "description": "Does a ghost sub haunt the ocean depths? Ant believes it does, but when he actually finds this \"ghost sub\", the truth is even stranger - and much more dangerous. Ant and Fontaine find themselves trapped - by a ghost?",
+      "subtitle": "The Abyss Stares Back",
+      "description": "While diving in a rare blue hole, a sinkhole in the middle of the sea, strange things begin to happen to the Nektons. They're seeing things that can't exist. And where did the exit go? Why is there no way out?",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:15:00.000Z",
-      "stop": "2026-09-18T21:40:00.000Z",
+      "start": "2026-09-19T21:15:00.000Z",
+      "stop": "2026-09-19T21:35:00.000Z",
       "title": "Mystery Lane",
-      "subtitle": "The Vengeance of the Werewolf",
-      "description": "Goliath the dog, the terror of the park who is feared by all homeless animals, finds an adversary stronger than himself - a creature with a black coat and luminescent eyes that stands on its hind legs like a werewolf.",
+      "subtitle": "The Forgotten Threat",
+      "description": "Detective McFlare's faithful Lieutenant Travis calls on Clever to share his fears about his boss' strange behaviour.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:40:00.000Z",
-      "stop": "2026-09-18T21:50:00.000Z",
+      "start": "2026-09-19T21:35:00.000Z",
+      "stop": "2026-09-19T21:50:00.000Z",
       "title": "Summer Camp Island",
-      "subtitle": "The Later Pile",
-      "description": "Hedgehog convinces Oscar to tackle an overdue errand - but this time, Oscar's procrastination habit has spooky consequences.",
+      "subtitle": "Yeti Confetti Chapter 5: Where's the Confetti",
+      "description": "When it doesn't snow on the final day of Yeti Confetti, a Yeti Elder blames Lucy. In order to prove she belongs Lucy tries to find a way to make it snow.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:50:00.000Z",
-      "stop": "2026-09-18T22:00:00.000Z",
-      "title": "Summer Camp Island",
-      "subtitle": "Yeti Confetti Chapter 4: Lucy's Instrument",
-      "description": "Lucy goes to Yeti school to find her instrument.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T22:00:00.000Z",
-      "stop": "2026-09-18T22:15:00.000Z",
+      "start": "2026-09-19T21:50:00.000Z",
+      "stop": "2026-09-19T22:00:00.000Z",
       "title": "Little Lunch",
-      "subtitle": "The Beep Test",
-      "description": "Debra-Jo can't understand how Tamara's favourite day of the year could be when the class does the beep test fitness assessment. On beep test day, Tamara is very excited, but after she sprains her ankle she can't join in.",
+      "subtitle": "The Joke Competition",
+      "description": "Atticus holds a joke telling competition and Melanie, overcome by shyness, is terrified to tell a joke in front of everyone.",
       "category": null
     },
     {
-      "start": "2026-09-18T22:15:00.000Z",
-      "stop": "2026-09-18T22:25:00.000Z",
+      "start": "2026-09-19T22:00:00.000Z",
+      "stop": "2026-09-19T22:15:00.000Z",
       "title": "Hotel Transylvania: The Series",
-      "subtitle": "Enter The Nose Picker",
-      "description": "Mavis tries to spruce up the hotel before a big time reviewer arrives, but she accidentally lures the Nose Picker inside and must find her before Aunt Lydia discovers there's a human at Hotel Transylvania!",
+      "subtitle": "Hide And Shriek",
+      "description": "Mavis finds her old ghost doll Demented Debbie in the attic and they spend the afternoon playing together. But Debbie doesn't just want to play today. She wants to play again tomorrow and every day forever and ever and ever!",
       "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:15:00.000Z",
+      "stop": "2026-09-19T22:25:00.000Z",
+      "title": "The Amazing World of Gumball",
+      "subtitle": "The Others",
+      "description": "When Anais reveals that she's in the grade above them at school, Gumball and Darwin's eyes are suddenly opened to a whole new world of other students at Elmore Junior High.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:25:00.000Z",
+      "stop": "2026-09-19T22:35:00.000Z",
+      "title": "Submarine Jim",
+      "subtitle": "The Dolphin for the Job",
+      "description": "Jim vanishes for an epic ping pong match with Bianca, only to return and find his crew barely noticed he was gone. If they don't need their captain, what's left for Jim to do?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:35:00.000Z",
+      "stop": "2026-09-19T23:00:00.000Z",
+      "title": "Miraculous: Tales Of Ladybug And Cat Noir",
+      "subtitle": "Passion",
+      "description": "As everything turns upside down in their love lives, Ladybug and Cat Noir must exchange their Miraculous to escape a ruthless villain.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T23:00:00.000Z",
+      "stop": "2026-09-19T23:25:00.000Z",
+      "title": "The Next Step: Cheer",
+      "subtitle": "Tryouts",
+      "description": "As the Comets' tryouts begin, Olive and Heath feel insecure as dancers in cheer. Meanwhile, Levi and Ashton's odd behaviour makes Ruby question if they're mad at her.",
+      "category": null
+    },
+    {
+      "start": "2026-09-19T23:25:00.000Z",
+      "stop": "2026-09-20T00:50:00.000Z",
+      "title": "Spy Kids",
+      "subtitle": null,
+      "description": "Super-spies Gregorio and Ingrid give up their lives of intrigue to raise their children. After a sinister super-villain kidnaps the parents, it's up to the kids to come to the rescue.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T00:50:00.000Z",
+      "stop": "2026-09-20T01:20:00.000Z",
+      "title": "Steven Universe",
+      "subtitle": "Laser Light Cannon",
+      "description": "When a menacing red eye threatens to destroy Beach City, the only thing that could possibly stop it is a laser light cannon that once belonged to Steven's mother, Rose Quartz. Steven enlists the help of his father, Greg.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T01:20:00.000Z",
+      "stop": "2026-09-20T02:05:00.000Z",
+      "title": "George Clarke's Old House, New Home",
+      "subtitle": "Southwick And Southport",
+      "description": "George visits an 18th century barn containing some very dodgy decor including a purple '80s kitchen. Plus, George takes on a Victorian gothic pile in the seaside resort of Southport.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T02:05:00.000Z",
+      "stop": "2026-09-20T02:35:00.000Z",
+      "title": "Not Going Out",
+      "subtitle": "Dancing",
+      "description": "Lucy and Tim's parents, Geoffrey and Wendy, are separating. Lee gets banished to the sofa when Geoffrey moves into Lucy's flat, and he must now play relationship counsellor to patch up the marriage to get his room back.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-20T02:35:00.000Z",
+      "stop": "2026-09-20T04:05:00.000Z",
+      "title": "Midsomer Murders",
+      "subtitle": "A Vintage Murder",
+      "description": "The fizz goes out of a sparkling wine launch when the glasses are laced with poison. Who is behind the attack and does it have to do with the death of a child in a hit-and-run accident?",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T04:05:00.000Z",
+      "stop": "2026-09-20T04:50:00.000Z",
+      "title": "ER",
+      "subtitle": "ER Confidential",
+      "description": "It's Thanksgiving and the ER treat an animal rights activist who was attacked by the turkey he was trying to save. Doctors help a suicidal transgender woman and try to save two boys who killed a girl in a car accident.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T04:50:00.000Z",
+      "stop": "2026-09-20T05:35:00.000Z",
+      "title": "Guy Montgomery's Guy Mont-Spelling Bee",
+      "subtitle": "That's Not a Spelling, This is a Spelling",
+      "description": "Robbie Nicol, Justine Smith and Pax Assadi plus our mystery winner from episode one take on a bunch of spelling challenges including, The Hat Hat, Horsing: A Round and Spell the Smell.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T05:35:00.000Z",
+      "stop": "2026-09-20T06:05:00.000Z",
+      "title": "QI",
+      "subtitle": "Adam",
+      "description": "Stephen Fry presents the very first episode of the world's most impossible quiz show with guests Alan Davies, Hugh Laurie (pre-House), Danny Baker and John Sessions.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:05:00.000Z",
+      "stop": "2026-09-20T06:35:00.000Z",
+      "title": "Would I Lie To You?",
+      "subtitle": "Greg Davies, Guz Khan, Claudia Winkleman & Lucy Worsley",
+      "description": "Host Rob Brydon and team captains Lee Mack and David Mitchell are joined by Greg Davies, Guz Khan, Claudia Winkleman and Lucy Worsley.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:35:00.000Z",
+      "stop": "2026-09-20T07:25:00.000Z",
+      "title": "Mythbusters",
+      "subtitle": "Hindenburg Mystery",
+      "description": "Adam and Jamie turn dirigible detectives to try and solve one of aeronautics biggest puzzles. Plus Kari, Tory and Grant come face-to-face, and have to flee from some of Nature's natural-born killers.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T07:25:00.000Z",
+      "stop": "2026-09-20T08:10:00.000Z",
+      "title": "Portrait Artist Of The Year",
+      "subtitle": "Eddie Hall, Jodie Kidd & James Purefoy",
+      "description": "Nine artists are challenged to create a portrait of either actor James Purefoy, model Jodie Kidd or strongman Eddie Hall. The artists will need to impress judges Kathleen Soriano, Tai Shan Schierenberg and Kate Bryan.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T08:10:00.000Z",
+      "stop": "2026-09-20T09:00:00.000Z",
+      "title": "George Clarke's Old House, New Home",
+      "subtitle": "Brighton And Stockport",
+      "description": "George meets Ododu who, having downsized to a Victorian terrace, is at a loss about how to connect the kitchen to the garden. Plus, George is off to Stockport to help Sarah who has just inherited the home she grew up in.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T09:00:00.000Z",
+      "stop": "2026-09-20T09:30:00.000Z",
+      "title": "Spicks and Specks",
+      "subtitle": "Iva Davies, Dave Thornton, Elana Stone & Frank Woodley",
+      "description": "Joining Adam, Alan and Myf are Icehouse front-man Iva Davies, stand-up comedian Dave Thornton, singer/songwriter Elana Stone and professional show-off Frank Woodley. The Tango Salon closes the show.",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-20T09:30:00.000Z",
+      "stop": "2026-09-20T10:00:00.000Z",
+      "title": "QI",
+      "subtitle": "Sun, Sea & Sandi",
+      "description": "Join Sandi Toksvig on a trip to the seaside with Ed Gamble, Lou Sanders, Sindhu Vee and Alan Davies.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:00:00.000Z",
+      "stop": "2026-09-20T10:30:00.000Z",
+      "title": "Would I Lie To You?",
+      "subtitle": "The Unseen Bits",
+      "description": "Highlights of previously unseen material from the award-winning comedy panel show. (Final)",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:30:00.000Z",
+      "stop": "2026-09-20T11:30:00.000Z",
+      "title": "Lucy Worsley's Victorian Murder Club",
+      "subtitle": "Episode 2",
+      "description": "Lucy Worsley is hunting a Victorian serial killer who has scattered the remains of 3 women across London. Will a 4th body, left in Jack the Ripper's territory, crack open the case?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:30:00.000Z",
+      "stop": "2026-09-20T12:20:00.000Z",
+      "title": "Portrait Artist of the Year Australia",
+      "subtitle": "Episode 6",
+      "description": "Nine artists compete in creating portraits of Baker Boy, Jenny Kee and Peter Rowsthorn. Using various techniques and mediums in just four hours, they showcase their distinctive creativity and skill.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T12:20:00.000Z",
+      "stop": "2026-09-20T13:10:00.000Z",
+      "title": "ER",
+      "subtitle": "Blizzard",
+      "description": "The ER goes from deserted to capacity as a result of a 32-vehicle pile up. Bob surprises everyone when she makes a quick, life-saving decision, and a new ER attending, Dr. Angela Hicks, arrives.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-20T13:10:00.000Z",
+      "stop": "2026-09-20T13:40:00.000Z",
+      "title": "Offsiders",
+      "subtitle": "Episode 33 of Season 2026",
+      "description": "Abbey Gelmi and the panel Laura Spurway, Michael Gleeson and Ryan Hoffman discuss the Swans v Dockers and Hawks v Lions AFL Preliminary Finals, the Warriors v Knights and Roosters v Sharks in NRL Semis plus the NBL returns.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T13:40:00.000Z",
+      "stop": "2026-09-20T14:40:00.000Z",
+      "title": "rage Charts",
+      "subtitle": "rage New Music",
+      "description": "Discover the wildest new music videos on rage. Essential grooves and boundary-pushing visuals from Australia and beyond.",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-20T14:40:00.000Z",
+      "stop": "2026-09-20T15:10:00.000Z",
+      "title": "Not Going Out",
+      "subtitle": "Dancing",
+      "description": "Lucy and Tim's parents, Geoffrey and Wendy, are separating. Lee gets banished to the sofa when Geoffrey moves into Lucy's flat, and he must now play relationship counsellor to patch up the marriage to get his room back.",
+      "category": "Comedy"
     }
   ]
 }

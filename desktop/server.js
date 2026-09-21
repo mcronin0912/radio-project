@@ -1,6 +1,7 @@
 /**
  * Local HTTP server for the Electron app:
  * - Serves the static Next export from `out/`
+ * - Overlays fresh EPG JSON from userData/epg/ when present
  * - Proxies `/api/stream?url=` (mirrors app/api/stream/route.ts)
  */
 const http = require("http");
@@ -77,9 +78,12 @@ function safeJoin(root, urlPathname) {
   return full;
 }
 
-function sendFile(res, filePath) {
+function sendFile(res, filePath, extraHeaders = {}) {
   const stream = fs.createReadStream(filePath);
-  res.writeHead(200, { "Content-Type": contentType(filePath) });
+  res.writeHead(200, {
+    "Content-Type": contentType(filePath),
+    ...extraHeaders,
+  });
   stream.pipe(res);
   stream.on("error", () => {
     if (!res.headersSent) {
@@ -91,12 +95,40 @@ function sendFile(res, filePath) {
   });
 }
 
+function resolveStaticFile(roots, urlPathname) {
+  for (const root of roots) {
+    if (!root) continue;
+    let filePath = safeJoin(root, urlPathname);
+    if (!filePath) continue;
+
+    if (urlPathname.endsWith("/")) {
+      filePath = path.join(filePath, "index.html");
+    } else if (
+      !path.extname(filePath) &&
+      fs.existsSync(filePath) &&
+      fs.statSync(filePath).isDirectory()
+    ) {
+      filePath = path.join(filePath, "index.html");
+    }
+
+    if (fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
+      return filePath;
+    }
+  }
+  return null;
+}
+
 /**
- * @param {{ staticRoot: string, port?: number }} opts
+ * @param {{
+ *   staticRoot: string,
+ *   epgOverlayRoot?: string | null,
+ *   port?: number,
+ * }} opts
  * @returns {Promise<{ server: import('http').Server, port: number, origin: string }>}
  */
-function startLocalServer({ staticRoot, port = 0 }) {
+function startLocalServer({ staticRoot, epgOverlayRoot = null, port = 0 }) {
   const root = path.resolve(staticRoot);
+  const overlay = epgOverlayRoot ? path.resolve(epgOverlayRoot) : null;
 
   const server = http.createServer(async (req, res) => {
     const requestUrl = new URL(req.url || "/", "http://127.0.0.1");
@@ -117,24 +149,21 @@ function startLocalServer({ staticRoot, port = 0 }) {
       return;
     }
 
-    let filePath = safeJoin(root, requestUrl.pathname);
+    const isEpg = requestUrl.pathname.startsWith("/epg/");
+    const roots = isEpg && overlay ? [overlay, root] : [root];
+    const filePath = resolveStaticFile(roots, requestUrl.pathname);
+
     if (!filePath) {
-      res.writeHead(403);
-      res.end("Forbidden");
-      return;
-    }
-
-    if (requestUrl.pathname.endsWith("/")) {
-      filePath = path.join(filePath, "index.html");
-    } else if (
-      !path.extname(filePath) &&
-      fs.existsSync(filePath) &&
-      fs.statSync(filePath).isDirectory()
-    ) {
-      filePath = path.join(filePath, "index.html");
-    }
-
-    if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) {
+      // Never SPA-fallback JSON/API-like assets — that breaks guide fetches.
+      if (
+        path.extname(requestUrl.pathname) ||
+        requestUrl.pathname.startsWith("/epg/") ||
+        requestUrl.pathname.startsWith("/api/")
+      ) {
+        res.writeHead(404, { "Content-Type": "text/plain" });
+        res.end("Not found");
+        return;
+      }
       const fallback = path.join(root, "index.html");
       if (fs.existsSync(fallback)) {
         if (req.method === "HEAD") {
@@ -150,12 +179,19 @@ function startLocalServer({ staticRoot, port = 0 }) {
       return;
     }
 
+    const extraHeaders = isEpg
+      ? { "Cache-Control": "no-store" }
+      : {};
+
     if (req.method === "HEAD") {
-      res.writeHead(200, { "Content-Type": contentType(filePath) });
+      res.writeHead(200, {
+        "Content-Type": contentType(filePath),
+        ...extraHeaders,
+      });
       res.end();
       return;
     }
-    sendFile(res, filePath);
+    sendFile(res, filePath, extraHeaders);
   });
 
   return new Promise((resolve, reject) => {

@@ -2,100 +2,100 @@
   "slug": "10-highwaythruhell",
   "epgId": "mjh-10-highwaythruhell",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T09:21:00.000Z",
-      "stop": "2026-09-17T10:17:00.000Z",
-      "title": "Close Calls",
+      "start": "2026-09-19T01:57:00.000Z",
+      "stop": "2026-09-19T02:53:00.000Z",
+      "title": "Skyway Thru Hell",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T10:17:00.000Z",
-      "stop": "2026-09-17T11:13:00.000Z",
-      "title": "Winch Wizard",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T11:13:00.000Z",
-      "stop": "2026-09-17T12:07:00.000Z",
-      "title": "Hats and Jalapenos",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T12:07:00.000Z",
-      "stop": "2026-09-17T13:03:27.000Z",
-      "title": "The Bait",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T13:03:27.000Z",
-      "stop": "2026-09-17T13:59:00.000Z",
-      "title": "Up In Smoke",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T13:59:00.000Z",
-      "stop": "2026-09-17T14:55:00.000Z",
-      "title": "Weather The Storm (Special)",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T14:55:00.000Z",
-      "stop": "2026-09-17T15:51:00.000Z",
-      "title": "Cold Comfort",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-17T15:51:00.000Z",
-      "stop": "2026-09-17T16:47:00.000Z",
+      "start": "2026-09-19T02:53:00.000Z",
+      "stop": "2026-09-19T03:49:00.000Z",
       "title": "Where there's smoke",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T16:47:00.000Z",
-      "stop": "2026-09-17T17:43:00.000Z",
+      "start": "2026-09-19T03:49:00.000Z",
+      "stop": "2026-09-19T04:45:00.000Z",
       "title": "Not your regular fender-bender",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T17:43:00.000Z",
-      "stop": "2026-09-17T18:37:00.000Z",
+      "start": "2026-09-19T04:45:00.000Z",
+      "stop": "2026-09-19T05:39:00.000Z",
       "title": "feels like a win",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T18:37:00.000Z",
-      "stop": "2026-09-17T19:30:00.000Z",
+      "start": "2026-09-19T05:39:00.000Z",
+      "stop": "2026-09-19T06:33:00.000Z",
       "title": "A really long night",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-17T19:30:00.000Z",
-      "stop": "2026-09-17T20:00:00.000Z",
-      "title": "Bent Metal Dynasty",
+      "start": "2026-09-19T06:33:00.000Z",
+      "stop": "2026-09-19T07:29:00.000Z",
+      "title": "Always a danger",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T07:29:00.000Z",
+      "stop": "2026-09-19T08:25:00.000Z",
+      "title": "Thrown in the deep end",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T08:25:00.000Z",
+      "stop": "2026-09-19T09:19:00.000Z",
+      "title": "Roughing Up the Rookie",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T09:19:00.000Z",
+      "stop": "2026-09-19T10:14:00.000Z",
+      "title": "No Tears in Towing",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T10:14:00.000Z",
+      "stop": "2026-09-19T11:10:00.000Z",
+      "title": "The Avalanche Zone",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T11:10:00.000Z",
+      "stop": "2026-09-19T12:06:00.000Z",
+      "title": "Family Business",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-09-19T12:06:00.000Z",
+      "stop": "2026-09-19T12:36:00.000Z",
+      "title": "Yin & Yang",
       "subtitle": null,
       "description": null,
       "category": null

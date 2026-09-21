@@ -2,471 +2,399 @@
   "slug": "sbs-5nsw",
   "epgId": "mjh-sbs-5nsw",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T09:30:00.000Z",
-      "stop": "2026-09-17T10:30:00.000Z",
-      "title": "Going Places With Ernie Dingo",
-      "subtitle": "Karratha",
-      "description": "Brooke meets the marine life of the Dampier archipelago and has a crack at roping with a rodeo champion in Karratha. Ernie visits the world's largest sites of rock art engravings.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T10:30:00.000Z",
-      "stop": "2026-09-17T11:05:00.000Z",
-      "title": "End of the Valley",
-      "subtitle": "The Bones Ultimatum",
-      "description": "Hani makes an unlikely decision while Te Pahua stands on ceremony in the season finale of End Of The Valley.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T11:05:00.000Z",
-      "stop": "2026-09-17T13:15:00.000Z",
-      "title": "Crouching Tiger, Hidden Dragon",
+      "start": "2026-09-19T01:35:00.000Z",
+      "stop": "2026-09-19T02:40:00.000Z",
+      "title": "Emily In Japan",
       "subtitle": null,
-      "description": "When a politician's daughter steals a legendary warrior's precious sword, a sequence of events is triggered to recover the sword. Directed by Ang Lee and winner of four Academy Awards.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T13:15:00.000Z",
-      "stop": "2026-09-17T14:00:00.000Z",
-      "title": "Karla Grant Presents",
-      "subtitle": "The House-Opening",
-      "description": "\"House-opening\" ceremonies in a contemporary Aboriginal community combine elements of Aboriginal, Torres Strait and European cultures in dealing with death.",
+      "description": "The exhibition of Emily Kame Kngwarreye's paintings which toured to Osaka and Tokyo in 2008 is arguably the biggest, most comprehensive single artist exhibition from Australia.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T14:00:00.000Z",
-      "stop": "2026-09-17T15:00:00.000Z",
-      "title": "Going Places With Ernie Dingo",
-      "subtitle": "Gold Coast Hinterland",
-      "description": "Ernie explores the Queensland's Gold Coast Hinterland region first with a hot air balloonist, then through eyes of an artist, and lastly with the experiences of a young Traditional owner.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T15:00:00.000Z",
-      "stop": "2026-09-17T16:00:00.000Z",
-      "title": "Going Places With Ernie Dingo",
-      "subtitle": "Mary River",
-      "description": "Along the Mary River in the Northern Territory, Ernie braves the heat and explores the wilds of the region by land, sea, and by air.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:00:00.000Z",
-      "stop": "2026-09-17T17:00:00.000Z",
-      "title": "Nitv On The Road: Yabun",
-      "subtitle": "Mau Power",
-      "description": "As part of NITV’s travelling music series, Mau Power take the stage at the Yabun Festival in Sydney’s Victoria Park.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T17:00:00.000Z",
-      "stop": "2026-09-17T18:00:00.000Z",
-      "title": "Nitv On The Road: Yabun",
-      "subtitle": "Stephen Pigram",
-      "description": "As part of NITV’s travelling music series, Stephen Pigram takes the stage at the Yabun Festival in Sydney’s Victoria Park.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T18:00:00.000Z",
-      "stop": "2026-09-17T19:00:00.000Z",
-      "title": "Nitv On The Road: Yabun",
-      "subtitle": "Jimblah And Michael Charlton",
-      "description": "NITV's travelling music series hits Sydney's Victoria Park for Yabun Festival, featuring Jimblah and Michael Charlton.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T19:00:00.000Z",
-      "stop": "2026-09-17T19:30:00.000Z",
-      "title": "Bamay",
-      "subtitle": "Murrumbidgee River - Wiradjuri Country Part 2",
-      "description": "A slow TV showcase of the stunning landscapes found in Wiradjuri Country along the waters of the Murrumbidgee River.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T19:30:00.000Z",
-      "stop": "2026-09-17T20:00:00.000Z",
-      "title": "Bamay",
-      "subtitle": "K'gari, Butchulla Country Part 1",
-      "description": "Slow TV is back on NITV with more beautiful Bamay. Bamay III celebrates great Australian islands and saltwater country. Sit back and relax with the healing powers of country.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T20:00:00.000Z",
-      "stop": "2026-09-17T20:25:00.000Z",
-      "title": "Waabiny Time",
-      "subtitle": "Feelings",
-      "description": "Do you feel djoorabiny, do you feel happy? Or do you feel menditj, do you feel sick? Make sure you share how you feel with someone who cares. It's moorditj koolangka!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:25:00.000Z",
-      "stop": "2026-09-17T20:30:00.000Z",
-      "title": "Birds Eye View",
-      "subtitle": "Get Busy Living",
-      "description": "There's a bird trapped inside a cage inside the human's house. Holy Heka! It's time to break that jailbird out.",
-      "category": null
-    },
-    {
-      "start": "2026-09-17T20:30:00.000Z",
-      "stop": "2026-09-17T20:45:00.000Z",
-      "title": "Aussie Bush Tales",
-      "subtitle": "Wedge Tailed Eagle",
-      "description": "It's spring in the bush and Jedda spots a wedge-tailed eagle hunting for its young. The children adventure as other animals feed their babies, while Meeka's always on the hunt for a new pet.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T20:45:00.000Z",
-      "stop": "2026-09-17T21:15:00.000Z",
-      "title": "The Mysterious Cities of Gold",
-      "subtitle": "The Escape",
-      "description": "Esteban escapes The Forbidden City with the Yellow Dragon. Yu Chuhne tells Esteban that a certain Li Shuang knew his father. He lives near The Great Wall, in a place known as The Stomach of Buddha.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:15:00.000Z",
-      "stop": "2026-09-17T21:45:00.000Z",
-      "title": "The Mysterious Cities of Gold",
-      "subtitle": "The Stomach Of Buddha",
-      "description": "While in search of Li Shuang, a friend of Esteban's father, our heroes are separated in a violent sandstorm: Zia is taken away by a young Mongol,  Esteban and Tao are imprisoned by Chinese guards.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T21:45:00.000Z",
-      "stop": "2026-09-17T22:10:00.000Z",
-      "title": "Bushwhacked",
-      "subtitle": "Dugong",
-      "description": "Kayne and Kamil meet the cast of mantas, dolphins, soldier crabs and turtles in Kayne's quest to help the endangered dugong from the threat of extinction in this important episode of Bushwhacked!",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T22:10:00.000Z",
-      "stop": "2026-09-17T22:25:00.000Z",
-      "title": "Thalu",
-      "subtitle": "Brothers",
-      "description": "Vinka is sick, and needs rest and food. While the rest of the kids set up camp, Hudson, Samara and Keile enter an old town, deserted except for two brothers who haven't spoken for years.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:25:00.000Z",
-      "stop": "2026-09-17T22:40:00.000Z",
-      "title": "Thalu",
-      "subtitle": "The Thalu",
-      "description": "The kids now have all eight special stones, and Hudson is convinced he has the key.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T22:40:00.000Z",
-      "stop": "2026-09-17T23:10:00.000Z",
-      "title": "The Magic Canoe",
-      "subtitle": "Gift Story",
-      "description": "The children of the camp have the idea of exchanging gifts. While living the fun adventure, our three friends understand that when we give a gift, the important thing is not the object.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T23:10:00.000Z",
-      "stop": "2026-09-17T23:40:00.000Z",
-      "title": "Spartakus And The Sun Beneath The Sea",
-      "subtitle": "To Elsewehere And Tomorrow",
-      "description": "After freeing the prisoners, Spartakus heads for Arkadia. There, the meaning of the oracle is finally revealed and for Bob and Rebecca, it's almost time to finally go home.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-17T23:40:00.000Z",
-      "stop": "2026-09-18T00:00:00.000Z",
-      "title": "Fresh Fairytales",
-      "subtitle": "Wizard Of Otara",
-      "description": "Golothy is swept away to a magical realm where she and her quirky companions set out on a quest to find the Wizard of Otara and attempt to defeat the evil witch Eseka.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T00:00:00.000Z",
-      "stop": "2026-09-18T00:50:00.000Z",
-      "title": "Great Blue Wild",
-      "subtitle": "Roatan, Honduras",
-      "description": "Home to the world's second-largest barrier reef, Roatan is one of the world's top dive spots known for its technicolour corals, Caribbean reef sharks, amazing octopus and invasive Lionfish.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T00:50:00.000Z",
-      "stop": "2026-09-18T01:00:00.000Z",
-      "title": "NITV News Update",
-      "subtitle": "Episode 174",
-      "description": "NITV News recaptures the highlights of Indigenous news around the country.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T01:00:00.000Z",
-      "stop": "2026-09-18T02:00:00.000Z",
-      "title": "Going Places With Ernie Dingo",
-      "subtitle": "Karratha",
-      "description": "Brooke meets the marine life of the Dampier archipelago and has a crack at roping with a rodeo champion in Karratha. Ernie visits the world's largest sites of rock art engravings.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T02:00:00.000Z",
-      "stop": "2026-09-18T04:00:00.000Z",
-      "title": "Crouching Tiger, Hidden Dragon",
+      "start": "2026-09-19T02:40:00.000Z",
+      "stop": "2026-09-19T03:05:00.000Z",
+      "title": "Stompem Ground: King Of Hearts",
       "subtitle": null,
-      "description": "When a politician's daughter steals a legendary warrior's precious sword, a sequence of events is triggered to recover the sword. Directed by Ang Lee and winner of four Academy Awards.",
-      "category": "Drama"
+      "description": "First appearance for the newly formed King of Hearts for Stompem Ground 2022,",
+      "category": "Music"
     },
     {
-      "start": "2026-09-18T04:00:00.000Z",
-      "stop": "2026-09-18T04:30:00.000Z",
-      "title": "Kriol Kitchen",
-      "subtitle": "Alex Rogers: Crumbed Barra Fillets With Salad, Steamed Barra With Ginger And Soy, Curry Barra Soup",
-      "description": "This episode is a salute to the fighting freshwater and saltwater barramundi. Alex Rogers whips up a simple dish with one of his favourite fish.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T04:30:00.000Z",
-      "stop": "2026-09-18T05:00:00.000Z",
-      "title": "The Cook Up With Adam Liaw",
-      "subtitle": "Good Catch",
-      "description": "It's easy entertaining, and Adam and guests, public health expert Dr Sandro Demaio and award-winning chef Alanna Sapwell-Stone, cook with sustainable seafood.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T05:00:00.000Z",
-      "stop": "2026-09-18T05:25:00.000Z",
-      "title": "Spartakus And The Sun Beneath The Sea",
-      "subtitle": "Arkana And The Beast",
-      "description": "Without suspecting that they are being watched and followed by pirates, our heroes venture into a jungle which shelters strange remains.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T05:25:00.000Z",
-      "stop": "2026-09-18T05:50:00.000Z",
-      "title": "The Mysterious Cities of Gold",
-      "subtitle": "The Doors Of Night",
-      "description": "Having found the statue of the winged serpent, the gang continues into the forest only to find enormous cliffs when they emerge.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T05:50:00.000Z",
-      "stop": "2026-09-18T06:15:00.000Z",
-      "title": "The Mysterious Cities Of Gold",
-      "subtitle": "The Forest Of Statues",
-      "description": "Upon reaching a wide river, the group builds a raft and then continues on their way to the forest. Later, they spy the Doctor and Marinche keeping company with Teteola.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T06:15:00.000Z",
-      "stop": "2026-09-18T06:25:00.000Z",
-      "title": "Chums",
-      "subtitle": "Thunderbird",
-      "description": "Thunderbird sightings have worried Elder Kohkum, it's up to the Chums to find out why the Thunderbird has arrived.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-18T06:25:00.000Z",
-      "stop": "2026-09-18T06:30:00.000Z",
-      "title": "Birds Eye View",
-      "subtitle": "Birds In Space",
-      "description": "After watching a children's Space-themed birthday party the junior birds devise a plan to launch themselves into the great unknown.",
-      "category": null
-    },
-    {
-      "start": "2026-09-18T06:30:00.000Z",
-      "stop": "2026-09-18T07:00:00.000Z",
-      "title": "Dreaming Big",
-      "subtitle": "Climbing",
-      "description": "With calloused hands and unstoppable will, two young climbers take on their toughest challenge yet-each other.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T07:00:00.000Z",
-      "stop": "2026-09-18T07:30:00.000Z",
-      "title": "Ocean Warriors: Mission Ready",
-      "subtitle": "Episode 9",
-      "description": "The Coastal Nations Coast Guard Auxiliary's Heiltsuk team is tasked with finding a crab fisherman on a stranded vessel.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T07:30:00.000Z",
-      "stop": "2026-09-18T08:00:00.000Z",
+      "start": "2026-09-19T03:05:00.000Z",
+      "stop": "2026-09-19T03:35:00.000Z",
       "title": "NITV News: Nula",
       "subtitle": "Episode 34",
       "description": "The latest news from the oldest living culture, join Natalie Ahmat and the team of NITV journalists for stories from an Indigenous perspective.",
       "category": "News"
     },
     {
-      "start": "2026-09-18T08:00:00.000Z",
-      "stop": "2026-09-18T08:30:00.000Z",
-      "title": "Bamay",
-      "subtitle": "Western Australia Cape To Cape - Part 1",
-      "description": "The best coastlines are in Western Australia and Tasmania. Don't believe us? Check out this series of Bamay as it returns for its 6th season, highlighting some of Australia's breathtaking landscapes.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T08:30:00.000Z",
-      "stop": "2026-09-18T08:40:00.000Z",
-      "title": "Road Open",
-      "subtitle": "Djarindjin Lombadina",
-      "description": "Djarindjin is a medium-sized Aboriginal community located 170 km from Broome in the Kimberley Region of Western Australia, within the Shire of Broome.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T08:40:00.000Z",
-      "stop": "2026-09-18T09:30:00.000Z",
+      "start": "2026-09-19T03:35:00.000Z",
+      "stop": "2026-09-19T04:30:00.000Z",
       "title": "Undiscovered Vistas",
       "subtitle": "Gros Morne, Canada",
       "description": "A magnificent and savage landscape on the rugged western coast of Newfoundland, Gros Morne National Park is a place of awe-inspiring natural beauty.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T09:30:00.000Z",
-      "stop": "2026-09-18T11:05:00.000Z",
-      "title": "Muppets From Space",
-      "subtitle": null,
-      "description": "With enormous enthusiasm and unsinkable optimism, daredevil Gonzo steps into his first starring role in Muppets from Space, a hilarious extraterrestrial adventure about the search for Gonzo's past.",
-      "category": "Kids & Family"
+      "start": "2026-09-19T04:30:00.000Z",
+      "stop": "2026-09-19T05:00:00.000Z",
+      "title": "Over The Black Dot",
+      "subtitle": "Episode 29",
+      "description": "In 2026, Over the Black Dot becomes a digital-first Rugby League yarn free-flowing conversations on footy, culture and community, with panellists and guests sharing authentic Indigenous stories.",
+      "category": "Sports"
     },
     {
-      "start": "2026-09-18T11:05:00.000Z",
-      "stop": "2026-09-18T11:15:00.000Z",
-      "title": "First Nations Bedtime Stories",
-      "subtitle": "The Three Brothers",
-      "description": "This story teaches us the importance of respecting the Lore of Yindyamarra - the Lore of Respect.",
+      "start": "2026-09-19T05:00:00.000Z",
+      "stop": "2026-09-19T06:05:00.000Z",
+      "title": "Black Magic",
+      "subtitle": null,
+      "description": "An account of the creative use of sport made by the Noongar people of Western Australia's south-west to advance their people's standing featuring top Aboriginal sportsmen.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T11:15:00.000Z",
-      "stop": "2026-09-18T13:00:00.000Z",
-      "title": "Above The Rim",
+      "start": "2026-09-19T06:05:00.000Z",
+      "stop": "2026-09-19T07:45:00.000Z",
+      "title": "The Darkside",
       "subtitle": null,
-      "description": "Kyle, a high school basketball player, has to choose which team he wants to be a part of in a local tournament - his school team or a team run by a local drug dealer.",
+      "description": "Director Warwick Thornton assembles a collection of poignant, sad, funny, and absurd true ghost stories from across Australia with some of Australia's most iconic actors as the storytellers.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-18T13:00:00.000Z",
-      "stop": "2026-09-18T13:30:00.000Z",
-      "title": "NITV News: Nula",
-      "subtitle": "Episode 34",
-      "description": "The latest news from the oldest living culture, join Natalie Ahmat and the team of NITV journalists for stories from an Indigenous perspective.",
+      "start": "2026-09-19T07:45:00.000Z",
+      "stop": "2026-09-19T08:00:00.000Z",
+      "title": "Glen Thomas - Beyond The Walls",
+      "subtitle": null,
+      "description": "This documentary short follows Phunktional Arts dancer, Glen Thomas, as he reconnects with his Aboriginal identity through performing arts.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T08:00:00.000Z",
+      "stop": "2026-09-19T08:30:00.000Z",
+      "title": "Bamay",
+      "subtitle": "Western Australia Cape To Cape - Part 2",
+      "description": "We explore the Margaret River region, from rolling vineyards and towering Karri forests to powerful surf breaks, uncovering the land's natural contrasts and the deep stories of the Noongar people.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T08:30:00.000Z",
+      "stop": "2026-09-19T08:40:00.000Z",
+      "title": "NITV News Update",
+      "subtitle": "Episode 175",
+      "description": "NITV News recaptures the highlights of Indigenous news around the country.",
       "category": "News"
     },
     {
-      "start": "2026-09-18T13:30:00.000Z",
-      "stop": "2026-09-18T14:00:00.000Z",
-      "title": "Karla Grant Presents",
-      "subtitle": "Coniston Muster",
-      "description": "Superbly photographed over a relatively short period of six weeks, the film introduces us to Coniston Station - an 840 square mile property, northwest of Alice Springs in the Northern Territory.",
+      "start": "2026-09-19T08:40:00.000Z",
+      "stop": "2026-09-19T09:05:00.000Z",
+      "title": "The Other Side",
+      "subtitle": "Why Is The Door Locked",
+      "description": "An old family house features several antique heirlooms, but strong emotions of anger, shame, and sorrow rest just behind its locked doors.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T14:00:00.000Z",
-      "stop": "2026-09-18T15:00:00.000Z",
+      "start": "2026-09-19T09:05:00.000Z",
+      "stop": "2026-09-19T09:30:00.000Z",
+      "title": "The Other Side",
+      "subtitle": "Spirit Vessel",
+      "description": "A historic village is filled with artifacts of a past long forgotten and the grave of an eccentric Dutch who still prowls the grounds at night.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T09:30:00.000Z",
+      "stop": "2026-09-19T10:40:00.000Z",
+      "title": "Alone Australia",
+      "subtitle": "Episode 10",
+      "description": "Deep winter finally arrives in the heart-pounding series finale, forcing the final survivalists into a brutal endgame where only one will claim the $250,000 prize.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T10:40:00.000Z",
+      "stop": "2026-09-19T12:30:00.000Z",
+      "title": "Fright Night",
+      "subtitle": null,
+      "description": "Teenage Charley Brewster is a horror-film junkie, so it's no surprise that when a reclusive new neighbor moves next-door, Brewster becomes convinced he's a vampire.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-09-19T12:30:00.000Z",
+      "stop": "2026-09-19T14:10:00.000Z",
+      "title": "Nat King Cole: Afraid Of The Dark",
+      "subtitle": null,
+      "description": "Combines interviews with his close family and other famous performers to explore the legend of Nat King Cole, who at a time of prejudice in the US, broke through the race barrier.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T14:10:00.000Z",
+      "stop": "2026-09-19T15:00:00.000Z",
+      "title": "Ram Raid Mums",
+      "subtitle": null,
+      "description": "With government support lacking and resources dwindling, these women find themselves facing overwhelming challenges with nowhere left to turn.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T15:00:00.000Z",
+      "stop": "2026-09-19T16:00:00.000Z",
       "title": "Going Places With Ernie Dingo",
-      "subtitle": "Gold Coast",
-      "description": "Ernie visits Queensland's Gold Coast and learns how life is there through the eyes of an actor, a young man embracing his culture, and an ex iron woman and mother.",
+      "subtitle": "Darwin",
+      "description": "Ernie meets three very interesting Darwin locals, each with their own connection to the land and to the wildlife that inhabits it.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T15:00:00.000Z",
-      "stop": "2026-09-18T16:00:00.000Z",
-      "title": "Going Places With Ernie Dingo",
-      "subtitle": "Bathurst Island",
-      "description": "Ernie travels to Bathurst Island to meet a dedicated and passionate nun, a woman working with young families, and two local artists who share their love for their culture.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T16:00:00.000Z",
-      "stop": "2026-09-18T17:00:00.000Z",
-      "title": "Nitv On The Road: Yabun",
-      "subtitle": "Best Of Yabun 2015",
-      "description": "From our travelling music series, NITV showcases veterans and newcomers alike as they perform on the Yabun stage at Victoria Park, Sydney.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T17:00:00.000Z",
-      "stop": "2026-09-18T18:00:00.000Z",
+      "start": "2026-09-19T16:00:00.000Z",
+      "stop": "2026-09-19T17:00:00.000Z",
       "title": "NITV On The Road: Best of Barunga",
-      "subtitle": "Episode 1",
-      "description": "From our travelling music series, NITV showcases veterans and newcomers alike as they perform at the Barunga Festival",
+      "subtitle": "Episode 3",
+      "description": "NITV presents Barunga Festival 2015, one of regional Australia's most important community festivals. Featuring: North Tanami Band, Wugala Drifters, Lazy Late Boys, Bad Tee Boyz.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T18:00:00.000Z",
-      "stop": "2026-09-18T19:00:00.000Z",
+      "start": "2026-09-19T17:00:00.000Z",
+      "stop": "2026-09-19T18:00:00.000Z",
       "title": "NITV On The Road: Best of Barunga",
-      "subtitle": "Episode 2",
-      "description": "NITV presents Barunga Festival 2015, one of regional Australia's most important community festivals. Featuring Blekbala Mujik.",
+      "subtitle": "Episode 4",
+      "description": "NITV presents Barunga Festival 2015, one of regional Australia's most important community festivals. Featuring Paul Kelly and special guest Peter Garrett.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T19:00:00.000Z",
-      "stop": "2026-09-18T19:30:00.000Z",
-      "title": "Bamay",
-      "subtitle": "Murrumbidgee River - Wiradjuri & Nari Nari",
-      "description": "A slow TV showcase of the stunning landscapes found in Wiradjuri and Nari Nari Country along the waters of the Murrumbidgee River.",
+      "start": "2026-09-19T18:00:00.000Z",
+      "stop": "2026-09-19T19:00:00.000Z",
+      "title": "NITV On The Road: Best of Barunga",
+      "subtitle": "Episode 5",
+      "description": "National Indigenous Television presents legendary Australian musician Paul Kelly, Indigenous rapper Briggs, and a range of bush bands featured at the Barunga Festival.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T19:30:00.000Z",
-      "stop": "2026-09-18T20:00:00.000Z",
+      "start": "2026-09-19T19:00:00.000Z",
+      "stop": "2026-09-19T19:30:00.000Z",
       "title": "Bamay",
-      "subtitle": "K'gari, Butchulla Country Part 1",
+      "subtitle": "Tharawal & Inningai Country",
+      "description": "A slow TV showcase of the stunning landscapes found in Tharawal and Inningai Country.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T19:30:00.000Z",
+      "stop": "2026-09-19T20:00:00.000Z",
+      "title": "Bamay",
+      "subtitle": "K'gari, Butchulla Country Part 2",
       "description": "Slow TV is back on NITV with more beautiful Bamay. Bamay III celebrates great Australian islands and saltwater country. Sit back and relax with the healing powers of country.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T20:00:00.000Z",
-      "stop": "2026-09-18T20:25:00.000Z",
+      "start": "2026-09-19T20:00:00.000Z",
+      "stop": "2026-09-19T20:25:00.000Z",
       "title": "Waabiny Time",
-      "subtitle": "Seasons And Weather",
-      "description": "There are maar keny bonar, six seasons. Birak is hot time, time for djiba-djobaliny, swimming time.",
+      "subtitle": "Playtime",
+      "description": "Waabiny time, playing time is djooradiny, it's fun. It's about keeping walang, keeping healthy. Let's play djenborl football and learn to handball and take on the obstacle course. It's deadly koolangk",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:25:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
+      "start": "2026-09-19T20:25:00.000Z",
+      "stop": "2026-09-19T20:30:00.000Z",
       "title": "Birds Eye View",
-      "subtitle": "Does This Spark Joy?",
-      "description": "The birds have found some curious and shiny human objects but what on earth are they used for?",
+      "subtitle": "Magic Food Disc",
+      "description": "Our birds scheme a convoluted heist to break into the human nest and steal some very mysterious looking kai.",
       "category": null
     },
     {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T20:45:00.000Z",
+      "start": "2026-09-19T20:30:00.000Z",
+      "stop": "2026-09-19T20:45:00.000Z",
       "title": "Aussie Bush Tales",
-      "subtitle": "Drifting Desert Sand",
-      "description": "Around the campfire, Moort tells the kids about his youth, when his father sent him into the desert to catch the biggest kangaroo he could find. Will he succeed in the wild, scorching outback?",
+      "subtitle": "Marlee's Gift To Jedda",
+      "description": "Marlee rediscovers an old gift from Moort and decides to pass it on to her niece Jedda. The family throws a celebration for Jedda and their bush life, while Moort tries his best to dodge the feast prep!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T20:45:00.000Z",
-      "stop": "2026-09-18T21:15:00.000Z",
+      "start": "2026-09-19T20:45:00.000Z",
+      "stop": "2026-09-19T21:15:00.000Z",
       "title": "The Mysterious Cities of Gold",
-      "subtitle": "The Labyrinth",
-      "description": "Li Shuang leads our heroes into a secret passage to the Stomach of Buddha. Thanks to their medallions, Esteban and Zia discover an incredible metal labyrinth, whose walls are closing in on them.",
+      "subtitle": "The Son Of The Sun",
+      "description": "Stuck inside the Stomach of Buddha, Zia has saved Esteban who was stung by a scorpion. Meanwhile, the grown ups, guided by Ambrosius' compass, explode a hole into the ground to help them escape.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:15:00.000Z",
-      "stop": "2026-09-18T21:45:00.000Z",
+      "start": "2026-09-19T21:15:00.000Z",
+      "stop": "2026-09-19T21:45:00.000Z",
       "title": "The Mysterious Cities of Gold",
-      "subtitle": "The Sleeping Garden",
-      "description": "Inside the Stomach of Buddha our young heroes discover an extraordinary lab in which the Yellow Dragon has been charged with energy. While rescuing Tao from a crater, Esteban gets stung by a scorpion.",
+      "subtitle": "The Oasis",
+      "description": "The Pyramid of Mu has put our heroes on to the trail of a fresco depicting The Eyes That See All, near an oasis in the desert. But Zares is there too, and attempts to do away with Mendoza.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-18T21:45:00.000Z",
-      "stop": "2026-09-18T22:10:00.000Z",
+      "start": "2026-09-19T21:45:00.000Z",
+      "stop": "2026-09-19T22:10:00.000Z",
       "title": "Bushwhacked",
-      "subtitle": "King Brown Snake",
-      "description": "Kamil challenges Kayne to rescue a venomous, temperamental King Brown snake - and the King Brown is not too happy about it!",
+      "subtitle": "Box Jellyfish",
+      "description": "Kayne and Kamil brave shark infested waters, dodge salt-water crocodiles and come face to face with venomous sea snakes before meeting the box jellyfish!",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T22:10:00.000Z",
-      "stop": "2026-09-18T22:25:00.000Z",
+      "start": "2026-09-19T22:10:00.000Z",
+      "stop": "2026-09-19T22:25:00.000Z",
       "title": "Thalu",
-      "subtitle": "Escape!",
-      "description": "With a mysterious cloud spreading across the land making the country and its people sick, two groups of kids join forces with a mysterious unspeaking girl to try to save the world.",
+      "subtitle": "The Principal",
+      "description": "When Hudson, Em, Vinka, Noodles and Lali find themselves trapped in a strange schoolhouse presided over by an ancient principal it falls on Samara and Keile to try and rescue them.",
       "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:25:00.000Z",
+      "stop": "2026-09-19T22:40:00.000Z",
+      "title": "Thalu",
+      "subtitle": "Random!",
+      "description": "When the kids encounter legendary outlaw stockman Random Dan and his sidekick Big Joey bogged in the middle of a salt flat, he offers them something special if they help dig them out.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T22:40:00.000Z",
+      "stop": "2026-09-19T23:10:00.000Z",
+      "title": "The Magic Canoe",
+      "subtitle": "Pam And The Chicoque",
+      "description": "Pam doesn't say what she really wants and accumulates frustrations. When she meets the chicoque (skunk in the Cree and Metis language), she realizes that it would be better to say what bothers her.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T23:10:00.000Z",
+      "stop": "2026-09-19T23:40:00.000Z",
+      "title": "Spartakus And The Sun Beneath The Sea",
+      "subtitle": "Between Two Worlds",
+      "description": "In the city of Arkadia, the children feel that the life without Tehrig becomes more and more difficult.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-19T23:40:00.000Z",
+      "stop": "2026-09-20T00:00:00.000Z",
+      "title": "Fresh Fairytales",
+      "subtitle": "Goldibotz And The Three Fahu",
+      "description": "Goldi sets off on a journey of mishaps to uncover what her special talent is. Amidst meeting Destiny's Fahu she discovers the true magic of her Tongan roots.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T00:00:00.000Z",
+      "stop": "2026-09-20T00:30:00.000Z",
+      "title": "Froth",
+      "subtitle": null,
+      "description": "Coming to you from Bells Beach in Victoria, join us for a smooth ride with some of Australia's best Indigenous surfers. Stunning visuals and a banging soundtrack take you deeper than ever.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T00:30:00.000Z",
+      "stop": "2026-09-20T01:00:00.000Z",
+      "title": "Over The Black Dot",
+      "subtitle": "Episode 29",
+      "description": "In 2026, Over the Black Dot becomes a digital-first Rugby League yarn free-flowing conversations on footy, culture and community, with panellists and guests sharing authentic Indigenous stories.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T01:00:00.000Z",
+      "stop": "2026-09-20T01:30:00.000Z",
+      "title": "Inside The Huddle",
+      "subtitle": "Episode 28",
+      "description": "What is it like to be a footballer? Candid conversations, laughs, and insights that go beyond the game and into the outer.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T01:30:00.000Z",
+      "stop": "2026-09-20T04:30:00.000Z",
+      "title": "First Nations Netball Tournament",
+      "subtitle": "Live",
+      "description": "The climax of Indigenous netball. From the Bronze Medal clash to the Grand Final, the top two state sides go head-to-head for national glory, capped by the official closing ceremony.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T04:30:00.000Z",
+      "stop": "2026-09-20T04:35:00.000Z",
+      "title": "Other Side Of The Rock",
+      "subtitle": null,
+      "description": "Other side of the Rock concert held in Mutitjulu celebrating 30 years of the iconic song Solid Rock",
+      "category": "Music"
+    },
+    {
+      "start": "2026-09-20T04:35:00.000Z",
+      "stop": "2026-09-20T06:00:00.000Z",
+      "title": "Big Rivers Football League Grand Final",
+      "subtitle": "Senior Women's - Ngukurr V Eastside",
+      "description": "Big Rivers Football League Women's Grand Final - Ngukurr v Eastside.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T06:00:00.000Z",
+      "stop": "2026-09-20T06:20:00.000Z",
+      "title": "Stompem Ground 2022 - Karajarri Dancers",
+      "subtitle": null,
+      "description": "Karajarri dancers are from Mijil Mil Miya, 180 km southwest of Broome. Lead singer Mervyn Mulardy has revived several Karajarri traditional songs inherited from his grandfather and mother.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:20:00.000Z",
+      "stop": "2026-09-20T08:00:00.000Z",
+      "title": "Nat King Cole: Afraid Of The Dark",
+      "subtitle": null,
+      "description": "Combines interviews with his close family and other famous performers to explore the legend of Nat King Cole, who at a time of prejudice in the US, broke through the race barrier.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T08:00:00.000Z",
+      "stop": "2026-09-20T08:30:00.000Z",
+      "title": "Bamay",
+      "subtitle": "Bundjalung - Northern NSW Part 1",
+      "description": "Slow TV is back on NITV with more beautiful Bamay, celebrating stunning landscapes of Countries across Australia. Sit back and relax with the healing powers of Country.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T08:30:00.000Z",
+      "stop": "2026-09-20T08:40:00.000Z",
+      "title": "NITV News Update",
+      "subtitle": "Episode 175",
+      "description": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-20T08:40:00.000Z",
+      "stop": "2026-09-20T09:30:00.000Z",
+      "title": "Undiscovered Vistas",
+      "subtitle": "Atacama Desert, Chile",
+      "description": "Stretching more than 1,000 km west of the Andes Mountains, the Atacama Desert is the world's driest non-polar region. Here are ominous volcanoes, dramatic geysers and dazzling flamingo colonies.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T09:30:00.000Z",
+      "stop": "2026-09-20T10:00:00.000Z",
+      "title": "Extraordinary Animals",
+      "subtitle": "Aggressive",
+      "description": "Exploring some surprising behaviour and illustrating that forceful strategies can be necessary for survival.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:00:00.000Z",
+      "stop": "2026-09-20T10:30:00.000Z",
+      "title": "Extraordinary Animals",
+      "subtitle": "Flamboyant",
+      "description": "In nature, being Flamboyant can mean anything from using extravagant behaviour to entice a mate or warn off predators, to camouflaging yourself when hunting.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:30:00.000Z",
+      "stop": "2026-09-20T12:10:00.000Z",
+      "title": "The Ground We Won",
+      "subtitle": null,
+      "description": "A knock-about rugby team - made up of salt-of-the-earth dairy farmers - is staring down the barrel of a long run of bitter losses. With pluck and determination, the men unite to inspire their small community.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T12:10:00.000Z",
+      "stop": "2026-09-20T14:15:00.000Z",
+      "title": "Point Break",
+      "subtitle": null,
+      "description": "A rookie FBI agent goes undercover in the surfing world to investigate a group of extreme surfers suspected of being involved in a series of bank robberies.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-09-20T14:15:00.000Z",
+      "stop": "2026-09-20T15:15:00.000Z",
+      "title": "Going Places With Ernie Dingo",
+      "subtitle": "Port Lincoln",
+      "description": "Ernie visits Port Lincoln and meets an ex- oyster farming couple, he swims with wild sea-lions with a chilled marine biologist and learns about great white pointer sharks from a passionate skipper.",
+      "category": "Special Interest"
     }
   ]
 }

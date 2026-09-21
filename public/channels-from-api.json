@@ -6,7 +6,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "comedy",
+      "movies",
       "news",
       "general"
     ],
@@ -26,7 +26,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "comedy",
+      "movies",
       "news",
       "general"
     ],
@@ -46,7 +46,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "comedy",
+      "movies",
       "news",
       "general"
     ],
@@ -66,7 +66,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "comedy",
+      "movies",
       "news",
       "general"
     ],
@@ -86,7 +86,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "comedy",
+      "movies",
       "news",
       "general"
     ],
@@ -105,9 +105,8 @@
     "name": "10 Comedy NSW",
     "network": "Ten",
     "categories": [
-      "factual",
       "comedy",
-      "drama",
+      "factual",
       "general"
     ],
     "website": null,
@@ -125,9 +124,8 @@
     "name": "10 Comedy QLD",
     "network": "Ten",
     "categories": [
-      "factual",
       "comedy",
-      "drama",
+      "factual",
       "general"
     ],
     "website": null,
@@ -145,9 +143,8 @@
     "name": "10 Comedy SA",
     "network": "Ten",
     "categories": [
-      "factual",
       "comedy",
-      "drama",
+      "factual",
       "general"
     ],
     "website": null,
@@ -165,9 +162,8 @@
     "name": "10 Comedy VIC",
     "network": "Ten",
     "categories": [
-      "factual",
       "comedy",
-      "drama",
+      "factual",
       "general"
     ],
     "website": null,
@@ -185,8 +181,8 @@
     "name": "10 Comedy WA",
     "network": "Ten",
     "categories": [
-      "factual",
       "comedy",
+      "factual",
       "drama",
       "general"
     ],
@@ -206,8 +202,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "drama",
       "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -226,8 +222,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "drama",
       "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -246,8 +242,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "drama",
       "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -266,8 +262,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "drama",
       "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -286,8 +282,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "drama",
       "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -383,7 +379,7 @@
     "categories": [
       "kids",
       "factual",
-      "movies"
+      "comedy"
     ],
     "website": null,
     "logoUrl": "https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png",
@@ -437,8 +433,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -457,8 +453,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -477,8 +473,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -497,8 +493,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -517,8 +513,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -537,8 +533,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -557,8 +553,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -577,8 +573,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "news",
       "drama",
+      "news",
       "general"
     ],
     "website": null,
@@ -598,7 +594,7 @@
     "categories": [
       "kids",
       "comedy",
-      "factual"
+      "drama"
     ],
     "website": null,
     "logoUrl": "https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png",
@@ -633,9 +629,9 @@
     "name": "ABC Entertains",
     "network": "ABC",
     "categories": [
-      "kids",
       "factual",
-      "drama",
+      "kids",
+      "comedy",
       "entertainment"
     ],
     "website": null,
@@ -692,8 +688,8 @@
     "name": "SBS2",
     "network": "SBS",
     "categories": [
-      "news",
       "factual",
+      "news",
       "drama",
       "entertainment"
     ],
@@ -753,7 +749,7 @@
     "categories": [
       "factual",
       "kids",
-      "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -763,24 +759,6 @@
     "state": "NSW",
     "feed": "34",
     "label": "Ch 34",
-    "hasGuide": true
-  },
-  {
-    "slug": "sbs-6nat",
-    "channelId": "mjh-sbs-6nat",
-    "name": "SBS WorldWatch",
-    "network": "SBS",
-    "categories": [
-      "news",
-      "general"
-    ],
-    "website": null,
-    "logoUrl": "https://image.pr.sbsod.com/ca2194b7-6b91-58b3-a731-e0b7f04d9555",
-    "streamUrl": "https://i.mjh.nz/.r/sbs-6nat.m3u8",
-    "streamQuality": null,
-    "state": null,
-    "feed": "35",
-    "label": "Ch 35",
     "hasGuide": true
   },
   {
@@ -825,8 +803,8 @@
     "network": "Community",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "sports",
       "entertainment"
     ],
     "website": null,
@@ -845,8 +823,8 @@
     "network": "Community",
     "categories": [
       "factual",
-      "news",
-      "drama",
+      "sports",
+      "music",
       "entertainment"
     ],
     "website": null,
@@ -906,7 +884,7 @@
     "categories": [
       "factual",
       "news",
-      "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -963,7 +941,7 @@
     "categories": [
       "factual",
       "news",
-      "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -982,8 +960,8 @@
     "network": "Seven",
     "categories": [
       "factual",
+      "comedy",
       "drama",
-      "news",
       "general"
     ],
     "website": null,
@@ -1002,8 +980,8 @@
     "network": "Seven",
     "categories": [
       "factual",
+      "comedy",
       "drama",
-      "news",
       "general"
     ],
     "website": null,
@@ -1022,8 +1000,8 @@
     "network": "Seven",
     "categories": [
       "factual",
+      "comedy",
       "drama",
-      "news",
       "general"
     ],
     "website": null,
@@ -1042,8 +1020,8 @@
     "network": "Seven",
     "categories": [
       "factual",
+      "comedy",
       "drama",
-      "news",
       "general"
     ],
     "website": null,
@@ -1062,8 +1040,8 @@
     "network": "Seven",
     "categories": [
       "factual",
+      "comedy",
       "drama",
-      "news",
       "general"
     ],
     "website": null,
@@ -1083,7 +1061,7 @@
     "categories": [
       "factual",
       "sports",
-      "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -1103,7 +1081,7 @@
     "categories": [
       "factual",
       "sports",
-      "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -1123,7 +1101,7 @@
     "categories": [
       "factual",
       "sports",
-      "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -1143,7 +1121,7 @@
     "categories": [
       "factual",
       "sports",
-      "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -1183,7 +1161,7 @@
     "categories": [
       "factual",
       "drama",
-      "movies",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1203,7 +1181,7 @@
     "categories": [
       "factual",
       "drama",
-      "movies",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1223,7 +1201,7 @@
     "categories": [
       "factual",
       "drama",
-      "movies",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1243,7 +1221,7 @@
     "categories": [
       "factual",
       "drama",
-      "movies",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1263,7 +1241,7 @@
     "categories": [
       "factual",
       "drama",
-      "movies",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1282,8 +1260,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "sports",
+      "news",
       "general"
     ],
     "website": null,
@@ -1302,8 +1280,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "sports",
+      "news",
       "general"
     ],
     "website": null,
@@ -1322,8 +1300,8 @@
     "network": "Nine",
     "categories": [
       "factual",
+      "sports",
       "news",
-      "kids",
       "general"
     ],
     "website": null,
@@ -1342,8 +1320,8 @@
     "network": "Nine",
     "categories": [
       "factual",
+      "sports",
       "news",
-      "kids",
       "general"
     ],
     "website": null,
@@ -1363,7 +1341,7 @@
     "categories": [
       "factual",
       "news",
-      "kids",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1381,9 +1359,9 @@
     "name": "9Gem NSW",
     "network": "Nine",
     "categories": [
-      "factual",
+      "comedy",
       "drama",
-      "movies",
+      "factual",
       "general"
     ],
     "website": null,
@@ -1401,9 +1379,9 @@
     "name": "9Gem QLD",
     "network": "Nine",
     "categories": [
-      "factual",
+      "comedy",
       "drama",
-      "movies",
+      "factual",
       "general"
     ],
     "website": null,
@@ -1421,9 +1399,9 @@
     "name": "9Gem SA",
     "network": "Nine",
     "categories": [
-      "factual",
+      "comedy",
       "drama",
-      "movies",
+      "factual",
       "general"
     ],
     "website": null,
@@ -1441,9 +1419,9 @@
     "name": "9Gem VIC",
     "network": "Nine",
     "categories": [
-      "factual",
       "drama",
-      "movies",
+      "comedy",
+      "factual",
       "general"
     ],
     "website": null,
@@ -1461,9 +1439,9 @@
     "name": "9Gem WA",
     "network": "Nine",
     "categories": [
-      "factual",
+      "sports",
+      "comedy",
       "drama",
-      "movies",
       "general"
     ],
     "website": null,
@@ -1481,9 +1459,9 @@
     "name": "9Go! NSW",
     "network": "Nine",
     "categories": [
-      "kids",
+      "factual",
       "movies",
-      "comedy",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1501,9 +1479,9 @@
     "name": "9Go! QLD",
     "network": "Nine",
     "categories": [
-      "kids",
+      "factual",
       "movies",
-      "comedy",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1521,8 +1499,8 @@
     "name": "9Go! SA",
     "network": "Nine",
     "categories": [
-      "kids",
-      "comedy",
+      "sports",
+      "factual",
       "movies",
       "general"
     ],
@@ -1541,9 +1519,9 @@
     "name": "9Go! VIC",
     "network": "Nine",
     "categories": [
-      "kids",
+      "factual",
       "movies",
-      "comedy",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1561,9 +1539,9 @@
     "name": "9Go! WA",
     "network": "Nine",
     "categories": [
-      "comedy",
+      "factual",
       "movies",
-      "kids",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1582,6 +1560,7 @@
     "network": "Nine",
     "categories": [
       "factual",
+      "news",
       "general"
     ],
     "website": null,
@@ -1600,6 +1579,7 @@
     "network": "Nine",
     "categories": [
       "factual",
+      "news",
       "general"
     ],
     "website": null,
@@ -1618,6 +1598,7 @@
     "network": "Nine",
     "categories": [
       "factual",
+      "news",
       "general"
     ],
     "website": null,
@@ -1636,6 +1617,7 @@
     "network": "Nine",
     "categories": [
       "factual",
+      "news",
       "general"
     ],
     "website": null,
@@ -1654,6 +1636,7 @@
     "network": "Nine",
     "categories": [
       "factual",
+      "news",
       "general"
     ],
     "website": null,
@@ -2052,8 +2035,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "sports",
+      "news",
       "general"
     ],
     "website": null,
@@ -2072,8 +2055,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "sports",
+      "news",
       "general"
     ],
     "website": null,
@@ -2092,8 +2075,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "sports",
+      "news",
       "general"
     ],
     "website": null,
@@ -2436,7 +2419,7 @@
     "categories": [
       "factual",
       "drama",
-      "movies",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -2456,7 +2439,7 @@
     "categories": [
       "factual",
       "sports",
-      "movies",
+      "drama",
       "general"
     ],
     "website": null,
@@ -2475,8 +2458,8 @@
     "network": "Seven",
     "categories": [
       "factual",
+      "comedy",
       "drama",
-      "news",
       "general"
     ],
     "website": null,
@@ -3047,6 +3030,23 @@
     "website": null,
     "logoUrl": "https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo",
     "streamUrl": "https://i.mjh.nz/.r/10-medical-emergency.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "10-moviesphere",
+    "channelId": "mjh-10-moviesphere",
+    "name": "Moviesphere",
+    "network": "Ten",
+    "categories": [
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo",
+    "streamUrl": "https://i.mjh.nz/.r/10-moviesphere.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,

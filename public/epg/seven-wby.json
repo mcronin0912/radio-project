@@ -2,287 +2,255 @@
   "slug": "seven-wby",
   "epgId": "mjh-seven-wby",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:00:25.000Z",
-      "stop": "2026-09-17T10:31:50.000Z",
-      "title": "Home and Away",
-      "subtitle": "Episode 158",
-      "description": "John faces his fear. Marilyn makes a bad call. Remi puts on a brave face.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-17T10:31:50.000Z",
-      "stop": "2026-09-17T11:34:15.000Z",
-      "title": "Air Crash Investigation",
-      "subtitle": "Cabin Chaos",
-      "description": "After a Chinese airplane lands at a top-secret US Air Force base, the search is on for the cause of a deadly rollercoaster ride in the sky.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T11:34:15.000Z",
-      "stop": "2026-09-17T12:55:25.000Z",
-      "title": "Hear The Mighty Roar: Brisbane Lions",
-      "subtitle": "The Weight Of Expectation",
-      "description": "As the pressure of greatness mounts, the Brisbane Lions fight through injury, fatigue and fierce rivals to prove their premiership dynasty is built to last.",
+      "start": "2026-09-19T02:00:00.000Z",
+      "stop": "2026-09-19T06:02:00.000Z",
+      "title": "Seven's Horse Racing",
+      "subtitle": "Randwick/Caulfield",
+      "description": "Live coverage of horse racing every Saturday.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-17T12:55:25.000Z",
-      "stop": "2026-09-17T13:25:45.000Z",
-      "title": "Kick Ons",
-      "subtitle": "Episode 28 of Season 26",
-      "description": "Join the team as they debate the hottest AFL topics and preview the biggest games over the weekend. Sit back, relax and enjoy Kick Ons after the Footy!",
+      "start": "2026-09-19T06:02:00.000Z",
+      "stop": "2026-09-19T06:30:00.000Z",
+      "title": "Pre Game",
+      "subtitle": "Pre-Game: Hawthorn v Brisbane",
+      "description": "A look ahead at tonight's AFL Preliminary Final.",
       "category": "Sports"
     },
     {
-      "start": "2026-09-17T13:25:45.000Z",
-      "stop": "2026-09-17T15:00:30.000Z",
-      "title": "The Voice",
-      "subtitle": "Quarter Finals, Pt. 1",
-      "description": "Tonight, the surviving artists of Team Ronan and Team Richard will step up to their Quarter Finals. With expectations and emotions higher than ever, who will rise to the occasion?",
-      "category": "Special Interest"
+      "start": "2026-09-19T06:30:00.000Z",
+      "stop": "2026-09-19T09:59:30.000Z",
+      "title": "AFL",
+      "subtitle": "Preliminary Final: Hawthorn v Brisbane",
+      "description": "The Hawks go head-to-head with the Lions in the Preliminary Final, live and free from the MCG. Bounce time: 5:15pm AEST.",
+      "category": "Sports"
     },
     {
-      "start": "2026-09-17T15:00:30.000Z",
-      "stop": "2026-09-17T16:00:30.000Z",
-      "title": "Mr. Robot",
-      "subtitle": "Eps1.8_m1rr0r1ng.Qt",
-      "description": "Elliot reels from his shocking discovery, and a trip to his old family home leads to more revelations. The fsociety masterplan nears its conclusion.",
+      "start": "2026-09-19T09:59:30.000Z",
+      "stop": "2026-09-19T10:30:00.000Z",
+      "title": "Seven News",
+      "subtitle": "Saturday 19 September 2026",
+      "description": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-19T10:30:00.000Z",
+      "stop": "2026-09-19T12:47:35.000Z",
+      "title": "The Break-Up",
+      "subtitle": null,
+      "description": "After two years together, Gary and Brooke's relationship seems to have taken a comical wrong turn on the way to happily ever after.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-09-19T12:47:35.000Z",
+      "stop": "2026-09-19T14:07:55.000Z",
+      "title": "Kings Of The Big Game: West Coast Eagles",
+      "subtitle": "When The West Was Won",
+      "description": "The West Coast Eagles and Sydney Swans deliver a Grand Final classic, with redemption, sacrifice and belief culminating in a premiership won by a single point.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-19T14:07:55.000Z",
+      "stop": "2026-09-19T15:04:40.000Z",
+      "title": "The Midwich Cuckoos",
+      "subtitle": "The Hive",
+      "description": "Three years after the blackout. The children are entering the second phase of their development.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-17T16:00:30.000Z",
-      "stop": "2026-09-17T16:30:15.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Krapof Self Empty Vac (KSEV2830A)",
-      "description": "Shopping program.",
-      "category": "Special Interest"
+      "start": "2026-09-19T15:04:40.000Z",
+      "stop": "2026-09-19T16:00:00.000Z",
+      "title": "The Midwich Cuckoos",
+      "subtitle": "Hide & Seek",
+      "description": "Whilst investigating Amrita's disappearance, Paul's own attachment to Nathan is challenged.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-17T16:30:15.000Z",
-      "stop": "2026-09-17T17:00:15.000Z",
+      "start": "2026-09-19T16:00:00.000Z",
+      "stop": "2026-09-19T16:30:00.000Z",
       "title": "Home Shopping",
       "subtitle": "Instant Hot Water Dispenser (KIHWD2830A)",
       "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T17:00:15.000Z",
-      "stop": "2026-09-17T17:30:00.000Z",
+      "start": "2026-09-19T16:30:00.000Z",
+      "stop": "2026-09-19T17:00:00.000Z",
       "title": "Home Shopping",
       "subtitle": "Kleva Spin Crisp (KSCAF2830B)",
       "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T17:30:00.000Z",
-      "stop": "2026-09-17T18:00:00.000Z",
+      "start": "2026-09-19T17:00:00.000Z",
+      "stop": "2026-09-19T17:30:00.000Z",
       "title": "Home Shopping",
       "subtitle": "Marshmellow Topper (MMT2830A)",
       "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T18:00:00.000Z",
-      "stop": "2026-09-17T19:00:00.000Z",
-      "title": "NBC Today",
-      "subtitle": "Friday 18 September 2026",
-      "description": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-17T19:00:00.000Z",
-      "stop": "2026-09-17T19:30:00.000Z",
-      "title": "Sunrise Early News",
-      "subtitle": "Friday 18 September 2026",
-      "description": "Wake up to a better breakfast with Edwina Bartholomew for all the latest news, sport and weather.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-17T19:30:00.000Z",
-      "stop": "2026-09-17T23:00:00.000Z",
-      "title": "Sunrise",
-      "subtitle": "Friday 18 September 2026",
-      "description": "Wake up to a better breakfast with Natalie Barr and Matt Shirvington for all the latest news, sport and weather.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-17T23:00:00.000Z",
-      "stop": "2026-09-18T02:00:00.000Z",
-      "title": "The Morning Show",
-      "subtitle": "Episode 175",
-      "description": "Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T02:00:00.000Z",
-      "stop": "2026-09-18T03:00:00.000Z",
-      "title": "Seven's National News At Noon",
-      "subtitle": "Friday 18 September 2026",
-      "description": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T03:00:00.000Z",
-      "stop": "2026-09-18T05:01:00.000Z",
-      "title": "Glass Houses",
-      "subtitle": null,
-      "description": "Teenage babysitter Carrie Dawson is determined to exact revenge, after a humiliating family scandal.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T05:01:00.000Z",
-      "stop": "2026-09-18T06:00:00.000Z",
-      "title": "The Chase",
-      "subtitle": "Episode 164",
-      "description": "Matt, Liz, Aaron and Michelle - take on the Chaser in a battle of wits. Bradley Walsh guides the contestants through the show in the hope they'll go home with thousands of pounds.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T06:00:00.000Z",
-      "stop": "2026-09-18T06:58:00.000Z",
-      "title": "Seven News At 4",
-      "subtitle": "Friday 18 September 2026",
-      "description": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T06:58:00.000Z",
-      "stop": "2026-09-18T07:59:30.000Z",
-      "title": "The Chase Australia",
-      "subtitle": "Episode 52",
-      "description": "Hosted by Larry Emdur, The Chase is a general knowledge race where players must ensure they stay one step ahead of the Chaser, some of the finest quiz brains in Australia. The Chase is on.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T07:59:30.000Z",
-      "stop": "2026-09-18T08:29:00.000Z",
-      "title": "Seven Local News",
-      "subtitle": "Friday 18 September 2026",
-      "description": "Our teams across Qld keeping you up to date with all the local news, sport and weather. Stay connected and informed.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T08:29:00.000Z",
-      "stop": "2026-09-18T09:00:30.000Z",
-      "title": "Seven News",
-      "subtitle": "Friday 18 September 2026",
-      "description": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T09:00:30.000Z",
-      "stop": "2026-09-18T09:30:00.000Z",
-      "title": "Better Homes And Gardens",
-      "subtitle": "Episode 53 of Season 32",
-      "description": "Joh meets up with recycling queen Lottie Dalziel, to sort the most common recycling myths. Colin's heading home to Ireland and taking us along on a food-fuelled journey with him. Dr Harry meets crabs.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T09:30:00.000Z",
-      "stop": "2026-09-18T12:30:00.000Z",
-      "title": "AFL",
-      "subtitle": "Preliminary Final: Sydney v Fremantle",
-      "description": "The Swans take on the Dockers in the Preliminary Final, live and free from the SCG. Bounce time: 7:40pm AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T12:30:00.000Z",
-      "stop": "2026-09-18T13:15:00.000Z",
-      "title": "Post Game",
-      "subtitle": "Post Game: Sydney v Fremantle",
-      "description": "A look back at all the action from tonight's Preliminary Final.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T13:15:00.000Z",
-      "stop": "2026-09-18T13:45:20.000Z",
-      "title": "Get On Extra",
-      "subtitle": "Episode 30 of Season 26",
-      "description": "Each week join Lizzie Jelfs, Matt Hill, Simon Marshall and Brent Zerafa as they dive headlong into the all the weekend's best racing to find you their best bets.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-18T13:45:20.000Z",
-      "stop": "2026-09-18T15:31:15.000Z",
-      "title": "The Voice",
-      "subtitle": "Quarter Finals, Pt. 2",
-      "description": "On night two of the Quarter Finals, artists from Team Melanie C and Team Kate will blow the roof off THE VOICE stage as they battle for a coveted spot in the Semi-Finals.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T15:31:15.000Z",
-      "stop": "2026-09-18T16:35:30.000Z",
-      "title": "The Midwich Cuckoos",
-      "subtitle": "In This Together",
-      "description": "Midwich is recovering from the blackout when a shocking discovery is made: every woman of child-bearing age inside the zone on May 6th has fallen pregnant.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-18T16:35:30.000Z",
-      "stop": "2026-09-18T17:05:30.000Z",
+      "start": "2026-09-19T17:30:00.000Z",
+      "stop": "2026-09-19T18:00:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Eezy Breezy (EZBZ2830A17904)",
+      "subtitle": "Super Sleeper Pro (SSP14992830H)",
       "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T17:05:30.000Z",
-      "stop": "2026-09-18T17:35:30.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Pocket Hose Copper Head (PHCH2830A17904)",
-      "description": "Shopping program.",
+      "start": "2026-09-19T18:00:00.000Z",
+      "stop": "2026-09-19T18:30:30.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 42",
+      "description": "An educational and entertaining show where students compete against other schools in an attempt to win cash and prizes.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T17:35:30.000Z",
-      "stop": "2026-09-18T18:05:30.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Krapof Self Empty Vac (KSEV2830A)",
-      "description": "Shopping program.",
+      "start": "2026-09-19T18:30:30.000Z",
+      "stop": "2026-09-19T19:01:50.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 43",
+      "description": "An educational and entertaining show where students compete against other schools in an attempt to win cash and prizes.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T18:05:30.000Z",
-      "stop": "2026-09-18T18:33:45.000Z",
-      "title": "Million Dollar Minute",
-      "subtitle": "Episode 70 of Season 1",
-      "description": "Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?",
+      "start": "2026-09-19T19:01:50.000Z",
+      "stop": "2026-09-19T20:00:00.000Z",
+      "title": "House Of Wellness",
+      "subtitle": "Episode 15",
+      "description": "Join Mel Doyle and Shane Crawford where no topic is off limits from mental health, innovations in health, treatments for common illnesses, natural medicines, and explorations into food.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T18:33:45.000Z",
-      "stop": "2026-09-18T19:01:30.000Z",
-      "title": "Million Dollar Minute",
-      "subtitle": "Episode 71 of Season 1",
-      "description": "Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T19:01:30.000Z",
-      "stop": "2026-09-18T20:00:00.000Z",
+      "start": "2026-09-19T20:00:00.000Z",
+      "stop": "2026-09-19T21:00:00.000Z",
       "title": "NBC Today",
-      "subtitle": "Saturday 19 September 2026",
+      "subtitle": "Sunday 20 September 2026",
       "description": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
       "category": "News"
     },
     {
-      "start": "2026-09-18T20:00:00.000Z",
-      "stop": "2026-09-18T21:00:00.000Z",
-      "title": "NBC Today",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-18T21:00:00.000Z",
-      "stop": "2026-09-19T00:00:00.000Z",
+      "start": "2026-09-19T21:00:00.000Z",
+      "stop": "2026-09-20T00:00:00.000Z",
       "title": "Weekend Sunrise",
-      "subtitle": "Saturday 19 September 2026",
+      "subtitle": "Sunday 20 September 2026",
       "description": "Wake up to a better breakfast with the Weekend Sunrise team for all the latest entertainment, news, sport and weather.",
       "category": "News"
+    },
+    {
+      "start": "2026-09-20T00:00:00.000Z",
+      "stop": "2026-09-20T01:58:45.000Z",
+      "title": "The Morning Show - Weekend",
+      "subtitle": "Morning Show - Weekend Ep: 35.",
+      "description": "Join Larry Emdur and Kylie Gillies to catch up on all the highlights from this week's program, including a variety of segments on the latest news and entertainment.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-20T01:58:45.000Z",
+      "stop": "2026-09-20T03:00:00.000Z",
+      "title": "House Of Wellness",
+      "subtitle": "Episode 15",
+      "description": "Join Mel Doyle and Shane Crawford where no topic is off limits from mental health, innovations in health, treatments for common illnesses, natural medicines, and explorations into food.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T03:00:00.000Z",
+      "stop": "2026-09-20T05:00:00.000Z",
+      "title": "AFL Women's",
+      "subtitle": "Rnd 6: Essendon v Gold Coast",
+      "description": "The Bombers collide with the Suns, live and free from Windy Hill. Bounce time: 1:05 pm AEST.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-20T05:00:00.000Z",
+      "stop": "2026-09-20T06:00:10.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": "Episode 49",
+      "description": "Dr Harry meets the latest new arrivals at Taronga Zoo. Adam makes a bespoke wall hung bookshelf. Graham visits the Blue Mountains Botanic Gardens. Charlie helps you plan the height of your gardens.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:00:10.000Z",
+      "stop": "2026-09-20T06:29:50.000Z",
+      "title": "Border Security - Australia's Front Line",
+      "subtitle": "Episode 193 of Season 1",
+      "description": "Immigration detain a bus load of illegal workers but their organiser is not giving in without a fight. An Aussie is far from happy about having her bag searched and begins to mouth off.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:29:50.000Z",
+      "stop": "2026-09-20T07:00:00.000Z",
+      "title": "Creek To Coast",
+      "subtitle": "Episode 30",
+      "description": "Clocking up the country miles on a motorhome adventure through Outback Queensland - from Roma's Big Rig and Tambo's chook races to whip-cracking action in Longreach and Winton's prehistoric wonders.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-09-20T07:00:00.000Z",
+      "stop": "2026-09-20T07:26:00.000Z",
+      "title": "Seven News At 5",
+      "subtitle": "Sunday 20 September 2026",
+      "description": "Get the latest news, sport and weather from Australia and around the world.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-20T07:26:00.000Z",
+      "stop": "2026-09-20T07:59:30.000Z",
+      "title": "Weekender",
+      "subtitle": "Episode 32",
+      "description": "A luxury coach tour taking in two jewels of Central Queensland - the emerald rainforests of Carnarvon Gorge in sandstone country and the sapphire waters of Heron Island and the Great Barrier Reef.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T07:59:30.000Z",
+      "stop": "2026-09-20T09:01:00.000Z",
+      "title": "Seven News",
+      "subtitle": "Sunday 20 September 2026",
+      "description": "Seven News live coverage of local, national and international news, plus sport, finance and weather updates. Go to 7NEWS.com.au today for more live updates.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-20T09:01:00.000Z",
+      "stop": "2026-09-20T11:03:10.000Z",
+      "title": "The Voice UK",
+      "subtitle": "Semi Final",
+      "description": "The Semi-Finals are here and, with them, all the pressure and intensity that the competition has been building to. Who will secure the ultimate shot at THE VOICE crown?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:03:10.000Z",
+      "stop": "2026-09-20T12:10:15.000Z",
+      "title": "7NEWS Spotlight",
+      "subtitle": "Digital Clones & The Real Olivia",
+      "description": "Will AI clones replace our colleagues and companions? Plus, the Mum behind the megastar, Chloe Lattanzi shares never before seen moments and memories of Olivia Newton John.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-20T12:10:15.000Z",
+      "stop": "2026-09-20T13:15:00.000Z",
+      "title": "My Roommate, My Murderer: Death Of Stephanie Hansen",
+      "subtitle": null,
+      "description": "When 39-year-old Stephanie Hansen was found brutally murdered in her London home, detectives uncovered a shocking story of jealousy, obsession and the ultimate betrayal.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T13:15:00.000Z",
+      "stop": "2026-09-20T14:39:50.000Z",
+      "title": "24 Hours In Police Custody",
+      "subtitle": "Body In The Grass",
+      "description": "Follow the arrest of a suspected controlling character over the murder with a bottle to the throat of his alcohol-dependent partner.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T14:39:50.000Z",
+      "stop": "2026-09-20T15:33:40.000Z",
+      "title": "Curfew",
+      "subtitle": "Curfew",
+      "description": "As the remaining competitors approach the Scottish Highlands, nearing the final leg of the race, Kaye confesses to Michael that there’s something he doesn’t know about her. Something awful, something she did a long time ago... taking us back, five years earlier, when Kaye and Michael first met on Helen’s clinical trials at the Kiloran medical facility. We see how Kaye and Michael fell in love and unravel how the virus came into being. Finally Kaye uncovers the secret she’s been keeping all these years.",
+      "category": "Action & Adventure"
     }
   ]
 }

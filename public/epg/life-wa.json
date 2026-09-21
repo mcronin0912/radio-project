@@ -2,414 +2,438 @@
   "slug": "life-wa",
   "epgId": "mjh-life-wa",
   "region": "all",
-  "updatedAt": "2026-09-17T10:24:49.856Z",
+  "updatedAt": "2026-09-19T02:54:22.358Z",
   "programmes": [
     {
-      "start": "2026-09-17T10:02:00.000Z",
-      "stop": "2026-09-17T10:31:00.000Z",
-      "title": "House Hunters International",
-      "subtitle": "Operation Baby Bundle in Sicily",
-      "description": "An expecting American couple deploy to Sicily and must find a suitable home for their growing family; he wants a one-bedroom on the water and close to town, while she is looking for a three-bedroom with access to outdoor space.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T10:31:00.000Z",
-      "stop": "2026-09-17T11:01:00.000Z",
+      "start": "2026-09-19T02:00:00.000Z",
+      "stop": "2026-09-19T02:30:00.000Z",
       "title": "House Hunters",
-      "subtitle": "Picky in O.C.",
-      "description": "Lifelong renters are finally ready to buy their first home in Orange County, California. One demands turnkey perfection, but the other is sweating the high prices of property in the Golden State, so he wants a low priced fixer.",
+      "subtitle": "Michigan Family Lake Life",
+      "description": "A Michigan couple has been saving up to buy a lake home where they can make family memories. She wants a small and affordable ranch, but he wants a lot of space and is willing to spend to get it.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T11:01:00.000Z",
-      "stop": "2026-09-17T11:31:00.000Z",
+      "start": "2026-09-19T02:30:00.000Z",
+      "stop": "2026-09-19T03:00:00.000Z",
       "title": "House Hunters",
-      "subtitle": "Bringing Family Together in Vermont",
-      "description": "A Connecticut couple has worked long and hard, and they're ready to find a family vacation home in Vermont. She's looking for a big place with all the upgrades that's near a lake, but he prefers to spend less on a fixer.",
+      "subtitle": "Kosher Conundrum in Jacksonville",
+      "description": "A family of seven looks to relocate from Philadelphia to sunny Jacksonville, Florida. They agree that they need a big kosher kitchen, but while he wants a Victorian, she's hoping for an airy, country Ranch-style home.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-17T11:31:00.000Z",
-      "stop": "2026-09-17T12:31:00.000Z",
-      "title": "Bargain Block",
-      "subtitle": "The Hamptons and Gatsby",
-      "description": "Partners Keith Bynum and Evan Thomas want to be part of restoring the iconic American city of Detroit. The scrappy visionaries buy run-down and abandoned properties and transform them into affordable, stylish starter homes for first-time homebuyers.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T12:31:00.000Z",
-      "stop": "2026-09-17T13:30:00.000Z",
-      "title": "No Demo Reno",
-      "subtitle": "Porcelain Punch Up",
-      "description": "With their kids off to school, a couple finally has the time to renovate their house. Jenn is ready to lean into their casual and traditional style, but there's trouble in as Jenn and Victor clash over some porcelain countertops.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T13:30:00.000Z",
-      "stop": "2026-09-17T14:00:00.000Z",
-      "title": "My Lottery Dream Home",
-      "subtitle": "Brotherly Love",
-      "description": "With his wife's blessing and assistance, a Colorado man looks to buy a house for his sister and her children after winning a share of $1 million! David arrives to help see the good deed through and find the perfect home in Pueblo, Colorado.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T14:00:00.000Z",
-      "stop": "2026-09-17T14:30:00.000Z",
-      "title": "My Lottery Dream Home",
-      "subtitle": "Double Dip",
-      "description": "Lottery winners have outgrown their California dream home, and now they're ready to find a bigger place in the Las Vegas suburbs! They're looking for lots of outdoor space, but for David, finding a Vegas home with a large-enough lot may be a challenge.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T14:30:00.000Z",
-      "stop": "2026-09-17T15:30:00.000Z",
-      "title": "Help! I Wrecked My House",
-      "subtitle": "Empty Nesting",
-      "description": "Balancing careers and kids, a couple hasn't made any major home improvements in 20 years, now his lack of DIY skills have left her with an unusable bathroom. Jasmine has eight weeks, she aims to create a dream space for family gatherings.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T15:30:00.000Z",
-      "stop": "2026-09-17T16:00:00.000Z",
-      "title": "House Hunters International",
-      "subtitle": "Operation Baby Bundle in Sicily",
-      "description": "An expecting American couple deploy to Sicily and must find a suitable home for their growing family; he wants a one-bedroom on the water and close to town, while she is looking for a three-bedroom with access to outdoor space.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:00:00.000Z",
-      "stop": "2026-09-17T16:30:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Picky in O.C.",
-      "description": "Lifelong renters are finally ready to buy their first home in Orange County, California. One demands turnkey perfection, but the other is sweating the high prices of property in the Golden State, so he wants a low priced fixer.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T16:30:00.000Z",
-      "stop": "2026-09-17T17:00:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Bringing Family Together in Vermont",
-      "description": "A Connecticut couple has worked long and hard, and they're ready to find a family vacation home in Vermont. She's looking for a big place with all the upgrades that's near a lake, but he prefers to spend less on a fixer.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T17:00:00.000Z",
-      "stop": "2026-09-17T17:59:00.000Z",
-      "title": "Bargain Block",
-      "subtitle": "The Hamptons and Gatsby",
-      "description": "Partners Keith Bynum and Evan Thomas want to be part of restoring the iconic American city of Detroit. The scrappy visionaries buy run-down and abandoned properties and transform them into affordable, stylish starter homes for first-time homebuyers.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T17:59:00.000Z",
-      "stop": "2026-09-17T18:57:00.000Z",
-      "title": "No Demo Reno",
-      "subtitle": "Porcelain Punch Up",
-      "description": "With their kids off to school, a couple finally has the time to renovate their house. Jenn is ready to lean into their casual and traditional style, but there's trouble in as Jenn and Victor clash over some porcelain countertops.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T18:57:00.000Z",
-      "stop": "2026-09-17T19:03:00.000Z",
-      "title": "The Garden Gurus",
-      "subtitle": "Feeding your Native Plants",
-      "description": "The Garden Gurus team give you tips and tricks for gardening success, every season of year. From feeding your lawn, to indoor plants and everything in between, Trev and the team have you covered.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T19:03:00.000Z",
-      "stop": "2026-09-17T19:33:00.000Z",
-      "title": "My Lottery Dream Home",
-      "subtitle": "Brotherly Love",
-      "description": "With his wife's blessing and assistance, a Colorado man looks to buy a house for his sister and her children after winning a share of $1 million! David arrives to help see the good deed through and find the perfect home in Pueblo, Colorado.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T19:33:00.000Z",
-      "stop": "2026-09-17T20:02:00.000Z",
-      "title": "My Lottery Dream Home",
-      "subtitle": "Double Dip",
-      "description": "Lottery winners have outgrown their California dream home, and now they're ready to find a bigger place in the Las Vegas suburbs! They're looking for lots of outdoor space, but for David, finding a Vegas home with a large-enough lot may be a challenge.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T20:02:00.000Z",
-      "stop": "2026-09-17T21:01:00.000Z",
-      "title": "Help! I Wrecked My House",
-      "subtitle": "Empty Nesting",
-      "description": "Balancing careers and kids, a couple hasn't made any major home improvements in 20 years, now his lack of DIY skills have left her with an unusable bathroom. Jasmine has eight weeks, she aims to create a dream space for family gatherings.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T21:01:00.000Z",
-      "stop": "2026-09-17T22:00:00.000Z",
-      "title": "Dream Kitchens And Bathrooms",
-      "subtitle": "Croydon & Edinburgh",
-      "description": "This time, Mark helps first-time buyer Maria in south-east London create a minimalist kitchen, enhanced with touches of natural wood and a wood-covered wall, for £5,000.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T22:00:00.000Z",
-      "stop": "2026-09-17T22:30:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Picky in O.C.",
-      "description": "Lifelong renters are finally ready to buy their first home in Orange County, California. One demands turnkey perfection, but the other is sweating the high prices of property in the Golden State, so he wants a low priced fixer.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T22:30:00.000Z",
-      "stop": "2026-09-17T23:00:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Bringing Family Together in Vermont",
-      "description": "A Connecticut couple has worked long and hard, and they're ready to find a family vacation home in Vermont. She's looking for a big place with all the upgrades that's near a lake, but he prefers to spend less on a fixer.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T23:00:00.000Z",
-      "stop": "2026-09-17T23:30:00.000Z",
-      "title": "Getaway",
-      "subtitle": "Scenic - Eclipse #2",
-      "description": "This week on Getaway, Catriona cruises the magnificent fjords of Chile on the world's most luxurious discovery yacht and takes her first ever submarine ride.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-17T23:30:00.000Z",
-      "stop": "2026-09-18T00:00:00.000Z",
+      "start": "2026-09-19T03:00:00.000Z",
+      "stop": "2026-09-19T03:30:00.000Z",
       "title": "Postcards",
       "subtitle": "Episode 26",
       "description": "Lauren visits some long running Richmond businesses. The lads from Travel Guides let loose in Footscray. Shane explores a range of cuisines on offer in St Kilda. And Anthony Callea takes us for a tour of the Italian side of Yarraville.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T00:00:00.000Z",
-      "stop": "2026-09-18T00:30:00.000Z",
-      "title": "The Garden Gurus",
-      "subtitle": "Episode 6",
-      "description": "The Garden Gurus are back this week with more tips for gardening success. Nigel has some trade secrets for new lawns, Trevor shows you how to get the most out of spring bulbs, and Bonnie talks about feeding your natives.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T00:30:00.000Z",
-      "stop": "2026-09-18T01:30:00.000Z",
-      "title": "The Block",
-      "subtitle": "Who Said It Was Tacky?",
-      "description": "Tensions begin as one team gets caught using tools and one gets told their idea is (gasp) tacky. Suzi takes charge while Vonni is away and Whitney finds her wardrobe up a tree.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T01:30:00.000Z",
-      "stop": "2026-09-18T02:00:00.000Z",
-      "title": "House Hunters International",
-      "subtitle": "Operation Baby Bundle in Sicily",
-      "description": "An expecting American couple deploy to Sicily and must find a suitable home for their growing family; he wants a one-bedroom on the water and close to town, while she is looking for a three-bedroom with access to outdoor space.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T02:00:00.000Z",
-      "stop": "2026-09-18T02:30:00.000Z",
-      "title": "Hello SA",
-      "subtitle": "Baird Bay",
-      "description": "We visit the stunning Baird Bay on the Eyre Peninsula, explore Port Augusta's Australian Arid Lands Botanic Garden, and talk about all things weddings with Unforgettable Proposals, Alexandra Lingerie, and Jenny and Gerry's Bridal Centre.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T02:30:00.000Z",
-      "stop": "2026-09-18T03:30:00.000Z",
-      "title": "Dream Kitchens And Bathrooms",
-      "subtitle": "Croydon & Edinburgh",
-      "description": "This time, Mark helps first-time buyer Maria in south-east London create a minimalist kitchen, enhanced with touches of natural wood and a wood-covered wall, for £5,000.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T03:30:00.000Z",
-      "stop": "2026-09-18T04:30:00.000Z",
-      "title": "Bargain Block",
-      "subtitle": "The Hamptons and Gatsby",
-      "description": "Partners Keith Bynum and Evan Thomas want to be part of restoring the iconic American city of Detroit. The scrappy visionaries buy run-down and abandoned properties and transform them into affordable, stylish starter homes for first-time homebuyers.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T04:30:00.000Z",
-      "stop": "2026-09-18T05:30:00.000Z",
-      "title": "Help! I Wrecked My House",
-      "subtitle": "Empty Nesting",
-      "description": "Balancing careers and kids, a couple hasn't made any major home improvements in 20 years, now his lack of DIY skills have left her with an unusable bathroom. Jasmine has eight weeks, she aims to create a dream space for family gatherings.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T05:30:00.000Z",
-      "stop": "2026-09-18T06:00:00.000Z",
-      "title": "My Lottery Dream Home",
-      "subtitle": "Brotherly Love",
-      "description": "With his wife's blessing and assistance, a Colorado man looks to buy a house for his sister and her children after winning a share of $1 million! David arrives to help see the good deed through and find the perfect home in Pueblo, Colorado.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T06:00:00.000Z",
-      "stop": "2026-09-18T06:30:00.000Z",
-      "title": "My Lottery Dream Home",
-      "subtitle": "Double Dip",
-      "description": "Lottery winners have outgrown their California dream home, and now they're ready to find a bigger place in the Las Vegas suburbs! They're looking for lots of outdoor space, but for David, finding a Vegas home with a large-enough lot may be a challenge.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T06:30:00.000Z",
-      "stop": "2026-09-18T08:00:00.000Z",
-      "title": "The Block",
-      "subtitle": "Guest Bedrooms And Ensuite Reveal",
-      "description": "The Block is on lockdown. Half a day before room reveal The Block is evacuated. Will the teams all finish their rooms and who will take home the $10K.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T08:00:00.000Z",
-      "stop": "2026-09-18T09:00:00.000Z",
-      "title": "Dream Kitchens And Bathrooms",
-      "subtitle": "Cheshire & Stockport",
-      "description": "Mark helps a couple in Stockport spend their wedding budget on a new Shaker kitchen. Meanwhile, a young family elsewhere in Cheshire create an Art Deco bathroom in their 1930s bungalow.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T09:00:00.000Z",
-      "stop": "2026-09-18T10:00:00.000Z",
-      "title": "No Demo Reno",
-      "subtitle": "Porcelain Punch Up",
-      "description": "With their kids off to school, a couple finally has the time to renovate their house. Jenn is ready to lean into their casual and traditional style, but there's trouble in as Jenn and Victor clash over some porcelain countertops.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T10:00:00.000Z",
-      "stop": "2026-09-18T10:30:00.000Z",
-      "title": "House Hunters International",
-      "subtitle": "Adventure and Expectations in Bangkok",
-      "description": "A dad looking to live abroad moves his family from Denver to Bangkok; he and the kids want adventure; Mom is having trouble adapting to the different pace.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T10:30:00.000Z",
-      "stop": "2026-09-18T11:00:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Michigan Family Lake Life",
-      "description": "A Michigan couple has been saving up to buy a lake home where they can make family memories. She wants a small and affordable ranch, but he wants a lot of space and is willing to spend to get it.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T11:00:00.000Z",
-      "stop": "2026-09-18T11:30:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Kosher Conundrum in Jacksonville",
-      "description": "A family of seven looks to relocate from Philadelphia to sunny Jacksonville, Florida. They agree that they need a big kosher kitchen, but while he wants a Victorian, she's hoping for an airy, country Ranch-style home.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T11:30:00.000Z",
-      "stop": "2026-09-18T12:30:00.000Z",
-      "title": "Barnwood Builders",
-      "subtitle": "Restoration Week",
-      "description": "The crew restores two cabins and builds a barn door for their blacksmith shop; Mark Bowe scouts an old log cabin and drives through a river to visit the fishing cabin he and his crew built two years ago.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T12:30:00.000Z",
-      "stop": "2026-09-18T13:30:00.000Z",
-      "title": "Farmhouse Fixer",
-      "subtitle": "A Bakeshop Kitchen",
-      "description": "It's a sugary sweet renovation when Jon Knight and his team tackle a baker's 1910 home. Together, Jon and Kristina Crestin give her a charming, retro kitchen that any baker would love and a luxurious main suite the single mum truly deserves.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T13:30:00.000Z",
-      "stop": "2026-09-18T14:30:00.000Z",
-      "title": "Building Alaska",
-      "subtitle": "Stuck In Shelikof",
-      "description": "Nick hunts for driftwood to use for building and realizes how dangerous it is to live in Alaska. Jere and Ben's barge begins its journey to the water, and Brannon's team reaches a major milestone in his cabin build.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T14:30:00.000Z",
-      "stop": "2026-09-18T15:30:00.000Z",
-      "title": "Renovation Aloha",
-      "subtitle": "Partnered in Pearl Harbor",
-      "description": "The Kalamas flip a Pearl Harbor home in a risky 50/50 deal with a friend.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T15:30:00.000Z",
-      "stop": "2026-09-18T16:00:00.000Z",
-      "title": "House Hunters International",
-      "subtitle": "Adventure and Expectations in Bangkok",
-      "description": "A dad looking to live abroad moves his family from Denver to Bangkok; he and the kids want adventure; Mom is having trouble adapting to the different pace.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T16:00:00.000Z",
-      "stop": "2026-09-18T16:30:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Michigan Family Lake Life",
-      "description": "A Michigan couple has been saving up to buy a lake home where they can make family memories. She wants a small and affordable ranch, but he wants a lot of space and is willing to spend to get it.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T16:30:00.000Z",
-      "stop": "2026-09-18T17:00:00.000Z",
-      "title": "House Hunters",
-      "subtitle": "Kosher Conundrum in Jacksonville",
-      "description": "A family of seven looks to relocate from Philadelphia to sunny Jacksonville, Florida. They agree that they need a big kosher kitchen, but while he wants a Victorian, she's hoping for an airy, country Ranch-style home.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T17:00:00.000Z",
-      "stop": "2026-09-18T18:00:00.000Z",
-      "title": "Farmhouse Fixer",
-      "subtitle": "A Bakeshop Kitchen",
-      "description": "It's a sugary sweet renovation when Jon Knight and his team tackle a baker's 1910 home. Together, Jon and Kristina Crestin give her a charming, retro kitchen that any baker would love and a luxurious main suite the single mum truly deserves.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T18:00:00.000Z",
-      "stop": "2026-09-18T19:00:00.000Z",
-      "title": "Building Alaska",
-      "subtitle": "Stuck In Shelikof",
-      "description": "Nick hunts for driftwood to use for building and realizes how dangerous it is to live in Alaska. Jere and Ben's barge begins its journey to the water, and Brannon's team reaches a major milestone in his cabin build.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T19:00:00.000Z",
-      "stop": "2026-09-18T20:00:00.000Z",
-      "title": "Renovation Aloha",
-      "subtitle": "Partnered in Pearl Harbor",
-      "description": "The Kalamas flip a Pearl Harbor home in a risky 50/50 deal with a friend.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-18T20:00:00.000Z",
-      "stop": "2026-09-18T20:30:00.000Z",
+      "start": "2026-09-19T03:30:00.000Z",
+      "stop": "2026-09-19T04:00:00.000Z",
       "title": "Getaway",
       "subtitle": "Scenic - Eclipse #2",
       "description": "This week on Getaway, Catriona cruises the magnificent fjords of Chile on the world's most luxurious discovery yacht and takes her first ever submarine ride.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T20:30:00.000Z",
-      "stop": "2026-09-18T21:00:00.000Z",
-      "title": "Hello SA",
-      "subtitle": "Baird Bay",
-      "description": "We visit the stunning Baird Bay on the Eyre Peninsula, explore Port Augusta's Australian Arid Lands Botanic Garden, and talk about all things weddings with Unforgettable Proposals, Alexandra Lingerie, and Jenny and Gerry's Bridal Centre.",
+      "start": "2026-09-19T04:00:00.000Z",
+      "stop": "2026-09-19T04:30:00.000Z",
+      "title": "House Hunters International",
+      "subtitle": "Action vs. Jungle in the Riviera Maya",
+      "description": "A Toronto couple looks to take the edge off their hectic lives and relocate to the Riviera Maya, Mexico; she wants a quiet standalone home that's in the jungle, but he's looking for a condo that's near downtown and close to the action.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T21:00:00.000Z",
-      "stop": "2026-09-18T22:00:00.000Z",
-      "title": "Dream Kitchens And Bathrooms",
-      "subtitle": "Cheshire & Stockport",
-      "description": "Mark helps a couple in Stockport spend their wedding budget on a new Shaker kitchen. Meanwhile, a young family elsewhere in Cheshire create an Art Deco bathroom in their 1930s bungalow.",
+      "start": "2026-09-19T04:30:00.000Z",
+      "stop": "2026-09-19T05:30:00.000Z",
+      "title": "Farmhouse Fixer",
+      "subtitle": "A Bakeshop Kitchen",
+      "description": "It's a sugary sweet renovation when Jon Knight and his team tackle a baker's 1910 home. Together, Jon and Kristina Crestin give her a charming, retro kitchen that any baker would love and a luxurious main suite the single mum truly deserves.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-18T22:00:00.000Z",
-      "stop": "2026-09-18T22:30:00.000Z",
+      "start": "2026-09-19T05:30:00.000Z",
+      "stop": "2026-09-19T06:30:00.000Z",
+      "title": "No Demo Reno",
+      "subtitle": "Porcelain Punch Up",
+      "description": "With their kids off to school, a couple finally has the time to renovate their house. Jenn is ready to lean into their casual and traditional style, but there's trouble in as Jenn and Victor clash over some porcelain countertops.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T06:30:00.000Z",
+      "stop": "2026-09-19T07:28:00.000Z",
+      "title": "Renovation Aloha",
+      "subtitle": "Partnered in Pearl Harbor",
+      "description": "The Kalamas flip a Pearl Harbor home in a risky 50/50 deal with a friend.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T07:28:00.000Z",
+      "stop": "2026-09-19T07:33:00.000Z",
+      "title": "9honey - He Said, She Said",
+      "subtitle": "Office Temperature",
+      "description": "He Said She Said, starring Ben Fordham and Shelly Horton sees Ben and Shelly debate each other on a variety of issues. An often hilarious and at times serious examination of what everyone is talking about.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T07:33:00.000Z",
+      "stop": "2026-09-19T08:30:00.000Z",
+      "title": "Barnwood Builders",
+      "subtitle": "Restoration Week",
+      "description": "The crew restores two cabins and builds a barn door for their blacksmith shop; Mark Bowe scouts an old log cabin and drives through a river to visit the fishing cabin he and his crew built two years ago.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T08:30:00.000Z",
+      "stop": "2026-09-19T09:01:00.000Z",
+      "title": "My Lottery Dream Home",
+      "subtitle": "Brotherly Love",
+      "description": "With his wife's blessing and assistance, a Colorado man looks to buy a house for his sister and her children after winning a share of $1 million! David arrives to help see the good deed through and find the perfect home in Pueblo, Colorado.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T09:01:00.000Z",
+      "stop": "2026-09-19T09:30:00.000Z",
+      "title": "My Lottery Dream Home",
+      "subtitle": "Double Dip",
+      "description": "Lottery winners have outgrown their California dream home, and now they're ready to find a bigger place in the Las Vegas suburbs! They're looking for lots of outdoor space, but for David, finding a Vegas home with a large-enough lot may be a challenge.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T09:30:00.000Z",
+      "stop": "2026-09-19T10:00:00.000Z",
+      "title": "Dream Homes Revealed",
+      "subtitle": "Beyond the City",
+      "description": "We leave the hustle and bustle behind, to explore stunning homes set in some of Australia's most picturesque country locations.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T10:00:00.000Z",
+      "stop": "2026-09-19T10:31:00.000Z",
+      "title": "Dream Homes Revealed",
+      "subtitle": "Family Retreats",
+      "description": "We explore family retreats that offer the perfect balance of style and room to create memories together.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T10:31:00.000Z",
+      "stop": "2026-09-19T11:33:00.000Z",
+      "title": "Britain's Most Expensive Houses",
+      "subtitle": "Episode 6",
+      "description": "In Surrey, Amy has a stunning 1930s architectural home to sell. Known as the Roundhouse it's set in eight acres of award-winning grounds and boasts a professional recording studio on site.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T11:33:00.000Z",
+      "stop": "2026-09-19T12:32:00.000Z",
+      "title": "Bargain Mansions",
+      "subtitle": "Toughest Jobs",
+      "description": "Tamara and her father, Ward, discuss the toughest jobs they've done over the years and give you all the behind-the-scenes scoop. Watch as they revisit these beautiful old homes and reminisce about the hard work that made them beautiful.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T12:32:00.000Z",
+      "stop": "2026-09-19T13:02:00.000Z",
       "title": "House Hunters",
-      "subtitle": "Michigan Family Lake Life",
-      "description": "A Michigan couple has been saving up to buy a lake home where they can make family memories. She wants a small and affordable ranch, but he wants a lot of space and is willing to spend to get it.",
+      "subtitle": "New City, New Baby in Charlotte",
+      "description": "Ohio couple races to buy Charlotte home before baby arrives. She wants Southern style with big yard, he prefers modern design in walkable Uptown.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T13:02:00.000Z",
+      "stop": "2026-09-19T13:32:00.000Z",
+      "title": "House Hunters",
+      "subtitle": "Hunting for a Homestead",
+      "description": "After a long distance relationship, a married couple looks to buy their first home in Grand Rapids. The husband wants acreage outside the city for a homestead, but the wife prefers a small in-town plot.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T13:32:00.000Z",
+      "stop": "2026-09-19T14:02:00.000Z",
+      "title": "House Hunters International",
+      "subtitle": "Manifesting a New Life in Phnom Penh, Cambodia",
+      "description": "An expat couple in Suffolk, England, looks to take a risk and relocate to Phnom Penh, Cambodia. She's a manifestation coach and has imagined living in a traditional Asian home since childhood, but he's more interested in getting the most for their money.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T14:02:00.000Z",
+      "stop": "2026-09-19T14:32:00.000Z",
+      "title": "House Hunters International",
+      "subtitle": "New Job, New Lifestyle in Hamburg, Germany",
+      "description": "A Canadian family relocates to Hamburg, Germany, for her new job. He'll be a stay-at-home dad needing space for the kids, while her priority is a short work commute.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T14:32:00.000Z",
+      "stop": "2026-09-19T15:02:00.000Z",
+      "title": "Mexico Life",
+      "subtitle": "From the Cold to Cozumel",
+      "description": "A Canadian couple hunts for a vacation home in Cozumel where they can escape the cold and snow.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T15:02:00.000Z",
+      "stop": "2026-09-19T15:31:00.000Z",
+      "title": "Mexico Life",
+      "subtitle": "New Adventures in Playa del Carmen",
+      "description": "A thrill-seeking couple seeks a home in Playa del Carmen with space to entertain family and friends.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T15:31:00.000Z",
+      "stop": "2026-09-19T16:30:00.000Z",
+      "title": "Holiday Homes In The Sun",
+      "subtitle": "Marazion, UK",
+      "description": "Property expert Amanda Lamb, presenter and JLS star JB Gill, and DJ and presenter Sam Pinkham go head-to-head as they travel the length and breadth of Europe and the UK to find the very best holiday rentals.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T16:30:00.000Z",
+      "stop": "2026-09-19T17:00:00.000Z",
+      "title": "House Hunters",
+      "subtitle": "New City, New Baby in Charlotte",
+      "description": "Ohio couple races to buy Charlotte home before baby arrives. She wants Southern style with big yard, he prefers modern design in walkable Uptown.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T17:00:00.000Z",
+      "stop": "2026-09-19T17:56:00.000Z",
+      "title": "Barnwood Builders",
+      "subtitle": "Restoration Week",
+      "description": "The crew restores two cabins and builds a barn door for their blacksmith shop; Mark Bowe scouts an old log cabin and drives through a river to visit the fishing cabin he and his crew built two years ago.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T17:56:00.000Z",
+      "stop": "2026-09-19T18:04:00.000Z",
+      "title": "Talking Honey",
+      "subtitle": "Teens and Tech: Are Phones Harming Our Teenagers?",
+      "description": "Host Shelly Horton is joined on the 9Honey panel by Ben Fordham, Georgie Gardner and Richard Wilkins to discuss relationship dilemmas and social issues.",
+      "category": "News"
+    },
+    {
+      "start": "2026-09-19T18:04:00.000Z",
+      "stop": "2026-09-19T18:33:00.000Z",
+      "title": "House Hunters International",
+      "subtitle": "Manifesting a New Life in Phnom Penh, Cambodia",
+      "description": "An expat couple in Suffolk, England, looks to take a risk and relocate to Phnom Penh, Cambodia. She's a manifestation coach and has imagined living in a traditional Asian home since childhood, but he's more interested in getting the most for their money.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T18:33:00.000Z",
+      "stop": "2026-09-19T19:03:00.000Z",
+      "title": "House Hunters International",
+      "subtitle": "New Job, New Lifestyle in Hamburg, Germany",
+      "description": "A Canadian family relocates to Hamburg, Germany, for her new job. He'll be a stay-at-home dad needing space for the kids, while her priority is a short work commute.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T19:03:00.000Z",
+      "stop": "2026-09-19T19:32:00.000Z",
+      "title": "Mexico Life",
+      "subtitle": "From the Cold to Cozumel",
+      "description": "A Canadian couple hunts for a vacation home in Cozumel where they can escape the cold and snow.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T19:32:00.000Z",
+      "stop": "2026-09-19T20:02:00.000Z",
+      "title": "Mexico Life",
+      "subtitle": "New Adventures in Playa del Carmen",
+      "description": "A thrill-seeking couple seeks a home in Playa del Carmen with space to entertain family and friends.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T20:02:00.000Z",
+      "stop": "2026-09-19T21:01:00.000Z",
+      "title": "Holiday Homes In The Sun",
+      "subtitle": "Marazion, UK",
+      "description": "Property expert Amanda Lamb, presenter and JLS star JB Gill, and DJ and presenter Sam Pinkham go head-to-head as they travel the length and breadth of Europe and the UK to find the very best holiday rentals.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T21:01:00.000Z",
+      "stop": "2026-09-19T22:00:00.000Z",
+      "title": "Good Bones",
+      "subtitle": "Falling Head Ova Heels In Fountain Square",
+      "description": "Mina is helping her friend convert a historic Fountain Square home into a salon for her own beauty business. They plan to add a coffee shop into the renovation but things could turn ugly when the health department steps in with other ideas.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T22:00:00.000Z",
+      "stop": "2026-09-19T23:03:00.000Z",
+      "title": "Bargain Mansions",
+      "subtitle": "Toughest Jobs",
+      "description": "Tamara and her father, Ward, discuss the toughest jobs they've done over the years and give you all the behind-the-scenes scoop. Watch as they revisit these beautiful old homes and reminisce about the hard work that made them beautiful.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T23:03:00.000Z",
+      "stop": "2026-09-19T23:34:00.000Z",
+      "title": "Getaway",
+      "subtitle": "Scenic - Eclipse #3",
+      "description": "This week on Getaway Catriona winds up her South American cruise on the world's first luxury discover yacht, Scenic Eclipse. Experiencing Chilean glaciers, fjords and cruising around Cape Horn to the southern most city of Ushuaia.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-19T23:34:00.000Z",
+      "stop": "2026-09-20T00:32:00.000Z",
+      "title": "100 Day Dream Home",
+      "subtitle": "Shared Space to Dream Place",
+      "description": "A couple bought their dream property but are living with his mother due to financial setbacks. They are ready to build a home of their own, but Brian and Mika must find a way to combine her understated style with his over-the-top- taste.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T00:32:00.000Z",
+      "stop": "2026-09-20T01:31:00.000Z",
+      "title": "Help! I Wrecked My House",
+      "subtitle": "Empty Nesting",
+      "description": "Balancing careers and kids, a couple hasn't made any major home improvements in 20 years, now his lack of DIY skills have left her with an unusable bathroom. Jasmine has eight weeks, she aims to create a dream space for family gatherings.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T01:31:00.000Z",
+      "stop": "2026-09-20T02:35:00.000Z",
+      "title": "Help! I Wrecked My House",
+      "subtitle": "Trust Has To Be Earned",
+      "description": "Jasmine takes on her new contractor's unfinished bathroom and bedroom.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T02:35:00.000Z",
+      "stop": "2026-09-20T03:33:00.000Z",
+      "title": "Renovation Aloha",
+      "subtitle": "Partnered in Pearl Harbor",
+      "description": "The Kalamas flip a Pearl Harbor home in a risky 50/50 deal with a friend.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T03:33:00.000Z",
+      "stop": "2026-09-20T04:03:00.000Z",
+      "title": "Flipping 101 With Tarek El Moussa",
+      "subtitle": "Broken Slab to Totally Fab",
+      "description": "A couple are tired of mediocre profits and ask Tarek to help with their next flip in Anaheim, California; even with his guidance, they struggle to make the right decisions and face an uphill battle when the local market starts to buck.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T04:03:00.000Z",
+      "stop": "2026-09-20T04:33:00.000Z",
+      "title": "Flipping 101 With Tarek El Moussa",
+      "subtitle": "A Flipping Family Nightmare",
+      "description": "A mother and son struggle to build their family flipping business when their Long Beach, Calif., project causes tension; when contractors don't show and the duo battles over design, Tarek steps in to bring the flip and the family back together.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T04:33:00.000Z",
+      "stop": "2026-09-20T05:32:00.000Z",
+      "title": "Dream Kitchens And Bathrooms",
+      "subtitle": "Hove & Leicester",
+      "description": "Mark helps create a black-and-gold kitchen for in Hove.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T05:32:00.000Z",
+      "stop": "2026-09-20T06:02:00.000Z",
+      "title": "Mexico Life",
+      "subtitle": "From the Cold to Cozumel",
+      "description": "A Canadian couple hunts for a vacation home in Cozumel where they can escape the cold and snow.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:02:00.000Z",
+      "stop": "2026-09-20T06:32:00.000Z",
+      "title": "Mexico Life",
+      "subtitle": "New Adventures in Playa del Carmen",
+      "description": "A thrill-seeking couple seeks a home in Playa del Carmen with space to entertain family and friends.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T06:32:00.000Z",
+      "stop": "2026-09-20T07:31:00.000Z",
+      "title": "Chateau DIY",
+      "subtitle": "Episode 30",
+      "description": "Janet and Philip face the eye of the storm as they battle the elements to put on a special dinner party. Abbie gets her hands dirty upcycling a kitchen. Bart and Sarah get the keys to the château and begin their French Dream.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T07:31:00.000Z",
+      "stop": "2026-09-20T08:31:00.000Z",
+      "title": "Farmhouse Fixer",
+      "subtitle": "A Bakeshop Kitchen",
+      "description": "It's a sugary sweet renovation when Jon Knight and his team tackle a baker's 1910 home. Together, Jon and Kristina Crestin give her a charming, retro kitchen that any baker would love and a luxurious main suite the single mum truly deserves.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T08:31:00.000Z",
+      "stop": "2026-09-20T09:31:00.000Z",
+      "title": "Barnwood Builders",
+      "subtitle": "Restoration Week",
+      "description": "The crew restores two cabins and builds a barn door for their blacksmith shop; Mark Bowe scouts an old log cabin and drives through a river to visit the fishing cabin he and his crew built two years ago.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T09:31:00.000Z",
+      "stop": "2026-09-20T10:02:00.000Z",
+      "title": "House Hunters",
+      "subtitle": "New City, New Baby in Charlotte",
+      "description": "Ohio couple races to buy Charlotte home before baby arrives. She wants Southern style with big yard, he prefers modern design in walkable Uptown.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:02:00.000Z",
+      "stop": "2026-09-20T10:31:00.000Z",
+      "title": "House Hunters",
+      "subtitle": "Hunting for a Homestead",
+      "description": "After a long distance relationship, a married couple looks to buy their first home in Grand Rapids. The husband wants acreage outside the city for a homestead, but the wife prefers a small in-town plot.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T10:31:00.000Z",
+      "stop": "2026-09-20T11:02:00.000Z",
+      "title": "House Hunters International",
+      "subtitle": "Manifesting a New Life in Phnom Penh, Cambodia",
+      "description": "An expat couple in Suffolk, England, looks to take a risk and relocate to Phnom Penh, Cambodia. She's a manifestation coach and has imagined living in a traditional Asian home since childhood, but he's more interested in getting the most for their money.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:02:00.000Z",
+      "stop": "2026-09-20T11:32:00.000Z",
+      "title": "House Hunters International",
+      "subtitle": "New Job, New Lifestyle in Hamburg, Germany",
+      "description": "A Canadian family relocates to Hamburg, Germany, for her new job. He'll be a stay-at-home dad needing space for the kids, while her priority is a short work commute.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T11:32:00.000Z",
+      "stop": "2026-09-20T12:30:00.000Z",
+      "title": "Home Town",
+      "subtitle": "Closer To Mom",
+      "description": "A New Orleans couple is looking for a vacation home in Laurel to be closer to her mom, their ideal house needs space for hosting crawfish boils. Ben and Erin transform a dated home into a modern oasis with two kitchens and spectacular pool.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T12:30:00.000Z",
+      "stop": "2026-09-20T13:30:00.000Z",
+      "title": "Fixer To Fabulous",
+      "subtitle": "Fix This Chaotic Cabin",
+      "description": "When a California-based wife refuses to live in her husband's old Arkansas cabin built around a trailer, Dave and Jenny step in; as they risk the house collapsing during demo, the Marrs deliver a stunning reno.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T13:30:00.000Z",
+      "stop": "2026-09-20T14:30:00.000Z",
+      "title": "Christina In The Country",
+      "subtitle": "Modernizing Memories",
+      "description": "Homeowners are relocating to Tennessee and moving into the home of her late mother. Now, they're calling on Christina to open up the layout and transform the dated space into a modern home of their own.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-09-20T14:30:00.000Z",
+      "stop": "2026-09-20T15:30:00.000Z",
+      "title": "100 Day Dream Home",
+      "subtitle": "Seventh Time's the Charm",
+      "description": "A family of four has lived in six homes over the past ten years while trying to find their perfect fit. Brian and Mika help them build a home that they think is just right, but when their plans fall through, they'll have to double down to not disappoint.",
       "category": "Special Interest"
     }
   ]
