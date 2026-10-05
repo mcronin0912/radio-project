@@ -1,0 +1,32 @@
+{
+  "slug": "wtn-fast",
+  "epgId": "mjh-wtn-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:39:09.000Z",
+      "stop": "2026-10-01T12:31:10.000Z",
+      "title": "The Maine Event",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:31:10.000Z",
+      "stop": "2026-10-01T13:23:11.000Z",
+      "title": "Battle At Midway",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:23:11.000Z",
+      "stop": "2026-10-01T13:53:11.000Z",
+      "title": "Wicked Pissed",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

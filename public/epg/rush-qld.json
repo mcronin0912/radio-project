@@ -2,390 +2,390 @@
   "slug": "rush-qld",
   "epgId": "mjh-rush-qld",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T02:00:00.000Z",
-      "stop": "2026-09-19T03:03:00.000Z",
-      "title": "Expedition Unknown",
-      "subtitle": "Searching for World War II's Lost Hero",
-      "description": "Josh travels to Micronesia and dives the Pacific to find a lost P-47 Thunderbolt flown by a WWII American hero. Guided by new eyewitness accounts and cutting-edge tech, he searches for clues to a daring, final-days war raid.",
+      "start": "2026-10-01T11:30:00.000Z",
+      "stop": "2026-10-01T13:18:00.000Z",
+      "title": "America's War On Drugs",
+      "subtitle": "Heroin, Terrorists & Kings of Pain",
+      "description": "The intertwining of the War on Drugs and the War on Terror transforms Afghanistan into a narco-state; American intervention helps give rise to El Chapo and the super cartels; the pharmaceutical industry becomes a supplier.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T03:03:00.000Z",
-      "stop": "2026-09-19T04:00:00.000Z",
-      "title": "The Curse Of Oak Island",
-      "subtitle": "Disappearing Act",
-      "description": "While preparing a diver to explore the bottom of 10-X, Rick and Marty arrange to send an ROV camera down the shaft, which uncovers evidence that could threaten their entire operation.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T04:00:00.000Z",
-      "stop": "2026-09-19T05:00:00.000Z",
-      "title": "Wheeler Dealers",
-      "subtitle": "Mitsubishi Evo 7",
-      "description": "Mike and Elvis get to work on an iconic Japanese rally car: a Mitsubishi Lancer Evo7. It needs a total engine rebuild and a new look if it is to be king of the street racers once again.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:00:00.000Z",
-      "stop": "2026-09-19T05:30:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Culver City - Dirty Gold Rush",
-      "description": "Buyers clash over construction gear, Brandon and Lori spot a hidden golden score, and a gas-scented locker leads to a showdown that gets a buyer banned.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:30:00.000Z",
-      "stop": "2026-09-19T05:58:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Los Angeles - Native Wars",
-      "description": "Minds are blown in Los Angeles when an unlikely pairing of rival buyers teams up to secure a major score and make a massive pile of cash.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:58:00.000Z",
-      "stop": "2026-09-19T06:29:00.000Z",
-      "title": "Drive TV - What Drives Us",
-      "subtitle": "Episode 2 of Season 2026",
-      "description": "In this episode, Kris Smith focuses on hybrid vehicles, examines powertrain differences, and looks at alternative fuels for vehicles.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T06:29:00.000Z",
-      "stop": "2026-09-19T07:29:00.000Z",
-      "title": "Salvage Hunters: The Restorers",
-      "subtitle": "Fat Les",
-      "description": "Rebecca Pritchard entrusts her precious heirloom, a cherub statue affectionately known as Fat Les, to sculptor Nick Elphick who must restore Les back to his best.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T07:29:00.000Z",
-      "stop": "2026-09-19T07:34:00.000Z",
-      "title": "Explore Moments",
-      "subtitle": "Wang Gang Markets & Tea Plantation",
-      "description": "Some of the best bits from the Explore series.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T07:34:00.000Z",
-      "stop": "2026-09-19T08:02:00.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "Sweet Pawn of Mine",
-      "description": "Kick off your shoes with the Pawn Stars when Rick and the Old Man are offered a pair of slippers owned by Pope Leo XIII. Considered one of history's most influential popes, will the guys have a prayer of making a deal?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T08:02:00.000Z",
-      "stop": "2026-09-19T08:31:00.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "Putt, Putt, Pawn",
-      "description": "The Pawn Stars start a cola war when a 1950 s Pepsi Machine pops into the shop. An incredibly rare unit painted \"Coke red\" instead of \"Pepsi blue,\" is this mysterious machine worth big bucks, or will the deal go flat?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T08:31:00.000Z",
-      "stop": "2026-09-19T09:31:00.000Z",
-      "title": "Wheeler Dealers",
-      "subtitle": "Mitsubishi Evo 7",
-      "description": "Mike and Elvis get to work on an iconic Japanese rally car: a Mitsubishi Lancer Evo7. It needs a total engine rebuild and a new look if it is to be king of the street racers once again.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T09:31:00.000Z",
-      "stop": "2026-09-19T10:32:00.000Z",
-      "title": "Gold Rush",
-      "subtitle": "Call of the Indian River",
-      "description": "Tony considers moving the entire family operation to the Indian River. Parker opens the first cut at his new claim at Dominion Creek. Rick Ness brings on a new crew member, hoping to get on the gold first.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T10:32:00.000Z",
-      "stop": "2026-09-19T11:32:00.000Z",
-      "title": "Outback Opal Hunters",
-      "subtitle": "Ratter Brained",
-      "description": "Rory and Oscar are forced to operate their dad's drill rig for the first time. The Tarantos are struck down by sickness, and the Bushmen build a dangerous mine roof.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T11:32:00.000Z",
-      "stop": "2026-09-19T12:32:00.000Z",
-      "title": "Flying Wild Alaska",
-      "subtitle": "Arctic Winds",
-      "description": "John Ponts fights turbulence and passengers on a flight; Jim and Ferno leave the pilots in charge of the terminal and Sarah's rescue flight turns into a battle for survival.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T12:32:00.000Z",
-      "stop": "2026-09-19T13:33:00.000Z",
-      "title": "Alone UK",
-      "subtitle": "Episode 5 of Season 1",
-      "description": "Attempts to find meals become increasingly desperate and an injury threatens one person's chance of survival. But with the end in sight, who will have what it takes to survive the longest?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T13:33:00.000Z",
-      "stop": "2026-09-19T14:34:00.000Z",
-      "title": "Gold Rush",
-      "subtitle": "Call of the Indian River",
-      "description": "Tony considers moving the entire family operation to the Indian River. Parker opens the first cut at his new claim at Dominion Creek. Rick Ness brings on a new crew member, hoping to get on the gold first.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T14:34:00.000Z",
-      "stop": "2026-09-19T15:34:00.000Z",
-      "title": "Outback Opal Hunters",
-      "subtitle": "Ratter Brained",
-      "description": "Rory and Oscar are forced to operate their dad's drill rig for the first time. The Tarantos are struck down by sickness, and the Bushmen build a dangerous mine roof.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T15:34:00.000Z",
-      "stop": "2026-09-19T16:33:00.000Z",
-      "title": "Flying Wild Alaska",
-      "subtitle": "Arctic Winds",
-      "description": "John Ponts fights turbulence and passengers on a flight; Jim and Ferno leave the pilots in charge of the terminal and Sarah's rescue flight turns into a battle for survival.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T16:33:00.000Z",
-      "stop": "2026-09-19T17:34:00.000Z",
-      "title": "Alone UK",
-      "subtitle": "Episode 5 of Season 1",
-      "description": "Attempts to find meals become increasingly desperate and an injury threatens one person's chance of survival. But with the end in sight, who will have what it takes to survive the longest?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T17:34:00.000Z",
-      "stop": "2026-09-19T18:03:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Culver City - Dirty Gold Rush",
-      "description": "Buyers clash over construction gear, Brandon and Lori spot a hidden golden score, and a gas-scented locker leads to a showdown that gets a buyer banned.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:03:00.000Z",
-      "stop": "2026-09-19T18:32:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Los Angeles - Native Wars",
-      "description": "Minds are blown in Los Angeles when an unlikely pairing of rival buyers teams up to secure a major score and make a massive pile of cash.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:32:00.000Z",
-      "stop": "2026-09-19T19:02:00.000Z",
-      "title": "Drive TV - What Drives Us",
-      "subtitle": "Episode 2 of Season 2026",
-      "description": "In this episode, Kris Smith focuses on hybrid vehicles, examines powertrain differences, and looks at alternative fuels for vehicles.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T19:02:00.000Z",
-      "stop": "2026-09-19T19:31:00.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "Sweet Pawn of Mine",
-      "description": "Kick off your shoes with the Pawn Stars when Rick and the Old Man are offered a pair of slippers owned by Pope Leo XIII. Considered one of history's most influential popes, will the guys have a prayer of making a deal?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T19:31:00.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "Putt, Putt, Pawn",
-      "description": "The Pawn Stars start a cola war when a 1950 s Pepsi Machine pops into the shop. An incredibly rare unit painted \"Coke red\" instead of \"Pepsi blue,\" is this mysterious machine worth big bucks, or will the deal go flat?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T21:00:00.000Z",
-      "title": "Salvage Hunters: The Restorers",
-      "subtitle": "Pulling The Strings",
-      "description": "Michael and Maria Start work on a 19th century Pinocchio puppet. And neon light designer, Julia Bickerstaff, restores a period advertising sign for Riley Cars.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T21:00:00.000Z",
-      "stop": "2026-09-19T21:30:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Burbank - Smoking Hot",
-      "description": "Jesse and Brandon clash over hidden treasure, a savvy new bidder steals a prize from the regulars, and Lori and Brandon target a potential small fortune.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T21:30:00.000Z",
-      "stop": "2026-09-19T22:00:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Reseda - Triple X",
-      "description": "The buyers bid big money in Reseda to win a locker packed with what appears to be rare art, but the winner risks walking away with useless counterfeits.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T22:00:00.000Z",
-      "stop": "2026-09-19T23:00:00.000Z",
-      "title": "Wheeler Dealers",
-      "subtitle": "VW Golf Cabriolet",
-      "description": "Elvis convinces Mike to buy a bargain VW Golf convertible; Its bright color scheme turns heads but is also very divisive; along with its strange color scheme, it's also rusty and filthy with a busted convertible roof.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T23:00:00.000Z",
-      "stop": "2026-09-19T23:29:00.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "Wouldn't It Be Ice?",
-      "description": "Hold steady and fire with Pawn Stars as Rick checks out a Japanese Knee Mortar. Used in WWII for fighting in the dense jungles of the Pacific, will Rick see the chance to make a deal, or does the seller not even have a leg to stand on?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T23:29:00.000Z",
-      "stop": "2026-09-19T23:59:00.000Z",
-      "title": "Pawn Stars",
-      "subtitle": "Take the Money and Run",
-      "description": "Take aim with the Pawn Stars when the guys check out a Kentucky Long Rifle. Made famous by frontier marksmen like Daniel Boone, will the guys take a long shot on this iconic big-game gun?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T23:59:00.000Z",
-      "stop": "2026-09-20T01:04:00.000Z",
-      "title": "Counting Cars",
-      "subtitle": "GTO Dreams",
-      "description": "When Ryan and Ghetto Bob buy a &#8217;67 Pontiac GTO, they don&#8217;t realize that Danny misses his old GTO so much, he might not let the client have this one! Meanwhile, the guys jump into high gear to restore a classic &#8217;66 Ford Mustang Fastback for Ghetto Bob&#8217;s father. And former Guns N&#8217; Roses guitarist DJ Ashba drops off his latest super car for a little Count&#8217;s Kustom&#8217;s magic.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T01:04:00.000Z",
-      "stop": "2026-09-20T02:03:00.000Z",
-      "title": "Salvage Hunters: The Restorers",
-      "subtitle": "Pulling The Strings",
-      "description": "Michael and Maria Start work on a 19th century Pinocchio puppet. And neon light designer, Julia Bickerstaff, restores a period advertising sign for Riley Cars.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T02:03:00.000Z",
-      "stop": "2026-09-20T03:02:00.000Z",
-      "title": "Shorty's Dream Shop",
-      "subtitle": "Supercharged Nova and a 9/11 Tribute Truck",
-      "description": "The crew turns Arturo's classic Nova into a monster with a supercharged 6.2 LS engine, chassis and brake upgrades, then revives a 1924 LaFrance fire truck for the Cedar Hill Fire Department to show off at a downtown parade.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T03:02:00.000Z",
-      "stop": "2026-09-20T04:01:00.000Z",
+      "start": "2026-10-01T13:18:00.000Z",
+      "stop": "2026-10-01T14:18:00.000Z",
       "title": "Kindig Customs",
-      "subtitle": "The Secret Client",
-      "description": "Dave is tasked with finding and transforming a 1967 Pontiac GTO for a secret client from South Africa; Dave buys back one of his first builds, a Volkswagen Karmann Ghia, but doesn't know what he'll do when he gets it back on the road.",
+      "subtitle": "Finish What You Start",
+      "description": "Delayed by numerous issues and setbacks, the 1941 Chevy is finished in the metal shop and ready for paint; fresh paint, new wiring and custom interior take this problem build to the next level.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T04:01:00.000Z",
-      "stop": "2026-09-20T05:01:00.000Z",
-      "title": "Wheeler Dealers",
-      "subtitle": "VW Golf Cabriolet",
-      "description": "Elvis convinces Mike to buy a bargain VW Golf convertible; Its bright color scheme turns heads but is also very divisive; along with its strange color scheme, it's also rusty and filthy with a busted convertible roof.",
+      "start": "2026-10-01T14:18:00.000Z",
+      "stop": "2026-10-01T15:15:00.000Z",
+      "title": "Ice Road Truckers",
+      "subtitle": "Double Trouble",
+      "description": "Lisa Kelly and Steph Custance barely get by when they team up for safe passage on the icy terrain. Art Burke takes on a two-fer, bringing a split load into the North Country, hoping this will be his last load of the year.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T05:01:00.000Z",
-      "stop": "2026-09-20T05:30:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Burbank - Smoking Hot",
-      "description": "Jesse and Brandon clash over hidden treasure, a savvy new bidder steals a prize from the regulars, and Lori and Brandon target a potential small fortune.",
+      "start": "2026-10-01T15:15:00.000Z",
+      "stop": "2026-10-01T15:46:00.000Z",
+      "title": "Drive TV",
+      "subtitle": "Episode 9 of Season 10",
+      "description": "This week, Jess takes us on a nostalgic surfing adventure with Drive's Best Family Electric Car under $100k. Reborn classics meet modern efficiency in this exciting coastal escape.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T05:30:00.000Z",
-      "stop": "2026-09-20T06:00:00.000Z",
-      "title": "Storage Hunters",
-      "subtitle": "Reseda - Triple X",
-      "description": "The buyers bid big money in Reseda to win a locker packed with what appears to be rare art, but the winner risks walking away with useless counterfeits.",
+      "start": "2026-10-01T15:46:00.000Z",
+      "stop": "2026-10-01T17:34:00.000Z",
+      "title": "America's War On Drugs",
+      "subtitle": "Heroin, Terrorists & Kings of Pain",
+      "description": "The intertwining of the War on Drugs and the War on Terror transforms Afghanistan into a narco-state; American intervention helps give rise to El Chapo and the super cartels; the pharmaceutical industry becomes a supplier.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T06:00:00.000Z",
-      "stop": "2026-09-20T06:30:00.000Z",
-      "title": "Drive TV - What Drives Us",
-      "subtitle": "Episode 3 of Season 2026",
-      "description": "Kris Smith takes a look at the creature comforts of some of our star vehicles, sustainability, and how design affects all of the above.",
+      "start": "2026-10-01T17:34:00.000Z",
+      "stop": "2026-10-01T18:03:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Pearls, Damascus Steel Knives and Hippo Rollers",
+      "description": "Tennessee trailblazers harvest freshwater pearls from the deep, blacksmiths unlock the ancient secrets of the blade that struck fear into the hearts of crusading knights and an ingenious water-transporting device.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T06:30:00.000Z",
-      "stop": "2026-09-20T07:36:00.000Z",
-      "title": "Salvage Hunters: The Restorers",
-      "subtitle": "Pulling The Strings",
-      "description": "Michael and Maria Start work on a 19th century Pinocchio puppet. And neon light designer, Julia Bickerstaff, restores a period advertising sign for Riley Cars.",
+      "start": "2026-10-01T18:03:00.000Z",
+      "stop": "2026-10-01T18:33:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Sugar Beets, Feather Dusters and Balloons",
+      "description": "A knobby vegetable works to satisfy everyone's sweet tooth, the world's biggest bird helps battle dust with amazing dirt-sucking science and natural rubber is turned into balloons to get the party popping.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T07:36:00.000Z",
-      "stop": "2026-09-20T08:04:00.000Z",
+      "start": "2026-10-01T18:33:00.000Z",
+      "stop": "2026-10-01T19:03:00.000Z",
+      "title": "Drive TV",
+      "subtitle": "Episode 9 of Season 10",
+      "description": "This week, Jess takes us on a nostalgic surfing adventure with Drive's Best Family Electric Car under $100k. Reborn classics meet modern efficiency in this exciting coastal escape.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T19:03:00.000Z",
+      "stop": "2026-10-01T19:31:00.000Z",
       "title": "Pawn Stars",
-      "subtitle": "Wouldn't It Be Ice?",
-      "description": "Hold steady and fire with Pawn Stars as Rick checks out a Japanese Knee Mortar. Used in WWII for fighting in the dense jungles of the Pacific, will Rick see the chance to make a deal, or does the seller not even have a leg to stand on?",
+      "subtitle": "Pawn Illustrated",
+      "description": "The Pawn Stars take aim at an incredibly rare 18th century half-size musket. And later, a man brings in the first three years of Sports Illustrated magazine.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T08:04:00.000Z",
-      "stop": "2026-09-20T08:34:00.000Z",
+      "start": "2026-10-01T19:31:00.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
       "title": "Pawn Stars",
-      "subtitle": "Take the Money and Run",
-      "description": "Take aim with the Pawn Stars when the guys check out a Kentucky Long Rifle. Made famous by frontier marksmen like Daniel Boone, will the guys take a long shot on this iconic big-game gun?",
+      "subtitle": "Ah, Shoot!",
+      "description": "The Pawn Stars zoom in on a long lost picture by America's most famous photographer Ansel Adams. Then, Rick and the Old Man meet a guy hoping to sell his Jaguar XJ6.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T08:34:00.000Z",
-      "stop": "2026-09-20T09:34:00.000Z",
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T21:00:00.000Z",
+      "title": "Salvage Hunters",
+      "subtitle": "The Sculpture Garden",
+      "description": "Drew finds an impressive collection of antiques at an 18th century manor. Plus, he checks out a garden filled with more than 200 life-sized sculptures",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T21:00:00.000Z",
+      "stop": "2026-10-01T21:30:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Pencils, Licorice and Lace",
+      "description": "The carpenter's pencil makes a mark in the building trade, an herbaceous plant is turned into a dark and sweet candy and traditional techniques are used to create delicate lace for high-end fashion.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T21:30:00.000Z",
+      "stop": "2026-10-01T22:00:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Platinum, Manga and Limoncello",
+      "description": "Manufacturers reveal the explosive secrets in producing one of the world's most-valuable metals, the artistry behind Japan's manga phenomenon and the centuries-old techniques for making sweet and sharp limoncello.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T22:00:00.000Z",
+      "stop": "2026-10-01T23:01:00.000Z",
       "title": "Wheeler Dealers",
-      "subtitle": "VW Golf Cabriolet",
-      "description": "Elvis convinces Mike to buy a bargain VW Golf convertible; Its bright color scheme turns heads but is also very divisive; along with its strange color scheme, it's also rusty and filthy with a busted convertible roof.",
+      "subtitle": "Peugeot 205",
+      "description": "A ride in a Peugeot 205 T16 inspires Mike's latest mission: he wants to buy a 205 Rallye. It's the UK version and massively under-powered compared with European models, but Mike reckons Elvis can easily upgrade the engine.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T09:34:00.000Z",
-      "stop": "2026-09-20T10:31:00.000Z",
-      "title": "The UnXplained With William Shatner",
-      "subtitle": "The Power of Gold",
-      "description": "Gold is a precious metal that has captivated humanity for centuries. Is its power over us due to its rarity and value, or is there a deeper reason for our obsession? We explore the mysterious grip gold holds on our consciousness.",
+      "start": "2026-10-01T23:01:00.000Z",
+      "stop": "2026-10-01T23:30:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Put Up Your Dukes",
+      "description": "The Pawn Stars have a chance to buy a 450 year-old book once owned by Sir Isaac Newton. A man walks in with his grandfather's Army jacket from the Spanish American War.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T10:31:00.000Z",
-      "stop": "2026-09-20T11:28:00.000Z",
-      "title": "Man Vs. History",
-      "subtitle": "Secret History of the Bowie Knife",
-      "description": "Bil Lepp tests 19th-century frontier survival tools. He separates fact from fiction regarding the Bowie knife, attempts to outshoot Abe Lincoln, and explores the Colt .45 origin.",
+      "start": "2026-10-01T23:30:00.000Z",
+      "stop": "2026-10-02T00:03:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Case Closed",
+      "description": "Help the Pawn Stars solve the crime of the century when a man brings in a case file from the infamous Lindbergh baby kidnapping. A 1974 Lotus Europa sports car rolls up.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T11:28:00.000Z",
-      "stop": "2026-09-20T12:26:00.000Z",
-      "title": "Lost Gold Of The Aztecs",
-      "subtitle": "Buried Below",
-      "description": "The Dillmans conduct an underwater test at Shadow Cave, while the Miners use an ROV to bypass a cave-in. The Villescas family finds a new clue left by an old treasure hunter.",
+      "start": "2026-10-02T00:03:00.000Z",
+      "stop": "2026-10-02T01:00:00.000Z",
+      "title": "Bush Wreck Rescue",
+      "subtitle": "Due Where's My Pick-Up?",
+      "description": "Midnight Oil takes a chance on a rookie mechanic while Wreckless Restorations tries to convince a demanding client to compromise on his wish list. Glen and Robin partner on a scheme to flip an old Ford.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T12:26:00.000Z",
-      "stop": "2026-09-20T13:25:00.000Z",
+      "start": "2026-10-02T01:00:00.000Z",
+      "stop": "2026-10-02T02:00:00.000Z",
+      "title": "Salvage Hunters",
+      "subtitle": "The Sculpture Garden",
+      "description": "Drew finds an impressive collection of antiques at an 18th century manor. Plus, he checks out a garden filled with more than 200 life-sized sculptures",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T02:00:00.000Z",
+      "stop": "2026-10-02T03:00:00.000Z",
+      "title": "Last Chance Garage",
+      "subtitle": "Spirit of '76 Triumph",
+      "description": "A botched 2020 Jeep comes in with an engine from 20 years ago. Tony and his team try make this modern Jeep run with classic parts. A British sportscar that hasn't been driven in years comes into the shop looking to regain its royal status.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T03:00:00.000Z",
+      "stop": "2026-10-02T04:02:00.000Z",
+      "title": "Street Outlaws: No Prep Kings: The Great Eight",
+      "subtitle": "Newbie in New England",
+      "description": "The drivers arrive in New Hampshire for the fourth race in the Great 8 Championship. With Kye in the lead, everyone is gunning for him. Meanwhile, Kailee gets into the Great 8 for the first time, but struggles with a late engine issue.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T04:02:00.000Z",
+      "stop": "2026-10-02T05:01:00.000Z",
+      "title": "Wheeler Dealers",
+      "subtitle": "Peugeot 205",
+      "description": "A ride in a Peugeot 205 T16 inspires Mike's latest mission: he wants to buy a 205 Rallye. It's the UK version and massively under-powered compared with European models, but Mike reckons Elvis can easily upgrade the engine.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:01:00.000Z",
+      "stop": "2026-10-02T05:30:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Pencils, Licorice and Lace",
+      "description": "The carpenter's pencil makes a mark in the building trade, an herbaceous plant is turned into a dark and sweet candy and traditional techniques are used to create delicate lace for high-end fashion.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:30:00.000Z",
+      "stop": "2026-10-02T06:00:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Platinum, Manga and Limoncello",
+      "description": "Manufacturers reveal the explosive secrets in producing one of the world's most-valuable metals, the artistry behind Japan's manga phenomenon and the centuries-old techniques for making sweet and sharp limoncello.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T06:00:00.000Z",
+      "stop": "2026-10-02T06:31:00.000Z",
+      "title": "Drive TV",
+      "subtitle": "Episode 10 of Season 10",
+      "description": "Nostalgia takes center stage as we revisit the snowy mountains of the Snowy River region in the five-time winner of Drive's Best Luxury Off-Road SUV under $150k. An unforgettable road trip through Australia's rugged beauty.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T06:31:00.000Z",
+      "stop": "2026-10-02T07:35:00.000Z",
+      "title": "Salvage Hunters",
+      "subtitle": "The Sculpture Garden",
+      "description": "Drew finds an impressive collection of antiques at an 18th century manor. Plus, he checks out a garden filled with more than 200 life-sized sculptures",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T07:35:00.000Z",
+      "stop": "2026-10-02T08:03:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Put Up Your Dukes",
+      "description": "The Pawn Stars have a chance to buy a 450 year-old book once owned by Sir Isaac Newton. A man walks in with his grandfather's Army jacket from the Spanish American War.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T08:03:00.000Z",
+      "stop": "2026-10-02T08:32:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Case Closed",
+      "description": "Help the Pawn Stars solve the crime of the century when a man brings in a case file from the infamous Lindbergh baby kidnapping. A 1974 Lotus Europa sports car rolls up.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T08:32:00.000Z",
+      "stop": "2026-10-02T09:32:00.000Z",
+      "title": "Wheeler Dealers",
+      "subtitle": "Peugeot 205",
+      "description": "A ride in a Peugeot 205 T16 inspires Mike's latest mission: he wants to buy a 205 Rallye. It's the UK version and massively under-powered compared with European models, but Mike reckons Elvis can easily upgrade the engine.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T09:32:00.000Z",
+      "stop": "2026-10-02T10:30:00.000Z",
+      "title": "Expedition Bigfoot",
+      "subtitle": "The Watchers",
+      "description": "Deep in Northern California's lost coast, an audio expert joins the fold after the team hears unusual sounds. Russell must take shelter from a storm, and Bryce speaks with a local Hoopa Tribal Council member after reviewing footage.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T10:30:00.000Z",
+      "stop": "2026-10-02T11:27:00.000Z",
+      "title": "Beyond Skinwalker Ranch",
+      "subtitle": "Bridgewater Triangle",
+      "description": "Andy and Paul are in Massachusetts to investigate one of America's oldest sites of High Strangeness and discover that an ancient Native American curse could still be active.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T11:27:00.000Z",
+      "stop": "2026-10-02T12:24:00.000Z",
+      "title": "Ancient Aliens",
+      "subtitle": "The Alien Infection",
+      "description": "In 2016, scientists made the astonishing discovery that 30 percent of all protein adaptations since humans' divergence with chimpanzees have been driven by viruses.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T12:24:00.000Z",
+      "stop": "2026-10-02T13:23:00.000Z",
+      "title": "How The Universe Works",
+      "subtitle": "Nightmares of Neutron Stars",
+      "description": "Neutron stars are strange and violent phenomena that defy the laws of physics, and new discoveries reveal that these bizarre nightmares are far more deadly than previously believed, with the power to destroy planets and even other stars.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T13:23:00.000Z",
+      "stop": "2026-10-02T14:29:00.000Z",
+      "title": "Expedition Unknown",
+      "subtitle": "Mysteries of the Great Pyramid",
+      "description": "With exclusive access to the Great Pyramid of Giza, Josh debunks wild conspiracy theories. Crawling through subterranean passages, he searches for the lost tomb and hidden treasure of Pharaoh Khufu inside this ancient Wonder.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T14:29:00.000Z",
+      "stop": "2026-10-02T15:34:00.000Z",
+      "title": "Expedition Bigfoot",
+      "subtitle": "The Watchers",
+      "description": "Deep in Northern California's lost coast, an audio expert joins the fold after the team hears unusual sounds. Russell must take shelter from a storm, and Bryce speaks with a local Hoopa Tribal Council member after reviewing footage.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:34:00.000Z",
+      "stop": "2026-10-02T16:30:00.000Z",
+      "title": "Ancient Aliens",
+      "subtitle": "The Alien Infection",
+      "description": "In 2016, scientists made the astonishing discovery that 30 percent of all protein adaptations since humans' divergence with chimpanzees have been driven by viruses.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:30:00.000Z",
+      "stop": "2026-10-02T17:27:00.000Z",
+      "title": "How The Universe Works",
+      "subtitle": "Nightmares of Neutron Stars",
+      "description": "Neutron stars are strange and violent phenomena that defy the laws of physics, and new discoveries reveal that these bizarre nightmares are far more deadly than previously believed, with the power to destroy planets and even other stars.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:27:00.000Z",
+      "stop": "2026-10-02T17:57:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Pencils, Licorice and Lace",
+      "description": "The carpenter's pencil makes a mark in the building trade, an herbaceous plant is turned into a dark and sweet candy and traditional techniques are used to create delicate lace for high-end fashion.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:57:00.000Z",
+      "stop": "2026-10-02T18:32:00.000Z",
+      "title": "How Do They Do It?",
+      "subtitle": "Platinum, Manga and Limoncello",
+      "description": "Manufacturers reveal the explosive secrets in producing one of the world's most-valuable metals, the artistry behind Japan's manga phenomenon and the centuries-old techniques for making sweet and sharp limoncello.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T18:32:00.000Z",
+      "stop": "2026-10-02T19:03:00.000Z",
+      "title": "Drive TV",
+      "subtitle": "Episode 10 of Season 10",
+      "description": "Nostalgia takes center stage as we revisit the snowy mountains of the Snowy River region in the five-time winner of Drive's Best Luxury Off-Road SUV under $150k. An unforgettable road trip through Australia's rugged beauty.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:03:00.000Z",
+      "stop": "2026-10-02T19:32:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Put Up Your Dukes",
+      "description": "The Pawn Stars have a chance to buy a 450 year-old book once owned by Sir Isaac Newton. A man walks in with his grandfather's Army jacket from the Spanish American War.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:32:00.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Case Closed",
+      "description": "Help the Pawn Stars solve the crime of the century when a man brings in a case file from the infamous Lindbergh baby kidnapping. A 1974 Lotus Europa sports car rolls up.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T21:00:00.000Z",
+      "title": "Salvage Hunters",
+      "subtitle": "Blackpool Illuminations",
+      "description": "Comedian Johnny Vegas joins Drew on a special salvage road trip. They visit a collection of outsider art in Wigan and a warehouse full of illuminations.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:00:00.000Z",
+      "stop": "2026-10-02T21:30:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Bid or Die",
+      "description": "A new couple, Scott and Chrissy, force their way onto Brandon and Lori's turf.  A set of wrapped pallets challenges even the most experienced buyers—does the plastic sheeting cover up garbage... or gold?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:30:00.000Z",
+      "stop": "2026-10-02T22:01:00.000Z",
+      "title": "Storage Hunters",
+      "subtitle": "Double Cross",
+      "description": "Arch enemies Brandon and Jesse team up against a new threat. Desert Dan risks it all on a tire and a hunch, while alliances crumble as the buyers let absolutely nothing stand in the way of securing a massive victory.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T22:01:00.000Z",
+      "stop": "2026-10-02T23:01:00.000Z",
+      "title": "Wheeler Dealers",
+      "subtitle": "Saab 900",
+      "description": "It's 10 years since Saab last made a car. Mike's found a soft-top 900 going cheap. But this car isn't running smoothly, the clutch is iffy, the turbo lags and the steering's woolly. Can Mike and Elvis get this car back to its best?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T23:01:00.000Z",
+      "stop": "2026-10-02T23:30:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Luck of the Draw",
+      "description": "The Pawn Stars look at a collection thought to belong to our country's most legendary Western lawman–Wyatt Earp. A man brings in a gold medal from the 1984 Olympic games.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T23:30:00.000Z",
+      "stop": "2026-10-03T00:02:00.000Z",
+      "title": "Pawn Stars",
+      "subtitle": "Spidey Cents",
+      "description": "The Pawn Stars are presented with a piece of the heat shield from NASA's most heroic flight–Apollo 13. A customer brings in some original artwork from the comic book \"Spider Man\".",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-03T00:02:00.000Z",
+      "stop": "2026-10-03T01:01:00.000Z",
       "title": "NASA's Unexplained Files",
-      "subtitle": "Aliens In The Amazon",
-      "description": "After Neil Armstrong's moonwalk, he led an expedition to the Amazon to find a legendary library that holds all knowledge of an advanced alien civilization.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T13:25:00.000Z",
-      "stop": "2026-09-20T14:33:00.000Z",
-      "title": "The UnXplained With William Shatner",
-      "subtitle": "The Power of Gold",
-      "description": "Gold is a precious metal that has captivated humanity for centuries. Is its power over us due to its rarity and value, or is there a deeper reason for our obsession? We explore the mysterious grip gold holds on our consciousness.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T14:33:00.000Z",
-      "stop": "2026-09-20T15:30:00.000Z",
-      "title": "Man Vs. History",
-      "subtitle": "Secret History of the Bowie Knife",
-      "description": "Bil Lepp tests 19th-century frontier survival tools. He separates fact from fiction regarding the Bowie knife, attempts to outshoot Abe Lincoln, and explores the Colt .45 origin.",
+      "subtitle": "Secrets Of The Alien Signals",
+      "description": "When NASA begins a strange experiment to communicate with dolphins, experts investigate if it's a prelude to making alien contact, but some fear that such a discovery could have apocalyptic consequences.",
       "category": "Special Interest"
     }
   ]

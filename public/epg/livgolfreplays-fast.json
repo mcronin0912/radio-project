@@ -1,0 +1,32 @@
+{
+  "slug": "livgolfreplays-fast",
+  "epgId": "mjh-livgolfreplays-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T10:06:36.000Z",
+      "stop": "2026-10-01T15:03:36.000Z",
+      "title": "Round 2 | Virginia",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T15:03:36.000Z",
+      "stop": "2026-10-01T19:49:14.000Z",
+      "title": "Round 3 | Virginia",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T19:49:14.000Z",
+      "stop": "2026-10-01T20:19:14.000Z",
+      "title": "Final Round | Virginia",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "csicrimesceneinvestigation-fast",
+  "epgId": "mjh-csicrimesceneinvestigation-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T12:02:02.000Z",
+      "stop": "2026-10-01T12:52:58.000Z",
+      "title": "CSI: Crime Scene Investigation - Ending Happy",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:52:58.000Z",
+      "stop": "2026-10-01T13:42:10.000Z",
+      "title": "CSI: New York - Redemptio",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:42:10.000Z",
+      "stop": "2026-10-01T14:12:10.000Z",
+      "title": "CSI: New York - Unusual Suspects",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

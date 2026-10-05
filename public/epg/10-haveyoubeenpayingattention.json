@@ -2,116 +2,108 @@
   "slug": "10-haveyoubeenpayingattention",
   "epgId": "mjh-10-haveyoubeenpayingattention",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T01:51:00.000Z",
-      "stop": "2026-09-19T02:45:00.000Z",
+      "start": "2026-10-01T11:48:00.000Z",
+      "stop": "2026-10-01T12:41:00.000Z",
+      "title": "Have You Been Paying Attention? S1 Ep. 26",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:41:00.000Z",
+      "stop": "2026-10-01T13:34:14.000Z",
+      "title": "Have You Been Paying Attention? S2 Ep. 13",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:34:14.000Z",
+      "stop": "2026-10-01T14:26:00.000Z",
+      "title": "Have You Been Paying Attention? S3 Ep. 14",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T14:26:00.000Z",
+      "stop": "2026-10-01T15:18:00.000Z",
+      "title": "Have You Been Paying Attention? S4 Ep. 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T15:18:00.000Z",
+      "stop": "2026-10-01T16:11:00.000Z",
+      "title": "Have You Been Paying Attention? S4 Ep. 8",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T16:11:00.000Z",
+      "stop": "2026-10-01T17:03:00.000Z",
+      "title": "Have You Been Paying Attention? S1 Ep. 24",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T17:03:00.000Z",
+      "stop": "2026-10-01T17:55:00.000Z",
+      "title": "Have You Been Paying Attention? S1 Ep. 32",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T17:55:00.000Z",
+      "stop": "2026-10-01T18:48:00.000Z",
       "title": "Have You Been Paying Attention? S5 Ep. 25",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T02:45:00.000Z",
-      "stop": "2026-09-19T03:13:00.000Z",
+      "start": "2026-10-01T18:48:00.000Z",
+      "stop": "2026-10-01T19:16:00.000Z",
       "title": "Have You Been Paying Attention? S1 Ep. 9",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T03:13:00.000Z",
-      "stop": "2026-09-19T04:04:00.000Z",
+      "start": "2026-10-01T19:16:00.000Z",
+      "stop": "2026-10-01T20:08:00.000Z",
       "title": "Have You Been Paying Attention? S5 Ep. 27",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T04:04:00.000Z",
-      "stop": "2026-09-19T04:55:00.000Z",
+      "start": "2026-10-01T20:08:00.000Z",
+      "stop": "2026-10-01T20:59:00.000Z",
       "title": "Have You Been Paying Attention? S2 Ep. 10",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T04:55:00.000Z",
-      "stop": "2026-09-19T05:48:00.000Z",
+      "start": "2026-10-01T20:59:00.000Z",
+      "stop": "2026-10-01T21:52:00.000Z",
       "title": "Have You Been Paying Attention? S4 Ep. 14",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T05:48:00.000Z",
-      "stop": "2026-09-19T06:41:00.000Z",
+      "start": "2026-10-01T21:52:00.000Z",
+      "stop": "2026-10-01T22:22:00.000Z",
       "title": "Have You Been Paying Attention? S4 Ep. 27",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T06:41:00.000Z",
-      "stop": "2026-09-19T07:09:00.000Z",
-      "title": "Have You Been Paying Attention? S1 Ep. 5",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T07:09:00.000Z",
-      "stop": "2026-09-19T08:01:00.000Z",
-      "title": "Have You Been Paying Attention? S3 Ep. 3",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T08:01:00.000Z",
-      "stop": "2026-09-19T08:54:00.000Z",
-      "title": "Have You Been Paying Attention? S5 Ep. 15",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T08:54:00.000Z",
-      "stop": "2026-09-19T09:47:00.000Z",
-      "title": "Have You Been Paying Attention? S5 Ep. 7",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T09:47:00.000Z",
-      "stop": "2026-09-19T10:40:00.000Z",
-      "title": "Have You Been Paying Attention? S5 Ep. 12",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T10:40:00.000Z",
-      "stop": "2026-09-19T11:33:00.000Z",
-      "title": "Have You Been Paying Attention? S4 Ep. 18",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T11:33:00.000Z",
-      "stop": "2026-09-19T12:25:00.000Z",
-      "title": "Have You Been Paying Attention? S2 Ep. 1",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T12:25:00.000Z",
-      "stop": "2026-09-19T12:55:00.000Z",
-      "title": "Have You Been Paying Attention? S4 Ep. 13",
       "subtitle": null,
       "description": null,
       "category": null

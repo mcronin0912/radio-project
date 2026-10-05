@@ -1,0 +1,32 @@
+{
+  "slug": "kitchennightmares-fast",
+  "epgId": "mjh-kitchennightmares-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:18:12.000Z",
+      "stop": "2026-10-01T12:10:16.000Z",
+      "title": "Secret Garden",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:10:16.000Z",
+      "stop": "2026-10-01T13:02:57.000Z",
+      "title": "Lela's",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:02:57.000Z",
+      "stop": "2026-10-01T13:32:57.000Z",
+      "title": "Sebastian's",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

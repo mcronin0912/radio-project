@@ -2,132 +2,76 @@
   "slug": "bloomberg-tv",
   "epgId": "mjh-bloomberg-tv",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T02:00:00.000Z",
-      "stop": "2026-09-19T03:00:00.000Z",
-      "title": "Bloomberg Wall Street Week",
+      "start": "2026-10-01T12:00:00.000Z",
+      "stop": "2026-10-01T13:00:00.000Z",
+      "title": "Bloomberg Surveillance",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T03:00:00.000Z",
-      "stop": "2026-09-19T03:30:00.000Z",
-      "title": "Bloomberg Investigates",
+      "start": "2026-10-01T13:00:00.000Z",
+      "stop": "2026-10-01T14:00:00.000Z",
+      "title": "Bloomberg Open Interest",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T03:30:00.000Z",
-      "stop": "2026-09-19T04:00:00.000Z",
+      "start": "2026-10-01T14:00:00.000Z",
+      "stop": "2026-10-01T15:00:00.000Z",
+      "title": "Bloomberg Open Interest",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T15:00:00.000Z",
+      "stop": "2026-10-01T16:00:00.000Z",
+      "title": "Bloomberg Tech",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T16:00:00.000Z",
+      "stop": "2026-10-01T17:00:00.000Z",
+      "title": "Bloomberg Real Yield",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T17:00:00.000Z",
+      "stop": "2026-10-01T19:00:00.000Z",
+      "title": "Bloomberg Businessweek Daily",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T19:00:00.000Z",
+      "stop": "2026-10-01T21:00:00.000Z",
+      "title": "Bloomberg The Close",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T21:00:00.000Z",
+      "stop": "2026-10-01T22:00:00.000Z",
+      "title": "Bloomberg: Balance of Power",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T22:00:00.000Z",
+      "stop": "2026-10-01T22:30:00.000Z",
       "title": "The Circuit",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T04:00:00.000Z",
-      "stop": "2026-09-19T04:30:00.000Z",
-      "title": "Bloomberg Investigates",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T04:30:00.000Z",
-      "stop": "2026-09-19T05:00:00.000Z",
-      "title": "Bloomberg Chief Future Officer",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T05:00:00.000Z",
-      "stop": "2026-09-19T05:30:00.000Z",
-      "title": "Quantum Marketing",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T05:30:00.000Z",
-      "stop": "2026-09-19T06:00:00.000Z",
-      "title": "Quantum Marketing",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T06:00:00.000Z",
-      "stop": "2026-09-19T06:30:00.000Z",
-      "title": "The Mishal Husain Show",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T06:30:00.000Z",
-      "stop": "2026-09-19T07:00:00.000Z",
-      "title": "The Mishal Husain Show",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T07:00:00.000Z",
-      "stop": "2026-09-19T08:00:00.000Z",
-      "title": "Bloomberg Wall Street Week",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T08:00:00.000Z",
-      "stop": "2026-09-19T08:30:00.000Z",
-      "title": "Latitude",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T08:30:00.000Z",
-      "stop": "2026-09-19T09:00:00.000Z",
-      "title": "How Larry Ellison Built His Empire",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T09:00:00.000Z",
-      "stop": "2026-09-19T09:30:00.000Z",
-      "title": "Bloomberg Originals",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T09:30:00.000Z",
-      "stop": "2026-09-19T10:00:00.000Z",
-      "title": "The Mishal Husain Show",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T10:00:00.000Z",
-      "stop": "2026-09-19T11:00:00.000Z",
-      "title": "Bloomberg Wall Street Week",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T11:00:00.000Z",
-      "stop": "2026-09-19T11:30:00.000Z",
-      "title": "Bloomberg This Weekend",
       "subtitle": null,
       "description": null,
       "category": null

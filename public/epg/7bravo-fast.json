@@ -1,0 +1,328 @@
+{
+  "slug": "7bravo-fast",
+  "epgId": "mjh-7bravo-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:30:10.000Z",
+      "stop": "2026-10-01T12:30:15.000Z",
+      "title": "The Real Housewives of Orange County",
+      "subtitle": "Loose Lips Sink Trips",
+      "description": "After an explosive dinner in Temecula, Tamra tries to turn the trip around for the ladies. Heather, Emily and Gretchen's wild night out in West Hollywood ends with Gretchen revealing salacious gossip",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T12:30:15.000Z",
+      "stop": "2026-10-01T13:30:00.000Z",
+      "title": "Snapped",
+      "subtitle": "Clauria Hoerig",
+      "description": "After an Air Force pilot is found shot to death in his Ohio home, authorities embark on an international manhunt that spans over a decade to bring the fugitive to justice.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T13:30:00.000Z",
+      "stop": "2026-10-01T14:30:08.000Z",
+      "title": "Killer Grannies",
+      "subtitle": "Granny's Under The Bridge",
+      "description": "An Oregon grandmother found wounded on the roadside tells rescuers that her husband is missing after a boat sale went awry. A massive manhunt ensues but as authorities investigate, granny's wild story",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T14:30:08.000Z",
+      "stop": "2026-10-01T15:30:13.000Z",
+      "title": "Below Deck",
+      "subtitle": "Leave Your Emotions At The Cabin Door",
+      "description": "Eddie deals with his relationship fallout as Jake and Rayna try to figure out their feelings after Jake's revelation. After losing his walkie, Fraser starts to feel like he's failing in his job while",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T15:30:13.000Z",
+      "stop": "2026-10-01T16:30:19.000Z",
+      "title": "Below Deck Down Under",
+      "subtitle": "It's Not about the Shrimp",
+      "description": "The arrival of a new stew pushes Jenna's jealousy into overdrive. And the shrimp cocktail rift between Daisy and Ellie just keeps on getting bigger.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T16:30:19.000Z",
+      "stop": "2026-10-01T17:29:04.000Z",
+      "title": "The Real Housewives of Orange County",
+      "subtitle": "Loose Lips Sink Trips",
+      "description": "After an explosive dinner in Temecula, Tamra tries to turn the trip around for the ladies. Heather, Emily and Gretchen's wild night out in West Hollywood ends with Gretchen revealing salacious gossip",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T17:29:04.000Z",
+      "stop": "2026-10-01T18:30:14.000Z",
+      "title": "Snapped",
+      "subtitle": "Clauria Hoerig",
+      "description": "After an Air Force pilot is found shot to death in his Ohio home, authorities embark on an international manhunt that spans over a decade to bring the fugitive to justice.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T18:30:14.000Z",
+      "stop": "2026-10-01T19:29:34.000Z",
+      "title": "Below Deck",
+      "subtitle": "Leave Your Emotions At The Cabin Door",
+      "description": "Eddie deals with his relationship fallout as Jake and Rayna try to figure out their feelings after Jake's revelation. After losing his walkie, Fraser starts to feel like he's failing in his job while",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T19:29:34.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
+      "title": "Judge Jerry",
+      "subtitle": "Episode 68",
+      "description": "A man claims he gave his ex-girlfriend a personal loan only to never be paid back. The defendant claims her ex-boyfriend is a liar and a cheater and is countersuing him for property damage and emotion",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T21:00:16.000Z",
+      "title": "Celebrity Family Feud",
+      "subtitle": "Jojo Siwa Vs. The D'amelio Family",
+      "description": "JoJo Siwa takes on social media stars the D'Amelio family, while TV personalities Ross Mathews and Loni Love compete in the second game to raise money for their chosen causes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T21:00:16.000Z",
+      "stop": "2026-10-01T22:00:18.000Z",
+      "title": "Million Dollar Listing NY",
+      "subtitle": "Co-list Or No-list",
+      "description": "When a seller demands Ryan remove his team member from a $25-million Tribeca listing, he hatches a plan that includes a secret twist.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T22:00:18.000Z",
+      "stop": "2026-10-01T23:00:21.000Z",
+      "title": "Shark Tank",
+      "subtitle": "Episode 7",
+      "description": "As the show continues in Season 6, the critically acclaimed Shark Tank gives budding entrepreneurs the chance to make their dreams come true and possibly make a deal that will make them millionaires.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T23:00:21.000Z",
+      "stop": "2026-10-02T00:00:38.000Z",
+      "title": "Celebrity Family Feud",
+      "subtitle": "Jojo Siwa Vs. The D'amelio Family",
+      "description": "JoJo Siwa takes on social media stars the D'Amelio family, while TV personalities Ross Mathews and Loni Love compete in the second game to raise money for their chosen causes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T00:00:38.000Z",
+      "stop": "2026-10-02T01:00:40.000Z",
+      "title": "Million Dollar Listing NY",
+      "subtitle": "Co-list Or No-list",
+      "description": "When a seller demands Ryan remove his team member from a $25-million Tribeca listing, he hatches a plan that includes a secret twist.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T01:00:40.000Z",
+      "stop": "2026-10-02T02:00:43.000Z",
+      "title": "Shark Tank",
+      "subtitle": "Episode 7",
+      "description": "As the show continues in Season 6, the critically acclaimed Shark Tank gives budding entrepreneurs the chance to make their dreams come true and possibly make a deal that will make them millionaires.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T02:00:43.000Z",
+      "stop": "2026-10-02T03:01:17.000Z",
+      "title": "Undercover Boss",
+      "subtitle": "Cinnabon",
+      "description": "Kat Cole, the President of Cinnabon Incorporated, the youngest boss ever to go undercover, pose as a contestant on a fake reality show about people trying to win funding for new businesses.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T03:01:17.000Z",
+      "stop": "2026-10-02T04:02:27.000Z",
+      "title": "Judge Rinder",
+      "subtitle": "Sophie V Cairo",
+      "description": "Arbitration show in which real small-claims cases are adjudicated over within a studio courtroom by Judge Robert Rinder.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T04:02:27.000Z",
+      "stop": "2026-10-02T05:02:04.000Z",
+      "title": "Celebrity Family Feud",
+      "subtitle": "Jojo Siwa Vs. The D'amelio Family",
+      "description": "JoJo Siwa takes on social media stars the D'Amelio family, while TV personalities Ross Mathews and Loni Love compete in the second game to raise money for their chosen causes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:02:04.000Z",
+      "stop": "2026-10-02T05:31:11.000Z",
+      "title": "Judge Jerry",
+      "subtitle": "Episode 69",
+      "description": "A woman's leisurely drive around town resulted in an auto accident in which defendant allegedly fled the scene. While the defendant admits there was an accident, he claims the plaintiff failed to come",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:31:11.000Z",
+      "stop": "2026-10-02T06:30:12.000Z",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "subtitle": null,
+      "description": "Guests include Florence Pugh, Josh Hatnett and musical guest Gracie Abrams.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T06:30:12.000Z",
+      "stop": "2026-10-02T07:29:49.000Z",
+      "title": "Celebrity Family Feud",
+      "subtitle": "Million Dollar Listing La Vs. Million Do",
+      "description": "Cast members from Good Trouble face the cast of grown-ish, followed by real estate agents from Million Dollar Listing Los Angeles competing against those from Million Dollar Listing New York.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T07:29:49.000Z",
+      "stop": "2026-10-02T08:38:30.000Z",
+      "title": "Million Dollar Listing NY",
+      "subtitle": "Four Men And A Baby",
+      "description": "On the season finale, Ryan and Luis host a dinner party to sell their listing, but struggle to rein in Ramona from The Real Housewives of New York City, who can't help but criticise the decor.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T08:38:30.000Z",
+      "stop": "2026-10-02T09:36:36.000Z",
+      "title": "Shark Tank",
+      "subtitle": "Episode 8",
+      "description": "Entrepreneurs with military backgrounds appear on this episode airing during Veterans Small Business Week 2014.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T09:36:36.000Z",
+      "stop": "2026-10-02T10:34:59.000Z",
+      "title": "Below Deck",
+      "subtitle": "He Kissed a Boy and He Liked It",
+      "description": "Heather and the crew plan an 80s themed surprise party for the primary's 75th birthday but things go south when everything doesn't go as planned.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T10:34:59.000Z",
+      "stop": "2026-10-02T11:33:07.000Z",
+      "title": "Fatal Family Feuds",
+      "subtitle": "Raging Relatives",
+      "description": "An affluent family at war with each other for over a decade, find themselves at the centre of a murder investigation when a beloved uncle is found dead. Police unravel a conspiracy involving a wayward",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T11:33:07.000Z",
+      "stop": "2026-10-02T12:31:00.000Z",
+      "title": "Snapped",
+      "subtitle": "Olivia Moody",
+      "description": "A beloved mother is fatally shot after a feud between two other women escalates into a group fight. Pine Bluff authorities interview witnesses to uncover the shooter's true motive as public opinion on",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T12:31:00.000Z",
+      "stop": "2026-10-02T13:30:05.000Z",
+      "title": "Snapped",
+      "subtitle": "Ciera Harp",
+      "description": "Just as detectives investigating the death of an Atlanta based rapper are closing what appears to be a domestic dispute case, they are faced with horrifying evidence planted by the victim seconds befo",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T13:30:05.000Z",
+      "stop": "2026-10-02T14:29:12.000Z",
+      "title": "Killer Grannies",
+      "subtitle": "Granny's Boarding House",
+      "description": "A California Granny is thought of as a Mother Teresa' to the downtrodden thanks to the boarding house she runs. But when a social worker raises fears for a missing client, investigators find that Gran",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T14:29:12.000Z",
+      "stop": "2026-10-02T15:30:36.000Z",
+      "title": "Below Deck",
+      "subtitle": "He Kissed a Boy and He Liked It",
+      "description": "Heather and the crew plan an 80s themed surprise party for the primary's 75th birthday but things go south when everything doesn't go as planned.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:30:36.000Z",
+      "stop": "2026-10-02T16:30:23.000Z",
+      "title": "Fatal Family Feuds",
+      "subtitle": "Raging Relatives",
+      "description": "An affluent family at war with each other for over a decade, find themselves at the centre of a murder investigation when a beloved uncle is found dead. Police unravel a conspiracy involving a wayward",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:30:23.000Z",
+      "stop": "2026-10-02T17:30:16.000Z",
+      "title": "Snapped",
+      "subtitle": "Olivia Moody",
+      "description": "A beloved mother is fatally shot after a feud between two other women escalates into a group fight. Pine Bluff authorities interview witnesses to uncover the shooter's true motive as public opinion on",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:30:16.000Z",
+      "stop": "2026-10-02T18:30:01.000Z",
+      "title": "Snapped",
+      "subtitle": "Ciera Harp",
+      "description": "Just as detectives investigating the death of an Atlanta based rapper are closing what appears to be a domestic dispute case, they are faced with horrifying evidence planted by the victim seconds befo",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T18:30:01.000Z",
+      "stop": "2026-10-02T19:29:05.000Z",
+      "title": "Below Deck",
+      "subtitle": "He Kissed a Boy and He Liked It",
+      "description": "Heather and the crew plan an 80s themed surprise party for the primary's 75th birthday but things go south when everything doesn't go as planned.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:29:05.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Judge Jerry",
+      "subtitle": "Episode 69",
+      "description": "A woman's leisurely drive around town resulted in an auto accident in which defendant allegedly fled the scene. While the defendant admits there was an accident, he claims the plaintiff failed to come",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T20:30:03.000Z",
+      "title": "Judge Jerry",
+      "subtitle": "Episode 79 of Season 1",
+      "description": "The plaintiffs claim they agreed to lend the defendant money to support a fellow minority business owner but they now feel duped as the business is no longer in open and the defendant is not repaying",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:30:03.000Z",
+      "stop": "2026-10-02T21:30:44.000Z",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "subtitle": null,
+      "description": "Guests include John Cusack, Cara Delevingne, Chef Daniel Humm and musical guest Cara Delevingne.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:30:44.000Z",
+      "stop": "2026-10-02T22:31:55.000Z",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "subtitle": null,
+      "description": "Guests include Karl-Anthony Towns, Sienna Miller, Stefano Domenicali and comedian Gary Simons.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T22:31:55.000Z",
+      "stop": "2026-10-02T23:31:16.000Z",
+      "title": "Million Dollar Listing NY",
+      "subtitle": "Coast Stories",
+      "description": "After his SoHY seller names him The Magic Man,.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T23:31:16.000Z",
+      "stop": "2026-10-03T00:30:35.000Z",
+      "title": "Million Dollar Listing NY",
+      "subtitle": "Loss Angeles",
+      "description": "Ryan nervously premieres a music video for his Tribeca loft.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-03T00:30:35.000Z",
+      "stop": "2026-10-03T01:30:36.000Z",
+      "title": "Million Dollar Listing NY",
+      "subtitle": "Ruffled Heathers",
+      "description": "Fredrik has a run-in with LA agent Heather Altman at his open house.",
+      "category": "Special Interest"
+    }
+  ]
+}

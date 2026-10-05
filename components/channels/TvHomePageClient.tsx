@@ -1,7 +1,6 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import { ChannelDetailModal } from "@/components/channels/ChannelDetailModal";
 import {
   ChannelFilters,
   type ChannelFilterState,
@@ -14,6 +13,7 @@ import {
 } from "@/lib/filter-channels-client";
 import type { Channel } from "@/lib/channels";
 import { useTvFavourites } from "@/lib/tv-favourites-context";
+import { usePlayer } from "@/lib/player-context";
 
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
@@ -35,10 +35,10 @@ function toChannel(row: ChannelRow): Channel {
 
 export function TvHomePageClient() {
   const { favourites } = useTvFavourites();
+  const { openTvModal } = usePlayer();
   const [channels, setChannels] = useState<Channel[]>([]);
   const [loading, setLoading] = useState(true);
   const [allChannels, setAllChannels] = useState<ChannelRow[] | null>(null);
-  const [selectedSlug, setSelectedSlug] = useState<string | null>(null);
   const [filters, setFilters] = useState<ChannelFilterState>({
     search: "",
     category: "",
@@ -80,27 +80,16 @@ export function TvHomePageClient() {
     ? getFilterOptionsFromChannels(allChannels)
     : { categories: [], networks: [], states: [] };
 
-  const modalChannel =
-    selectedSlug && allChannels
-      ? (() => {
-          const row = allChannels.find((r) => r.slug === selectedSlug);
-          return row ? toChannel(row) : null;
-        })()
-      : null;
-
-  const openChannel = useCallback((slug: string) => {
-    setSelectedSlug(slug);
-  }, []);
-
-  const closeChannel = useCallback(() => {
-    setSelectedSlug(null);
-  }, []);
+  const openChannel = useCallback(
+    (slug: string) => {
+      const row = allChannels?.find((r) => r.slug === slug);
+      if (row) openTvModal(toChannel(row));
+    },
+    [allChannels, openTvModal]
+  );
 
   return (
     <>
-      {modalChannel && (
-        <ChannelDetailModal channel={modalChannel} onClose={closeChannel} />
-      )}
       <ChannelFilters
         categories={filterOptions.categories}
         networks={filterOptions.networks}

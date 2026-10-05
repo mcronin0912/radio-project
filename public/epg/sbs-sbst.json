@@ -2,374 +2,438 @@
   "slug": "sbs-sbst",
   "epgId": "mjh-sbs-sbst",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T02:00:00.000Z",
-      "stop": "2026-09-19T02:30:00.000Z",
-      "title": "BBC News At Ten",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-19T02:30:00.000Z",
-      "stop": "2026-09-19T03:00:00.000Z",
-      "title": "France 24 International SBS Midday",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-19T03:00:00.000Z",
-      "stop": "2026-09-19T04:00:00.000Z",
-      "title": "PBS Newshour",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-19T04:00:00.000Z",
-      "stop": "2026-09-19T05:00:00.000Z",
-      "title": "Tour Of Britain Men",
-      "subtitle": "Highlights",
-      "description": "All the best moments from the 2026 Lloyds Tour of Britain Men, as the peloton takes on five stages of racing starting from Lincoln and finishing in Earlston.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T05:00:00.000Z",
-      "stop": "2026-09-19T05:10:00.000Z",
-      "title": "Such Was Life",
-      "subtitle": "And Such Was Death",
-      "description": "The early years of the gold boom in WA were a time of epidemics, riots, and murders. And almost 1,500 miners have died in accidents since 1892.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:10:00.000Z",
-      "stop": "2026-09-19T05:40:00.000Z",
-      "title": "Going Places With Ernie Dingo",
-      "subtitle": "Gold Coast",
-      "description": "Ernie visits Queensland's Gold Coast and learns how life is there through the eyes of an actor, a young man embracing his culture, and an ex iron woman and mother.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:40:00.000Z",
-      "stop": "2026-09-19T06:40:00.000Z",
-      "title": "I'll Be Frank",
+      "start": "2026-10-01T11:25:00.000Z",
+      "stop": "2026-10-01T12:25:00.000Z",
+      "title": "Indiana Jones: In Pursuit Of An Icon",
       "subtitle": null,
-      "description": "Guided by the animated memories of his Opa, Aaron is taken on a journey through Nazi Germany to realise his heritage.",
+      "description": "Whip in hand, fedora tipped, and that daring grin - Indiana Jones, the ultimate adventurer, is celebrated from Lyon's Cinema Museum to Cannes, with Harrison Ford honouring his legendary legacy.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T06:40:00.000Z",
-      "stop": "2026-09-19T07:35:00.000Z",
-      "title": "Loxton Basketball - 70 Years",
-      "subtitle": null,
-      "description": "From a single photo in 1949 to a thriving legacy, this is the story of Loxton Basketball's remarkable 70 year journey of passion, community and heart-stopping victories.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T07:35:00.000Z",
-      "stop": "2026-09-19T08:30:00.000Z",
-      "title": "War Trains",
-      "subtitle": "Episode 5",
-      "description": "Three extraordinary rail stories: the SAS's secret Taranto train rescue, the pioneering Grand Crimean Central Railway, and the Soviets' covert mission to seize German scientists.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T08:30:00.000Z",
-      "stop": "2026-09-19T09:30:00.000Z",
-      "title": "SBS World News",
-      "subtitle": "Episode 262",
+      "start": "2026-10-01T12:25:00.000Z",
+      "stop": "2026-10-01T12:55:00.000Z",
+      "title": "SBS World News Late",
+      "subtitle": "Episode 184",
       "description": "Latest reports and analysis of major national and international news of the day from Australia's only world news service.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T09:30:00.000Z",
-      "stop": "2026-09-19T11:00:00.000Z",
-      "title": "Salisbury Poisonings: A Spy Next Door",
-      "subtitle": null,
-      "description": "A botched assassination. A poisoned city. Spies on the run. The Salisbury Poisonings uncovers the extraordinary true story of Russian aggression, loyalty and betrayal on English soil.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T11:00:00.000Z",
-      "stop": "2026-09-19T11:30:00.000Z",
-      "title": "The Airport Chaplain",
-      "subtitle": "Running",
-      "description": "When two parentless kids show up at the airport, Tobias and Cath soon realise that something's off. Taking their wellbeing into his own hands forces Tobias' past to come crashing into the present.",
+      "start": "2026-10-01T12:55:00.000Z",
+      "stop": "2026-10-01T13:55:00.000Z",
+      "title": "Reyka",
+      "subtitle": "Episode 8",
+      "description": "Another brutal murder leads Reyka deep into the sex worker trade and to the truth of what happened to Jodie's mother, as Speelman prepares to escape.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T11:30:00.000Z",
-      "stop": "2026-09-19T12:05:00.000Z",
-      "title": "The Airport Chaplain",
-      "subtitle": "Prepare For Landing",
-      "description": "A plane of terrified passengers circles the airport in a storm. The captain is having a panic attack and has locked himself in the cockpit. Is Tobias the only person who can land this plane safely?",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T12:05:00.000Z",
-      "stop": "2026-09-19T13:05:00.000Z",
-      "title": "Shaun Micallef's Origin Odyssey",
-      "subtitle": "Kate Langbroek In Jamaica",
-      "description": "Kate Langbroek returns to Jamaica with Shaun Micallef to trace her maternal roots. Uncovering family revelations and an enslaved ancestor, she finds resilience in generations of strong Jamaican women.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T13:05:00.000Z",
-      "stop": "2026-09-19T14:15:00.000Z",
-      "title": "DNA Family Secrets",
-      "subtitle": "Episode 5",
-      "description": "Adopted Laura is searching for siblings. Anthony, Sally and Karen want to uncover the truth about their father's other child and Julie is looking for answers about her ancestry.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T14:15:00.000Z",
-      "stop": "2026-09-19T15:25:00.000Z",
-      "title": "Secrets Of Britain's Historic Houses",
+      "start": "2026-10-01T13:55:00.000Z",
+      "stop": "2026-10-01T14:50:00.000Z",
+      "title": "Snow",
       "subtitle": "Episode 1",
-      "description": "Bess of Hardwick's treasures prepare for a historic American tour, while at Biddulph Grange conservators race to save ancient marbles and rebuild a Victorian garden bridge from scratch.",
-      "category": "Special Interest"
+      "description": "Lucia, a medical doctor, moves with her family to the mountain village of Rotten. Her daughter suffers from severe asthma and the mountain air is supposed to alleviate Alma's illness.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T15:25:00.000Z",
-      "stop": "2026-09-19T16:30:00.000Z",
-      "title": "Secrets Of Britain's Historic Houses",
+      "start": "2026-10-01T14:50:00.000Z",
+      "stop": "2026-10-01T15:45:00.000Z",
+      "title": "Snow",
       "subtitle": "Episode 2",
-      "description": "We go behind the scenes at two historic homes in the south of England, where renowned writers Rudyard Kipling and Vita Sackville-West came to create some of their best-known work.",
-      "category": "Special Interest"
+      "description": "The legend of the Guardian of The Mountains haunts Alma. The corpse of a young woman is said to be up on the Muttstein. At the thawing edge of the glacier, Alm's premonition becomes reality.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T16:30:00.000Z",
-      "stop": "2026-09-19T17:35:00.000Z",
-      "title": "Secrets Of Britain's Historic Houses",
+      "start": "2026-10-01T15:45:00.000Z",
+      "stop": "2026-10-01T16:40:00.000Z",
+      "title": "Snow",
       "subtitle": "Episode 3",
-      "description": "Paul McCartney's childhood home is lovingly restored; uncovering a unique collection of photos in Liverpool, and an intriguing modern art installation is saved from collapse.",
+      "description": "It's certain: Marianne was murdered. Inspector Prochazka starts an investigation. Alma is being questioned and Lucia discovers eerie parallels to the dead Marianne.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-01T16:40:00.000Z",
+      "stop": "2026-10-01T17:35:00.000Z",
+      "title": "Cold War Spies",
+      "subtitle": "A Cold War Of Spies",
+      "description": "The Cold War is at its peak and with it the espionage activity. We focus on double agents, spies who work for both sides. Who can be trusted and who has been flipped?",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T17:35:00.000Z",
-      "stop": "2026-09-19T18:40:00.000Z",
-      "title": "Mountain Vets",
-      "subtitle": "Episode 1",
-      "description": "Vet Maurice is called to an extraordinarily rare birth, equine vet Inge tries to help a dangerous donkey and a bulldog that can't conceive is assisted by vet Cahir.",
+      "start": "2026-10-01T17:35:00.000Z",
+      "stop": "2026-10-01T18:30:00.000Z",
+      "title": "Cold War Spies",
+      "subtitle": "A Cold War Of Spies",
+      "description": "During the Cold War two ideological hemispheres were created. Propaganda and media become the weapons of choice. In this episode, we show what the spread of false news means.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T18:40:00.000Z",
-      "stop": "2026-09-19T19:00:00.000Z",
+      "start": "2026-10-01T18:30:00.000Z",
+      "stop": "2026-10-01T19:00:00.000Z",
       "title": "Bamay",
-      "subtitle": "Walpiri Country - Tanami Desert",
-      "description": "This episode of Bamay showcases beautiful Arrernte and Warlpiri Country - with locations such as Mparntwe Alice Springs and the Ellery Creek Big Hole.",
+      "subtitle": "Arrernte Country",
+      "description": "A slow TV showcase of the stunning landscapes found in Arrernte Country.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T19:00:00.000Z",
-      "stop": "2026-09-19T19:15:00.000Z",
+      "start": "2026-10-01T19:00:00.000Z",
+      "stop": "2026-10-01T19:30:00.000Z",
       "title": "NHK World English News Morning",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T19:15:00.000Z",
-      "stop": "2026-09-19T19:30:00.000Z",
-      "title": "Euronews",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-19T19:30:00.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
+      "start": "2026-10-01T19:30:00.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
       "title": "ANC Philippines The World Tonight",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "Multi-award winning newscast on ABS-CBN and ANC, The World Tonight delivers the top stories of the day, covering political, economic, and social sectors on both local and global fronts.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T20:30:00.000Z",
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T20:30:00.000Z",
       "title": "DW English News",
       "subtitle": "Morning",
       "description": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T20:30:00.000Z",
-      "stop": "2026-09-19T21:00:00.000Z",
+      "start": "2026-10-01T20:30:00.000Z",
+      "stop": "2026-10-01T21:00:00.000Z",
       "title": "Al Jazeera News",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T21:00:00.000Z",
-      "stop": "2026-09-19T21:30:00.000Z",
-      "title": "PBS News Horizons",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Dive into the world of science, health, technology and environmental issues making headlines each week, hosted by PBS News Hour's William Brangham.",
+      "start": "2026-10-01T21:00:00.000Z",
+      "stop": "2026-10-01T21:30:00.000Z",
+      "title": "BBC News At Six",
+      "subtitle": "Friday 2 October 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T21:30:00.000Z",
-      "stop": "2026-09-19T22:00:00.000Z",
+      "start": "2026-10-01T21:30:00.000Z",
+      "stop": "2026-10-01T22:00:00.000Z",
       "title": "France 24 English News",
       "subtitle": "Morning First Edition",
       "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T22:00:00.000Z",
-      "stop": "2026-09-19T23:00:00.000Z",
+      "start": "2026-10-01T22:00:00.000Z",
+      "stop": "2026-10-01T23:00:00.000Z",
       "title": "DD India News Hour",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T23:00:00.000Z",
-      "stop": "2026-09-19T23:05:00.000Z",
+      "start": "2026-10-01T23:00:00.000Z",
+      "stop": "2026-10-01T23:05:00.000Z",
       "title": "SBS50",
-      "subtitle": "Lee Lin Farewell",
+      "subtitle": "Small Brief History of SBS Radio",
       "description": "As SBS marks its golden jubilee in 2025, it reflects on its 50-year-long journey of uniting the nation through stories that educate, motivate, amuse and authentically represent contemporary Australia.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T23:05:00.000Z",
-      "stop": "2026-09-20T00:00:00.000Z",
-      "title": "Paul O'Grady For The Love Of Dogs",
-      "subtitle": "Episode 1",
-      "description": "In this special episode, Paul O'Grady returns to Battersea Dogs and Cats Home for one of the most extraordinary and dramatic periods in its history. After lockdown, it's all happy dogs again.",
+      "start": "2026-10-01T23:05:00.000Z",
+      "stop": "2026-10-01T23:15:00.000Z",
+      "title": "Destination Flavour Japan Bitesize",
+      "subtitle": "Tokyo Part 1",
+      "description": "In the urban sprawl of Tokyo, Adam Liaw explores a food culture which sustains the 'salaryman' workers in style and retains the culinary traditions of the annual Cherry Blossom Festival.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T00:00:00.000Z",
-      "stop": "2026-09-20T01:10:00.000Z",
-      "title": "Car & Country Quest",
-      "subtitle": "Deepak's Italy",
-      "description": "The trio experience gladiator combat, drive classic cars through the countryside, and learn winemaking in Barolo. The adventure also includes motocross thrills, blending history, culture, and excitement throughout northern Italy.",
+      "start": "2026-10-01T23:15:00.000Z",
+      "stop": "2026-10-02T00:10:00.000Z",
+      "title": "Paul O'Grady's Great Elephant Adventure",
+      "subtitle": "Episode Two",
+      "description": "Paul's heading south to the Wildlife Friends Foundation Thailand, the country's biggest wildlife hospital.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T01:10:00.000Z",
-      "stop": "2026-09-20T02:00:00.000Z",
-      "title": "Journey Of The Pelicans: Outback Mystery",
-      "subtitle": "Journey Of The Pelicans: An Outback Mystery",
-      "description": "Australian pelicans lead a strange life, peacefully coastal but breeding en masse in the flooded Outback. This film follows their epic journey and survival in a harsh desert habitat.",
+      "start": "2026-10-02T00:10:00.000Z",
+      "stop": "2026-10-02T01:05:00.000Z",
+      "title": "Prince's Master Crafters Next Generation",
+      "subtitle": "Blacksmithing",
+      "description": "Blacksmithing is on the agenda today for our students. Showing them the ropes is blacksmith, Phil Carter, who teaches at the National School of Blacksmithing.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T02:00:00.000Z",
-      "stop": "2026-09-20T02:30:00.000Z",
-      "title": "PBS News Compass Points",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Join PBS News Hour's Nick Schifrin and leading experts as they analyse prominent international affairs topics and their impact on America today.",
+      "start": "2026-10-02T01:05:00.000Z",
+      "stop": "2026-10-02T02:00:00.000Z",
+      "title": "Canal Boat Diaries",
+      "subtitle": "Coventry To Weedon Bec",
+      "description": "Robbie takes a tumble at Buckby Locks in Northamptonshire and moors in a favourite canal village, Braunston the spiritual home of narrowboaters.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T02:00:00.000Z",
+      "stop": "2026-10-02T02:30:00.000Z",
+      "title": "BBC News At Ten",
+      "subtitle": "Friday 2 October 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T02:30:00.000Z",
-      "stop": "2026-09-20T02:55:00.000Z",
-      "title": "PBS Washington Week With The Atlantic",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "PBS Washington Week with The Atlantic is the longest-running primetime news and public affairs program on television.",
+      "start": "2026-10-02T02:30:00.000Z",
+      "stop": "2026-10-02T02:55:00.000Z",
+      "title": "France 24 International SBS Midday",
+      "subtitle": "Friday 2 October 2026",
+      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T02:55:00.000Z",
-      "stop": "2026-09-20T03:00:00.000Z",
-      "title": "Living Black Shorts",
-      "subtitle": "Ray Martin",
-      "description": "Living Black Shorts gives voice to some of the First Nations talent that have been interviewed by the Living Black team or worked at SBS over its remarkable 50 years on air.",
+      "start": "2026-10-02T02:55:00.000Z",
+      "stop": "2026-10-02T03:55:00.000Z",
+      "title": "PBS Newshour",
+      "subtitle": "Friday 2 October 2026",
+      "description": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T03:00:00.000Z",
-      "stop": "2026-09-20T05:00:00.000Z",
-      "title": "Speedweek",
-      "subtitle": "Episode 38",
-      "description": "Speedweek is a comprehensive motorsport show that covers many forms of Australian and International motorsport - made specifically for speed enthusiasts.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-20T05:00:00.000Z",
-      "stop": "2026-09-20T06:00:00.000Z",
-      "title": "Going Places With Ernie Dingo",
-      "subtitle": "Strahan",
-      "description": "Ernie lands in the rugged North West Coast of Tasmania and meets a steam train driver, explores the Macquarie Harbour with a skipper, and visits thousand year old Huon Pines with a conservationist.",
+      "start": "2026-10-02T03:55:00.000Z",
+      "stop": "2026-10-02T05:00:00.000Z",
+      "title": "The Truth About Anxiety: Celia Pacquola",
+      "subtitle": "The Truth About Anxiety With Celia Pacquola",
+      "description": "Celia Pacquola is an award-winning actor and comedian. She also suffers from severe anxiety. She wants to help millions of Australians through their battle with anxiety by telling her story.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T06:00:00.000Z",
-      "stop": "2026-09-20T07:35:00.000Z",
-      "title": "Steps Of Freedom: The Story Of Irish Dance",
-      "subtitle": null,
-      "description": "Steps of Freedom reveals the extraordinary story how Irish dance evolved over centuries from a simple folk dance to become a global phenomenon adored by millions around the world.",
+      "start": "2026-10-02T05:00:00.000Z",
+      "stop": "2026-10-02T05:30:00.000Z",
+      "title": "NITV News: Nula",
+      "subtitle": "Episode 36",
+      "description": "The latest news from the oldest living culture, join Natalie Ahmat and the team of NITV journalists for stories from an Indigenous perspective.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T05:30:00.000Z",
+      "stop": "2026-10-02T05:35:00.000Z",
+      "title": "Plat Du Tour",
+      "subtitle": "Les Escargot De Languedocienne",
+      "description": "The race starts in Carcassone, just 1 hour from the Mediterranean, so Guillaume takes an excursion to the town of Gruissan, known for its incredible pink salt lake.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T07:35:00.000Z",
-      "stop": "2026-09-20T08:30:00.000Z",
-      "title": "War Trains",
-      "subtitle": "Episode 6",
-      "description": "Three gripping rail stories: Japan's brutal wartime railway gamble, a mysterious Cold War spy base atop a German mountain, and a sealed train that changed the fate of the First World War.",
+      "start": "2026-10-02T05:35:00.000Z",
+      "stop": "2026-10-02T06:05:00.000Z",
+      "title": "The Cook Up With Adam Liaw",
+      "subtitle": "Go Fish",
+      "description": "It's a game of go fish where everyone wins, as Adam, chef Rosy Scatigna and performer-cook Paul Mercurio make their favourite fish dishes.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T08:30:00.000Z",
-      "stop": "2026-09-20T09:30:00.000Z",
+      "start": "2026-10-02T06:05:00.000Z",
+      "stop": "2026-10-02T07:05:00.000Z",
+      "title": "Structures Of Marvel: Medieval Paris",
+      "subtitle": "1",
+      "description": "In Paris, Ile de la Cite once featured one of the most majestic palaces of medieval times: The Palais des Rois. With only two of its parts remaining, we are invited to travel back in time.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T07:05:00.000Z",
+      "stop": "2026-10-02T07:30:00.000Z",
+      "title": "Jeopardy!",
+      "subtitle": "Episode 145",
+      "description": "Ken Jennings hosts Jeopardy! Where the answers are revealed, and the contestants must guess the appropriate questions.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T07:30:00.000Z",
+      "stop": "2026-10-02T08:00:00.000Z",
+      "title": "Letters And Numbers",
+      "subtitle": "Episode 56",
+      "description": "Two contestants pit their linguistic and numerical skills against each other and the clock in this entertaining quiz show.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T08:00:00.000Z",
+      "stop": "2026-10-02T08:30:00.000Z",
+      "title": "Mastermind Australia",
+      "subtitle": "Episode 45",
+      "description": "In this final round, the four reigning champions from this cycle battle it out to progress to the semi-finals.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T08:30:00.000Z",
+      "stop": "2026-10-02T09:30:00.000Z",
       "title": "SBS World News",
-      "subtitle": "Episode 263",
+      "subtitle": "Episode 275",
       "description": "Latest reports and analysis of major national and international news of the day from Australia's only world news service.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T09:30:00.000Z",
-      "stop": "2026-09-20T10:25:00.000Z",
-      "title": "Roman Empire By Train With Alice Roberts",
-      "subtitle": "Pompeii: A City Alive",
-      "description": "At the Bay of Naples, Alice sees Mount Vesuvius dominating the skyline. This volcanic mountain has caused devastation time and time again in this region and it is still active today.",
+      "start": "2026-10-02T09:30:00.000Z",
+      "stop": "2026-10-02T10:35:00.000Z",
+      "title": "Hotel Portofino",
+      "subtitle": "First Impressions",
+      "description": "Rose and her mother arrive at the hotel to evaluate a prospective marriage with Lucian, the war veteran son of the hotel's proprietors. Lucian's mother, Bella, finds herself vulnerable to extortion from a local politician.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T10:35:00.000Z",
+      "stop": "2026-10-02T11:25:00.000Z",
+      "title": "WWII With Tom Hanks",
+      "subtitle": "Endgame",
+      "description": "The most terrible weapon ever created will change the course of the war in the Pacific.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T10:25:00.000Z",
-      "stop": "2026-09-20T11:25:00.000Z",
-      "title": "Ancient Superstructures",
-      "subtitle": "Pierrefonds Castle",
-      "description": "Pierrefonds appears to be a perfectly preserved 14th-century fortress, yet its spectacular condition hides a dramatic story of destruction and rebirth.",
+      "start": "2026-10-02T11:25:00.000Z",
+      "stop": "2026-10-02T12:15:00.000Z",
+      "title": "WWII With Tom Hanks",
+      "subtitle": "Fall Out",
+      "description": "The end of the second world war and the dawn of the nuclear age see its two great victors go from allies to adversaries.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T11:25:00.000Z",
-      "stop": "2026-09-20T12:20:00.000Z",
-      "title": "Castle Secrets",
+      "start": "2026-10-02T12:15:00.000Z",
+      "stop": "2026-10-02T12:45:00.000Z",
+      "title": "SBS World News Late",
+      "subtitle": "Episode 185",
+      "description": "Latest reports and analysis of major national and international news of the day from Australia's only world news service.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T12:45:00.000Z",
+      "stop": "2026-10-02T13:40:00.000Z",
+      "title": "Spy/Master",
+      "subtitle": "The Bomb Maker",
+      "description": "Victor risks all to warn his daughter as Ceausescu's men interrogate her, while Adela plots a Russian-backed rescue and Ingrid begs her housekeeper to flee before a Bonn bombing unfolds.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T13:40:00.000Z",
+      "stop": "2026-10-02T14:35:00.000Z",
+      "title": "Darkness: Those Who Kill",
+      "subtitle": "Episode 7",
+      "description": "Unaware of who he really was, Louise has spent a night with Peter. But the terrible truth lurks beneath the surface.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T14:35:00.000Z",
+      "stop": "2026-10-02T15:30:00.000Z",
+      "title": "Darkness: Those Who Kill",
       "subtitle": "Episode 8",
-      "description": "Prisoners of war trapped inside a German fortress plot a daring escape; a fairytale chateau provides an unlikely place of refuge for history's most renowned artworks.",
+      "description": "The police take Johannes to the station, and Louise fears that the truth about her and Peter Vinge will be revealed. Meanwhile, Peter meets his ex-wife Masja, who has returned from Singapore.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T15:30:00.000Z",
+      "stop": "2026-10-02T16:20:00.000Z",
+      "title": "Wisting",
+      "subtitle": "Episode 1",
+      "description": "Detective William Wisting makes a terrifying discovery - a corpse among the spruces at a Norwegian Christmas tree farm is connected to a wanted American serial killer.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T16:20:00.000Z",
+      "stop": "2026-10-02T17:10:00.000Z",
+      "title": "Wisting",
+      "subtitle": "Episode 2",
+      "description": "Aided by FBI agents Maggie and John, Wisting tracks American serial killer Robert Godwin to a remote farm, but will they manage to keep their mission secret from the press before Godwin bolts?",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T17:10:00.000Z",
+      "stop": "2026-10-02T18:05:00.000Z",
+      "title": "Sing To Remember: Defying Dementia",
+      "subtitle": "Episode 1",
+      "description": "For the first time in his career, Conductor Jason Lai is putting up a concert with a group of amateurs who live with an incurable condition.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T12:20:00.000Z",
-      "stop": "2026-09-20T13:20:00.000Z",
-      "title": "Secret Lebanon: The Treasures of Byblos",
+      "start": "2026-10-02T18:05:00.000Z",
+      "stop": "2026-10-02T19:00:00.000Z",
+      "title": "Sing To Remember: Defying Dementia",
+      "subtitle": "Episode 2",
+      "description": "The Christmas concert is just two months away but some of Jason's choir members are still struggling to keep up. One of them is Steven, 67, whose form of dementia affects his ability to stay focused.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:00:00.000Z",
+      "stop": "2026-10-02T19:30:00.000Z",
+      "title": "NHK World English News Morning",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T19:30:00.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "ANC Philippines The World Tonight",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "Multi-award winning newscast on ABS-CBN and ANC, The World Tonight delivers the top stories of the day, covering political, economic, and social sectors on both local and global fronts.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T20:30:00.000Z",
+      "title": "DW English News",
+      "subtitle": "Morning",
+      "description": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T20:30:00.000Z",
+      "stop": "2026-10-02T21:00:00.000Z",
+      "title": "Al Jazeera News",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "News via satellite from Al Jazeera Satellite Network, Qatar, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T21:00:00.000Z",
+      "stop": "2026-10-02T21:30:00.000Z",
+      "title": "BBC News At Six",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T21:30:00.000Z",
+      "stop": "2026-10-02T22:00:00.000Z",
+      "title": "France 24 English News",
+      "subtitle": "Morning First Edition",
+      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T22:00:00.000Z",
+      "stop": "2026-10-02T23:00:00.000Z",
+      "title": "DD India News Hour",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T23:00:00.000Z",
+      "stop": "2026-10-02T23:30:00.000Z",
+      "title": "Beyond The Scorecard",
+      "subtitle": "Episode 1",
+      "description": "Josh Simpson attempts the World Record for most golf courses played in a year, for his mum.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T23:30:00.000Z",
+      "stop": "2026-10-03T00:00:00.000Z",
+      "title": "Beyond The Scorecard",
+      "subtitle": "Episode 2",
+      "description": "Josh starts his record attempt at St Andrews, meeting women transforming golf for inclusion.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-03T00:00:00.000Z",
+      "stop": "2026-10-03T01:05:00.000Z",
+      "title": "Unwheel Adventures",
       "subtitle": null,
-      "description": "A few years ago, a team of Franco-Lebanese archaeologists opened a new site in a previously unexplored area and discovered a huge Bronze Age necropolis, untouched for almost 4,000 years.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T13:20:00.000Z",
-      "stop": "2026-09-20T14:30:00.000Z",
-      "title": "Secrets Of Britain's Historic Houses",
-      "subtitle": "Episode 4",
-      "description": "Go behind the scenes at three unique houses in the Northeast of England that together tell a story of wealth, industry and art in Northumbria.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T14:30:00.000Z",
-      "stop": "2026-09-20T15:40:00.000Z",
-      "title": "Secrets Of Britain's Historic Houses",
-      "subtitle": "Episode 5",
-      "description": "In this episode we meet the teams at work in the garden of England at three of the Trust's houses in Kent, including the former family home of Winston Churchill.",
+      "description": "Travelling to a distant Africa, 33-year-old Anthony Bartl, paralysed neck down and reliant solely on head movement and artificial ventilation to function, embarks on a life time adventure.",
       "category": "Special Interest"
     }
   ]

@@ -2,327 +2,463 @@
   "slug": "abc-tv-plus",
   "epgId": "mjh-abc-tv-plus",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T09:55:00.000Z",
-      "stop": "2026-09-19T11:20:00.000Z",
-      "title": "Spy Kids",
-      "subtitle": null,
-      "description": "Super-spies Gregorio and Ingrid give up their lives of intrigue to raise their children. After a sinister super-villain kidnaps the parents, it's up to the kids to come to the rescue.",
-      "category": "Action & Adventure"
+      "start": "2026-10-01T11:55:00.000Z",
+      "stop": "2026-10-01T12:20:00.000Z",
+      "title": "72 Cutest Animals",
+      "subtitle": "Quirky Quadrupeds",
+      "description": "We're all familiar with the good, the bad and the ugly in the animal kingdom, but how about the odd, the strange and the bizarre? Can eccentric also be considered endearing?",
+      "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T11:20:00.000Z",
-      "stop": "2026-09-19T11:45:00.000Z",
-      "title": "The Lady Grace Mysteries",
-      "subtitle": "Spiderweb",
-      "description": "Grace finally thinks she's worked out the identity of the traitor, Spiderweb! But as she heads off for an epic showdown, her hidden enemy has a whole other plan.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T11:45:00.000Z",
-      "stop": "2026-09-19T12:30:00.000Z",
+      "start": "2026-10-01T12:20:00.000Z",
+      "stop": "2026-10-01T13:05:00.000Z",
       "title": "Merlin",
-      "subtitle": "Queen of Hearts",
-      "description": "Morgana is tormented by dreams of Guinevere becoming Queen of Camelot. Encouraged by Morgause, she decides to reveal Arthur and Gwen's courtship to Uther, who will do whatever it takes to stop his son from marrying her.",
+      "subtitle": "Lancelot Du Lac",
+      "description": "When Sir Lancelot returns from the dead, old feelings reignite as the drama continues. Gwen must fight temptation before she commits an unspeakable act of betrayal; one that would destroy the legacy of Camelot forever.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T12:30:00.000Z",
-      "stop": "2026-09-19T12:50:00.000Z",
+      "start": "2026-10-01T13:05:00.000Z",
+      "stop": "2026-10-01T13:30:00.000Z",
       "title": "Fresh Off the Boat",
-      "subtitle": "The Best of Orlando",
-      "description": "Louis is named Small Businessman of the Year but forgets to thank Jessica in his acceptance speech. Meanwhile, Eddie, Emery and Grandma start their own clothing line and endure the trials of running their own small business.",
+      "subtitle": "Bring the Pain",
+      "description": "Louis' brother visits to share big news with the family. Eddie tries to find creative ways to watch the latest Chris Rock age-inappropriate stand-up comedy special, despite his parents' and brothers' disapproval. (Final)",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-19T12:50:00.000Z",
-      "stop": "2026-09-19T13:15:00.000Z",
-      "title": "Fresh Off the Boat",
-      "subtitle": "Clean Slate",
-      "description": "Jessica pushes the family to settle all debts, disputes and grudges to ensure good fortune for the Lunar New Year. Louis and Evan hunt down some hate mail, and Eddie is forced to entertain his super lame cousin.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-19T13:15:00.000Z",
-      "stop": "2026-09-19T13:35:00.000Z",
+      "start": "2026-10-01T13:30:00.000Z",
+      "stop": "2026-10-01T13:45:00.000Z",
       "title": "Young Sheldon",
-      "subtitle": "Contracts, Rules and a Little Bit of Pig Brains",
-      "description": "George and Georgie go camping with Meemaw's new boyfriend, Dale, but things get more complicated when her ex-boyfriend, Dr. Sturgis, also tags along. Meanwhile, Sheldon and Missy invent a super game.",
+      "subtitle": "A Musty Crypt and a Stick to Pee On",
+      "description": "Dale and Meemaw work out relationship issues while playing Dungeons and Dragons with Sheldon and Missy. Meanwhile, Mary and George take a trip with Coach Wilkins and his wife.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-19T13:35:00.000Z",
-      "stop": "2026-09-19T13:45:00.000Z",
-      "title": "Mr. Bean",
-      "subtitle": "The Newspaper",
-      "description": "Mr Bean's newspaper keeps getting stolen. Who is the cunning culprit?",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T13:45:00.000Z",
-      "stop": "2026-09-19T13:55:00.000Z",
-      "title": "Mr. Bean",
-      "subtitle": "Viral Bean",
-      "description": "Mr Bean becomes a famous internet sensation.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T13:55:00.000Z",
-      "stop": "2026-09-19T14:00:00.000Z",
-      "title": "BTN High",
-      "subtitle": "Scary Rides",
-      "description": "Have you ever wondered why people pay to be terrified on amusement rides? We find out more about why people enjoy being scared, how the body reacts to fear, and what makes thrill rides so exciting.",
-      "category": null
-    },
-    {
-      "start": "2026-09-19T14:00:00.000Z",
-      "stop": "2026-09-19T14:20:00.000Z",
+      "start": "2026-10-01T13:45:00.000Z",
+      "stop": "2026-10-01T14:05:00.000Z",
       "title": "Pokemon: Ruby and Sapphire",
-      "subtitle": "All in a Day's Wurmple",
-      "description": "As May sets out to catch a Wurmple for her first Pokemon Contest, Ash receives a Double Battle challenge!",
+      "subtitle": "Turning Over A Nuzleaf",
+      "description": "When our heroes get separated from their Pokemon in a deep, dark cave, both groups find themselves in trouble!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T14:20:00.000Z",
-      "stop": "2026-09-19T14:50:00.000Z",
+      "start": "2026-10-01T14:05:00.000Z",
+      "stop": "2026-10-01T14:35:00.000Z",
       "title": "Operation Ouch!",
-      "subtitle": "The Body Roadtrip!",
-      "description": "Join the doctors for a journey around the human body as they look at their favourite bits from your head to your toes.",
+      "subtitle": "Virus Alert!",
+      "description": "Dr Chris puts Dr Xand inside a giant water balloon to show how viruses attack our bodies, there's a final instalment of Ouchology and Dr Chris discovers how the shape of your ears enables you to hear.",
       "category": null
     },
     {
-      "start": "2026-09-19T14:50:00.000Z",
-      "stop": "2026-09-19T15:00:00.000Z",
+      "start": "2026-10-01T14:35:00.000Z",
+      "stop": "2026-10-01T14:45:00.000Z",
       "title": "We Baby Bears",
-      "subtitle": "Big Trouble Little Babies",
-      "description": "When they realise they're too small for the rides at an amusement park, the Bears use a magic potion to get bigger.",
+      "subtitle": "A Gross Worm",
+      "description": "The Bears help Unica return an endangered alien worm to its home.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T15:00:00.000Z",
-      "stop": "2026-09-19T15:10:00.000Z",
+      "start": "2026-10-01T14:45:00.000Z",
+      "stop": "2026-10-01T14:55:00.000Z",
       "title": "We Bare Bears",
-      "subtitle": "Ranger Games",
-      "description": "Grizz helps Ranger Tabes and the Poppy Rangers play a game of kickball .",
+      "subtitle": "Family Troubles",
+      "description": "Baby Grizz lives on the set of a sitcom in which he stars.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T15:10:00.000Z",
-      "stop": "2026-09-19T15:20:00.000Z",
+      "start": "2026-10-01T14:55:00.000Z",
+      "stop": "2026-10-01T15:05:00.000Z",
       "title": "Teen Titans Go!",
-      "subtitle": "Labor Day",
-      "description": "Robin teaches the other Titans about the importance of labour.",
+      "subtitle": "Mo' Money Mo' Problems",
+      "description": "The Titans make Robin give them a tour of Wayne Manor.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T15:20:00.000Z",
-      "stop": "2026-09-19T15:30:00.000Z",
+      "start": "2026-10-01T15:05:00.000Z",
+      "stop": "2026-10-01T15:15:00.000Z",
       "title": "Teen Titans Go!",
-      "subtitle": "TV Knight 4",
-      "description": "Batman and Commissioner Gordon go camping, but instead of fun outdoor activities, they'd rather watch TV.",
+      "subtitle": "Walk Away",
+      "description": "After the T-Car is destroyed in a fight, the Titans go to a used car lot to find another vehicle.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T15:30:00.000Z",
-      "stop": "2026-09-19T15:40:00.000Z",
+      "start": "2026-10-01T15:15:00.000Z",
+      "stop": "2026-10-01T15:30:00.000Z",
       "title": "Total Dramarama",
-      "subtitle": "Cone In 60 Seconds",
-      "description": "After Owen gets ripped off at the ice cream truck the kids unite to right that wrong.",
+      "subtitle": "Tiger Fail",
+      "description": "Gwen refuses to be pressured into choosing an ice cream flavour that she does not want.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T15:40:00.000Z",
-      "stop": "2026-09-19T15:50:00.000Z",
+      "start": "2026-10-01T15:30:00.000Z",
+      "stop": "2026-10-01T15:40:00.000Z",
       "title": "Total Dramarama",
-      "subtitle": "Us 'R' Toys",
-      "description": "When Chef brings in some old toys from his childhood, he, Duncan and Gwen, each get magically sucked into one of the toys and need to find a way to get back into their own bodies.",
+      "subtitle": "Jelly Aches",
+      "description": "The school descends into chaos after getting a visit from Gazunga, the Jealousy Troll.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T15:50:00.000Z",
-      "stop": "2026-09-19T16:00:00.000Z",
+      "start": "2026-10-01T15:40:00.000Z",
+      "stop": "2026-10-01T15:50:00.000Z",
       "title": "Total Dramarama",
-      "subtitle": "Last Mom Standing",
-      "description": "When Chef's Mum and Leshawna's Grandmother drop their loved ones off at the same time, it kicks off a dangerous competition for who is the most caring mother-figure.",
+      "subtitle": "A Tall Tale",
+      "description": "After Owen's BBF, Noah, goes through a growth spurt, Owen fears losing his friend and takes drastic action.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T16:00:00.000Z",
-      "stop": "2026-09-19T16:10:00.000Z",
+      "start": "2026-10-01T15:50:00.000Z",
+      "stop": "2026-10-01T16:00:00.000Z",
       "title": "The Powerpuff Girls",
-      "subtitle": "Hustlecup",
-      "description": "When Buttercup loses the Professor's latest invention, she'll have to beat The Gangreen Gang at their own game to get it back.",
+      "subtitle": "Aliver",
+      "description": "The Girls compete for the title of World's Greatest Superheroes!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T16:10:00.000Z",
-      "stop": "2026-09-19T16:35:00.000Z",
+      "start": "2026-10-01T16:00:00.000Z",
+      "stop": "2026-10-01T16:20:00.000Z",
       "title": "Miraculous: Tales Of Ladybug And Cat Noir",
-      "subtitle": "Despair Bear",
-      "description": "Humiliated by Chloe, her own butler gets akumatized by Hawk Moth. Now Despair Bear, he can manipulate anyone he touches and is determined to get revenge on Chloe. Ladybug and Cat Noir must not lose control!",
+      "subtitle": "Captain Hardrock",
+      "description": "Juleka's mother gets akumatized into Captain Hardrock. Steering an impregnable ship and armed with a pirate sword, she wants to blast her music across Paris. Prepare to board, mateys Ladybug and Cat Noir!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T16:35:00.000Z",
-      "stop": "2026-09-19T16:45:00.000Z",
-      "title": "Hotel Transylvania: The Series",
-      "subtitle": "Freakerheads",
-      "description": "Hank asks Mavis to do him a solid and pick up a one-of-a-kind Freakerhead for him. But Mavis forgets and Hank misses out on it and now she needs a way to make it up to him.",
+      "start": "2026-10-01T16:20:00.000Z",
+      "stop": "2026-10-01T16:50:00.000Z",
+      "title": "Horrible Histories",
+      "subtitle": "Daft Dads",
+      "description": "In honour of Father's Day, Horrible Histories takes a look at some of history's daftest dads, featuring Henry VIII, Charles Dickens, William the Conqueror, and Joseph Stalin!",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-01T16:50:00.000Z",
+      "stop": "2026-10-01T17:05:00.000Z",
+      "title": "The InBESTigators",
+      "subtitle": "The Case Of The Suspect Sprinkler / The Case Of The Peculiar Pop Quiz",
+      "description": "When the timer on Mrs Maniaci's sprinkler system is tampered with before the 'Garden of the Year'; competition, the Inbestigators must track down the culprit.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T16:45:00.000Z",
-      "stop": "2026-09-19T16:55:00.000Z",
-      "title": "Hotel Transylvania: The Series",
-      "subtitle": "For Whom The Smell Tolls",
-      "description": "Mavis stinks like rainbows and puppy dog tails. Why? Because she's got 'The Vapors'; a next-level event in the afterlife of a vampire.",
+      "start": "2026-10-01T17:05:00.000Z",
+      "stop": "2026-10-01T17:10:00.000Z",
+      "title": "Shaun the Sheep",
+      "subtitle": "The Intruder",
+      "description": "The Farmer becomes annoyed when a crow begins to create mayhem across the farm. Bitzer disguises himself as a scarecrow, but needs help from Shaun to make the problem disappear.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T16:55:00.000Z",
-      "stop": "2026-09-19T17:10:00.000Z",
-      "title": "Hotel Transylvania: The Series",
-      "subtitle": "Bad Friday",
-      "description": "Every hundred years, monsters celebrate Bad Friday by trying to win the Screamie for the best scare. Dracula has won it for a millennium, but now that he's away, he expects his daughter Mavis to carry the torch.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T17:10:00.000Z",
-      "stop": "2026-09-19T17:20:00.000Z",
-      "title": "Hotel Transylvania: The Series",
-      "subtitle": "Hoop Screams",
-      "description": "Mavis feels bad about Hank's terrible basketball skills so she gives him a gift - the talented dribbling hands of a deceased baller. At first the hands are awesome. The problem is, all they wanna do is ball.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T17:20:00.000Z",
-      "stop": "2026-09-19T17:30:00.000Z",
+      "start": "2026-10-01T17:10:00.000Z",
+      "stop": "2026-10-01T17:20:00.000Z",
       "title": "Odd Squad",
-      "subtitle": "The O Games Part 1",
-      "description": "In this two part episode, Odd Squad agents compete in Olympic style games to determine who gets to be Ms. O for the day.",
+      "subtitle": "Oscar Strikes Back Part 1",
+      "description": "In this two-part episode, Oscar attends a gathering of Odd Squad scientists called Lab-Con at Odd Squad Academy.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T17:30:00.000Z",
-      "stop": "2026-09-19T17:55:00.000Z",
+      "start": "2026-10-01T17:20:00.000Z",
+      "stop": "2026-10-01T17:55:00.000Z",
       "title": "Odd Squad",
-      "subtitle": "The O Games Part 2",
-      "description": "In this two part episode, Odd Squad agents compete in Olympic style games to determine who gets to be Ms. O for the day.",
+      "subtitle": "Oscar Strikes Back Part 2",
+      "description": "In this two-part episode, Oscar attends a gathering of Odd Squad scientists called Lab-Con at Odd Squad Academy.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T17:55:00.000Z",
-      "stop": "2026-09-19T18:00:00.000Z",
+      "start": "2026-10-01T17:55:00.000Z",
+      "stop": "2026-10-01T18:00:00.000Z",
       "title": "ABC Kids Programs Resume At 4am",
       "subtitle": null,
       "description": "ABC Kids programs resume at 4.00am",
       "category": null
     },
     {
-      "start": "2026-09-19T18:00:00.000Z",
-      "stop": "2026-09-19T18:10:00.000Z",
+      "start": "2026-10-01T18:00:00.000Z",
+      "stop": "2026-10-01T18:10:00.000Z",
       "title": "Teletubbies",
-      "subtitle": "Twinkle Twinkle",
-      "description": "It's night time in Teletubbyland and the Teletubbies are all sleeping, apart from Tinky Winky. Stepping outside, Tinky Winky sees a star in the sky which sings 'Twinkle Twinkle'.",
+      "subtitle": "Musical Box",
+      "description": "The Teletubbies watch as Grandma shows her grandson an old-fashioned musical box and Tinky Winky and Po play with a magical musical box too.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T18:10:00.000Z",
-      "stop": "2026-09-19T18:35:00.000Z",
+      "start": "2026-10-01T18:10:00.000Z",
+      "stop": "2026-10-01T18:35:00.000Z",
       "title": "Ariel: Mermaid Tales (Shorts)",
-      "subtitle": "La Sirenusca / Substitute Sebastian",
-      "description": "Ariel tracks down a mythological sea creature. Ariel and friends get a substitute teacher in music class.",
+      "subtitle": "Family Treasure Hunt / Remy's Big Feelings",
+      "description": "An adventure with Nana Xola. Remy gets big feelings.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T18:35:00.000Z",
-      "stop": "2026-09-19T18:50:00.000Z",
+      "start": "2026-10-01T18:35:00.000Z",
+      "stop": "2026-10-01T18:50:00.000Z",
       "title": "Daniel Tiger's Neighbourhood",
-      "subtitle": "Prince Tuesday Visits",
-      "description": "Daniel is very excited, because Prince Tuesday is home visiting from college! But, Prince Wednesday is upset that Daniel is paying more attention to his big brother than to him.",
+      "subtitle": "Daniel Gives A Gift",
+      "description": "When Daniel receives a gift from Grandpere, he wants more. Mom Tiger tells him that instead of thinking of what he doesn't have, he can think about what he does have. Daniel stops to appreciate his gift and loves it.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T18:50:00.000Z",
-      "stop": "2026-09-19T18:55:00.000Z",
+      "start": "2026-10-01T18:50:00.000Z",
+      "stop": "2026-10-01T18:55:00.000Z",
       "title": "Maddie & Triggs",
-      "subtitle": "Bonkers Cake",
-      "description": "Maddie + Triggs are baking a cake for Granny, but when the recipe goes missing they are forced to mix it up and add some surprising new ingredients that are quite simply bonkers!",
+      "subtitle": "Bloop Bloop",
+      "description": "There's something fishy about Maddie + Triggs' newest house guest, but they are determined to get to know the new arrival and really figure out what makes him bloop.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T18:55:00.000Z",
-      "stop": "2026-09-19T19:10:00.000Z",
+      "start": "2026-10-01T18:55:00.000Z",
+      "stop": "2026-10-01T19:10:00.000Z",
       "title": "Ben & Holly's Little Kingdom",
-      "subtitle": "The Tooth Fairy",
-      "description": "Ben and Holly are excited when they learn that Nanny Plum is a Tooth Fairy at night, and go along with her to pick up a little girl's tooth. But the little girl is not so little - she's a human and much bigger than them!",
+      "subtitle": "The Wand Factory",
+      "description": "Holly breaks her wand and must go to the Wand Factory, at the bottom of the Great Elf Tree, to get it fixed.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T11:00:00.000Z",
-      "stop": "2026-09-20T11:45:00.000Z",
-      "title": "Animal Park",
-      "subtitle": "Episode 1",
-      "description": "Ben and Kate are back for the festivities. Four adorable tiger cubs are about to experience their first Christmas, but first, what will an urgent vet visit reveal?",
+      "start": "2026-10-02T09:35:00.000Z",
+      "stop": "2026-10-02T11:05:00.000Z",
+      "title": "My Neighbour Totoro",
+      "subtitle": null,
+      "description": "The story follows Satsuke and Mai, two young girls who find that their new country home is in a mystical forest inhabited by a menagerie of mystical creatures called Totoros.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T11:05:00.000Z",
+      "stop": "2026-10-02T11:10:00.000Z",
+      "title": "BtN Newsbreak",
+      "subtitle": "Episode 173",
+      "description": "Find out what's going on in the world with a news bulletin designed for children, featuring stories that are relevant and easy to understand.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T11:10:00.000Z",
+      "stop": "2026-10-02T11:20:00.000Z",
+      "title": "Adventure Time",
+      "subtitle": "BMO Noire",
+      "description": "When Finn thinks he's lost a sock, BMO is covertly on the case.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T11:20:00.000Z",
+      "stop": "2026-10-02T11:35:00.000Z",
+      "title": "Adventure Time",
+      "subtitle": "King Worm",
+      "description": "Finn has a particularly vivid dream, and all of Ooo is in it or does he?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T11:35:00.000Z",
+      "stop": "2026-10-02T12:20:00.000Z",
+      "title": "Battlebots",
+      "subtitle": "The Quarter-Finals",
+      "description": "Just 8 bots remain in the tournament. Tonight they go to war for a place in the semi-finals, just two steps away from BattleBots glory. After weeks of conflict, who will go through and who will go home?",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T11:45:00.000Z",
-      "stop": "2026-09-20T12:30:00.000Z",
-      "title": "Animal Park",
-      "subtitle": "Episode 2",
-      "description": "Ben and Kate have joined keepers for a magical Christmas, and with babies being born all over the park, every one of them needs a visit before the big day.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T12:30:00.000Z",
-      "stop": "2026-09-20T13:15:00.000Z",
-      "title": "Secrets of The Zoo",
-      "subtitle": "Giraffe-Ic Park",
-      "description": "It's raining baby giraffes, Dr. Priya gives Connie the Elephant an eye exam, and two camel brothers embark on a new life.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T13:15:00.000Z",
-      "stop": "2026-09-20T14:00:00.000Z",
+      "start": "2026-10-02T12:20:00.000Z",
+      "stop": "2026-10-02T13:05:00.000Z",
       "title": "Merlin",
-      "subtitle": "The Sorcerer's Shadow",
-      "description": "The only rule in Camelot's legendary tournament is that there are no rules. The mythic city fills with terrifying warriors and are joined by Gilli, who despite his small stature has victory in his sights and a secret weapon.",
+      "subtitle": "A Herald Of The New Age",
+      "description": "The Camelot Knights stumble across an eerie shrine deep in the forest, betraying a dark history best left undisturbed. But when Elyan ignores Merlin's warning, his actions spark a frightening chain of events.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T14:00:00.000Z",
-      "stop": "2026-09-20T14:15:00.000Z",
+      "start": "2026-10-02T13:05:00.000Z",
+      "stop": "2026-10-02T13:20:00.000Z",
       "title": "Young Sheldon",
-      "subtitle": "A Slump, a Cross and Roadside Gravel",
-      "description": "Sheldon and Georgie bond over a money-making opportunity when they mine for platinum in roadside gravel. Also, Mary is concerned when Missy misuses religion to help with a batting slump.",
+      "subtitle": "Freshman Orientation and the Invention of the Zipper",
+      "description": "While college orientation does not go as Sheldon planned, Mary is mistaken for a university student and invited to a party. Meanwhile, George helps Pastor Jeff set up a children's nursery.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-20T14:15:00.000Z",
-      "stop": "2026-09-20T14:20:00.000Z",
-      "title": "BTN High",
-      "subtitle": "Teenagers And The Law (Part 2)",
-      "description": "Nobody wants to get in trouble with the law, but have you ever wondered what could get you in trouble? We sit down with a lawyer to answer some young people's questions about the law.",
-      "category": null
+      "start": "2026-10-02T13:20:00.000Z",
+      "stop": "2026-10-02T13:40:00.000Z",
+      "title": "Young Sheldon",
+      "subtitle": "A Philosophy Class and Worms That Can Chase You",
+      "description": "Sheldon's first day of college is derailed by his new philosophy teacher, Professor Ericson. Also, Mary and Brenda live vicariously through Missy's first day of middle school.",
+      "category": "Comedy"
     },
     {
-      "start": "2026-09-20T14:20:00.000Z",
-      "stop": "2026-09-20T14:40:00.000Z",
+      "start": "2026-10-02T13:40:00.000Z",
+      "stop": "2026-10-02T14:00:00.000Z",
       "title": "Pokemon: Ruby and Sapphire",
-      "subtitle": "Gonna Rule the School!",
-      "description": "Our heroes check out the Pokemon Trainer's School in Rustboro City, where Max has a run-in with a classmate!",
+      "subtitle": "A Three Team Scheme!",
+      "description": "Ash and the others meet up with Professor Birch for a day of exploration and end up in the middle of a villainous confrontation!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T14:40:00.000Z",
-      "stop": "2026-09-20T15:10:00.000Z",
+      "start": "2026-10-02T14:00:00.000Z",
+      "stop": "2026-10-02T14:30:00.000Z",
       "title": "Operation Ouch!",
-      "subtitle": "We're Having a Baby",
-      "description": "The doctors find themselves in a race as they explore the special bones in your feet. Meet the families awaiting the arrival of the first ever Ouch babies, and you won't believe your eyes in today's mindbending trick.",
+      "subtitle": "What Happened Next?",
+      "description": "Join the doctors as they revisit Ouchers from across the last 7 series, including Matthew who had a cochlear implant enabling him to hear and Ouch Patient Ruby who's recovered from Leukaemia.",
       "category": null
+    },
+    {
+      "start": "2026-10-02T14:30:00.000Z",
+      "stop": "2026-10-02T14:40:00.000Z",
+      "title": "We Baby Bears",
+      "subtitle": "A Real Crayon",
+      "description": "The Bears find a mysterious crayon that has the power to make anything they draw become REAL.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T14:40:00.000Z",
+      "stop": "2026-10-02T14:50:00.000Z",
+      "title": "We Bare Bears",
+      "subtitle": "Crowbar Jones: Origins",
+      "description": "Grizz pitches his Crowbar Jones prequel film to Nom Nom.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T14:50:00.000Z",
+      "stop": "2026-10-02T15:00:00.000Z",
+      "title": "Teen Titans Go!",
+      "subtitle": "Beast Girl",
+      "description": "Beast Boy meets his female counterpart - Beast Girl!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:00:00.000Z",
+      "stop": "2026-10-02T15:10:00.000Z",
+      "title": "Teen Titans Go!",
+      "subtitle": "Had to Be There",
+      "description": "The Titans time travel to their past adventures and insert Bumblebee into their memories, so she isn't left out of their inside jokes.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:10:00.000Z",
+      "stop": "2026-10-02T15:20:00.000Z",
+      "title": "Teen Titans Go!",
+      "subtitle": "Record Book",
+      "description": "Starfire wants a world record, so she decides to grow her fingernails.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:20:00.000Z",
+      "stop": "2026-10-02T15:30:00.000Z",
+      "title": "Total Dramarama",
+      "subtitle": "That's A Wrap",
+      "description": "Duncan goes on a mission to scare Courtney during a field trip to the museum.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:30:00.000Z",
+      "stop": "2026-10-02T15:40:00.000Z",
+      "title": "Total Dramarama",
+      "subtitle": "Simply Perfect",
+      "description": "When the kids are about to be subject to school testing with no time to study, Courtney freaks and orders a Brainiac Ray from the back of a comic book that does NOT work as advertised.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:40:00.000Z",
+      "stop": "2026-10-02T15:50:00.000Z",
+      "title": "Total Dramarama",
+      "subtitle": "Chews Wisely",
+      "description": "When the floor ends up covered in gum on the day of a big bubble blowing contest, Sugar decides she might help herself win by helping her friends get stuck to the floor.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:50:00.000Z",
+      "stop": "2026-10-02T16:00:00.000Z",
+      "title": "The Powerpuff Girls",
+      "subtitle": "Worship",
+      "description": "After being blasted by Duplikate, Blossom turns into a triple threat.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T16:00:00.000Z",
+      "stop": "2026-10-02T16:25:00.000Z",
+      "title": "Miraculous: Tales Of Ladybug And Cat Noir",
+      "subtitle": "Frozer",
+      "description": "A figure skating trainer named Philippe gets akumatized into Frozer. Armed with evil ice skates, he wants to turn Paris into a Kingdom of Ice. Ladybug and Cat Noir can't get cold feet if they want to stop him!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T16:25:00.000Z",
+      "stop": "2026-10-02T16:50:00.000Z",
+      "title": "Horrible Histories",
+      "subtitle": "NHS 75th Birthday Special",
+      "description": "Jo Brand joins Rattus for a special show celebrating the NHS' 75th birthday.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T16:50:00.000Z",
+      "stop": "2026-10-02T17:05:00.000Z",
+      "title": "The InBESTigators",
+      "subtitle": "The Case Of The Peculiar Pop Quiz",
+      "description": "Maudie and Ava infiltrate Mr Barker's grade six class to watch his famous pop quiz, where Maudie uncovers a crime.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T17:05:00.000Z",
+      "stop": "2026-10-02T17:15:00.000Z",
+      "title": "Shaun the Sheep",
+      "subtitle": "Duck!",
+      "description": "Calm in the barn is disturbed when a pair of ducks set up a nest on the roof of Bitzer's kennel. The ducks don't take kindly to efforts to encourage them to move on.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T17:15:00.000Z",
+      "stop": "2026-10-02T17:25:00.000Z",
+      "title": "Odd Squad",
+      "subtitle": "Olympia's Day",
+      "description": "When a new room opens up in headquarters, all the agents want a piece.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T17:25:00.000Z",
+      "stop": "2026-10-02T17:55:00.000Z",
+      "title": "Odd Squad",
+      "subtitle": "Otis's Day",
+      "description": "Getting a villain back to headquarters proves cumbersome when the tubes are down for maintenance.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T17:55:00.000Z",
+      "stop": "2026-10-02T18:00:00.000Z",
+      "title": "ABC Kids Programs Resume At 4am",
+      "subtitle": null,
+      "description": "ABC Kids programs resume at 4.00am",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T18:00:00.000Z",
+      "stop": "2026-10-02T18:10:00.000Z",
+      "title": "Teletubbies",
+      "subtitle": "Puddles",
+      "description": "The Teletubbies dance and splash in puddles made by the rain.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:10:00.000Z",
+      "stop": "2026-10-02T18:35:00.000Z",
+      "title": "Ariel: Mermaid Tales (Shorts)",
+      "subtitle": "Fernie's New Discovery / Grotto of Manners",
+      "description": "Fernie seeks seahorse unicorns. Ursula creates a game.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:35:00.000Z",
+      "stop": "2026-10-02T18:50:00.000Z",
+      "title": "Daniel Tiger's Neighbourhood",
+      "subtitle": "Miss Elaina's Bandage",
+      "description": "When Miss Elaina needs a bandage on her hand, she notices that it isn't fair that there aren't any bandages that look like her skin colour. With the help of her mom and Dr. Anna, they make custom bandages for Miss Elaina.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:50:00.000Z",
+      "stop": "2026-10-02T18:55:00.000Z",
+      "title": "Maddie & Triggs",
+      "subtitle": "No No No",
+      "description": "While helping Mum babysit their neighbour Sally, Maddie + Triggs learn that words can sometimes be confusing, especially if they're coming from the mouth of a mischievous toddler.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:55:00.000Z",
+      "stop": "2026-10-02T19:10:00.000Z",
+      "title": "Ben & Holly's Little Kingdom",
+      "subtitle": "Camping Out",
+      "description": "Holly is going on a camping trip with Ben and his mum and dad, but they are soon joined by annoying Mr Gnome, who is always hungry and sings silly songs.",
+      "category": "Kids & Family"
     }
   ]
 }

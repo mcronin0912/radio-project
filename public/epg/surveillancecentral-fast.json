@@ -1,0 +1,32 @@
+{
+  "slug": "surveillancecentral-fast",
+  "epgId": "mjh-surveillancecentral-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:46:23.000Z",
+      "stop": "2026-10-01T12:09:06.000Z",
+      "title": "Surveillance Oz",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:09:06.000Z",
+      "stop": "2026-10-01T12:34:19.000Z",
+      "title": "Surveillance Oz",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:34:19.000Z",
+      "stop": "2026-10-01T13:04:19.000Z",
+      "title": "Surveillance Oz",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

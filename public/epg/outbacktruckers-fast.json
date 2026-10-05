@@ -1,0 +1,32 @@
+{
+  "slug": "outbacktruckers-fast",
+  "epgId": "mjh-outbacktruckers-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:36:35.000Z",
+      "stop": "2026-10-01T12:27:45.000Z",
+      "title": "Outback Truckers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:27:45.000Z",
+      "stop": "2026-10-01T13:18:55.000Z",
+      "title": "Outback Truckers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:18:55.000Z",
+      "stop": "2026-10-01T13:48:55.000Z",
+      "title": "Outback Truckers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

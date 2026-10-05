@@ -6,7 +6,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
+      "comedy",
       "news",
       "general"
     ],
@@ -26,7 +26,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
+      "comedy",
       "news",
       "general"
     ],
@@ -46,7 +46,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
+      "comedy",
       "news",
       "general"
     ],
@@ -66,7 +66,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
+      "comedy",
       "news",
       "general"
     ],
@@ -86,7 +86,7 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
+      "comedy",
       "news",
       "general"
     ],
@@ -105,8 +105,9 @@
     "name": "10 Comedy NSW",
     "network": "Ten",
     "categories": [
-      "comedy",
       "factual",
+      "comedy",
+      "drama",
       "general"
     ],
     "website": null,
@@ -124,8 +125,9 @@
     "name": "10 Comedy QLD",
     "network": "Ten",
     "categories": [
-      "comedy",
       "factual",
+      "comedy",
+      "drama",
       "general"
     ],
     "website": null,
@@ -143,8 +145,9 @@
     "name": "10 Comedy SA",
     "network": "Ten",
     "categories": [
-      "comedy",
       "factual",
+      "comedy",
+      "drama",
       "general"
     ],
     "website": null,
@@ -162,8 +165,9 @@
     "name": "10 Comedy VIC",
     "network": "Ten",
     "categories": [
-      "comedy",
       "factual",
+      "comedy",
+      "drama",
       "general"
     ],
     "website": null,
@@ -181,8 +185,8 @@
     "name": "10 Comedy WA",
     "network": "Ten",
     "categories": [
-      "comedy",
       "factual",
+      "comedy",
       "drama",
       "general"
     ],
@@ -202,8 +206,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
       "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -222,8 +226,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
       "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -242,8 +246,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
       "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -262,8 +266,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
       "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -282,8 +286,8 @@
     "network": "Ten",
     "categories": [
       "factual",
-      "movies",
       "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -379,7 +383,7 @@
     "categories": [
       "kids",
       "factual",
-      "comedy"
+      "movies"
     ],
     "website": null,
     "logoUrl": "https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png",
@@ -433,8 +437,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "music",
       "general"
     ],
     "website": null,
@@ -453,8 +457,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "music",
       "general"
     ],
     "website": null,
@@ -473,8 +477,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "drama",
       "general"
     ],
     "website": null,
@@ -493,8 +497,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "music",
       "general"
     ],
     "website": null,
@@ -513,8 +517,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "drama",
       "general"
     ],
     "website": null,
@@ -533,8 +537,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "music",
       "general"
     ],
     "website": null,
@@ -553,8 +557,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "music",
       "general"
     ],
     "website": null,
@@ -573,8 +577,8 @@
     "network": "ABC",
     "categories": [
       "factual",
-      "drama",
       "news",
+      "drama",
       "general"
     ],
     "website": null,
@@ -629,8 +633,8 @@
     "name": "ABC Entertains",
     "network": "ABC",
     "categories": [
-      "factual",
       "kids",
+      "factual",
       "comedy",
       "entertainment"
     ],
@@ -688,8 +692,8 @@
     "name": "SBS2",
     "network": "SBS",
     "categories": [
-      "factual",
       "news",
+      "factual",
       "drama",
       "entertainment"
     ],
@@ -710,7 +714,7 @@
     "categories": [
       "drama",
       "comedy",
-      "kids",
+      "factual",
       "movies"
     ],
     "website": null,
@@ -749,7 +753,7 @@
     "categories": [
       "factual",
       "kids",
-      "sports",
+      "news",
       "general"
     ],
     "website": null,
@@ -803,8 +807,8 @@
     "network": "Community",
     "categories": [
       "factual",
-      "news",
       "sports",
+      "news",
       "entertainment"
     ],
     "website": null,
@@ -823,8 +827,8 @@
     "network": "Community",
     "categories": [
       "factual",
-      "sports",
-      "music",
+      "news",
+      "drama",
       "entertainment"
     ],
     "website": null,
@@ -941,7 +945,7 @@
     "categories": [
       "factual",
       "news",
-      "sports",
+      "drama",
       "general"
     ],
     "website": null,
@@ -960,8 +964,8 @@
     "network": "Seven",
     "categories": [
       "factual",
-      "comedy",
       "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -980,8 +984,8 @@
     "network": "Seven",
     "categories": [
       "factual",
-      "comedy",
       "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1000,8 +1004,8 @@
     "network": "Seven",
     "categories": [
       "factual",
-      "comedy",
       "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1020,8 +1024,8 @@
     "network": "Seven",
     "categories": [
       "factual",
-      "comedy",
       "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1040,8 +1044,8 @@
     "network": "Seven",
     "categories": [
       "factual",
-      "comedy",
       "drama",
+      "sports",
       "general"
     ],
     "website": null,
@@ -1061,7 +1065,7 @@
     "categories": [
       "factual",
       "sports",
-      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1081,7 +1085,7 @@
     "categories": [
       "factual",
       "sports",
-      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1101,7 +1105,7 @@
     "categories": [
       "factual",
       "sports",
-      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1121,7 +1125,7 @@
     "categories": [
       "factual",
       "sports",
-      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1141,7 +1145,7 @@
     "categories": [
       "factual",
       "sports",
-      "movies",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1151,6 +1155,25 @@
     "state": "WA",
     "feed": "74",
     "label": "Ch 74",
+    "hasGuide": true
+  },
+  {
+    "slug": "7bravo-fast",
+    "channelId": "mjh-7bravo-fast",
+    "name": "7Bravo",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "drama",
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7bravo-fast-04647e.png",
+    "streamUrl": "https://i.mjh.nz/.r/7bravo-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "75",
+    "label": "Ch 75",
     "hasGuide": true
   },
   {
@@ -1254,14 +1277,49 @@
     "hasGuide": true
   },
   {
+    "slug": "tvsn-fast",
+    "channelId": "mjh-tvsn-fast",
+    "name": "TVSN",
+    "network": "Seven",
+    "categories": [
+      "factual",
+      "shopping"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png",
+    "streamUrl": "https://i.mjh.nz/.r/tvsn-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "77",
+    "label": "Ch 77",
+    "hasGuide": true
+  },
+  {
+    "slug": "racing-fast",
+    "channelId": "mjh-racing-fast",
+    "name": "Racing.com",
+    "network": "Seven",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-racing-fast-de6aee.png",
+    "streamUrl": "https://i.mjh.nz/.r/racing-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": "78",
+    "label": "Ch 78",
+    "hasGuide": true
+  },
+  {
     "slug": "channel-9-nsw",
     "channelId": "mjh-channel-9-nsw",
     "name": "Channel 9 NSW",
     "network": "Nine",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "kids",
       "general"
     ],
     "website": null,
@@ -1280,8 +1338,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "kids",
       "general"
     ],
     "website": null,
@@ -1300,8 +1358,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "kids",
       "general"
     ],
     "website": null,
@@ -1320,8 +1378,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "kids",
       "general"
     ],
     "website": null,
@@ -1341,7 +1399,7 @@
     "categories": [
       "factual",
       "news",
-      "sports",
+      "kids",
       "general"
     ],
     "website": null,
@@ -1359,9 +1417,9 @@
     "name": "9Gem NSW",
     "network": "Nine",
     "categories": [
-      "comedy",
-      "drama",
       "factual",
+      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1379,9 +1437,9 @@
     "name": "9Gem QLD",
     "network": "Nine",
     "categories": [
-      "comedy",
-      "drama",
       "factual",
+      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1399,9 +1457,9 @@
     "name": "9Gem SA",
     "network": "Nine",
     "categories": [
-      "comedy",
-      "drama",
       "factual",
+      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1419,9 +1477,9 @@
     "name": "9Gem VIC",
     "network": "Nine",
     "categories": [
-      "drama",
-      "comedy",
       "factual",
+      "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1439,9 +1497,9 @@
     "name": "9Gem WA",
     "network": "Nine",
     "categories": [
-      "sports",
-      "comedy",
+      "factual",
       "drama",
+      "movies",
       "general"
     ],
     "website": null,
@@ -1460,8 +1518,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "movies",
-      "sports",
+      "kids",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1480,8 +1538,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "movies",
-      "sports",
+      "kids",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1499,9 +1557,9 @@
     "name": "9Go! SA",
     "network": "Nine",
     "categories": [
-      "sports",
       "factual",
-      "movies",
+      "kids",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1520,8 +1578,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "movies",
-      "sports",
+      "kids",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1540,8 +1598,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "movies",
-      "sports",
+      "kids",
+      "comedy",
       "general"
     ],
     "website": null,
@@ -1560,7 +1618,6 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "general"
     ],
     "website": null,
@@ -1579,7 +1636,6 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "general"
     ],
     "website": null,
@@ -1598,7 +1654,6 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "general"
     ],
     "website": null,
@@ -1617,7 +1672,6 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "general"
     ],
     "website": null,
@@ -1636,7 +1690,6 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "news",
       "general"
     ],
     "website": null,
@@ -1856,7 +1909,7 @@
     "state": null,
     "feed": null,
     "label": null,
-    "hasGuide": false
+    "hasGuide": true
   },
   {
     "slug": "snowy-mountains",
@@ -1920,6 +1973,23 @@
     "website": null,
     "logoUrl": "https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png",
     "streamUrl": "https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "australian-short-course-championships-swimming-2026-fast",
+    "channelId": "mjh-australian-short-course-championships-swimming-2026-fast",
+    "name": "Australian Short Course Championships Swimming 2026",
+    "network": "Nine",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/Gff2jG76cG2jPTfs7Sv9YcjZBkQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F797542%2Fsquircle_swimmingaus.png",
+    "streamUrl": "https://i.mjh.nz/.r/australian-short-course-championships-swimming-2026-fast.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,
@@ -2035,8 +2105,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "kids",
       "general"
     ],
     "website": null,
@@ -2055,8 +2125,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "kids",
       "general"
     ],
     "website": null,
@@ -2075,8 +2145,8 @@
     "network": "Nine",
     "categories": [
       "factual",
-      "sports",
       "news",
+      "kids",
       "general"
     ],
     "website": null,
@@ -2099,23 +2169,6 @@
     "website": null,
     "logoUrl": "https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png",
     "streamUrl": "https://i.mjh.nz/.r/dance-moms-247-fast.m3u8",
-    "streamQuality": null,
-    "state": null,
-    "feed": null,
-    "label": null,
-    "hasGuide": false
-  },
-  {
-    "slug": "drive-fast",
-    "channelId": "mjh-drive-fast",
-    "name": "Drive",
-    "network": "Nine",
-    "categories": [
-      "entertainment"
-    ],
-    "website": null,
-    "logoUrl": "https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png",
-    "streamUrl": "https://i.mjh.nz/.r/drive-fast.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,
@@ -2174,16 +2227,33 @@
     "hasGuide": false
   },
   {
-    "slug": "qrl-hostplus-cup-2026-fast",
-    "channelId": "mjh-qrl-hostplus-cup-2026-fast",
-    "name": "QRL Hostplus Cup 2026",
+    "slug": "nrl-grand-final-2026-exclusive-cams-fast",
+    "channelId": "mjh-nrl-grand-final-2026-exclusive-cams-fast",
+    "name": "NRL Grand Final 2026: Exclusive Cams",
     "network": "Nine",
     "categories": [
       "sports"
     ],
     "website": null,
-    "logoUrl": "https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png",
-    "streamUrl": "https://i.mjh.nz/.r/qrl-hostplus-cup-2026-fast.m3u8",
+    "logoUrl": "https://imageresizer.static9.net.au/lSP0xiaiecY1CTI_dEmFTVJg7Ac=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F798454%2Fmens_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/nrl-grand-final-2026-exclusive-cams-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "nrlw-grand-final-2026-exclusive-cams-fast",
+    "channelId": "mjh-nrlw-grand-final-2026-exclusive-cams-fast",
+    "name": "NRLW Grand Final 2026: Exclusive Cams",
+    "network": "Nine",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://imageresizer.static9.net.au/KtXqj15lb7PAwZ2h_TeUIsPeXUQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F798391%2Fwomens_squircle.png",
+    "streamUrl": "https://i.mjh.nz/.r/nrlw-grand-final-2026-exclusive-cams-fast.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,
@@ -2252,23 +2322,6 @@
     "website": null,
     "logoUrl": "https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png",
     "streamUrl": "https://i.mjh.nz/.r/the-block-247-fast.m3u8",
-    "streamQuality": null,
-    "state": null,
-    "feed": null,
-    "label": null,
-    "hasGuide": false
-  },
-  {
-    "slug": "wnbl-townsville-tip-off-2026-fast",
-    "channelId": "mjh-wnbl-townsville-tip-off-2026-fast",
-    "name": "WNBL Townsville Tip-off 2026",
-    "network": "Nine",
-    "categories": [
-      "sports"
-    ],
-    "website": null,
-    "logoUrl": "https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png",
-    "streamUrl": "https://i.mjh.nz/.r/wnbl-townsville-tip-off-2026-fast.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,
@@ -2412,6 +2465,40 @@
     "hasGuide": false
   },
   {
+    "slug": "cas39-fast",
+    "channelId": "mjh-cas39-fast",
+    "name": "24 Hours in A&E",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas39-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "7afl-fast",
+    "channelId": "mjh-7afl-fast",
+    "name": "7AFL",
+    "network": "Seven",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-7afl-fast-e8fdb6.png",
+    "streamUrl": "https://i.mjh.nz/.r/7afl-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
     "slug": "7flix-regional",
     "channelId": "mjh-7flix-regional",
     "name": "7flix Regional",
@@ -2439,12 +2526,29 @@
     "categories": [
       "factual",
       "sports",
-      "drama",
+      "movies",
       "general"
     ],
     "website": null,
     "logoUrl": "https://i.mjh.nz/.images/auto-7mate-regional-360d60.png",
     "streamUrl": "https://i.mjh.nz/.r/7mate-regional.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cas32-fast",
+    "channelId": "mjh-cas32-fast",
+    "name": "7NEWS Spotlight",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas32-fast.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,
@@ -2458,13 +2562,574 @@
     "network": "Seven",
     "categories": [
       "factual",
-      "comedy",
       "drama",
+      "sports",
       "general"
     ],
     "website": null,
     "logoUrl": "https://i.mjh.nz/.images/auto-7two-regional-701123.png",
     "streamUrl": "https://i.mjh.nz/.r/7two-regional.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "acountrypractice-fast",
+    "channelId": "mjh-acountrypractice-fast",
+    "name": "A Country Practice",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png",
+    "streamUrl": "https://i.mjh.nz/.r/acountrypractice-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "aircrashinvestigations-fast",
+    "channelId": "mjh-aircrashinvestigations-fast",
+    "name": "Air Crash Investigations",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png",
+    "streamUrl": "https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "allsaints-fast",
+    "channelId": "mjh-allsaints-fast",
+    "name": "All Saints",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-allsaints-fast-ebad23.png",
+    "streamUrl": "https://i.mjh.nz/.r/allsaints-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "all-starcinema-fast",
+    "channelId": "mjh-all-starcinema-fast",
+    "name": "All-Star Cinema",
+    "network": "Seven",
+    "categories": [
+      "movies"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png",
+    "streamUrl": "https://i.mjh.nz/.r/all-starcinema-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "anglersparadise-fast",
+    "channelId": "mjh-anglersparadise-fast",
+    "name": "Anglers Paradise",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png",
+    "streamUrl": "https://i.mjh.nz/.r/anglersparadise-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "art-fast",
+    "channelId": "mjh-art-fast",
+    "name": "Antiques Road Trip",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-art-fast-99c60f.png",
+    "streamUrl": "https://i.mjh.nz/.r/art-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "belowdeckvault-fast",
+    "channelId": "mjh-belowdeckvault-fast",
+    "name": "Below Deck Vault",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png",
+    "streamUrl": "https://i.mjh.nz/.r/belowdeckvault-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "betterhomesandgardens-fast",
+    "channelId": "mjh-betterhomesandgardens-fast",
+    "name": "Better Homes And Gardens",
+    "network": "Seven",
+    "categories": [
+      "lifestyle"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-betterhomesandgardens-fast-8d1753.png",
+    "streamUrl": "https://i.mjh.nz/.r/betterhomesandgardens-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "blueheelers-fast",
+    "channelId": "mjh-blueheelers-fast",
+    "name": "Blue Heelers",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png",
+    "streamUrl": "https://i.mjh.nz/.r/blueheelers-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "bluelight-fast",
+    "channelId": "mjh-bluelight-fast",
+    "name": "Blue Light",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png",
+    "streamUrl": "https://i.mjh.nz/.r/bluelight-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cas41-fast",
+    "channelId": "mjh-cas41-fast",
+    "name": "Bondi Rescue",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas41-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cas24-fast",
+    "channelId": "mjh-cas24-fast",
+    "name": "Bondi Vet",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas24-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "bordersecurityaustralia-fast",
+    "channelId": "mjh-bordersecurityaustralia-fast",
+    "name": "Border Security Australia",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png",
+    "streamUrl": "https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "botchedvault-fast",
+    "channelId": "mjh-botchedvault-fast",
+    "name": "Botched VAULT",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png",
+    "streamUrl": "https://i.mjh.nz/.r/botchedvault-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cricketgold-fast",
+    "channelId": "mjh-cricketgold-fast",
+    "name": "Cricket Gold",
+    "network": "Seven",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png",
+    "streamUrl": "https://i.mjh.nz/.r/cricketgold-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": false
+  },
+  {
+    "slug": "csicrimesceneinvestigation-fast",
+    "channelId": "mjh-csicrimesceneinvestigation-fast",
+    "name": "CSI Crime Scene Investigation",
+    "network": "Seven",
+    "categories": [
+      "drama"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png",
+    "streamUrl": "https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "etc-fast",
+    "channelId": "mjh-etc-fast",
+    "name": "Escape to the Country",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-etc-fast-6d4429.png",
+    "streamUrl": "https://i.mjh.nz/.r/etc-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cas21-fast",
+    "channelId": "mjh-cas21-fast",
+    "name": "Ghost Hunters",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas21-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "glasgowglory-fast",
+    "channelId": "mjh-glasgowglory-fast",
+    "name": "Glasgow Glory",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-glasgowglory-fast-687d7c.png",
+    "streamUrl": "https://i.mjh.nz/.r/glasgowglory-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "hardcorepawn-fast",
+    "channelId": "mjh-hardcorepawn-fast",
+    "name": "Hardcore Pawn",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-hardcorepawn-fast-87f8ee.png",
+    "streamUrl": "https://i.mjh.nz/.r/hardcorepawn-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "heki-fast",
+    "channelId": "mjh-heki-fast",
+    "name": "Hells Kitchen",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png",
+    "streamUrl": "https://i.mjh.nz/.r/heki-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cas26-fast",
+    "channelId": "mjh-cas26-fast",
+    "name": "Home and Away Classics",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas26-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "judgejudy-fast",
+    "channelId": "mjh-judgejudy-fast",
+    "name": "Judge Judy",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png",
+    "streamUrl": "https://i.mjh.nz/.r/judgejudy-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "kitchennightmares-fast",
+    "channelId": "mjh-kitchennightmares-fast",
+    "name": "Kitchen Nightmares",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png",
+    "streamUrl": "https://i.mjh.nz/.r/kitchennightmares-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "livgolfreplays-fast",
+    "channelId": "mjh-livgolfreplays-fast",
+    "name": "LIV Golf Replays",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png",
+    "streamUrl": "https://i.mjh.nz/.r/livgolfreplays-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "medicalnrescue-fast",
+    "channelId": "mjh-medicalnrescue-fast",
+    "name": "Medical And Rescue",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png",
+    "streamUrl": "https://i.mjh.nz/.r/medicalnrescue-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "mightymachines-fast",
+    "channelId": "mjh-mightymachines-fast",
+    "name": "Mighty Machines",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png",
+    "streamUrl": "https://i.mjh.nz/.r/mightymachines-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cas40-fast",
+    "channelId": "mjh-cas40-fast",
+    "name": "Million Dollar Listing VAULT",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas40-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "mythbusters-fast",
+    "channelId": "mjh-mythbusters-fast",
+    "name": "Mythbusters",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png",
+    "streamUrl": "https://i.mjh.nz/.r/mythbusters-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "ncis-fast",
+    "channelId": "mjh-ncis-fast",
+    "name": "NCIS",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png",
+    "streamUrl": "https://i.mjh.nz/.r/ncis-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "onthecase-fast",
+    "channelId": "mjh-onthecase-fast",
+    "name": "On The Case",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png",
+    "streamUrl": "https://i.mjh.nz/.r/onthecase-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "outbacktruckers-fast",
+    "channelId": "mjh-outbacktruckers-fast",
+    "name": "Outback Truckers",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png",
+    "streamUrl": "https://i.mjh.nz/.r/outbacktruckers-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "racingwa-fast",
+    "channelId": "mjh-racingwa-fast",
+    "name": "Racing WA",
+    "network": "Seven",
+    "categories": [
+      "sports"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-racingwa-fast-128220.png",
+    "streamUrl": "https://i.mjh.nz/.r/racingwa-fast.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,
@@ -2605,6 +3270,176 @@
     "website": null,
     "logoUrl": "https://i.mjh.nz/.images/auto-seven-wby-9608a4.png",
     "streamUrl": "https://i.mjh.nz/.r/seven-wby.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "surveillancecentral-fast",
+    "channelId": "mjh-surveillancecentral-fast",
+    "name": "Surveillance Central",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png",
+    "streamUrl": "https://i.mjh.nz/.r/surveillancecentral-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "swimmingreplays-fast",
+    "channelId": "mjh-swimmingreplays-fast",
+    "name": "Swimming Replays",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png",
+    "streamUrl": "https://i.mjh.nz/.r/swimmingreplays-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "therealhousewivesvault-fast",
+    "channelId": "mjh-therealhousewivesvault-fast",
+    "name": "The Real Housewives VAULT",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png",
+    "streamUrl": "https://i.mjh.nz/.r/therealhousewivesvault-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "cas33-fast",
+    "channelId": "mjh-cas33-fast",
+    "name": "The Yorkshire Vet",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png",
+    "streamUrl": "https://i.mjh.nz/.r/cas33-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "travelaustralia-fast",
+    "channelId": "mjh-travelaustralia-fast",
+    "name": "Travel Australia",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-travelaustralia-fast-cfd556.png",
+    "streamUrl": "https://i.mjh.nz/.r/travelaustralia-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "truckinghell-fast",
+    "channelId": "mjh-truckinghell-fast",
+    "name": "Trucking Hell",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png",
+    "streamUrl": "https://i.mjh.nz/.r/truckinghell-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "truecrimefiles-fast",
+    "channelId": "mjh-truecrimefiles-fast",
+    "name": "True Crime Files",
+    "network": "Seven",
+    "categories": [
+      "drama"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png",
+    "streamUrl": "https://i.mjh.nz/.r/truecrimefiles-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "waterrats-fast",
+    "channelId": "mjh-waterrats-fast",
+    "name": "Water Rats",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-waterrats-fast-428228.png",
+    "streamUrl": "https://i.mjh.nz/.r/waterrats-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "wtn-fast",
+    "channelId": "mjh-wtn-fast",
+    "name": "Wicked Tuna",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png",
+    "streamUrl": "https://i.mjh.nz/.r/wtn-fast.m3u8",
+    "streamQuality": null,
+    "state": null,
+    "feed": null,
+    "label": null,
+    "hasGuide": true
+  },
+  {
+    "slug": "winnersnlosers-fast",
+    "channelId": "mjh-winnersnlosers-fast",
+    "name": "Winners & Losers",
+    "network": "Seven",
+    "categories": [
+      "entertainment"
+    ],
+    "website": null,
+    "logoUrl": "https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png",
+    "streamUrl": "https://i.mjh.nz/.r/winnersnlosers-fast.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,
@@ -3234,23 +4069,6 @@
     "website": null,
     "logoUrl": "https://10.com.au/ip/s3/2023/01/24/082f00086b990e915cd774644d67484c-1213111.png?image-profile=logo",
     "streamUrl": "https://i.mjh.nz/.r/10-aussiedramapopup.m3u8",
-    "streamQuality": null,
-    "state": null,
-    "feed": null,
-    "label": null,
-    "hasGuide": true
-  },
-  {
-    "slug": "10-documentaryshell",
-    "channelId": "mjh-10-documentaryshell",
-    "name": "Sharks & Other Predators",
-    "network": "Ten",
-    "categories": [
-      "entertainment"
-    ],
-    "website": null,
-    "logoUrl": "https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo",
-    "streamUrl": "https://i.mjh.nz/.r/10-documentaryshell.m3u8",
     "streamQuality": null,
     "state": null,
     "feed": null,

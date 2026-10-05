@@ -1,0 +1,32 @@
+{
+  "slug": "cas40-fast",
+  "epgId": "mjh-cas40-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:48:24.000Z",
+      "stop": "2026-10-01T12:35:49.000Z",
+      "title": "She's a Boss",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:35:49.000Z",
+      "stop": "2026-10-01T13:22:50.000Z",
+      "title": "A Tantalizing Offer",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:22:50.000Z",
+      "stop": "2026-10-01T13:52:50.000Z",
+      "title": "Unchartered Territory",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "art-fast",
+  "epgId": "mjh-art-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T12:06:00.000Z",
+      "stop": "2026-10-01T12:57:22.000Z",
+      "title": "Antiques Road Trip",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:57:22.000Z",
+      "stop": "2026-10-01T13:27:22.000Z",
+      "title": "Antiques Road Trip",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

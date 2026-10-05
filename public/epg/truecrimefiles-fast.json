@@ -1,0 +1,32 @@
+{
+  "slug": "truecrimefiles-fast",
+  "epgId": "mjh-truecrimefiles-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:23:01.000Z",
+      "stop": "2026-10-01T12:13:51.000Z",
+      "title": "World's Most Evil Killers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:13:51.000Z",
+      "stop": "2026-10-01T13:03:52.000Z",
+      "title": "World's Most Evil Killers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:03:52.000Z",
+      "stop": "2026-10-01T13:33:52.000Z",
+      "title": "World's Most Evil Killers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

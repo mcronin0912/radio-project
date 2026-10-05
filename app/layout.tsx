@@ -6,6 +6,7 @@ import { FavouritesProvider } from "@/lib/favourites-context";
 import { TvFavouritesProvider } from "@/lib/tv-favourites-context";
 import { ProjectModeProvider } from "@/lib/project-mode-context";
 import { PlayerBar } from "@/components/player/PlayerBar";
+import { TvChannelModalHost } from "@/components/channels/TvChannelModalHost";
 import { PWARegister } from "@/components/PWARegister";
 import { DesktopDragRegion } from "@/components/DesktopDragRegion";
 
@@ -79,6 +80,7 @@ export default function RootLayout({
             <TvFavouritesProvider>
               <ProjectModeProvider>
                 {children}
+                <TvChannelModalHost />
                 <PlayerBar />
               </ProjectModeProvider>
             </TvFavouritesProvider>

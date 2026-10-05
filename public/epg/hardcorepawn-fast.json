@@ -1,0 +1,32 @@
+{
+  "slug": "hardcorepawn-fast",
+  "epgId": "mjh-hardcorepawn-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:42:06.000Z",
+      "stop": "2026-10-01T12:07:32.000Z",
+      "title": "S10 E11 - Harold's Gamble",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:07:32.000Z",
+      "stop": "2026-10-01T12:33:29.000Z",
+      "title": "S11 E11 - Guards Go Home",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:33:29.000Z",
+      "stop": "2026-10-01T13:03:29.000Z",
+      "title": "S12 E11 - Karen In The Middle",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

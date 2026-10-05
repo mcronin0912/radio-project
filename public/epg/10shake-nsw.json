@@ -2,598 +2,646 @@
   "slug": "10shake-nsw",
   "epgId": "mjh-10shake-nsw",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T02:03:31.000Z",
-      "stop": "2026-09-19T02:28:20.000Z",
-      "title": "Henry Danger",
-      "subtitle": "Grand Theft Otto",
-      "description": "Piper's school Parrot, Otto, starts to repeat Henry is Kid Danger. Henry and Jasper have to stall until Ray, Charlotte, and Schwoz can find a way to fix things.",
+      "start": "2026-10-01T11:53:16.000Z",
+      "stop": "2026-10-01T12:23:28.000Z",
+      "title": "Ridiculousness",
+      "subtitle": "Sterling And Angelina Pivarnick II",
+      "description": "On an all-new episode of Ridiculousness, Rob, Steelo, and Nina Agdal welcome Jersey Shore's Angelina to drop everything for FEAR FUMBLES and blow out the candles on some POORLY PLANNED BIRTHDAYS.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T12:23:28.000Z",
+      "stop": "2026-10-01T12:52:49.000Z",
+      "title": "Ridiculousness",
+      "subtitle": "Sterling And Carly Aquilino Lxxxii",
+      "description": "On an all-new episode of Ridiculousness, Rob, Steelo, and Carly Aquilino get some food for their rides with BIKER FUEL and get into automotive hijinks with PRANK MY RIDE.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T12:52:49.000Z",
+      "stop": "2026-10-01T13:23:59.000Z",
+      "title": "Just For Laughs Australia",
+      "subtitle": "Episode 10 of Season 8",
+      "description": "Recorded live from Melbourne's Malthouse Theatre and hosted by Nath Valvo, Just For Laughs Australia guarantees laughs from Cal Wilson, Lizzy Hoo, and Dane Simpson.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-19T02:28:20.000Z",
-      "stop": "2026-09-19T02:54:16.000Z",
-      "title": "The Smurfs",
-      "subtitle": "The Smurfs Show",
-      "description": "Gargamel plants a crystal ball to spy on the Smurfs, but they turn the tables on him with a fabricated drama.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T02:54:16.000Z",
-      "stop": "2026-09-19T03:19:51.000Z",
-      "title": "Pig Goat Banana Cricket",
-      "subtitle": "Witness Protection Program",
-      "description": "The gang must go in disguise to hide from a dangerous criminal: Pig as a professor, Goat as a businesswoman, Banana as a plumber, and Cricket as a baby.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T03:19:51.000Z",
-      "stop": "2026-09-19T03:45:21.000Z",
-      "title": "Pig Goat Banana Cricket",
-      "subtitle": "Where Do Pickles Come From",
-      "description": "Goat wants to build a new entertainment centre. Cricket wants to impress Goat by being a vigilante. Banana becomes an Internet celebrity. Pig finds out where pickles come from.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T03:45:21.000Z",
-      "stop": "2026-09-19T04:10:03.000Z",
-      "title": "The Patrick Star Show",
-      "subtitle": "Squidina's Little Helper/i Smell A Pat",
-      "description": "The Patrick Star Show is interrupted by a most peculiar stench. // Squidina hires an assistant who's a little too good at his job.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T04:10:03.000Z",
-      "stop": "2026-09-19T04:36:22.000Z",
-      "title": "Avatar: The Last Airbender",
-      "subtitle": "Sozin's Comet Part 2: The Old Masters",
-      "description": "The gang find Iroh with June's help. Iroh suggests that Zuko challenge Azula for the position of Fire Lord, with Katara to help. The others decide to intercept the airship fleet.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T04:36:22.000Z",
-      "stop": "2026-09-19T05:02:41.000Z",
-      "title": "Avatar: The Last Airbender",
-      "subtitle": "Sozin's Comet Part 3: Into The Inferno",
-      "description": "Sokka, Toph and Suki begin destroying the airship fleet. Aang duels Ozai, but is soon overwhelmed because of his reluctance to kill him.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T05:02:41.000Z",
-      "stop": "2026-09-19T05:28:33.000Z",
-      "title": "Avatar: The Last Airbender",
-      "subtitle": "Sozin's Comet Part 4: Avatar Aang",
-      "description": "Katara eventually defeats Azula by trapping her in ice, and heals Zuko. Sokka, Toph and Suki destroy the airship fleet.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T05:28:33.000Z",
-      "stop": "2026-09-19T05:52:29.000Z",
-      "title": "Max & The Midknights",
-      "subtitle": "Fens & Enemies",
-      "description": "As Max and the Midknights struggle to complete their quest, Mumblin reappears with shocking news, revealing the truth about King Conrad's disappearance.",
-      "category": null
-    },
-    {
-      "start": "2026-09-19T05:52:29.000Z",
-      "stop": "2026-09-19T06:17:08.000Z",
-      "title": "Tales Of The TMNT",
-      "subtitle": "Raph Vs. Water",
-      "description": "The Turtles and Mutanimals are caught in the Storm of the Century! But when a new group of SEA MUTANTS threaten the city... Raph will be forced to use his WORDS to save the day.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T06:17:08.000Z",
-      "stop": "2026-09-19T06:42:15.000Z",
+      "start": "2026-10-01T13:23:59.000Z",
+      "stop": "2026-10-01T13:55:11.000Z",
       "title": "SpongeBob SquarePants",
-      "subtitle": "Momageddon / Pet The Rock",
-      "description": "The Krusty Krew get lazy when their moms take over the Krusty Krab. // Patrick's new pet rock catches the eye of a mischievous rock collector.",
+      "subtitle": "Ghoul Fools",
+      "description": "SpongeBob and Patrick get caught in the feud between a crew of ghost pirates and the Flying Dutchman.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T06:42:15.000Z",
-      "stop": "2026-09-19T07:07:02.000Z",
-      "title": "SpongeBob SquarePants",
-      "subtitle": "Tango Tangle / Necro-Nom-Nom-Nom-I-Con",
-      "description": "Plankton and Karen take dance lessons and quickly become the top of the class. // Equipped with a magical spell book, SpongeBob cooks up chaos in the Krusty Krab kitchen.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T07:07:02.000Z",
-      "stop": "2026-09-19T07:35:54.000Z",
-      "title": "SpongeBob SquarePants",
-      "subtitle": "Whale Watching/ Krusty Kleaners",
-      "description": "Mr. Krabs hires Squidward to babysit Pearl for the night, but she just wants to sneak out to a cool teen party! After spilling a milkshake, SpongeBob vows to return and clean the entire building!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T07:35:54.000Z",
-      "stop": "2026-09-19T08:04:50.000Z",
-      "title": "SpongeBob SquarePants",
-      "subtitle": "Patnocchio/ Chefbob",
-      "description": "Plankton tells Patrick he's his conscience so he can convince the star to steal him a Krabby Patty. When Mr. Krabs puts in an open kitchen, SpongeBob gets stage fright and has to invent a new persona.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T08:04:50.000Z",
-      "stop": "2026-09-19T08:33:31.000Z",
-      "title": "SpongeBob SquarePants",
-      "subtitle": "Plankton Paranoia/ Library Cards",
-      "description": "Plankton hasn't tried to steal the secret formula in a while & that's making Mr. Krabs nervous! When Patrick discovers the pineapple's library, SpongeBob introduces him to the wonderful world of books!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T08:33:31.000Z",
-      "stop": "2026-09-19T09:03:00.000Z",
-      "title": "SpongeBob SquarePants",
-      "subtitle": "Call The Cops!/ Surf N' Turf",
-      "description": "Plankton goes to jail, but the secret formula is taken as evidence! SpongeBob and Mr. Krabs plot to get it back. Sandy struggles to build a ship-in-a-bottle before a big contest.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T09:03:00.000Z",
-      "stop": "2026-09-19T09:31:20.000Z",
-      "title": "Ridiculousness",
-      "subtitle": "Sterling And Karrueche Tran Xlix",
-      "description": "An a brand new episode of Ridiculousness, Rob Dyrdek, Steelo Brim, and Karrueche Tran have some backwards fun with STUCK IN REVERSE and watch as full grown adults turn into DRUNK TODDLERS.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T09:31:20.000Z",
-      "stop": "2026-09-19T10:34:08.000Z",
-      "title": "Gogglebox Australia",
-      "subtitle": "Episode 4",
-      "description": "Australian families are televised as they gather in their houses to give their opinions on stories making news all over the world.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T10:34:08.000Z",
-      "stop": "2026-09-19T11:38:45.000Z",
-      "title": "The Graham Norton Show",
-      "subtitle": "Episode 9",
-      "description": "Glenn Close, Alexander Skarsgard, Miriam Margolyes and Nicola Coughlan join Graham on his sofa. With music from Jessie J, performing H.A.P.P.Y from her new album Don't Tease Me with a Good Time.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T11:38:45.000Z",
-      "stop": "2026-09-19T12:38:32.000Z",
-      "title": "Guessable?",
-      "subtitle": "Alan & The Stripey Horse",
-      "description": "Sara Pascoe, alongside team captains Alan Davies & Darren Harriott, welcome Jason Manford, Clare Balding, Russell Kane, and Dane Baptiste into their loft to play an array of guessing games.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T12:38:32.000Z",
-      "stop": "2026-09-19T13:38:17.000Z",
-      "title": "Guessable?",
-      "subtitle": "Alan & Lincoln's Wooden Teeth",
-      "description": "Sara Pascoe, alongside team captains Alan Davies & Darren Harriott, welcome Martin Kemp, Aisling Bea, Miles Jupp, and Jessica Knappett into their loft to play an array of guessing games.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T13:38:17.000Z",
-      "stop": "2026-09-19T14:08:05.000Z",
-      "title": "Danny Phantom",
-      "subtitle": "Prisoners Of Love",
-      "description": "Danny thinks he's going to cause his parents to split up when he knocks Jack's anniversary gift into the ghost zone. Desperate to retrieve it, he dives into this ghostly dimension.",
+      "start": "2026-10-01T13:55:11.000Z",
+      "stop": "2026-10-01T14:27:33.000Z",
+      "title": "Teenage Mutant Ninja Turtles",
+      "subtitle": "Operation: Break Out",
+      "description": "Donatello breaks into a detention centre in order to rescue Kirby but finds himself trapped.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-19T14:08:05.000Z",
-      "stop": "2026-09-19T14:38:05.000Z",
+      "start": "2026-10-01T14:27:33.000Z",
+      "stop": "2026-10-01T14:57:37.000Z",
       "title": "Danny Phantom",
-      "subtitle": "My Brother's Keeper",
-      "description": "Jazz has noticed a change in Danny ever since 'the accident in the lab.'  Basically, she mistakes his ghost hunting for depression and signs him up for therapy with Penelope Spectra.",
+      "subtitle": "Memory Blank",
+      "description": "Danny and Sam get into a fight, and when Sam utters the words, I sometimes wish I'd never met you, she finds herself in a world in which she and Danny are strangers.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-19T14:38:05.000Z",
-      "stop": "2026-09-19T15:09:07.000Z",
+      "start": "2026-10-01T14:57:37.000Z",
+      "stop": "2026-10-01T15:27:16.000Z",
       "title": "Invader Zim",
-      "subtitle": "The Nightmare Begins",
-      "description": "ZIM, an eager IRKEN INVADER, comes to Earth to destroy it.",
+      "subtitle": "Halloween Spectacular Of Spooky Doom",
+      "description": "Dib and ZIM get stuck in a nightmare world on Halloween.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T15:09:07.000Z",
-      "stop": "2026-09-19T15:37:25.000Z",
-      "title": "Invader Zim",
-      "subtitle": "Bestest Friend / Nanozim",
-      "description": "To prove his humanity, ZIM befriends a weird kid named Keef who won't go away. / ZIM and Dib fight a microscopic war with Dib's internal organs as the battlefield..",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T15:37:25.000Z",
-      "stop": "2026-09-19T16:03:31.000Z",
+      "start": "2026-10-01T15:27:16.000Z",
+      "stop": "2026-10-01T15:54:51.000Z",
       "title": "Hey Arnold!",
-      "subtitle": "Timberly Loves Arnold / Eugene, Eugene!",
-      "description": "Arnold sticks up for Timberly by persuading Gerald to let her hang out with them. / Mr. Leichliter, the theatre critic, posts auditions for a classic play.",
+      "subtitle": "Door #16 / Arnold As Cupid",
+      "description": "A mysterious package arrives for someone at the boarding house in Door #16. // Arnold gets an unwelcome room-mate.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T16:03:31.000Z",
-      "stop": "2026-09-19T16:30:32.000Z",
-      "title": "Hey Arnold!",
-      "subtitle": "April Fools Day",
-      "description": "It's April Fools and Helga has targeted Arnold as her practical joke victim for the day. When Helga goes one prank too far, Arnold stages a retaliation and brings in Grandpa's prized practical joke.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T16:30:32.000Z",
-      "stop": "2026-09-19T16:57:57.000Z",
+      "start": "2026-10-01T15:54:51.000Z",
+      "stop": "2026-10-01T16:22:28.000Z",
       "title": "T.U.F.F Puppy",
-      "subtitle": "Forget Me Mutt / Mind Trap",
-      "description": "Dudley is the only T.U.F.F. agent who overhears Snaptrap's latest diabolical plan. But then he gets kind of crazy. // Dudley, Kitty, and Keswick try on a mind-reading helmet and hear, what Chief is thinking about them.",
+      "subtitle": "Top Dog / Quack In The Box",
+      "description": "While Dudley bustingly takes over for a sick Chief, The fiendish League of Potential Perpetrators attempts to make their crime debut! // Quacky and the Sharing Moose are back to get revenge on Dudley for putting them in jail.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T16:57:57.000Z",
-      "stop": "2026-09-19T17:25:16.000Z",
-      "title": "Teenage Mutant Ninja Turtles",
-      "subtitle": "Mousers Attack!",
-      "description": "Simultaneous threats from the Purple Dragons and from Baxter Stockman's mechanical M.O.U.S.E.R.S. force the Turtles to split into two groups.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T17:25:16.000Z",
-      "stop": "2026-09-19T17:52:39.000Z",
-      "title": "Teenage Mutant Ninja Turtles",
-      "subtitle": "It Came from the Depths",
-      "description": "After the Turtles rescue an anger-prone mutant alligator from the Kraang, Mikey nurses him back to health and befriends him.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T17:52:39.000Z",
-      "stop": "2026-09-19T18:18:08.000Z",
+      "start": "2026-10-01T16:22:28.000Z",
+      "stop": "2026-10-01T16:51:05.000Z",
       "title": "SpongeBob SquarePants",
-      "subtitle": "Momageddon / Pet The Rock",
-      "description": "The Krusty Krew get lazy when their moms take over the Krusty Krab. // Patrick's new pet rock catches the eye of a mischievous rock collector.",
+      "subtitle": "Ghoul Fools",
+      "description": "SpongeBob and Patrick get caught in the feud between a crew of ghost pirates and the Flying Dutchman.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T18:18:08.000Z",
-      "stop": "2026-09-19T18:43:36.000Z",
-      "title": "SpongeBob SquarePants",
-      "subtitle": "Tango Tangle / Necro-Nom-Nom-Nom-I-Con",
-      "description": "Plankton and Karen take dance lessons and quickly become the top of the class. // Equipped with a magical spell book, SpongeBob cooks up chaos in the Krusty Krab kitchen.",
+      "start": "2026-10-01T16:51:05.000Z",
+      "stop": "2026-10-01T17:17:40.000Z",
+      "title": "Bubble Guppies",
+      "subtitle": "Zooli's New Pet!",
+      "description": "Excited that Zooli is getting a new pet, the Guppies try to guess what kind of animal it is! Zooli loves many creatures, so her new pet could be anything in the animal kingdom.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T18:43:36.000Z",
-      "stop": "2026-09-19T19:08:49.000Z",
-      "title": "Gabby's Dollhouse",
-      "subtitle": "Kitty Fairy's Sleepover",
-      "description": "When Gabby, Pandy and the Gabby Cats prepare for a sleepover in the Garden, they discover Pillow Cat has never been to a sleepover. They help her conquer her fears and enjoy her first sleepover.",
+      "start": "2026-10-01T17:17:40.000Z",
+      "stop": "2026-10-01T17:44:25.000Z",
+      "title": "Bubble Guppies",
+      "subtitle": "Trouble In Harmony Valley!",
+      "description": "Everyone in the Old West town of Harmony Valley loves playing music together. But when noisy Billy Joe Strumlouder rides into town to sabotage their tunes.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T19:08:49.000Z",
-      "stop": "2026-09-19T19:35:27.000Z",
-      "title": "Blaze and the Monster Machines",
-      "subtitle": "Dino Dash",
-      "description": "Blaze & AJ are playing with Zeg when he accidentally gets blasted by a geyser into a far away mud pit. It's up to Blaze and AJ to save him, with the help of their new dinosaur-truck friends.",
+      "start": "2026-10-01T17:44:25.000Z",
+      "stop": "2026-10-01T18:11:38.000Z",
+      "title": "The Tiny Chef Show",
+      "subtitle": "Freeze Pops/lemonade",
+      "description": "Tiny Chef makes ice pops but can't wait for them to freeze! He learns patience is an important part of cooking! // Tiny Chef makes pink lemonade and has to convince Ruby that trying new things is fun!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T19:35:27.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
-      "title": "Blaze and the Monster Machines",
-      "subtitle": "Piggy 500",
-      "description": "Starla is excited to race Zippy in the Piggy 500! But when her competitor Crusher & his pig cheat & send Zippy far away, it's up to Blaze, AJ & Starla to get Zippy back to the race in time.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T20:25:00.000Z",
-      "title": "DORA",
-      "subtitle": "The Mixed-Up Seasons",
-      "description": "Dora and Boots find a snowman during the summer season and try to return him to the correct season before he starts to melt into a puddle of water due to the intense heat, but they are very worried that they may not be able to get him there in time.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T20:25:00.000Z",
-      "stop": "2026-09-19T20:50:00.000Z",
-      "title": "Dora",
-      "subtitle": "Captain Dora / Bruno And The Bunny Boyz",
-      "description": "Dora and Boots track down the Pirate Piggies' ship and save it from a kraken! Dora & Boots help Bruno the Bunny find his own special dance moves in time to perform with the the Bunny Boyz band!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T20:50:00.000Z",
-      "stop": "2026-09-19T21:15:00.000Z",
-      "title": "Baby Shark's Big Show",
-      "subtitle": "The Fishtival Of Lights / Shadow On Ice",
-      "description": "Chucks teaches Baby and William the joys of celebrating Hanukkah, the Fish-tival of Lights. // Goldie finds an ice-skating partner in the unlikeliest of fishies... Shadow?!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T21:15:00.000Z",
-      "stop": "2026-09-19T21:40:00.000Z",
-      "title": "Baby Shark's Big Show",
-      "subtitle": "The Lucky Necklace / Vigo's Surprise",
-      "description": "Baby struggles to let go of his lucky necklace when the time comes to pass it on. // Super Shark & Captain Kelp spot Vigo doing errands around town and are convinced he's hatching a sinister plot.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T21:40:00.000Z",
-      "stop": "2026-09-19T22:05:00.000Z",
-      "title": "Blaze and the Monster Machines",
-      "subtitle": "Get The Letters To Santa!",
-      "description": "When Axle City's letters to Santa go undelivered, Blaze and Sparkle set out on an epic adventure to the North Pole to deliver them themselves! But can they make it to Santa before Christmas?",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T22:05:00.000Z",
-      "stop": "2026-09-19T22:30:00.000Z",
-      "title": "Blaze and the Monster Machines",
-      "subtitle": "Space Mission Blaze",
-      "description": "When three of Blaze's friends get launched into outer space on out-of-control jetpacks, Astronauts Blaze and AJ must blast off to save them!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T22:30:00.000Z",
-      "stop": "2026-09-19T22:55:00.000Z",
-      "title": "Paw Patrol",
-      "subtitle": "Mighty Pups: Pups And The Mighty Twins",
-      "description": "Super-bandit, Ladybird, shrieks havoc in Adventure Bay taking all of the town's treasures - including Mayor Goodway!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T22:55:00.000Z",
-      "stop": "2026-09-19T23:20:00.000Z",
-      "title": "Paw Patrol",
-      "subtitle": "Pups Save A Freaky Pup-Day / Pups Save A Runaway Mayor",
-      "description": "Chase and Chickaletta switch bodies and must learn to work together to return Cap'n Turbot's boat to the bay. // Mayor Humdinger creates robotic Pants to cheat at the Most Amazing Athlete Contest.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T23:20:00.000Z",
-      "stop": "2026-09-19T23:45:00.000Z",
-      "title": "Unicorn Academy",
-      "subtitle": "Legendary Summer",
-      "description": "Wanting to make a unique discovery like her idol, Professor Faraday, Layla brings a Grimorian flower onto Unicorn Island that causes Glacier to lose her powers, putting the world's magic at stake.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T23:45:00.000Z",
-      "stop": "2026-09-20T00:10:00.000Z",
-      "title": "Gabby's Dollhouse",
-      "subtitle": "Dollhouse Store Day",
-      "description": "When Gabby unboxes a coin purse with kitty coins, it's Store Day in the dollhouse!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-20T00:10:00.000Z",
-      "stop": "2026-09-20T00:35:00.000Z",
-      "title": "Rubble and Crew (Double Episode)",
-      "subtitle": "The Crew Builds An Art Museum / The Crew Builds A Giant Alphorn",
-      "description": "Rubble & Crew build the perfect place to show off River's ever-changing photography projects... Builder Cove's own art museum! Farmer Zoe has a new goat on her farm!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-20T00:35:00.000Z",
-      "stop": "2026-09-20T01:00:00.000Z",
-      "title": "Rubble and Crew (Double Episode)",
-      "subtitle": "The Crew Builds a Skyscraper",
-      "description": "Rubble & Crew are building their biggest construction project ever, a skyscraper! And a job that huge calls for brand-new construction vehicles!",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-20T01:00:00.000Z",
-      "stop": "2026-09-20T01:10:00.000Z",
+      "start": "2026-10-01T18:11:38.000Z",
+      "stop": "2026-10-01T18:20:09.000Z",
       "title": "Garden Academy",
-      "subtitle": "What's Missing In The Picture",
-      "description": "It's time to play in Garden Academy! Col, Rose, and Monti invite the kids at home to play with them and discover what is missing in the images.",
-      "category": null
+      "subtitle": "Theater Play",
+      "description": "The boys perform a play. As they act, Rose forgets their dialogue. Gardener Tim lets her know that it is an experience to have a good time and teaches them tips so as not to forget her lines.",
+      "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T01:10:00.000Z",
-      "stop": "2026-09-20T01:35:00.000Z",
+      "start": "2026-10-01T18:20:09.000Z",
+      "stop": "2026-10-01T18:45:16.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "Truckball Team-Up",
+      "description": "Blaze discovers an exciting new sport called Truckball. But when Crusher and his team of cronies challenge him, Blaze must scour all of Axle City to put together a Truckball team before the big game.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T18:45:16.000Z",
+      "stop": "2026-10-01T19:10:49.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "Cake-Tastrophe",
+      "description": "When a hungry Crusher accidentally turns the baker truck's Baker Bots to messy mode, sprout wheels and drive away and soon baked goods are blanketing the city.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T19:10:49.000Z",
+      "stop": "2026-10-01T19:36:12.000Z",
       "title": "Paw Patrol",
-      "subtitle": "Pups Save A Stinky Flower/ Pups Save A Monkey-Naut",
-      "description": "Rocky turns his recycling truck into a boat so that he can return a foul-smelling plant to Mayor Humdinger. A UFO crashes into the bay and the pups discover a monkey astronaut inside of it!",
+      "subtitle": "Pups Save The Flying Food / Pups Save A Ferris Wheel",
+      "description": "Mr. Porter's delivery drones are out of control, and now they are air-dropping food everywhere! Ryder uses the Air Patroller to rescue Adventure Bay's Ferris Wheel after Mayor Humdinger steals it.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T01:35:00.000Z",
-      "stop": "2026-09-20T02:00:00.000Z",
+      "start": "2026-10-01T19:36:12.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
       "title": "Paw Patrol",
-      "subtitle": "Pups Save The Polar Bears / A Pup In Sheep's Clothing",
-      "description": "Ryder and the pups must fly to the Arctic to rescue some lost polar bear cubs. When little lambs keep running away from Farmer Al's pasture, it's up to the Paw Patrol to find the missing sheep.",
+      "subtitle": "Pups Save A Sleepwalking Bear / Pups Save Dude Ranch Danny",
+      "description": "The pups need to get a sleepwalking bear from the Adventure Bay snow sculpture festival back home before he wakes up. Daring Danny X takes his horse off the trail and ends up on a wild ride.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T02:00:00.000Z",
-      "stop": "2026-09-20T02:25:00.000Z",
-      "title": "Henry Danger",
-      "subtitle": "The Whole Bilsky Family",
-      "description": "Henry's nerves are put the test when Piper invites her new boyfriend and his family over for dinner.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-20T02:25:00.000Z",
-      "stop": "2026-09-20T02:50:00.000Z",
-      "title": "The Smurfs",
-      "subtitle": "Smurfboards/monkey See, Monkey Do",
-      "description": "Vanity & Jokey start riding smurfboards around the village, but Brainy believes they're dangerous. // The Magic Supply Store mixes up Papa Smurf's & Gargamel's delivery orders!",
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T20:25:00.000Z",
+      "title": "Dora",
+      "subtitle": "Big Red Chicken Wake Up!",
+      "description": "Dora vows to find the Quickatoo bird and get a picture to complete a photo album. // Dora and Boots help a baby parrot named Lorito find his Mami, but he can't stop copying Boots!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T02:50:00.000Z",
-      "stop": "2026-09-20T03:15:00.000Z",
-      "title": "Pig Goat Banana Cricket",
-      "subtitle": "Ding A Ling Bros Circus",
-      "description": "Our gang helps save a failing circus. Goat beautifies the oddities, Banana rigs the midway, Pig starts a flea circus, and Cricket trains the animals.",
+      "start": "2026-10-01T20:25:00.000Z",
+      "stop": "2026-10-01T20:50:00.000Z",
+      "title": "Baby Shark's Big Show",
+      "subtitle": "Old Shark Bride/swimming Solo",
+      "description": "Baby gets carried away when he helps Grandma and Grandpa plan their vow renewal ceremony. // Mommy Shark demonstrates a power that blows Baby away,",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T03:15:00.000Z",
-      "stop": "2026-09-20T03:40:00.000Z",
-      "title": "Pig Goat Banana Cricket",
-      "subtitle": "Hospital Time",
-      "description": "The gang gets ready to eat the world's best mashed potatoes. Banana plays a betting game, Pig does a surgery with Angry Old Raisin, Goat fixes Tony Towel, and Cricket makes himself sick.",
+      "start": "2026-10-01T20:50:00.000Z",
+      "stop": "2026-10-01T21:15:00.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "The Mystery Bandit",
+      "description": "When a mysterious bandit makes off with Blaze's silver trophy, he must track down the culprit in this preschool whodunit!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T03:40:00.000Z",
-      "stop": "2026-09-20T04:05:00.000Z",
+      "start": "2026-10-01T21:15:00.000Z",
+      "stop": "2026-10-01T21:40:00.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "Zeg And The Egg",
+      "description": "Zeg is out smashing things with Blaze and AJ when he finds a dinosaur egg. Now the three friends must embark on a journey across a prehistoric landscape to return the egg to its Truckodactyl mother.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T21:40:00.000Z",
+      "stop": "2026-10-01T22:05:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Ultimate Rescue: Pups Save The Pupmobiles",
+      "description": "Mayor Goodway honors the Paw Patrol with the Key to the City. But Sid Swashbuckle and his pirate pup Arrby swipe the key. Ryder calls for an Ultimate Rescue as the pups team up, Police style, to solve the mystery and stop those pirates!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T22:05:00.000Z",
+      "stop": "2026-10-01T22:30:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Pups Save A Lost Gold Miner/pups Save Uncle Otis From His Cabin",
+      "description": "Uncle Otis takes a trip to a lost gold mine. After wandering off course, Ryder and the Pups must save him from the  mine.// Uncle Otis installs a Smart Home 3000, in his cabin, that ends up trapping Uncle Otis and Mr. Wingnut inside.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T22:30:00.000Z",
+      "stop": "2026-10-01T22:55:00.000Z",
+      "title": "Unicorn Academy",
+      "subtitle": "The Final Test: Part 1",
+      "description": "For their final test, the students must infiltrate ogre-guarded ruins and rescue a hostage before the last bell rings... or risk immediate expulsion.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T22:55:00.000Z",
+      "stop": "2026-10-01T23:20:00.000Z",
+      "title": "Rubble and Crew (Double Episode)",
+      "subtitle": "The Crew Builds A Smoothie Shop / The Crew Builds A Dino Roof Party",
+      "description": "Cafe Carl opens up a smoothie shop on the boardwalk! // Rubble & Crew work together to find a construction solution when Charger's bouncy birthday surprise needs a lift!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T23:20:00.000Z",
+      "stop": "2026-10-01T23:45:00.000Z",
+      "title": "Bubble Guppies",
+      "subtitle": "A Slow Day In Zippy City!",
+      "description": "Everything is fast in Zippy City. When Tiny the Slug and the Opposites Crew slow everything down to the opposite of fast, Detectives Zooli and Goby must stop them before it's too late!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T23:45:00.000Z",
+      "stop": "2026-10-02T00:10:00.000Z",
+      "title": "Bubble Guppies",
+      "subtitle": "See You Later Alligator!",
+      "description": "Bayou Chicken Farmers Deema and Goby discover an unusual egg on their farm one morning and set off on a bayou river adventure to find the egg's mama.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T00:10:00.000Z",
+      "stop": "2026-10-02T00:35:00.000Z",
+      "title": "Gabby's Dollhouse",
+      "subtitle": "Kitty Fairy Gets Sick",
+      "description": "When Kitty Fairy gets sick, Gabby, Pandy and the others get her to the garden.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T00:35:00.000Z",
+      "stop": "2026-10-02T01:00:00.000Z",
+      "title": "The Tiny Chef Show",
+      "subtitle": "Pancakes/s'mores",
+      "description": "Tiny Chef makes pancakes but loses his confidence when he breaks his special lucky spatula. // Tiny Chef makes S'Mores for a campout and overcomes his fear of the dark with help from his friends.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T01:00:00.000Z",
+      "stop": "2026-10-02T01:10:00.000Z",
+      "title": "Garden Academy",
+      "subtitle": "Dentist Day",
+      "description": "Sofi is going to the dentist for the first time, but she has heard terrifying stories about him. Lara explains to him why it is important to visit him and gives him tips so as not to be afraid.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T01:10:00.000Z",
+      "stop": "2026-10-02T01:35:00.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "The Big Ant-Venture",
+      "description": "Blaze and Zeg discover a world of tiny creatures right under their tyres: Insect City! The friends transform into a super-strong ant and a bouncy grasshopper for their littlest big adventure yet!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T01:35:00.000Z",
+      "stop": "2026-10-02T02:00:00.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "Ready, Set, Roar!",
+      "description": "Blaze and Stripes transform into ferociously fast jungle cats to race in the Animal Island Championship! But they must beat Crusher disguised as a cheating cheetah. Can they claw their way to victory?",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T02:00:00.000Z",
+      "stop": "2026-10-02T02:25:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Mission PAW: Pups Save the Royal Throne",
+      "description": "The PAW Patrol must come to the rescue when Sweetie plans to steal the Princess of Barkingburg's royal throne so that she can rule.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T02:25:00.000Z",
+      "stop": "2026-10-02T02:50:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Pups Save Big Hairy / Pups Save A Flying Kitty",
+      "description": "The pups need to lure a big ape onto the PAW Patroller so they can return him to the jungle. A bird-watching adventure gets tricky for Marshall and Cap'n Turbot when they spot a kitten stuck in a tree",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T02:50:00.000Z",
+      "stop": "2026-10-02T03:15:00.000Z",
+      "title": "Super Duper Bunny League",
+      "subtitle": "Fuzzbot! / Top Secret Notebook!",
+      "description": "Fuzzleglove makes an evil sidekick/ Derek returns the wrong book to the library.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T03:15:00.000Z",
+      "stop": "2026-10-02T03:40:00.000Z",
+      "title": "Kamp Koral: SpongeBob's Under Years",
+      "subtitle": "The Taste Of Defeat / Scaredy Squirrel",
+      "description": "Plankton discovers competition in Narlene's backwoods restaurant. // Sandy spends a night at the Trawler cabin.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T03:40:00.000Z",
+      "stop": "2026-10-02T04:05:00.000Z",
       "title": "The Patrick Star Show",
-      "subtitle": "Gas Station Vacation/bunny The Barbarian",
-      "description": "The Star Family heads to their favourite resort. // Bunny goes on a mid-day adventure to a forgotten age.",
+      "subtitle": "Home Ecch! / Fun & Done!",
+      "description": "Squidina hosts a television show to pass a home economics class. // Patrick and SpongeBob try to unlock a dull child's imagination.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T04:05:00.000Z",
-      "stop": "2026-09-20T04:30:00.000Z",
-      "title": "Tyler Perry's Young Dylan",
-      "subtitle": "Imaginary Friends",
-      "description": "Young Dylan arrives at his relatives' home needing a place to live, but his streetwise swagger upends the conservative Wilson household.",
-      "category": null
-    },
-    {
-      "start": "2026-09-20T04:30:00.000Z",
-      "stop": "2026-09-20T04:55:00.000Z",
-      "title": "Rock Paper Scissors",
-      "subtitle": "Birthday Police / Paper's Big Lie",
-      "description": "Scissors lies about Rock's birthday to get free cake so the trio must run from the Birthday Police. // Paper lies to impress his neighbour, Pencil. He winds up having to defend the world from aliens.",
+      "start": "2026-10-02T04:05:00.000Z",
+      "stop": "2026-10-02T04:30:00.000Z",
+      "title": "The Smurfs",
+      "subtitle": "Smurfy Magic Duel/doctor Brainy & Mister Dumb",
+      "description": "Papa Smurf wants to prove to Willow that alchemy is more powerful than her natural magic. // Brainy's new brain-weighing invention backfires and leaves him brainless.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T04:55:00.000Z",
-      "stop": "2026-09-20T05:20:00.000Z",
-      "title": "Rock Paper Scissors",
-      "subtitle": "Pogo Sticks / Car Wash",
-      "description": "To attend the Rat Bros' party, the trio tries to get their hands on a cool iitem: pogo sticks. // Rock tries to get a job at Evil Robot Corp. Paper and Scissors see if the company is actually evil.",
+      "start": "2026-10-02T04:30:00.000Z",
+      "stop": "2026-10-02T04:55:00.000Z",
+      "title": "The Loud House",
+      "subtitle": "How The Best Was Won/animal House",
+      "description": "The gang splits up, competing for the title of Middle School's Best Friends, creating a rift between the group. // Lana struggles to find homes for the exotic pets at the Royal Woods Animal Shelter.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T05:20:00.000Z",
-      "stop": "2026-09-20T05:45:00.000Z",
-      "title": "Max & The Midknights",
-      "subtitle": "Dark Knight Of The Soul",
-      "description": "As Max reels from failing her quest and losing Mumblin, she loses all hope, and it's down to Uncle Budrick to inspire her not to give up. Millie learns how Fendra came to be an all-powerful sorceress.",
-      "category": null
-    },
-    {
-      "start": "2026-09-20T05:45:00.000Z",
-      "stop": "2026-09-20T06:15:00.000Z",
-      "title": "Tales Of The TMNT",
-      "subtitle": "Mikey Takes Charge",
-      "description": "Mikey and Genghis Frog are sent into the storm on a supply run to the local market when they encounter the electrifying LEE THE EEL! Now Mikey has to step up and be a LEADER!",
+      "start": "2026-10-02T04:55:00.000Z",
+      "stop": "2026-10-02T05:25:00.000Z",
+      "title": "Avatar: The Last Airbender",
+      "subtitle": "Winter Solstice Part 2: Avatar Roku",
+      "description": "During the winter solstice, Aang must reach a Fire Nation temple while dodging Prince Zuko, Commander Zhao, and the Fire Sages who guard it.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T06:15:00.000Z",
-      "stop": "2026-09-20T06:40:00.000Z",
+      "start": "2026-10-02T05:25:00.000Z",
+      "stop": "2026-10-02T05:50:00.000Z",
       "title": "SpongeBob SquarePants",
-      "subtitle": "Pl-1413 / In The Mood To Feud",
-      "description": "Plankton travels two thousand years into the future and finds a few unfamiliar faces. // SpongeBob, Patrick, and Sandy find themselves in the middle of a long-standing feud.",
+      "subtitle": "Mermaidman Begins / Plankton's Good Eye",
+      "description": "Mermaidman and Barnacleboy let SpongeBob and Patrick in on their secret, heroic origins! Later, using SpongeBob's DNA, Plantkon grows himself a second eye?and becomes nice!",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T06:40:00.000Z",
-      "stop": "2026-09-20T07:05:00.000Z",
+      "start": "2026-10-02T05:50:00.000Z",
+      "stop": "2026-10-02T06:15:00.000Z",
       "title": "SpongeBob SquarePants",
-      "subtitle": "Mooned! / Hysterical History",
-      "description": "SpongeBob wants to catch an rare jellyfish and enlists the help of former jellyfishing champion, Kevin. // On a trip to the museum, SpongeBob & Patrick teach Sandy all about Bikini Bottom's history.",
+      "subtitle": "Bernacle Face / Pet Sitter Pat",
+      "description": "The night before the school dance, Mr. Krabs asks SpongeBob to help Pearl get rid of a barnacle on her face. SpongeBob asks Patrick to pet-sit Gary while he's away at his Grandma's birthday party.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T07:05:00.000Z",
-      "stop": "2026-09-20T07:30:00.000Z",
+      "start": "2026-10-02T06:15:00.000Z",
+      "stop": "2026-10-02T06:40:00.000Z",
       "title": "SpongeBob SquarePants",
-      "subtitle": "Kreepaway Kamp Part 1",
-      "description": "While at Kamp Koral for a reunion, SpongeBob and the gang are stalked by a mysterious figure lurking in the shadows as campers start disappearing one by one!",
+      "subtitle": "Jellyfishing/plankton",
+      "description": "While Squidward recovers from a bicycle accident, SpongeBob and Patrick takes him jelly fishing. // SpongeBob falls victim to a scheme by the evil Plankton.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T07:30:00.000Z",
-      "stop": "2026-09-20T08:00:00.000Z",
-      "title": "Ultimate Classroom",
-      "subtitle": "Episode 1",
-      "description": "Ultimate Classroom is back! Some of Australia's brightest high school STEM students go head-to-head, tackling all-new challenges in their bid to become champions of the Ultimate Classroom!",
-      "category": "Special Interest"
+      "start": "2026-10-02T06:40:00.000Z",
+      "stop": "2026-10-02T07:05:00.000Z",
+      "title": "SpongeBob SquarePants",
+      "subtitle": "Naughty Nautical Neighbors / Boating School",
+      "description": "Squidward plays a cruel joke on SpongeBob and Patrick./ It's exam time again at Mrs Puff's Boating School and SpongeBob resorts to cheating.",
+      "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T08:00:00.000Z",
-      "stop": "2026-09-20T08:30:00.000Z",
+      "start": "2026-10-02T07:05:00.000Z",
+      "stop": "2026-10-02T07:30:00.000Z",
+      "title": "SpongeBob SquarePants",
+      "subtitle": "Lighthouse Louie/Hiccup Plague",
+      "description": "SpongeBob cleans out the boating school lighthouse, where he finds a cute but inconvenient companion. // No one in Bikini Bottom is safe from a case of contagious hiccups.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T07:30:00.000Z",
+      "stop": "2026-10-02T08:00:00.000Z",
+      "title": "SpongeBob SquarePants",
+      "subtitle": "A Cabin In The Kelp/the Hankering",
+      "description": "The Gal Pals take Pearl to a cabin in the woods for a weekend of silly pranks. // Mr. Krabs has a secret taste for something surprising.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T08:00:00.000Z",
+      "stop": "2026-10-02T08:30:00.000Z",
       "title": "Ridiculousness",
-      "subtitle": "Sterling And Karrueche Tran Liii",
-      "description": "On a hilarious new episode of Ridiculousness, Rob Dyrdek, Steelo Brim and Karrueche Tran run headlong into some IMMOVABLE MEN and lose sleep over SONIC SNORERS.",
+      "subtitle": "Sterling And Lolo Wood Xxx",
+      "description": "In an all new episode of Ridiculousness, Rob and Steelo welcome Lolo Wood to experience the terror of big air in RAMP PANIC and hit the court for a game of SADMINTON.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T08:30:00.000Z",
-      "stop": "2026-09-20T09:00:00.000Z",
+      "start": "2026-10-02T08:30:00.000Z",
+      "stop": "2026-10-02T09:00:00.000Z",
       "title": "Ridiculousness",
-      "subtitle": "Sterling And Karrueche Tran Liv",
-      "description": "On an all-new episode of Ridiculousness, Rob, Steelo, and Karrueche Tran regret getting behind the wheel with some CRASH TEST KIDS and look for those we've lost to VANISHING BUSHES.",
+      "subtitle": "Sterling And Lolo Wood Xxxi",
+      "description": "In an all new episode of Ridiculousness, Rob and Steelo welcome Lolo Wood to experience the pain of a sudden bicycle stop in BIKE LOCKS and see some real pain in VIRTUAL VIOLENCE.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T09:00:00.000Z",
-      "stop": "2026-09-20T09:30:00.000Z",
+      "start": "2026-10-02T09:00:00.000Z",
+      "stop": "2026-10-02T09:30:00.000Z",
       "title": "Ridiculousness",
-      "subtitle": "Sterling And Karrueche Tran Lv",
-      "description": "On an all new episode of Ridiculousness Rob, Steelo and special guest Karrueche Tran learn not to stand on chairs with FEET IN THE SEAT and Rob doubts his grill skills in GRILL MASTER DISASTERS.",
+      "subtitle": "Jenni \"Jwoww\" Farley III",
+      "description": "On an all new episode of Ridiculousness, Rob, Steelo, and Nina Agdal welcome Jersey Shore's Jenni JWOWW Farley to see some nice drunks in PLEASANTLY PLASTERED and champagne dangers in CORKY GIRILS.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T09:30:00.000Z",
-      "stop": "2026-09-20T10:30:00.000Z",
-      "title": "Have You Been Paying Attention?",
-      "subtitle": "Episode 20",
-      "description": "Have Aaron Chen, Denise Scott, Tommy Little, Alex Ward, and Sam Pang been paying attention? Host Tom Gleisner and special guest quizmaster Mimi Wilson are about to find out.",
+      "start": "2026-10-02T09:30:00.000Z",
+      "stop": "2026-10-02T10:30:00.000Z",
+      "title": "Talkin' 'Bout Your Gen",
+      "subtitle": "Episode 5",
+      "description": "Host Anne Edmonds pits 3 generations against each other. Gen X: Dave Hughes & Kate Langbroek, Gen Y: Tommy Little & Lloyd Langford, Gen Z: Anisa Nandaula & Sez. Who's best this week?",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T10:30:00.000Z",
-      "stop": "2026-09-20T11:30:00.000Z",
-      "title": "Deal Or No Deal: Celebrity Jackpot",
-      "subtitle": "Anne & Lloyd",
-      "description": "Comedic partners Anne Edmonds and Lloyd Langford bring the laughs as they're pitted against the miserly Banker. Helped by Dave Thornton, Nath Valvo, and Ben Russell, can they win big for their charity?",
+      "start": "2026-10-02T10:30:00.000Z",
+      "stop": "2026-10-02T12:00:00.000Z",
+      "title": "Melbourne International Comedy Festival",
+      "subtitle": null,
+      "description": "The Melbourne International Comedy Festival Events include the smash hit festival favourites such as The Gala, The Opening Night, and The Great Debate. Featuring a star-studded line-up of Aussie comedians and international talent.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T11:30:00.000Z",
-      "stop": "2026-09-20T12:30:00.000Z",
-      "title": "The Cheap Seats",
-      "subtitle": "Episode 22",
-      "description": "Taking a fun look at the week that was are The Cheap Seats hosts Melanie Bracewell & Tim McDonald. Joining in on the action are Mel Tracina, UK comedy legend Bill Bailey and AFL & NFL star Ben Graham.",
+      "start": "2026-10-02T12:00:00.000Z",
+      "stop": "2026-10-02T13:30:00.000Z",
+      "title": "Comedy Central: Roast of Alec Baldwin",
+      "subtitle": "Comedy Central Roast of James Franco",
+      "description": "The multi-hyphenate jack-of-all-trades James Franco finds himself on the receiving end of barbs served up by his friends Seth Rogen, Bill Hader, Jonah Hill, Andy Samberg, Nick Kroll, and Sarah Silverman.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T12:30:00.000Z",
-      "stop": "2026-09-20T13:30:00.000Z",
-      "title": "The Claudia Winkleman Show",
-      "subtitle": "Jimmy Carr, Chase Infiniti, Jamie Dornan, Lisa Kudrow",
-      "description": "It's all good vibes, great guests, and a glorious fringe as Claudia is joined this week by comedian Jimmy Carr, actor Chase Infiniti, actor Jamie Dornan, and Emmy Award-winning star Lisa Kudrow.",
+      "start": "2026-10-02T13:30:00.000Z",
+      "stop": "2026-10-02T13:55:00.000Z",
+      "title": "Ridiculousness",
+      "subtitle": "Sterling And Carly Aquilino Lxxxiv",
+      "description": "On an all new episode of Ridiculousness Rob, Steelo and Carly Aquilino share a fear of falling into wells with ONE IN THE HOLE and discuss nap policies in NAP.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T13:30:00.000Z",
-      "stop": "2026-09-20T14:00:00.000Z",
-      "title": "Danny Phantom",
-      "subtitle": "Shades Of Gray",
-      "description": "When ghosts destroy a student's life and popularity in school, she dedicates her life to hunting ghosts. Now Danny has to deal with a threat only a few lockers down the hall.",
+      "start": "2026-10-02T13:55:00.000Z",
+      "stop": "2026-10-02T14:20:00.000Z",
+      "title": "Teenage Mutant Ninja Turtles",
+      "subtitle": "Showdown: Part 1",
+      "description": "After learning that the Kraang are planning an invasion, the Turtles engage in a difficult battle as they assault the TCRI to shut down the Kraang's portal before it summons the Technodrome.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-20T14:00:00.000Z",
-      "stop": "2026-09-20T14:30:00.000Z",
+      "start": "2026-10-02T14:20:00.000Z",
+      "stop": "2026-10-02T14:50:00.000Z",
       "title": "Danny Phantom",
-      "subtitle": "Fanning The Flames",
-      "description": "Danny and Sam find their platonic friendship turned forcibly romantic through the musical powers of Ember, a hard rocking girl ghost who feeds off the idol worship of teens.",
+      "subtitle": "Doctor's Disorders",
+      "description": "After being bitten by tiny green ghost beetles, the kids of Casper High get a mysterious illness that gives them ghost powers and are quarantined at a spooky old hospital outside of town.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-20T14:30:00.000Z",
-      "stop": "2026-09-20T15:00:00.000Z",
+      "start": "2026-10-02T14:50:00.000Z",
+      "stop": "2026-10-02T15:20:00.000Z",
       "title": "Invader Zim",
-      "subtitle": "Parent Teacher Night / Walk Of Doom",
-      "description": "To prove that he's human, ZIM brings his Robo-parents to school with disastrous results. / ZIM and GIR get lost in the city.",
+      "subtitle": "Mysterious Mysteries / Future Dib",
+      "description": "ZIM, Dib, GIR and Gaz appear on Dib's favourite show, Mysterious Mysteries. / Dib meets the coolest guy ever; a future version of himself!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:20:00.000Z",
+      "stop": "2026-10-02T15:50:00.000Z",
+      "title": "Hey Arnold!",
+      "subtitle": "Benchwarmer / Cool Jerk",
+      "description": "Arnold has trouble with the basketball coach and his favoured son until he teaches them both a lesson in the meaning of teamwork. // Arnold's new friend only succeeds in getting him into trouble.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T15:50:00.000Z",
+      "stop": "2026-10-02T16:20:00.000Z",
+      "title": "T.U.F.F Puppy",
+      "subtitle": "Monkey Business / Diary Of A Mad Cat",
+      "description": "Bird Brain tries to kidnap the latest boy band sensation, and the TUFF gang must try to save them. // In an attempt to learn more about Kitty, Dudley accidentally emails her diary to everyone in Petropolis.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T16:20:00.000Z",
+      "stop": "2026-10-02T16:50:00.000Z",
+      "title": "SpongeBob SquarePants",
+      "subtitle": "Bernacle Face / Pet Sitter Pat",
+      "description": "The night before the school dance, Mr. Krabs asks SpongeBob to help Pearl get rid of a barnacle on her face. SpongeBob asks Patrick to pet-sit Gary while he's away at his Grandma's birthday party.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T16:50:00.000Z",
+      "stop": "2026-10-02T17:15:00.000Z",
+      "title": "Bubble Guppies",
+      "subtitle": "A Slow Day In Zippy City!",
+      "description": "Everything is fast in Zippy City. When Tiny the Slug and the Opposites Crew slow everything down to the opposite of fast, Detectives Zooli and Goby must stop them before it's too late!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T17:15:00.000Z",
+      "stop": "2026-10-02T17:40:00.000Z",
+      "title": "Bubble Guppies",
+      "subtitle": "See You Later Alligator!",
+      "description": "Bayou Chicken Farmers Deema and Goby discover an unusual egg on their farm one morning and set off on a bayou river adventure to find the egg's mama.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T17:40:00.000Z",
+      "stop": "2026-10-02T18:05:00.000Z",
+      "title": "The Tiny Chef Show",
+      "subtitle": "Pancakes/s'mores",
+      "description": "Tiny Chef makes pancakes but loses his confidence when he breaks his special lucky spatula. // Tiny Chef makes S'Mores for a campout and overcomes his fear of the dark with help from his friends.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:05:00.000Z",
+      "stop": "2026-10-02T18:15:00.000Z",
+      "title": "Garden Academy",
+      "subtitle": "Dentist Day",
+      "description": "Sofi is going to the dentist for the first time, but she has heard terrifying stories about him. Lara explains to him why it is important to visit him and gives him tips so as not to be afraid.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:15:00.000Z",
+      "stop": "2026-10-02T18:40:00.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "The Mystery Bandit",
+      "description": "When a mysterious bandit makes off with Blaze's silver trophy, he must track down the culprit in this preschool whodunit!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:40:00.000Z",
+      "stop": "2026-10-02T19:05:00.000Z",
+      "title": "Blaze and the Monster Machines",
+      "subtitle": "Zeg And The Egg",
+      "description": "Zeg is out smashing things with Blaze and AJ when he finds a dinosaur egg. Now the three friends must embark on a journey across a prehistoric landscape to return the egg to its Truckodactyl mother.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T19:05:00.000Z",
+      "stop": "2026-10-02T19:30:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Mission PAW: Pups Save the Royal Throne",
+      "description": "The PAW Patrol must come to the rescue when Sweetie plans to steal the Princess of Barkingburg's royal throne so that she can rule.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T19:30:00.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Pups Save Big Hairy / Pups Save A Flying Kitty",
+      "description": "The pups need to lure a big ape onto the PAW Patroller so they can return him to the jungle. A bird-watching adventure gets tricky for Marshall and Cap'n Turbot when they spot a kitten stuck in a tree",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T20:25:00.000Z",
+      "title": "DORA",
+      "subtitle": "Boots To The Rescue",
+      "description": "Dora writes a song in English and Spanish for her music class, but when she leaves her music homework in Boots the Monkey's room he must bring it to Dora's school so she can sing it to the class.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T20:25:00.000Z",
+      "stop": "2026-10-02T20:50:00.000Z",
+      "title": "Dora",
+      "subtitle": "Volleybull! / Diferente Es Excelente",
+      "description": "Dora and Boots help Benny perfect a new move in time for the championship volleyball game! Dora and Boots run into Dulce the dragon on her way to the first day of school.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T20:50:00.000Z",
+      "stop": "2026-10-02T21:15:00.000Z",
+      "title": "Baby Shark's Big Show",
+      "subtitle": "Doctor Drama/the White Whale",
+      "description": "After injuring his fin, Hank is afraid to go to the doctor. // Baby and William search high and low for the most delicious flownuts in the ocean.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T21:15:00.000Z",
+      "stop": "2026-10-02T21:40:00.000Z",
+      "title": "Baby Shark's Big Show",
+      "subtitle": "Sherman In The Middle/Smoothie Day",
+      "description": "Hank becomes frustrated when he has to share his father's time with his new stepsisters. // As the squiddos prepare for Smoothie Day, William makes a new friend whose jokes are more hurtful than funny.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T21:40:00.000Z",
+      "stop": "2026-10-02T22:05:00.000Z",
+      "title": "Ni Hao Kai Lan",
+      "subtitle": "The Dragonboat Festival",
+      "description": "Today is the Dragonboat Festival Kai-lan and her friends are sooo excited to race dragon boats on the river! Kai-lan can't wait to meet a real dragon at the end of the races.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T22:05:00.000Z",
+      "stop": "2026-10-02T22:30:00.000Z",
+      "title": "Ni Hao Kai Lan",
+      "subtitle": "Everybody's Hat Parade",
+      "description": "Kai-lan notices Ye-Ye's gardening hat and is inspired to make a hat of her own. When everyone in the backyard start making hats too, Kai-lan declares that they should have a hat parade!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T22:30:00.000Z",
+      "stop": "2026-10-02T22:55:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Pups Save The Dino Chicken",
+      "description": "When the Goodways and Chickaletta visit Dino Island, they meet Rex, the resident dinosaur expert who offers to take them on a tour - unfortunately they learn that dinosaurs are afraid of chickens!",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T22:55:00.000Z",
+      "stop": "2026-10-02T23:20:00.000Z",
+      "title": "Paw Patrol",
+      "subtitle": "Air Rescue: Pups Save The Mother Tree / Pups Save The Ice Cream Truck",
+      "description": "The fruit tree is in danger of falling into a jungle river and must be moved to a new location. / The freezer in Mr. Porter's new Ice Cream Truck breaks; it's up to the Paw Patrol to fix the freezer.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T23:20:00.000Z",
+      "stop": "2026-10-02T23:45:00.000Z",
+      "title": "Unicorn Academy",
+      "subtitle": "The Hidden Temple",
+      "description": "While riding the Skyberry Trail, Wildstar gets spooked by grim magic, sending the group racing to a long-forgotten temple full of mysteries, and danger.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T23:45:00.000Z",
+      "stop": "2026-10-03T00:10:00.000Z",
+      "title": "Gabby's Dollhouse",
+      "subtitle": "Dj's Glow Ride",
+      "description": "Gabby receives a glow-in-the-dark train, but its cars are missing. With help from DJ Catnip, the Gabby Cats build the remaining cars.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-03T00:10:00.000Z",
+      "stop": "2026-10-03T00:35:00.000Z",
+      "title": "Rubble and Crew (Double Episode)",
+      "subtitle": "The Crew Builds Library Treasure Tunnels / The Crew Builds a Super Snack Dispenser",
+      "description": "The crew's favourite book series has new additions, but when there's no room for them in the library, the pups have to get creative; the pups must make a snack dispenser for Rubble before he finds out.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-03T00:35:00.000Z",
+      "stop": "2026-10-03T01:00:00.000Z",
+      "title": "Rubble and Crew (Double Episode)",
+      "subtitle": "The Crew Builds A Hair Salon / The Crew Builds A Colorful Crystal Show",
+      "description": "Rubble & Crew build a hair salon just in time for Grandpa Gravel's special photo // Motor and Lily make a shiny discovery worth celebrating... with the coolest light show the pups have ever seen!",
       "category": "Kids & Family"
     }
   ]

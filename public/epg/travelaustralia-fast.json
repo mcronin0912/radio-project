@@ -1,0 +1,32 @@
+{
+  "slug": "travelaustralia-fast",
+  "epgId": "mjh-travelaustralia-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:52:59.000Z",
+      "stop": "2026-10-01T12:19:04.000Z",
+      "title": "Caravan & Camping WA S6 E5",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:19:04.000Z",
+      "stop": "2026-10-01T12:45:10.000Z",
+      "title": "Weekender",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:45:10.000Z",
+      "stop": "2026-10-01T13:15:10.000Z",
+      "title": "Life Off Road S8 E11",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

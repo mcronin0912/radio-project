@@ -1,0 +1,32 @@
+{
+  "slug": "anglersparadise-fast",
+  "epgId": "mjh-anglersparadise-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T12:01:51.000Z",
+      "stop": "2026-10-01T12:28:54.000Z",
+      "title": "Merv Hughes Fishing",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:28:54.000Z",
+      "stop": "2026-10-01T13:20:03.000Z",
+      "title": "Mark Berg's Fishing Addiction",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:20:03.000Z",
+      "stop": "2026-10-01T13:50:03.000Z",
+      "title": "Al McGlashan's Fish'n With Mates",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

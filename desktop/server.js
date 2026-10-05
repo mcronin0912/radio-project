@@ -150,8 +150,26 @@ function startLocalServer({ staticRoot, epgOverlayRoot = null, port = 0 }) {
     }
 
     const isEpg = requestUrl.pathname.startsWith("/epg/");
-    const roots = isEpg && overlay ? [overlay, root] : [root];
-    const filePath = resolveStaticFile(roots, requestUrl.pathname);
+    // Overlay dir is already .../epg, while requests are /epg/{slug}.json.
+    // Joining those doubles the segment (.../epg/epg/slug.json) and the
+    // fresh guides never get served.
+    let filePath = null;
+    if (isEpg && overlay) {
+      const name = path.basename(requestUrl.pathname);
+      if (name && name !== "." && name !== ".." && name.endsWith(".json")) {
+        const overlayFile = path.join(overlay, name);
+        if (
+          overlayFile.startsWith(overlay + path.sep) &&
+          fs.existsSync(overlayFile) &&
+          fs.statSync(overlayFile).isFile()
+        ) {
+          filePath = overlayFile;
+        }
+      }
+    }
+    if (!filePath) {
+      filePath = resolveStaticFile([root], requestUrl.pathname);
+    }
 
     if (!filePath) {
       // Never SPA-fallback JSON/API-like assets — that breaks guide fetches.

@@ -2,295 +2,383 @@
   "slug": "go-wa",
   "epgId": "mjh-go-wa",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T00:58:00.000Z",
-      "stop": "2026-09-19T03:00:00.000Z",
-      "title": "Premier League",
-      "subtitle": "Sunderland v Arsenal",
-      "description": "Arsenal opened the season with three wins in three, matched only by Manchester City; Arsenal claimed a 3-0 victory over Sunderland in their last meeting on Feb. 7, with a brace scored by Viktor Gyökeres in the second half.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T03:00:00.000Z",
-      "stop": "2026-09-19T08:00:00.000Z",
-      "title": "Davis Cup - Australia v Poland",
-      "subtitle": "Episode 1",
-      "description": "For the first time in Davis Cup's 126-year history, Australia takes on Poland on Australian soil for a spot in the 2027 Qualifiers, live from Pat Rafter Arena, Brisbane. Play from 1:00PM AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T08:00:00.000Z",
-      "stop": "2026-09-19T08:29:00.000Z",
+      "start": "2026-10-01T11:29:00.000Z",
+      "stop": "2026-10-01T12:42:00.000Z",
       "title": "Seinfeld",
-      "subtitle": "Good News, Bad News",
+      "subtitle": "The Finale",
       "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-19T08:29:00.000Z",
-      "stop": "2026-09-19T09:00:00.000Z",
+      "start": "2026-10-01T12:42:00.000Z",
+      "stop": "2026-10-01T14:58:00.000Z",
+      "title": "Snitch",
+      "subtitle": null,
+      "description": "In the fast-paced action thriller, a father goes undercover as an informant and infiltrates a drug cartel on a dangerous mission risking everything to save his son from going to prison.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-10-01T14:58:00.000Z",
+      "stop": "2026-10-01T16:08:00.000Z",
       "title": "Seinfeld",
-      "subtitle": "The Stake Out",
+      "subtitle": "The Finale",
       "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-19T09:00:00.000Z",
-      "stop": "2026-09-19T11:30:00.000Z",
-      "title": "NBL",
-      "subtitle": "Melbourne United v Adelaide 36ers",
-      "description": "The 2026/2027 NBL season opens with an action-packed double header. First up, Melbourne United take on Adelaide 36ers live from John Cain Arena. Tip off at 7:36PM AEST.",
-      "category": "Sports"
+      "start": "2026-10-01T16:08:00.000Z",
+      "stop": "2026-10-01T17:02:00.000Z",
+      "title": "Jane The Virgin",
+      "subtitle": "Chapter Fifteen",
+      "description": "News about their baby's health causes Jane and Rafael to revisit the idea of moving in together. Meanwhile, Alba shares relationship advice that ends up causing friction.",
+      "category": "Similar"
     },
     {
-      "start": "2026-09-19T11:30:00.000Z",
-      "stop": "2026-09-19T14:10:00.000Z",
-      "title": "U.S. Marshals",
-      "subtitle": null,
-      "description": "When a prisoner escort plane crashes, one inmate helps the police officer on board rescue the remaining trapped prisoners before bolting. This forces the detective to spark another manhunt for the convict, even though he reckons the bloke might be innocent.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-19T14:10:00.000Z",
-      "stop": "2026-09-19T16:12:00.000Z",
-      "title": "Fargo",
-      "subtitle": null,
-      "description": "An inept car-salesmen plans to kidnap his wife as a way of scamming $80,000 off his rich father-in-law. He however doesn't count on the incompetence' of the hired kidnappers or the tenacity of the local police chief. (William H Macy)",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T16:12:00.000Z",
-      "stop": "2026-09-19T17:03:00.000Z",
-      "title": "The Purge",
-      "subtitle": "Happy Holidays",
-      "description": "Marcus sinks into darkness; Esme is on the run; Ben returns home; Ryan gets an unexpected visitor.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T17:03:00.000Z",
-      "stop": "2026-09-19T17:53:00.000Z",
-      "title": "The Purge",
-      "subtitle": "Should I Stay or Should I Go",
-      "description": "Marcus' family makes a tough decision; Esme and Ryan risk it all; Ben destroys someone he loves.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T17:53:00.000Z",
-      "stop": "2026-09-19T18:42:00.000Z",
-      "title": "Baywatch",
-      "subtitle": "The Tower",
-      "description": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-19T18:42:00.000Z",
-      "stop": "2026-09-19T19:31:00.000Z",
-      "title": "Baywatch",
-      "subtitle": "Stakeout at Surfrider Beach",
-      "description": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-19T19:31:00.000Z",
-      "stop": "2026-09-19T20:21:00.000Z",
-      "title": "Baywatch",
-      "subtitle": "Shattered Part 1",
-      "description": "In therapy for paralysis, Mitch meets a courageous 10-year-old witness to murder.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-19T20:21:00.000Z",
-      "stop": "2026-09-19T20:32:00.000Z",
-      "title": "My Way",
-      "subtitle": "Outback Wonders",
-      "description": "Tim Blackwell introduces inspirational Aussies, each with a unique story about how they live their best life. It's a lifestyle program that allows people to tell their own stories firsthand to say, 'I'm doing this My Way'.",
+      "start": "2026-10-01T17:02:00.000Z",
+      "stop": "2026-10-01T18:04:00.000Z",
+      "title": "Love Island UK: All Stars",
+      "subtitle": "Episode 24",
+      "description": "The bombs raise the heat, and one boy is playing with fire. The Villa gathers for a recoupling, but it's not the Islanders' decision. It's time for the audience to have their say!",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T20:32:00.000Z",
-      "stop": "2026-09-19T20:44:00.000Z",
-      "title": "Innovation Nation",
-      "subtitle": "Episode 4",
-      "description": "Focused on innovation and investment in new technology. Western Australia is a unique market place dominated by innovation in the aerospace, defence industry, mining, oil and gas and now new energy source sectors such as Hydrogen.",
-      "category": "Special Interest"
+      "start": "2026-10-01T18:04:00.000Z",
+      "stop": "2026-10-01T18:53:00.000Z",
+      "title": "Legacies",
+      "subtitle": "Follow the Sound of My Voice",
+      "description": "Hope and Lizzie find themselves at a carnival with an unusual cast of characters. Plus, students speak their minds without knowing why, and Kaleb and MG set out on a mission.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T20:44:00.000Z",
-      "stop": "2026-09-19T21:09:00.000Z",
-      "title": "Hop",
-      "subtitle": "Filipa Flies/A Circus For Filipa",
-      "description": "Filipa wants to build a flying machine but struggles to come up with a design that works. / When Filipa doesn't feel like attending a Pancake Party, Hop believes that she is sad about something.",
+      "start": "2026-10-01T18:53:00.000Z",
+      "stop": "2026-10-01T19:43:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Submersion",
+      "description": "Mitch is forced to make a devastating choice between saving two drowning boys, leading to a delayed rescue that leaves one of the children fighting for his life in a deep coma.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-19T21:09:00.000Z",
-      "stop": "2026-09-19T21:33:00.000Z",
-      "title": "Hop",
-      "subtitle": "Party Pooper/Hoot's Wild Ride",
-      "description": "When the Hoppers head off for a hot air balloon ride, Hop stays back with Hoot, who’s scared of heights—but he ends up being a real buzzkill. Hoot spins a yarn about an epic sled run down Mount Bridge, then has to actually go through with it.",
-      "category": "Action & Adventure"
+      "start": "2026-10-01T19:43:00.000Z",
+      "stop": "2026-10-01T19:53:00.000Z",
+      "title": "Talking Honey",
+      "subtitle": "Is Bullying an Overused Phrase?",
+      "description": "Host Shelly Horton is joined on the 9Honey panel by Ben Fordham, Georgie Gardner and Richard Wilkins to discuss relationship dilemmas and social issues.",
+      "category": "News"
     },
     {
-      "start": "2026-09-19T21:33:00.000Z",
-      "stop": "2026-09-19T22:00:00.000Z",
-      "title": "Beyblade Burst - Quad Drive",
-      "subtitle": "Flipping the Script! Belfyre vs Fafnir!",
-      "description": "Bel comes up with a new tactic against Free. Watching the showdown makes Bashara doubt he'll ever be strong enough to defeat the Dark Prince.",
-      "category": null
+      "start": "2026-10-01T19:53:00.000Z",
+      "stop": "2026-10-01T20:19:00.000Z",
+      "title": "Barbie: Dreamhouse Adventures",
+      "subtitle": "Mermaid Mystery Part 1",
+      "description": "George decides to take the family on a vacation to Costa Rica where he'll be filming a whale documentary. Barbie and friends land summer jobs at a water park in Malibu.",
+      "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T22:00:00.000Z",
-      "stop": "2026-09-19T22:31:00.000Z",
-      "title": "Beyblade X",
-      "subtitle": "The Phoenix's Choice",
-      "description": "A young boy who aims to be a professional Beyblade player. He aims to get to X Tower, where professional Beyblade players gather.",
-      "category": null
+      "start": "2026-10-01T20:19:00.000Z",
+      "stop": "2026-10-01T20:42:00.000Z",
+      "title": "I Love VIP Pets",
+      "subtitle": "Birthday Party/DJ Gwen/No More Complaints!",
+      "description": "What a thrill! All the VIP Pets are going to spend the day together at a festival. What could be better than a fun day with friends? Oh no... the problem is...they cannot agree on what they want to do there!",
+      "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T22:31:00.000Z",
-      "stop": "2026-09-19T23:00:00.000Z",
+      "start": "2026-10-01T20:42:00.000Z",
+      "stop": "2026-10-01T21:06:00.000Z",
+      "title": "Lego City No Limits",
+      "subtitle": "Slushy Vans and Laser Drones",
+      "description": "JustJason, Custom car wizard Mech.Max, tech genius Bytz and nature-lover Wanda promise a world of endless fun and action.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-01T21:06:00.000Z",
+      "stop": "2026-10-01T21:31:00.000Z",
       "title": "Bubble's Hotel",
       "subtitle": "Snow Day/S'no Foolin'/Robot Rumpus/Serina's Surprise",
       "description": "Bubble triggers a dangerous mudslide by trying to please two opposing guests. / When Sadie builds Superina a robot sidekick, its giant springy legs are too much to control.",
       "category": null
     },
     {
-      "start": "2026-09-19T23:00:00.000Z",
-      "stop": "2026-09-19T23:28:00.000Z",
-      "title": "LEGO City Adventures",
-      "subtitle": "Cubs & Robbers/Billy The Bug",
-      "description": "A movie promotion stunt goes wrong, unleashing a humongous \"Cubby the Cop\" balloon on the city. Fire Chief McCloud accidentally buys a malfunctioning Twirly Hat for her nephew.",
+      "start": "2026-10-01T21:31:00.000Z",
+      "stop": "2026-10-01T22:00:00.000Z",
+      "title": "Beyblade Burst - Quad Drive",
+      "subtitle": "Regnar's Wrath! Glory Pendulum!",
+      "description": "Valt may be winning against Rashad, but it looks like Valtryek is damaged from a previous match; battling with Bey could lead to defeat.",
+      "category": null
+    },
+    {
+      "start": "2026-10-01T22:00:00.000Z",
+      "stop": "2026-10-01T22:30:00.000Z",
+      "title": "Beyblade X",
+      "subtitle": "The Strongest Without Desire",
+      "description": "After discovering his Bahamut Blitz was built from stolen data, Nine crafts a new Beyblade with Multi's help. Armed with his own creation, Nine challenges One, his formidable sibling, setting off a tense, predestined family showdown.",
+      "category": null
+    },
+    {
+      "start": "2026-10-01T22:30:00.000Z",
+      "stop": "2026-10-01T23:00:00.000Z",
+      "title": "LEGO Jurassic World",
+      "subtitle": "Fish Story!",
+      "description": "After a Baryonyx and Carnotaurus escape containment and flee into the jungle, Vic, Owen, and Sinjin find themselves in the middle of a massive dinosaur fight in the old Jurassic Park Visitor Centre.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T23:28:00.000Z",
-      "stop": "2026-09-20T00:01:00.000Z",
-      "title": "LEGO City Adventures",
-      "subtitle": "Sky Police/Father's Day Parade",
-      "description": "Police Chief Wheeler announces the formation of the $700 million Sky Police.",
+      "start": "2026-10-01T23:00:00.000Z",
+      "stop": "2026-10-01T23:30:00.000Z",
+      "title": "Barbie: Dreamhouse Adventures",
+      "subtitle": "Mermaid Mystery Part 2",
+      "description": "After her boss quits, Barbie gets promoted with new responsibilities. Meanwhile, Skipper and Stacie join Chelsea on a quest to find a missing mermaid but end up getting lost.",
       "category": "Kids & Family"
     },
     {
-      "start": "2026-09-20T00:01:00.000Z",
-      "stop": "2026-09-20T00:32:00.000Z",
-      "title": "Spidey and His Amazing Friends",
-      "subtitle": "Dinosaurs On The Loose / WEB-STER's Big Bad Bug",
-      "description": "Peter Parker, Miles Morales and Gwen Stacy join forces with Hulk, Ms Marvel and Black Panther to fight their common enemies and learn that working together as a team is the best.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-20T00:32:00.000Z",
-      "stop": "2026-09-20T01:29:00.000Z",
-      "title": "Animal Tales",
-      "subtitle": "Episode 15",
-      "description": "A balding bird has his feathers in a flap; Arnold the pig needs some TLC on his feet; vets investigate a sore leg on a zebra and a barking owl from Taronga Zoo has lost his voice.",
+      "start": "2026-10-01T23:30:00.000Z",
+      "stop": "2026-10-02T00:00:00.000Z",
+      "title": "Smashhdown! - Search For The G.O.A.T",
+      "subtitle": "Banksy vs. Picasso",
+      "description": "Banksy is firing up their fat-caps and aiming their aerosols at Pablo Picasso today! While Picasso is banging on his best beret and lacing up his apron as he seeks a place in the Finals Week gallery!",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T01:29:00.000Z",
-      "stop": "2026-09-20T02:28:00.000Z",
-      "title": "Tycoons Down Under",
-      "subtitle": "Hard Times",
-      "description": "The story of Australia's biggest tycoons is filled with incredible rises and even moreastonishing falls. People like Alan Bond, Rene Rivkin, and Christopher Skase had rapid success, achieving great wealth and influence.",
+      "start": "2026-10-02T00:00:00.000Z",
+      "stop": "2026-10-02T00:30:00.000Z",
+      "title": "Lego City No Limits",
+      "subtitle": "Episode 2 of Season 1",
+      "description": "JustJason, Custom car wizard Mech.Max, tech genius Bytz and nature-lover Wanda promise a world of endless fun and action.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T00:30:00.000Z",
+      "stop": "2026-10-02T01:30:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Ironman Buchannon",
+      "description": "Mitch tests his grit against younger rivals in the gruelling Ironman contest, while a suspicious Summer is knocked unconscious while filling in for an exhausted and absent Matt.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-10-02T01:30:00.000Z",
+      "stop": "2026-10-02T02:00:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "Green-Eyed Gomez",
+      "description": "When Lionel Barker, a former suitor of Morticia, shows up, Gomez is jealous. But he's soon calmed when he learns that Barker is after Mildred, the new maid. The Addams then discover that Barker is a con man--after Mildred's money.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T02:00:00.000Z",
+      "stop": "2026-10-02T02:30:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "The New Neighbors Meet Addams Famly",
+      "description": "A pair of newlyweds leases the house next door to the Addams Family. But the honeymoon loses its tranquility when Uncle Fester enters their house through a tunnel.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T02:30:00.000Z",
+      "stop": "2026-10-02T03:00:00.000Z",
+      "title": "Bewitched",
+      "subtitle": "Samantha's Witchcraft Blows A Fuse",
+      "description": "After drinking a \"The Heavenly Himalayana\" at a Chinese restaurant, Sam loses her powers and stripes breakout on her face.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T03:00:00.000Z",
+      "stop": "2026-10-02T03:30:00.000Z",
+      "title": "Bewitched",
+      "subtitle": "The Truth, Nothing But The Truth, So Help Me Sam",
+      "description": "Endora gives Darren a pin that makes anyone who comes near him tell the truth.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T03:30:00.000Z",
+      "stop": "2026-10-02T04:30:00.000Z",
+      "title": "World's Greatest Islands",
+      "subtitle": "Island Arks",
+      "description": "In Island Arks we explore the Galapagos and other remote islands that revealed the processes of natural selection to the famous biologist. Along the way we'll explore the secret lives of the island's rare and often bizarre inhabitants.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T02:28:00.000Z",
-      "stop": "2026-09-20T02:59:00.000Z",
+      "start": "2026-10-02T04:30:00.000Z",
+      "stop": "2026-10-02T06:30:00.000Z",
+      "title": "Journey 2: The Mysterious Island",
+      "subtitle": null,
+      "description": "Sean Anderson partners with his mom's husband on a mission to find his grandfather, who is thought to be missing on a mythical island thought to be a fictitious place described by Jules Verne. (Dwayne Johnson, Josh Hutcherson)",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T06:30:00.000Z",
+      "stop": "2026-10-02T07:30:00.000Z",
+      "title": "Baywatch",
+      "subtitle": "Ironman Buchannon",
+      "description": "Mitch tests his grit against younger rivals in the gruelling Ironman contest, while a suspicious Summer is knocked unconscious while filling in for an exhausted and absent Matt.",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-10-02T07:30:00.000Z",
+      "stop": "2026-10-02T08:40:00.000Z",
       "title": "Seinfeld",
-      "subtitle": "Good News, Bad News",
+      "subtitle": "The Finale",
       "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-20T02:59:00.000Z",
-      "stop": "2026-09-20T03:30:00.000Z",
-      "title": "Seinfeld",
-      "subtitle": "The Stake Out",
-      "description": "Seinfeld stars Jerry Seinfeld as a stand-up comedian whose life in New York City is made even more chaotic by his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions.",
-      "category": "Comedy"
+      "start": "2026-10-02T08:40:00.000Z",
+      "stop": "2026-10-02T09:10:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "Wednesday Leaves Home",
+      "description": "The family faces a crisis when Wednesday packs her spider and runs away (after being scolded for playing with Uncle Fester's TNT instead of her own.",
+      "category": null
     },
     {
-      "start": "2026-09-20T03:30:00.000Z",
-      "stop": "2026-09-20T04:30:00.000Z",
-      "title": "MXGP Of Australia",
-      "subtitle": "Episode 1",
-      "description": "Darwin will roar into life as MXGP rips it up Down Under again. Witness the world's top riders battle it out on a rugged, custom-built track that promises high-speed, dirt-flying action. Race coverage from 1:30PM AEST.",
-      "category": "Sports"
+      "start": "2026-10-02T09:10:00.000Z",
+      "stop": "2026-10-02T09:40:00.000Z",
+      "title": "The Addams Family",
+      "subtitle": "The Addams Family Meets V.I.P.'s",
+      "description": "Official visitors from an unfriendly nation receive the shock of their lives when they decide to exploit the Addams Family as an average uncultured American family.",
+      "category": null
     },
     {
-      "start": "2026-09-20T04:30:00.000Z",
-      "stop": "2026-09-20T06:30:00.000Z",
-      "title": "Premier League",
-      "subtitle": "Man United v Man City",
-      "description": "Nine presents a replay of the 2026/27 Premier league match - Man United v Man City from Old Trafford.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-20T06:30:00.000Z",
-      "stop": "2026-09-20T07:31:00.000Z",
-      "title": "MXGP Of Australia",
-      "subtitle": "Episode 2",
-      "description": "Darwin will roar into life as MXGP rips it up Down Under again. Witness the world's top riders battle it out on a rugged, custom-built track that promises high-speed, dirt-flying action. Race coverage from 4:30PM AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-20T07:31:00.000Z",
-      "stop": "2026-09-20T07:45:00.000Z",
-      "title": "My Way",
-      "subtitle": "Northern Territory",
-      "description": "Tim Blackwell introduces inspirational Aussies, each with a unique story about how they live their best life. It's a lifestyle program that allows people to tell their own stories firsthand to say, 'I'm doing this My Way'.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T07:45:00.000Z",
-      "stop": "2026-09-20T08:45:00.000Z",
-      "title": "Lego Masters Australia",
-      "subtitle": "Lily Pads",
-      "description": "The final four teams battle it out in the LEGO® Masters Semi-Finals as they bring to life their own floating 'Lily Pad', featuring a specific colour palette, to earn a place in the Grand Final.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T08:45:00.000Z",
-      "stop": "2026-09-20T09:14:00.000Z",
-      "title": "The Toys That Built The World",
-      "subtitle": "The Prank Toy Race",
-      "description": "Two silly, but savvy entrepreneurs turned their love of a good joke into a booming prank toy industry. Their heated rivalry produced hundreds of tricks and gags that entertained and annoyed generations for decades.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T09:14:00.000Z",
-      "stop": "2026-09-20T09:47:00.000Z",
-      "title": "Cards And Collectables Australia",
-      "subtitle": "Barbie, Body Slams and Blockbusters",
-      "description": "From body slams to blockbusters... a card collection that has it all. Four entire rooms filled with Barbies still in their box and a TCG game night building a community one event at a time.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T09:47:00.000Z",
-      "stop": "2026-09-20T11:30:00.000Z",
-      "title": "Doctor Doolittle",
+      "start": "2026-10-02T09:40:00.000Z",
+      "stop": "2026-10-02T11:30:00.000Z",
+      "title": "Uptown Girls",
       "subtitle": null,
-      "description": "A workaholic doctor estranged from his family rediscovers his ability to communicate with animals, which turns his life upside down and ultimately enables him to mend his ways before he loses everything that's dear to him. (Eddie Murphy)",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-20T11:30:00.000Z",
-      "stop": "2026-09-20T13:26:00.000Z",
-      "title": "Journey To The Centre Of The Earth",
-      "subtitle": null,
-      "description": "A hunch and the defunding of his lab prompts geology professor Trevor Anderson, whose outrageous theories have made him a laughingstock in academia - to set off for Iceland in search of a portal to Earth's core. (Brendan Fraser)",
+      "description": "Molly Gunn is the spoiled, freewheeling daughter of a late rock legend and the toast of the Manhattan social scene. However, after hitting a huge financial snag, Molly is forced to do something that she's never done before-get a job. But not just any job, a job as a nanny to an Upper East Side eight-year old. Starring Brittany Murphy, Dakota Fanning and Heather Locklear.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T13:26:00.000Z",
-      "stop": "2026-09-20T16:12:00.000Z",
-      "title": "Wonder Woman",
+      "start": "2026-10-02T11:30:00.000Z",
+      "stop": "2026-10-02T13:30:00.000Z",
+      "title": "Freaky Friday",
       "subtitle": null,
-      "description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny. (Gal Gadot, Chris Pine, Robin Wright)",
-      "category": "Action & Adventure"
+      "description": "Tess and her daughter Anna do not get along. However, things take a turn when in a freak incident they switch bodies and are forced to live each other's lives. (Jamie Lee Curtis, Lindsey Lohan)",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T13:30:00.000Z",
+      "stop": "2026-10-02T15:30:00.000Z",
+      "title": "A Cinderella Story",
+      "subtitle": null,
+      "description": "Deep in the heart of the San Fernando Valley, Sam a modern day Cinderella, finds her Prince Charming on the internet. Despite the comically malevolent efforts of her stepmother and stepsisters to keep her at work at their diner, Sam dreams of meeting her online soul mate at the high school Halloween dance. Starring Hilary Duff.",
+      "category": "Similar"
+    },
+    {
+      "start": "2026-10-02T15:30:00.000Z",
+      "stop": "2026-10-02T16:25:00.000Z",
+      "title": "Top 20 Funniest",
+      "subtitle": "TV Blunders 3",
+      "description": "The host compiles the top twenty funniest videos captured on hidden cameras or caught on tape that are viral on the Internet.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:25:00.000Z",
+      "stop": "2026-10-02T17:15:00.000Z",
+      "title": "Babies Behind Bars",
+      "subtitle": "Drugs Is The Devil",
+      "description": "Stephanie hopes for the early release that will enable her to bring her daughter home even though she hasn't completed her drug abuse treatment.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:15:00.000Z",
+      "stop": "2026-10-02T18:15:00.000Z",
+      "title": "Love Island UK: All Stars",
+      "subtitle": "Episode 25",
+      "description": "Drama unfolds as the results of the public vote introduce two new couples. Double dates are on the cards as connections are explored, and the Villa plays a game of Snog Marry Pie.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T18:15:00.000Z",
+      "stop": "2026-10-02T19:05:00.000Z",
+      "title": "Legacies",
+      "subtitle": "Not All Those Who Wander Are Lost",
+      "description": "Aurora finds useful information, Hope commands Lizzie to do things, and Alaric and Ted work together to devise how to best use their wishes.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T19:05:00.000Z",
+      "stop": "2026-10-02T20:40:00.000Z",
+      "title": "Parental Guidance",
+      "subtitle": "Episode 4",
+      "description": "The hot seat has switched as the other five parents prove that their parenting styles can live up to the test.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:40:00.000Z",
+      "stop": "2026-10-02T20:50:00.000Z",
+      "title": "Talking Honey",
+      "subtitle": "Style over Substance: Why Are We Still So Focused On How We Look?",
+      "description": "Host Shelly Horton is joined on the 9Honey panel by Ben Fordham, Georgie Gardner and Richard Wilkins to discuss relationship dilemmas and social issues.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T20:50:00.000Z",
+      "stop": "2026-10-02T21:10:00.000Z",
+      "title": "Lego City No Limits",
+      "subtitle": "Episode 2 of Season 1",
+      "description": "JustJason, Custom car wizard Mech.Max, tech genius Bytz and nature-lover Wanda promise a world of endless fun and action.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T21:10:00.000Z",
+      "stop": "2026-10-02T21:30:00.000Z",
+      "title": "Wild Manes",
+      "subtitle": "Mission Mane Possible / Karaoke'd Away / Picnic Pals / The Mane Course / Candi's Corner 2.0",
+      "description": "Today is the big day for Cherie, aiming to bake the world's largest macaron and become the \"Macaron Mare\" champion! As Cherie's regular orders pile up, Cocoa worries she's taken on too much. Will the fillies help Cherie regain her focus?",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T21:30:00.000Z",
+      "stop": "2026-10-02T22:00:00.000Z",
+      "title": "Beyblade Burst - Quad Drive",
+      "subtitle": "Reckless Panic! Bag Of Tricks!",
+      "description": "After losing a match to Valt, Bel succeeds in improving his launch power; this newfound ability enables the unveiling of a new blading club set to be captained by an old rival.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T22:00:00.000Z",
+      "stop": "2026-10-02T22:33:00.000Z",
+      "title": "Beyblade X",
+      "subtitle": "The Traitor Who Betrayed",
+      "description": "Ex and One's intense battle takes an unexpected turn under Zero's secret commands. While Team Persona regroup at Komaba Sushi, news breaks of a surprise challenger confronting the Kurosu clan, prompting Zero to send out a new assassin.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T22:33:00.000Z",
+      "stop": "2026-10-02T23:02:00.000Z",
+      "title": "Bubble's Hotel",
+      "subtitle": "The Royal Staff/Having a Ball/1000 Flavours/Swirlina's Meltdown",
+      "description": "When the Queen of Hearts comes to stay at the hotel, Bubble is so intimidated that she starts making mistakes - like losing the Queen's royal staff! /  The hotel's ice cream-maker goes berserk, Bubble and Nabi must put a stop to it.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T23:02:00.000Z",
+      "stop": "2026-10-02T23:30:00.000Z",
+      "title": "Barney's World",
+      "subtitle": "It's A Jungle Out There/Big Energy Billy",
+      "description": "While on an Enchanted Jungle trek, David accidentally loses the friends' magical explorer mobile and realizes how to learn from your mistakes. / Barney and the kids help Billy re-channel his big energy so they can all enjoy playing together.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T23:30:00.000Z",
+      "stop": "2026-10-03T00:00:00.000Z",
+      "title": "Smashhdown! - Search For The G.O.A.T",
+      "subtitle": "Karl Lagerfeld vs. Adele",
+      "description": "Finals Week is here and Karl Lagerfeld is keen to cloak himself in the silky-smooth kimono of victory! While Adele is ready to blast her competition into the orchestra pit with a rousing recital today.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-03T00:00:00.000Z",
+      "stop": "2026-10-03T00:32:00.000Z",
+      "title": "Cards And Collectables Australia",
+      "subtitle": "Treasured Toys",
+      "description": "A collector completing entire vintage toy lines, a secretive card collection and a One Piece collection fit for a Pirate King.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-03T00:32:00.000Z",
+      "stop": "2026-10-03T01:00:00.000Z",
+      "title": "Surfing Australia TV",
+      "subtitle": "Episode 7 of Season 11",
+      "description": "Showcases Surfing Australia's programs from junior development through to the elite athletes in surfing.",
+      "category": "Sports"
     }
   ]
 }

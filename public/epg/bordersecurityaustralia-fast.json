@@ -1,0 +1,32 @@
+{
+  "slug": "bordersecurityaustralia-fast",
+  "epgId": "mjh-bordersecurityaustralia-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:44:26.000Z",
+      "stop": "2026-10-01T12:10:52.000Z",
+      "title": "Border Security - Australia's Front Line",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:10:52.000Z",
+      "stop": "2026-10-01T12:38:08.000Z",
+      "title": "Border Security - Australia's Front Line",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:38:08.000Z",
+      "stop": "2026-10-01T13:08:08.000Z",
+      "title": "Border Security - Australia's Front Line",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

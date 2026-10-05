@@ -1,0 +1,24 @@
+{
+  "slug": "winnersnlosers-fast",
+  "epgId": "mjh-winnersnlosers-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T12:06:05.000Z",
+      "stop": "2026-10-01T12:54:39.000Z",
+      "title": "To Have & To Hold S2 Ep19",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:54:39.000Z",
+      "stop": "2026-10-01T13:24:39.000Z",
+      "title": "The Whole Truth S2 Ep20 ",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

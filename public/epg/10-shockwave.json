@@ -2,92 +2,92 @@
   "slug": "10-shockwave",
   "epgId": "mjh-10-shockwave",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T01:32:00.000Z",
-      "stop": "2026-09-19T02:28:00.000Z",
-      "title": "Avalanche: Man Versus Earth",
+      "start": "2026-10-01T11:21:00.000Z",
+      "stop": "2026-10-01T12:25:00.000Z",
+      "title": "Tornadoes",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T02:28:00.000Z",
-      "stop": "2026-09-19T03:27:00.000Z",
-      "title": "Boeing 737 Max: What Went Wrong?",
+      "start": "2026-10-01T12:25:00.000Z",
+      "stop": "2026-10-01T13:29:49.000Z",
+      "title": "Heatwaves",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T03:27:00.000Z",
-      "stop": "2026-09-19T04:31:00.000Z",
-      "title": "Lake Geneva: The Giant Tsunami",
+      "start": "2026-10-01T13:29:49.000Z",
+      "stop": "2026-10-01T14:34:00.000Z",
+      "title": "Polar Vortex",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T04:31:00.000Z",
-      "stop": "2026-09-19T05:31:00.000Z",
-      "title": "Monster Waves",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T05:31:00.000Z",
-      "stop": "2026-09-19T06:31:00.000Z",
-      "title": "Twister Chasers",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T06:31:00.000Z",
-      "stop": "2026-09-19T07:31:00.000Z",
+      "start": "2026-10-01T14:34:00.000Z",
+      "stop": "2026-10-01T15:34:00.000Z",
       "title": "Killer Asteroid",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T07:31:00.000Z",
-      "stop": "2026-09-19T08:30:00.000Z",
+      "start": "2026-10-01T15:34:00.000Z",
+      "stop": "2026-10-01T17:15:00.000Z",
+      "title": "Airline Disaster: Crash of the Century",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T17:15:00.000Z",
+      "stop": "2026-10-01T18:14:00.000Z",
       "title": "Boeing 737 Max: What Went Wrong?",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T08:30:00.000Z",
-      "stop": "2026-09-19T09:34:00.000Z",
+      "start": "2026-10-01T18:14:00.000Z",
+      "stop": "2026-10-01T19:18:00.000Z",
       "title": "The Great Wall of Japan",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T09:34:00.000Z",
-      "stop": "2026-09-19T10:36:00.000Z",
-      "title": "Earthquakes",
+      "start": "2026-10-01T19:18:00.000Z",
+      "stop": "2026-10-01T20:12:00.000Z",
+      "title": "SuperTornado: Anatomy of a Megadisaster",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T10:36:00.000Z",
-      "stop": "2026-09-19T11:39:00.000Z",
-      "title": "Volcanoes",
+      "start": "2026-10-01T20:12:00.000Z",
+      "stop": "2026-10-01T21:16:00.000Z",
+      "title": "Fukushima: Robots in Hell",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T11:39:00.000Z",
-      "stop": "2026-09-19T12:09:00.000Z",
-      "title": "Tornadoes",
+      "start": "2026-10-01T21:16:00.000Z",
+      "stop": "2026-10-01T22:20:00.000Z",
+      "title": "Floods",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T22:20:00.000Z",
+      "stop": "2026-10-01T22:50:00.000Z",
+      "title": "Drought",
       "subtitle": null,
       "description": null,
       "category": null

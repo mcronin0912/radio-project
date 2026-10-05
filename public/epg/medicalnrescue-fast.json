@@ -1,0 +1,32 @@
+{
+  "slug": "medicalnrescue-fast",
+  "epgId": "mjh-medicalnrescue-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:45:22.000Z",
+      "stop": "2026-10-01T12:36:32.000Z",
+      "title": "Mt. Hutt Rescue",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:36:32.000Z",
+      "stop": "2026-10-01T13:28:27.000Z",
+      "title": "Code 1: Minute by Minute",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:28:27.000Z",
+      "stop": "2026-10-01T13:58:27.000Z",
+      "title": "Medical Emergency",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

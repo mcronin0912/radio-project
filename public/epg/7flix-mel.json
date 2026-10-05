@@ -2,359 +2,359 @@
   "slug": "7flix-mel",
   "epgId": "mjh-7flix-mel",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T01:42:20.000Z",
-      "stop": "2026-09-19T02:11:25.000Z",
-      "title": "My Asian Banquet",
-      "subtitle": "Best Of",
-      "description": "Jason brings his knowledge of Asian cuisine into your lounge room each episode and re-creates My Asian Banquet.",
+      "start": "2026-10-01T11:30:35.000Z",
+      "stop": "2026-10-01T12:29:35.000Z",
+      "title": "Ramsay's Kitchen Nightmares USA",
+      "subtitle": "El Cantito",
+      "description": "Gordon Ramsay tries to transform a Puerto Rican restaurant struggling to keep the business afloat.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T02:11:25.000Z",
-      "stop": "2026-09-19T02:40:25.000Z",
-      "title": "The Intolerant Cooks",
-      "subtitle": "That's My Jam!",
-      "description": "Join witty food intolerants as they create delicious recipes using fresh regional produce for those with food sensitivities.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T02:40:25.000Z",
-      "stop": "2026-09-19T03:09:25.000Z",
-      "title": "The Intolerant Cooks",
-      "subtitle": "All Spiced Up!",
-      "description": "Join witty food intolerants as they create delicious recipes using fresh regional produce for those with food sensitivities.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T03:09:25.000Z",
-      "stop": "2026-09-19T03:41:30.000Z",
-      "title": "New Idea Test Kitchen",
-      "subtitle": "Episode 5 of Season 1",
-      "description": "Join Damien for the best in Christmas cooking, including Ice Cream Bombe, Chicken and Bacon roast roll and Natalie Barr's Ricotta Pancakes. Then, some tips on what to do with left-overs.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T03:41:30.000Z",
-      "stop": "2026-09-19T04:45:05.000Z",
-      "title": "Behave Yourself",
-      "subtitle": "Episode 5",
-      "description": "Darren McMullen presents a mix of quick-fire buzzer rounds, experiments and hidden camera stunts to celebrity panellists as they compete to reveal fascinating facts behind why we do the things we do.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T04:45:05.000Z",
-      "stop": "2026-09-19T05:53:30.000Z",
-      "title": "Zumbo's Just Desserts",
-      "subtitle": "Secret Garden",
-      "description": "This is the last chance to win a place in the Grand Final. Our two remaining contestants must create a dessert reflective of a fresh, beautiful, dewy garden.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:53:30.000Z",
-      "stop": "2026-09-19T07:30:15.000Z",
-      "title": "Australia's Got Talent",
-      "subtitle": "Grand Final",
-      "description": "AGT’s Grand Final is a non-stop ride of spellbinding and gravity defying performances as six unmissable acts step onto the world’s biggest stage. Australia will decide who takes AGT’s 2022 crown.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T07:30:15.000Z",
-      "stop": "2026-09-19T09:36:35.000Z",
-      "title": "The Tiger Rising",
-      "subtitle": null,
-      "description": "A young boy discovers a caged tiger in the woods near his home.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T09:36:35.000Z",
-      "stop": "2026-09-19T12:25:55.000Z",
-      "title": "The Holdovers",
-      "subtitle": null,
-      "description": "In 1970, a curmudgeonly history teacher at a New England boarding school remains on campus during Christmas break to supervise held over students, and ends up forming an unlikely bond with a brainy but damaged troublemaker.",
+      "start": "2026-10-01T12:29:35.000Z",
+      "stop": "2026-10-01T13:26:55.000Z",
+      "title": "NCIS: New Orleans",
+      "subtitle": "The Last Stand",
+      "description": "Pride's long time friend, state and military attorney Rita Devereaux, asks NCIS to investigate the disappearance of a JAG lawyer who specializes in classified cases and volunteers at a private military academy.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T12:25:55.000Z",
-      "stop": "2026-09-19T14:35:35.000Z",
-      "title": "Book Club: The Next Chapter",
-      "subtitle": null,
-      "description": "Follows the new journey of four best friends as they take their book club to Italy for the fun girls trip they never had.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-19T14:35:35.000Z",
-      "stop": "2026-09-19T15:01:20.000Z",
-      "title": "New Idea Test Kitchen",
-      "subtitle": "Episode 5 of Season 1",
-      "description": "Join Damien for the best in Christmas cooking, including Ice Cream Bombe, Chicken and Bacon roast roll and Natalie Barr's Ricotta Pancakes. Then, some tips on what to do with left-overs.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T15:01:20.000Z",
-      "stop": "2026-09-19T16:03:45.000Z",
-      "title": "Behave Yourself",
-      "subtitle": "Episode 5",
-      "description": "Darren McMullen presents a mix of quick-fire buzzer rounds, experiments and hidden camera stunts to celebrity panellists as they compete to reveal fascinating facts behind why we do the things we do.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T16:03:45.000Z",
-      "stop": "2026-09-19T16:33:45.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Dr Hos MotionCiser (DRMC2830B24888)",
-      "description": "Shopping program.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T16:33:45.000Z",
-      "stop": "2026-09-19T17:03:45.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Eezy Breezy (EZBZ2830A14888)",
-      "description": "Shopping program.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T17:03:45.000Z",
-      "stop": "2026-09-19T17:58:10.000Z",
-      "title": "Next",
-      "subtitle": "File #3",
-      "description": "Shea and LeBlanc head to Dartmouth to investigate NEXT’s whereabouts, which are potentially linked to Biomotion Labs. There, they visit LeBlanc’s friend, Professor Richard Pearish for answers. Meanwhile, Shea, Ethan and Ty take extra precautions to disconnect from electronics and the Internet, and LeBlanc urges Abby to do so, as well, but NEXT complicates their plans.",
+      "start": "2026-10-01T13:26:55.000Z",
+      "stop": "2026-10-01T14:28:30.000Z",
+      "title": "NCIS: New Orleans",
+      "subtitle": "Swift, Silent, Deadly",
+      "description": "A highly credentialed and skilled special ops marine sends Pride and the NCIS team on a city-wide manhunt after he assaults six men in a bar.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T17:58:10.000Z",
-      "stop": "2026-09-19T18:51:55.000Z",
-      "title": "Next",
-      "subtitle": "File #4",
-      "description": "Shea and LeBlanc steal an important hard drive and enlist Ben, Gina and C.M. to help decrypt it, as NEXT creates chaos to stunt their progress. C.M.’s past resurfaces as NEXT targets the FBI building with a dangerous ploy. Meanwhile, Ted and his Zava team buckle down on their search for NEXT, Ty and Ethan hide out in a remote cabin.",
+      "start": "2026-10-01T14:28:30.000Z",
+      "stop": "2026-10-01T15:22:20.000Z",
+      "title": "New Amsterdam",
+      "subtitle": "Family",
+      "description": "Max and Helen adjust to sharing their lives and their problems, including the challenge of Helen’s mother. Bloom and Reynolds treat a family after their horrific car accident lands them in the ED. Iggy and Trevor reach a new understanding in their business relationship.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T18:51:55.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
-      "title": "Next",
-      "subtitle": "File #5",
-      "description": "NEXT orchestrates an unlikely and dangerous reunion between Shea and someone from her past when she goes to check on Ty and Ethan. Ted is in trouble with Zava and figures out a way to remain in the company. Meanwhile, LeBlanc gets honest with Abby and C.M.’s life is threatened.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T20:30:00.000Z",
-      "title": "It's Academic",
-      "subtitle": "Episode 32",
-      "description": "An educational and entertaining show where students compete against other schools in an attempt to win cash and prizes.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T20:30:00.000Z",
-      "stop": "2026-09-19T21:00:00.000Z",
-      "title": "It's Academic",
-      "subtitle": "Episode 33",
-      "description": "An educational and entertaining show where students compete against other schools in an attempt to win cash and prizes.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T21:00:00.000Z",
-      "stop": "2026-09-19T21:30:30.000Z",
-      "title": "It's Academic",
-      "subtitle": "Episode 34",
-      "description": "An educational and entertaining show where students compete against other schools in an attempt to win cash and prizes.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T21:30:30.000Z",
-      "stop": "2026-09-19T21:59:30.000Z",
-      "title": "Get Clever",
-      "subtitle": "Episode 41",
-      "description": "The team explores the science of baking and cookies, while Lindsey turns a lunchbox favourite into an ant trap.",
+      "start": "2026-10-01T15:22:20.000Z",
+      "stop": "2026-10-01T16:16:00.000Z",
+      "title": "New Amsterdam",
+      "subtitle": ".... Unto The Breach",
+      "description": "As the team gathers to mourn the loss of someone dear, Max and Helen realize the extent to which New Amsterdam has changed since they left. Bloom struggles with a big decision while Reynolds decides to take his concerns for his patients to a new level. Dr. Fuentes once again reminds the New Amsterdam team who is in control.",
       "category": null
     },
     {
-      "start": "2026-09-19T21:59:30.000Z",
-      "stop": "2026-09-19T22:30:00.000Z",
+      "start": "2026-10-01T16:16:00.000Z",
+      "stop": "2026-10-01T17:15:50.000Z",
+      "title": "New Amsterdam",
+      "subtitle": "Two Doors",
+      "description": "Max formulates a bold plan to help New Amsterdam before it’s too late. Reynolds and Dr. Fuentes fight over the best way to handle a risky surgery",
+      "category": null
+    },
+    {
+      "start": "2026-10-01T17:15:50.000Z",
+      "stop": "2026-10-01T18:09:20.000Z",
+      "title": "First Dates UK",
+      "subtitle": "Bethany & Dan",
+      "description": "Bethany wants to start a family, but is the party monkey Dan ready for it? Simon's date has a birthday, while Connor and Stephanie's date start with chemistry.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T18:09:20.000Z",
+      "stop": "2026-10-01T19:02:10.000Z",
+      "title": "Ramsay's Hotel Hell",
+      "subtitle": "River Rock",
+      "description": "A run-down Pennsylvania hotel needs to be cleaned of dead bugs and stained bedspreads.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T19:02:10.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
+      "title": "Ramsay's Hotel Hell",
+      "subtitle": "Juniper Hill - Part 1",
+      "description": "Gordon Ramsay checks in to some of America's worst hotels.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T20:31:35.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 3",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T20:31:35.000Z",
+      "stop": "2026-10-01T21:03:05.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 4",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T21:03:05.000Z",
+      "stop": "2026-10-01T21:35:10.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 5",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T21:35:10.000Z",
+      "stop": "2026-10-01T22:07:10.000Z",
       "title": "Get Clever",
-      "subtitle": "Episode 42",
+      "subtitle": "Episode 5",
       "description": "An outrageous series where adventure, fun and the wonders of science are burst wide open.",
       "category": null
     },
     {
-      "start": "2026-09-19T22:30:00.000Z",
-      "stop": "2026-09-19T23:01:25.000Z",
+      "start": "2026-10-01T22:07:10.000Z",
+      "stop": "2026-10-01T22:39:15.000Z",
+      "title": "Get Clever",
+      "subtitle": "Episode 6",
+      "description": "An outrageous series where adventure, fun and the wonders of science are burst wide open.",
+      "category": null
+    },
+    {
+      "start": "2026-10-01T22:39:15.000Z",
+      "stop": "2026-10-01T23:11:10.000Z",
       "title": "Flushed",
-      "subtitle": "Episode 16 of Season 1",
+      "subtitle": "Episode 33",
+      "description": "A new game show for kids where knowledge meets strategy with hilarious, slimy fun.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T23:11:10.000Z",
+      "stop": "2026-10-01T23:41:10.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Hydrocleaner XL (SHYX2830B14888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T23:41:10.000Z",
+      "stop": "2026-10-02T00:11:10.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Jet Hawk (JEHA2830A14888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T00:11:10.000Z",
+      "stop": "2026-10-02T00:41:35.000Z",
+      "title": "The Great Australian Doorstep",
+      "subtitle": "Episode 3",
+      "description": "Sheree and Jules go rogue in Darwin and hit the Adelaide River in search of the biggest jumping croc in the NT.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T00:41:35.000Z",
+      "stop": "2026-10-02T02:02:55.000Z",
+      "title": "House Rules",
+      "subtitle": "Episode 14 of Season 6",
+      "description": "Brothers Josh and Brandon return to their renovated home in Maryborough. Will they love what they see?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T02:02:55.000Z",
+      "stop": "2026-10-02T03:58:55.000Z",
+      "title": "Dancing With The Stars: All Stars",
+      "subtitle": "Episode 7 of Season 17",
+      "description": "In the 2022 Grand Finale, six couples are left to battle it out for the esteemed mirror ball trophy.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T03:58:55.000Z",
+      "stop": "2026-10-02T04:59:10.000Z",
+      "title": "Around The World With Manu",
+      "subtitle": "UK",
+      "description": "With some rare spare time on his hands, Manu Feildel decides to follow his dream of circumnavigating the world, on AUS$20,000 in 30 days. Can he do it?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T04:59:10.000Z",
+      "stop": "2026-10-02T05:34:50.000Z",
+      "title": "The Food Dude",
+      "subtitle": "Tommahawkin",
+      "description": "The Food Dude travels across regional Australia to showcase the amazing local establishments.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:34:50.000Z",
+      "stop": "2026-10-02T07:03:45.000Z",
+      "title": "The Big Adventure",
+      "subtitle": "Episode 10 of Season 1",
+      "description": "Twelve Aussies compete in extreme conditions for a life-changing prize. As their skills and smarts are tested, a fortune lies waiting. Who will dig their way to victory?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T07:03:45.000Z",
+      "stop": "2026-10-02T08:25:00.000Z",
+      "title": "Britain's Got Talent",
+      "subtitle": "Audition 5",
+      "description": "Join superstar judges Simon Cowell, Amanda Holden, Alesha Dixon and Bruno Tonioli as they search for the next big entertainment act to perform at the Royal Variety Performance.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T08:25:00.000Z",
+      "stop": "2026-10-02T10:34:15.000Z",
+      "title": "Ron's Gone Wrong",
+      "subtitle": null,
+      "description": "The story of Barney, an awkward middle-schooler and Ron, his new walking, talking, digitally-connected device. Ron's malfunctions set against the backdrop of the social media age launch them on a journey to learn about true friendship.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T10:34:15.000Z",
+      "stop": "2026-10-02T12:29:40.000Z",
+      "title": "My Big Fat Greek Wedding 3",
+      "subtitle": null,
+      "description": "To honour the last wish of their deceased patriarch Gus, Toula and her large family travel to Greece to visit his childhood village and reconnect with their roots.",
+      "category": "Similar"
+    },
+    {
+      "start": "2026-10-02T12:29:40.000Z",
+      "stop": "2026-10-02T14:28:35.000Z",
+      "title": "Downhill",
+      "subtitle": null,
+      "description": "Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T14:28:35.000Z",
+      "stop": "2026-10-02T14:57:05.000Z",
+      "title": "The Food Dude",
+      "subtitle": "Tommahawkin",
+      "description": "The Food Dude travels across regional Australia to showcase the amazing local establishments.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T14:57:05.000Z",
+      "stop": "2026-10-02T15:26:05.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Five Minute Clever Chef (5MCC2830B14888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:26:05.000Z",
+      "stop": "2026-10-02T16:02:25.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Pocket Hose Copper Head (PHCH2830A14888)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:02:25.000Z",
+      "stop": "2026-10-02T17:06:05.000Z",
+      "title": "Around The World With Manu",
+      "subtitle": "UK",
+      "description": "With some rare spare time on his hands, Manu Feildel decides to follow his dream of circumnavigating the world, on AUS$20,000 in 30 days. Can he do it?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:06:05.000Z",
+      "stop": "2026-10-02T17:59:40.000Z",
+      "title": "New Amsterdam",
+      "subtitle": "All Night Long",
+      "description": "The New Amsterdam team goes out for a night of karaoke and drinking, but must face the consequences at work the next day.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T17:59:40.000Z",
+      "stop": "2026-10-02T19:04:30.000Z",
+      "title": "New Amsterdam",
+      "subtitle": "Unfinished Business",
+      "description": "The New Amsterdam team continues to deal with the consequences of their big night out. Max and Helen discuss options for their future.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T19:04:30.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Jane By Design",
+      "subtitle": "The Runway",
+      "description": "After Jane agrees to go the high school dance with Billy, Gray tells her she must create a preview line of what’s to come at a preview party—the same night as the dance.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T20:30:00.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 6",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:30:00.000Z",
+      "stop": "2026-10-02T21:00:05.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 7",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:00:05.000Z",
+      "stop": "2026-10-02T21:31:05.000Z",
+      "title": "It's Academic",
+      "subtitle": "Episode 8",
+      "description": "Simon Reeve hosts all new episodes of the educational and entertaining show where schools compete to win cash and prizes.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:31:05.000Z",
+      "stop": "2026-10-02T22:01:45.000Z",
+      "title": "Get Clever",
+      "subtitle": "Episode 7",
+      "description": "An outrageous series where adventure, fun and the wonders of science are burst wide open.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T22:01:45.000Z",
+      "stop": "2026-10-02T22:33:05.000Z",
+      "title": "Get Clever",
+      "subtitle": "Episode 8",
+      "description": "Vatche explores the colour green, swims with sea turtles, and David Coles shares paint colour insights, and the team looks at drought in rural areas.",
+      "category": null
+    },
+    {
+      "start": "2026-10-02T22:33:05.000Z",
+      "stop": "2026-10-02T23:04:00.000Z",
+      "title": "Flushed",
+      "subtitle": "Episode 34 of Season 1",
       "description": "FLUSHED is a children's game show that tests not only mental but physical skills of the contestants. Two teams gather minutes by answering questions correctly and then it's a race to fit together a sequence of connective tubing within the timeframe racked up from the questions. If a team has more minutes, they've got a better chance of completing the build. And the stakes are high as the losing team faces getting slimed by the winners.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T23:01:25.000Z",
-      "stop": "2026-09-19T23:32:50.000Z",
+      "start": "2026-10-02T23:04:00.000Z",
+      "stop": "2026-10-02T23:34:25.000Z",
       "title": "Flushed",
-      "subtitle": "Episode 17 of Season 1",
+      "subtitle": "Episode 35",
+      "description": "A new game show for kids where knowledge meets strategy with hilarious, slimy fun.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T23:34:25.000Z",
+      "stop": "2026-10-03T00:07:20.000Z",
+      "title": "Flushed",
+      "subtitle": "Episode 36 of Season 1",
       "description": "FLUSHED is a children's game show that tests not only mental but physical skills of the contestants. Two teams gather minutes by answering questions correctly and then it's a race to fit together a sequence of connective tubing within the timeframe racked up from the questions. If a team has more minutes, they've got a better chance of completing the build. And the stakes are high as the losing team faces getting slimed by the winners.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T23:32:50.000Z",
-      "stop": "2026-09-20T00:11:20.000Z",
-      "title": "Flushed",
-      "subtitle": "Episode 18 of Season 1",
-      "description": "FLUSHED is a children's game show that tests not only mental but physical skills of the contestants. Two teams gather minutes by answering questions correctly and then it's a race to fit together a sequence of connective tubing within the timeframe racked up from the questions. If a team has more minutes, they've got a better chance of completing the build. And the stakes are high as the losing team faces getting slimed by the winners.",
+      "start": "2026-10-03T00:07:20.000Z",
+      "stop": "2026-10-03T00:36:50.000Z",
+      "title": "Weekender",
+      "subtitle": "Episode 33",
+      "description": "Murray Cod is on the menu along with Brisbane's extreme eats - from frozen caffeine treats to smokin' Texan feasts. Plus, we follow the Pacific Coast Way from Bundy to the Great Barrier Reef.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T00:11:20.000Z",
-      "stop": "2026-09-20T00:43:35.000Z",
-      "title": "The Greatest Aussie Caravan",
-      "subtitle": "So Much Work",
-      "description": "Each week, 4 husband and wife teams will test their skills as they go head-to-head to see who has what it takes to design, refurbish, and re-build The Greatest Aussie Caravan.",
+      "start": "2026-10-03T00:36:50.000Z",
+      "stop": "2026-10-03T01:06:45.000Z",
+      "title": "Sydney Weekender",
+      "subtitle": "Episode 34",
+      "description": "My Fair Lady celebrates 70 years since its glorious Broadway debut. Matt hits the hinterland and saddles up in Glenworth Valley. Shop, eat & play all under one roof at Macquarie Centre.",
       "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T00:43:35.000Z",
-      "stop": "2026-09-20T01:11:50.000Z",
-      "title": "Our Town",
-      "subtitle": "Victoria Park",
-      "description": "Come with us on an interesting and informative visit to towns in regional and metropolitan Western Australia. Presented by Brett Novak.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T01:11:50.000Z",
-      "stop": "2026-09-20T02:40:20.000Z",
-      "title": "Plate Of Origin",
-      "subtitle": "Episode 9",
-      "description": "It's the semi-final as four teams dig deep into their heritage to present a \"Classic\" dish which ultimately represents their cuisine. It's an emotional roller coaster as only two teams will remain.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T02:40:20.000Z",
-      "stop": "2026-09-20T03:08:45.000Z",
-      "title": "Home and Away",
-      "subtitle": "Episode 153",
-      "description": "Levi's bombarded. Sonny gets a new roommate. Zane spirals.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T03:08:45.000Z",
-      "stop": "2026-09-20T03:36:15.000Z",
-      "title": "Home and Away",
-      "subtitle": "Episode 154",
-      "description": "The Fowler siblings have a visitor. Zane acts out. Cash fears for Eden's health.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T03:36:15.000Z",
-      "stop": "2026-09-20T04:03:30.000Z",
-      "title": "Home and Away",
-      "subtitle": "Episode 155",
-      "description": "The Fowler family comes together. Amelia and David grow closer. Eden puts on a brave face.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T04:03:30.000Z",
-      "stop": "2026-09-20T04:30:50.000Z",
-      "title": "Home and Away",
-      "subtitle": "Episode 156",
-      "description": "Remi feels on the outer. Mali gets a big idea. Lacey drums up a crowd.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T04:30:50.000Z",
-      "stop": "2026-09-20T05:08:20.000Z",
-      "title": "Home and Away",
-      "subtitle": "Episode 157",
-      "description": "Remi rallies for Eden. Amelia confronts Lacey. John avoids facing his fears. Marilyn can't lift Zane’s spirits.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T05:08:20.000Z",
-      "stop": "2026-09-20T05:44:45.000Z",
-      "title": "Home and Away",
-      "subtitle": "Episode 158",
-      "description": "John faces his fear. Marilyn makes a bad call. Remi puts on a brave face.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T05:44:45.000Z",
-      "stop": "2026-09-20T07:30:15.000Z",
-      "title": "The Voice",
-      "subtitle": "Quarter Finals, Pt. 2",
-      "description": "On night two of the Quarter Finals, artists from Team Melanie C and Team Kate will blow the roof off THE VOICE stage as they battle for a coveted spot in the Semi-Finals.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T07:30:15.000Z",
-      "stop": "2026-09-20T07:59:05.000Z",
-      "title": "The Great Day Out",
-      "subtitle": "Great Day Out, The Ep: 1",
-      "description": "Jill meets the inspiring Li Cunxin, better known as Mao's Last Dancer. Laurel tries her hand at the new sport of axe throwing. Plus, Commonwealth Games diver Dom Bedggood shares his Great Day Out.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T07:59:05.000Z",
-      "stop": "2026-09-20T08:31:15.000Z",
-      "title": "Gold Coast Ocean Rescue",
-      "subtitle": "Episode 4",
-      "description": "Set in the Sea World Research & Rescue Foundation, where an expert team of vets and marine scientists rescues animals, rehabilitates them and releases them back into the wild.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T08:31:15.000Z",
-      "stop": "2026-09-20T09:31:35.000Z",
-      "title": "Dogs Behaving (Very) Badly",
-      "subtitle": "Episode 15 of Season 4",
-      "description": "Spaniel Bertie has a killer appetite and his snaffling of the inedible could land him in grave danger. He's already had a sock and face mask surgically removed.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T09:31:35.000Z",
-      "stop": "2026-09-20T10:35:10.000Z",
-      "title": "Law & Order",
-      "subtitle": "Savior",
-      "description": "Briscoe and Curtis' (Jerry Orbach, Benjamin Bratt) investigation of the murders of a mother and son leads to the father, but Kincaid (Jill Hennessy) uncovers the real killer.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T10:35:10.000Z",
-      "stop": "2026-09-20T11:34:05.000Z",
-      "title": "Law & Order: Criminal Intent",
-      "subtitle": "Delicate",
-      "description": "Nichols and Stevens investigate the death of a ballerina at a prestigious New York conservatory; a place where a love of art and beauty collides with the harsh reality of murder.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T11:34:05.000Z",
-      "stop": "2026-09-20T12:33:10.000Z",
-      "title": "Law & Order: SVU",
-      "subtitle": "Pique",
-      "description": "When the head of personnel at a software company is found raped and stabbed to death, Detectives Benson and Stabler suspect that a fired employee may have sought a violent revenge. They focus on Jason Mayberry a former security guard at the company and son of the wealthy Grace Mayberry. Jason's shy yet cunning personality and bizarre obsessions may reveal a horrifying motive for the murder.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T12:33:10.000Z",
-      "stop": "2026-09-20T13:31:25.000Z",
-      "title": "Bones",
-      "subtitle": "The Death In The Defense",
-      "description": "Hodgins is eight weeks into his paralysis rehabilitation, and is forced to use a wheelchair. Meanwhile, Brennan and Booth investigate the death of a public defender.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T13:31:25.000Z",
-      "stop": "2026-09-20T14:29:30.000Z",
-      "title": "Bones",
-      "subtitle": "The Murder Of The Meninist",
-      "description": "The team investigates a body found in a car crash, the remains of which belong to a founder of a men's rights organization who may have been the victim of domestic abuse.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T14:29:30.000Z",
-      "stop": "2026-09-20T15:23:20.000Z",
-      "title": "Grimm",
-      "subtitle": "Three Coins In A Fuchsbau",
-      "description": "A failed jewellery store robbery results in a murder that finds Nick and Hank immersed in a hunt for rare coins. Nick soon learns that these coins have an unsettling effect on whoever possesses them, as Hank and Captain Renard begin to exhibit unusual behaviour. Meanwhile, a mysterious old friend of Aunt Marie's comes to Nick with information about his family and what led to his parent's death.",
-      "category": "Drama"
     }
   ]
 }

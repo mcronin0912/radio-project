@@ -2,108 +2,108 @@
   "slug": "10-rookieblue",
   "epgId": "mjh-10-rookieblue",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T01:53:00.000Z",
-      "stop": "2026-09-19T02:41:00.000Z",
+      "start": "2026-10-01T12:02:00.000Z",
+      "stop": "2026-10-01T12:50:00.000Z",
+      "title": "Coming Home",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:50:00.000Z",
+      "stop": "2026-10-01T13:39:52.000Z",
+      "title": "Leap of Faith",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:39:52.000Z",
+      "stop": "2026-10-01T14:28:00.000Z",
       "title": "The Girlfriend Experience",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T02:41:00.000Z",
-      "stop": "2026-09-19T03:30:00.000Z",
+      "start": "2026-10-01T14:28:00.000Z",
+      "stop": "2026-10-01T15:17:00.000Z",
       "title": "Out of Time",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T03:30:00.000Z",
-      "stop": "2026-09-19T04:19:00.000Z",
+      "start": "2026-10-01T15:17:00.000Z",
+      "stop": "2026-10-01T16:06:00.000Z",
       "title": "Cold Comforts",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T04:19:00.000Z",
-      "stop": "2026-09-19T05:07:00.000Z",
+      "start": "2026-10-01T16:06:00.000Z",
+      "stop": "2026-10-01T16:54:00.000Z",
       "title": "The Rules",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T05:07:00.000Z",
-      "stop": "2026-09-19T05:56:00.000Z",
+      "start": "2026-10-01T16:54:00.000Z",
+      "stop": "2026-10-01T17:43:00.000Z",
       "title": "Every Man",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T05:56:00.000Z",
-      "stop": "2026-09-19T06:46:00.000Z",
+      "start": "2026-10-01T17:43:00.000Z",
+      "stop": "2026-10-01T18:32:00.000Z",
       "title": "I Never",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T06:46:00.000Z",
-      "stop": "2026-09-19T07:35:00.000Z",
+      "start": "2026-10-01T18:32:00.000Z",
+      "stop": "2026-10-01T19:21:00.000Z",
       "title": "Surprises",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T07:35:00.000Z",
-      "stop": "2026-09-19T08:24:00.000Z",
+      "start": "2026-10-01T19:21:00.000Z",
+      "stop": "2026-10-01T20:10:00.000Z",
       "title": "Homecoming",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T08:24:00.000Z",
-      "stop": "2026-09-19T09:11:00.000Z",
+      "start": "2026-10-01T20:10:00.000Z",
+      "stop": "2026-10-01T20:58:00.000Z",
       "title": "Different, Not Better",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T09:11:00.000Z",
-      "stop": "2026-09-19T10:00:00.000Z",
+      "start": "2026-10-01T20:58:00.000Z",
+      "stop": "2026-10-01T21:47:00.000Z",
       "title": "The Kids Are Not Alright",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T10:00:00.000Z",
-      "stop": "2026-09-19T10:49:00.000Z",
+      "start": "2026-10-01T21:47:00.000Z",
+      "stop": "2026-10-01T22:17:00.000Z",
       "title": "Poison Pill",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T10:49:00.000Z",
-      "stop": "2026-09-19T11:38:00.000Z",
-      "title": "Skeletons",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T11:38:00.000Z",
-      "stop": "2026-09-19T12:08:00.000Z",
-      "title": "Friday the 13th",
       "subtitle": null,
       "description": null,
       "category": null

@@ -1,0 +1,32 @@
+{
+  "slug": "swimmingreplays-fast",
+  "epgId": "mjh-swimmingreplays-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T09:38:09.000Z",
+      "stop": "2026-10-01T12:25:58.000Z",
+      "title": "Swimming Glasgow 2026 Commonwealth Games",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:25:58.000Z",
+      "stop": "2026-10-01T15:15:19.000Z",
+      "title": "Day 2 Finals Session | Full Replay",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T15:15:19.000Z",
+      "stop": "2026-10-01T15:45:19.000Z",
+      "title": "Swimming: Heats | Day 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

@@ -2,390 +2,494 @@
   "slug": "10-vic",
   "epgId": "mjh-10-vic",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T01:58:07.000Z",
-      "stop": "2026-09-19T02:59:18.000Z",
-      "title": "Love It Or List It: Brilliant Builds",
-      "subtitle": "Into The Garden",
-      "description": "Kirstie and Phil look back on their best land grabbing renovations to balance home and garden, from a detached house in Bury St Edmunds to a three-bed in Harrogate.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T02:59:18.000Z",
-      "stop": "2026-09-19T03:29:01.000Z",
-      "title": "Pooches At Play",
-      "subtitle": "Episode 8",
-      "description": "Explore rising vet costs, slow-cooked nutrition, place training, calming pets at the groomer or vet, canine skin conditions, Beagle Freedom Australia, plus the Whippet breed profile.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T03:29:01.000Z",
-      "stop": "2026-09-19T03:59:03.000Z",
-      "title": "Millionaire Hot Seat",
-      "subtitle": "Episode 3",
-      "description": "A travel-loving poet and a police officer are amongst six eager contestants from Victoria and New South Wales going head-to-head in this episode.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T03:59:03.000Z",
-      "stop": "2026-09-19T04:58:08.000Z",
-      "title": "Deal Or No Deal: Celebrity Jackpot",
-      "subtitle": "Anne & Lloyd",
-      "description": "Comedic partners Anne Edmonds and Lloyd Langford bring the laughs as they're pitted against the miserly Banker. Helped by Dave Thornton, Nath Valvo, and Ben Russell, can they win big for their charity?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T04:58:08.000Z",
-      "stop": "2026-09-19T05:58:27.000Z",
-      "title": "The Finish Line",
-      "subtitle": "Episode 4",
-      "description": "Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed. Naomi, Matthew, John, Charlotte and Rohan race in moving podiums across the studio to try to win £5,000.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:58:27.000Z",
-      "stop": "2026-09-19T07:00:00.000Z",
-      "title": "Lingo",
-      "subtitle": "Episode 11",
-      "description": "A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T07:00:00.000Z",
-      "stop": "2026-09-19T08:30:00.000Z",
-      "title": "10 News",
-      "subtitle": "Saturday 19 September 2026",
+      "start": "2026-10-01T11:33:37.000Z",
+      "stop": "2026-10-01T12:28:57.000Z",
+      "title": "10's Late News",
+      "subtitle": "Thursday 1 October 2026",
       "description": "Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T08:30:00.000Z",
-      "stop": "2026-09-19T09:31:36.000Z",
-      "title": "Gogglebox Australia",
-      "subtitle": "Episode 4",
-      "description": "Australian families are televised as they gather in their houses to give their opinions on stories making news all over the world.",
-      "category": "Special Interest"
+      "start": "2026-10-01T12:28:57.000Z",
+      "stop": "2026-10-01T12:58:53.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Who Is This Vod Kanockers?",
+      "description": "Charlie tells Alan the truth about his breakup with Mia and a famous neighbour (Steven Tyler) causes trouble.",
+      "category": "Comedy"
     },
     {
-      "start": "2026-09-19T09:31:36.000Z",
-      "stop": "2026-09-19T10:40:13.000Z",
-      "title": "Selling Houses Australia",
-      "subtitle": "Ellalong",
-      "description": "Trish and her late husband bought a church to convert. When he sadly died she was left grieving and with a half finished project. Now she needs to sell so she can move to South Australia to care for her mum.",
-      "category": "Special Interest"
+      "start": "2026-10-01T12:58:53.000Z",
+      "stop": "2026-10-01T13:28:37.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "The Sea Is A Harsh Mistress",
+      "description": "Charlie is convinced he saw his late father while having a near-death experience.",
+      "category": "Comedy"
     },
     {
-      "start": "2026-09-19T10:40:13.000Z",
-      "stop": "2026-09-19T11:47:52.000Z",
-      "title": "Selling Houses Australia",
-      "subtitle": "Bridport, TAS",
-      "description": "Single mother Charmaine received a small inheritance and decided to invest in property and flip it for her retirement plan. After months on the market, Charmaine needs help to sell and secure her future nest egg.",
-      "category": "Special Interest"
+      "start": "2026-10-01T13:28:37.000Z",
+      "stop": "2026-10-01T14:05:30.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "A Pot-Smokin' Monkey",
+      "description": "After their split, Alan wants to gain custody of his and Kandi's dog.",
+      "category": "Comedy"
     },
     {
-      "start": "2026-09-19T11:47:52.000Z",
-      "stop": "2026-09-19T12:50:12.000Z",
-      "title": "Love It Or List It: Brilliant Builds",
-      "subtitle": "Flipping Existing Space",
-      "description": "Kirstie and Phil look back on their best small-space transformations, from knocking down walls in Windsor to a ground floor revamp in Northamptonshire.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T12:50:12.000Z",
-      "stop": "2026-09-19T13:42:27.000Z",
-      "title": "Watson",
-      "subtitle": "For A Limited Time Only",
-      "description": "Watson and the fellows fight to revive a 30-year-old woman, Audrey, after her heart inexplicably stops until they discover she has a rare phenomenon called Lazarus syndrome.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T13:42:27.000Z",
-      "stop": "2026-09-19T14:36:55.000Z",
-      "title": "FBI",
-      "subtitle": "Fanatics",
-      "description": "After the son of a professional basketball team owner is taken for ransom, Jubal and the team race to catch the kidnappers before a larger revenge plot unfolds.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-19T14:36:55.000Z",
-      "stop": "2026-09-19T15:06:05.000Z",
+      "start": "2026-10-01T14:05:30.000Z",
+      "stop": "2026-10-01T14:34:55.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 111 of Season 2019",
+      "subtitle": "Episode 49 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T14:34:55.000Z",
+      "stop": "2026-10-01T15:04:20.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 50 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T15:04:20.000Z",
+      "stop": "2026-10-01T15:34:10.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 51 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T15:06:05.000Z",
-      "stop": "2026-09-19T15:35:45.000Z",
+      "start": "2026-10-01T15:34:10.000Z",
+      "stop": "2026-10-01T16:03:35.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 112 of Season 2019",
+      "subtitle": "Home Shopping",
+      "description": "Paid programming.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T16:03:35.000Z",
+      "stop": "2026-10-01T16:33:40.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 53 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T15:35:45.000Z",
-      "stop": "2026-09-19T16:05:20.000Z",
+      "start": "2026-10-01T16:33:40.000Z",
+      "stop": "2026-10-01T17:03:05.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 113 of Season 2019",
+      "subtitle": "Episode 54 of Season 2019",
+      "description": "Paid programming.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T17:03:05.000Z",
+      "stop": "2026-10-01T17:32:40.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 55 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T17:32:40.000Z",
+      "stop": "2026-10-01T18:02:05.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 56 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T18:02:05.000Z",
+      "stop": "2026-10-01T18:31:45.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 57 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T18:31:45.000Z",
+      "stop": "2026-10-01T19:01:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 58 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T19:01:00.000Z",
+      "stop": "2026-10-01T19:30:15.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 59 of Season 2019",
       "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T16:05:20.000Z",
-      "stop": "2026-09-19T16:34:45.000Z",
+      "start": "2026-10-01T19:30:15.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 114 of Season 2019",
+      "subtitle": "Episode 60 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T16:34:45.000Z",
-      "stop": "2026-09-19T17:04:25.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 115 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T20:30:00.000Z",
+      "title": "Entertainment Tonight",
+      "subtitle": "Episode 12",
+      "description": "Anchors and correspondents cover the top stories in the world of entertainment, ranging from exclusives in celebrity gossip to show business news.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T17:04:25.000Z",
-      "stop": "2026-09-19T17:33:40.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 116 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "start": "2026-10-01T20:30:00.000Z",
+      "stop": "2026-10-01T21:00:00.000Z",
+      "title": "The Bold and the Beautiful",
+      "subtitle": "Episode 9871",
+      "description": "Finn asks Steffy not to go through with the surrogacy. Taylor isn't pleased to hear Sheila confided in Deacon.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-01T21:00:00.000Z",
+      "stop": "2026-10-01T21:30:00.000Z",
+      "title": "Deal Or No Deal",
+      "subtitle": "Episode 174",
+      "description": "Real Estate agent Hayley Margetts loves making clients' dreams come true. She'll need to watch out, as The Banker will be hoping to foreclose her dream of a European holiday.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T17:33:40.000Z",
-      "stop": "2026-09-19T18:03:15.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 117 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:03:15.000Z",
-      "stop": "2026-09-19T18:32:30.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 118 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:32:30.000Z",
-      "stop": "2026-09-19T19:02:00.000Z",
-      "title": "Home Shopping",
-      "subtitle": "Episode 119 of Season 2019",
-      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T19:02:00.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
-      "title": "Hour Of Power",
-      "subtitle": "Episode 104",
-      "description": "Hour Of Power with Bobby Schuller equips you with the tools you need to become a flourishing apprentice of Jesus.",
-      "category": null
-    },
-    {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T20:30:00.000Z",
-      "title": "Mass For You At Home",
-      "subtitle": "Episode 38 of Season 2026",
-      "description": "Mass for You at Home brings the Catholic Mass to those unable to be physically present.",
-      "category": null
-    },
-    {
-      "start": "2026-09-19T20:30:00.000Z",
-      "stop": "2026-09-19T21:00:00.000Z",
-      "title": "Key Of David",
-      "subtitle": "Episode 42 of Season 2026",
-      "description": "World events from a faith-based perspective.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T21:00:00.000Z",
-      "stop": "2026-09-19T21:30:00.000Z",
-      "title": "Joseph Prince: New Creation Church",
-      "subtitle": "640 Unleash The Sound Of Victory!",
-      "description": "Pastor Joseph Prince is a leading voice in proclaiming the gospel of grace around the world. He is the senior pastor of New Creation Church, a vibrant and fast-growing church in Singapore.",
-      "category": null
-    },
-    {
-      "start": "2026-09-19T21:30:00.000Z",
-      "stop": "2026-09-19T22:00:00.000Z",
+      "start": "2026-10-01T21:30:00.000Z",
+      "stop": "2026-10-01T22:00:00.000Z",
       "title": "Everyday Gourmet With Justine Schofield",
-      "subtitle": "Episode 5",
+      "subtitle": "Episode 74",
       "description": "Develop your prowess in the kitchen with one of Australia’s most loved cooks, Justine Schofield. Along with an array of amazing guests Justine inspires cooks of all skill levels to be more ambitious and creative in their kitchens.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T22:00:00.000Z",
-      "stop": "2026-09-19T22:30:00.000Z",
-      "title": "Australia By Design: Architecture",
-      "subtitle": "Episode 1",
-      "description": "An architectural tour of Victoria, Australia reveals visually striking and functional homes; each featured residence demonstrates its own unique character and design.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T22:30:00.000Z",
-      "stop": "2026-09-19T23:00:00.000Z",
-      "title": "Planet Shapers",
-      "subtitle": "Episode 1",
-      "description": "Sustainability stories about innovating and adapting to create a more sustainable world.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T23:00:00.000Z",
-      "stop": "2026-09-20T01:00:00.000Z",
-      "title": "UFC 331 Prelims",
-      "subtitle": "Episode 10 of Season 2026",
-      "description": "UFC 331 - Van vs. Pantoja 2 - Prelims will be broadcast LIVE from Los Angeles, CA (USA)",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-20T01:00:00.000Z",
-      "stop": "2026-09-20T01:30:00.000Z",
-      "title": "Food Trail South Africa",
-      "subtitle": "Joburg",
-      "description": "Waz returns to Johannesburg, meeting chef David Higgs first in a surprising petrol-station-turned-deli before going to Marble, & later visits a community garden growing food for generational change.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T01:30:00.000Z",
-      "stop": "2026-09-20T02:00:00.000Z",
-      "title": "Good Chef Bad Chef",
-      "subtitle": "Episode 10",
-      "description": "A chef and a nutritionist bring their distinctive styles of cooking together for food showdowns.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T02:00:00.000Z",
-      "stop": "2026-09-20T02:30:00.000Z",
-      "title": "Good Food Everyday With Gary Mehigan",
-      "subtitle": "Episode 10",
-      "description": "Award-winning chef Gary Mehigan brings healthy eating to life, focusing on flavour-packed, easy-to-prepare meals that support heart health and diabetes management and prevention.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T02:30:00.000Z",
-      "stop": "2026-09-20T03:00:00.000Z",
-      "title": "Farm To Fork",
-      "subtitle": "Episode 56 of Season 7",
-      "description": "Packed with inspiring recipes we will take you on a food journey around Australia and meet some of our hardworking Australian farmers. Hosted by Courtney Roulston, Michael Weldon and Louis Tikaram.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T03:00:00.000Z",
-      "stop": "2026-09-20T03:30:00.000Z",
-      "title": "Deal Or No Deal",
-      "subtitle": "Episode 8",
-      "description": "Zander is not short on confidence as he squares off with The Banker...can he win enough to fix his old VW Van?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T03:30:00.000Z",
-      "stop": "2026-09-20T04:00:00.000Z",
-      "title": "Millionaire Hot Seat",
-      "subtitle": "Episode 46",
-      "description": "Bendy-nosed Damien puts his knowledge to the test in this episode of Millionaire Hot Seat. Amongst those going up against him is identical twin Matt, and golf obsessed Vincent.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T04:00:00.000Z",
-      "stop": "2026-09-20T05:00:00.000Z",
-      "title": "Gogglebox Australia",
-      "subtitle": "Episode 4",
-      "description": "Australian families are televised as they gather in their houses to give their opinions on stories making news all over the world.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T05:00:00.000Z",
-      "stop": "2026-09-20T06:00:00.000Z",
-      "title": "The Finish Line",
-      "subtitle": "Episode 5",
-      "description": "Layton Williams, Emma Barton, Mark Pougatch, Karenjeet Kaur Bains and Dr Punam Krishan race in moving podiums in a festive episode of The Finish Line to try to win £5,000 for their chosen charity.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T06:00:00.000Z",
-      "stop": "2026-09-20T07:00:00.000Z",
+      "start": "2026-10-01T22:00:00.000Z",
+      "stop": "2026-10-01T23:00:00.000Z",
       "title": "Lingo",
-      "subtitle": "Episode 12",
+      "subtitle": "Episode 20",
       "description": "A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T07:00:00.000Z",
-      "stop": "2026-09-20T08:30:00.000Z",
-      "title": "10 News",
-      "subtitle": "Sunday 20 September 2026",
+      "start": "2026-10-01T23:00:00.000Z",
+      "stop": "2026-10-02T00:00:00.000Z",
+      "title": "The Finish Line",
+      "subtitle": "Episode 30",
+      "description": "Roman Kemp returns to host the quiz show with sidekick Sarah Greene - contestants race in moving podiums across the studio floor. Correct answers get the players moving, wrong answers will stop them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T00:00:00.000Z",
+      "stop": "2026-10-02T00:30:00.000Z",
+      "title": "Farm To Fork",
+      "subtitle": "Episode 75",
+      "description": "Farm to Fork journeys across Australia with acclaimed chefs, discovering fresh local produce and inspiring healthy recipes to ignite passion for cooking at home.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T00:30:00.000Z",
+      "stop": "2026-10-02T01:00:00.000Z",
+      "title": "Entertainment Tonight",
+      "subtitle": "Episode 13",
+      "description": "Anchors and correspondents cover the top stories in the world of entertainment, ranging from exclusives in celebrity gossip to show business news.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T01:00:00.000Z",
+      "stop": "2026-10-02T02:00:00.000Z",
+      "title": "Building The Dream",
+      "subtitle": "Siddy / Darren And Nicky Revisit",
+      "description": "Charlie is in Devon to catch up with Siddy, who had hoped to turn her studio into a new home and workspace.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T02:00:00.000Z",
+      "stop": "2026-10-02T02:30:00.000Z",
+      "title": "Everyday Gourmet With Justine Schofield",
+      "subtitle": "Episode 75",
+      "description": "Develop your prowess in the kitchen with one of Australia’s most loved cooks, Justine Schofield. Along with an array of amazing guests Justine inspires cooks of all skill levels to be more ambitious and creative in their kitchens.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T02:30:00.000Z",
+      "stop": "2026-10-02T03:00:00.000Z",
+      "title": "Millionaire Hot Seat",
+      "subtitle": "Episode 154",
+      "description": "A lifelong Melbourne Sci-Fi Club member, a semi-pro soccer player who volunteers at the wildlife park, and a man building his own Mustang are among six contestants chasing the million-dollar prize.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T03:00:00.000Z",
+      "stop": "2026-10-02T04:00:00.000Z",
+      "title": "10 News: Lunchtime",
+      "subtitle": "Friday 2 October 2026",
       "description": "Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T08:30:00.000Z",
-      "stop": "2026-09-20T09:00:00.000Z",
-      "title": "10 News+",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-20T09:00:00.000Z",
-      "stop": "2026-09-20T10:00:00.000Z",
-      "title": "Gogglebox Australia",
-      "subtitle": "Episode 5",
-      "description": "Some of Australia's most opinionated and avid TV viewers comment freely on the best and worst television shows they've watched over the past week, from the comfort of their living rooms.",
+      "start": "2026-10-02T04:00:00.000Z",
+      "stop": "2026-10-02T04:30:00.000Z",
+      "title": "Deal Or No Deal",
+      "subtitle": "Episode 34",
+      "description": "Country Larrikin Greg is here for a good time and to upgrade his BBQ set up. But will he still be laughing when The Banker starts grilling him?",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T10:00:00.000Z",
-      "stop": "2026-09-20T11:00:00.000Z",
-      "title": "Watson",
-      "subtitle": "Wrongful Life",
-      "description": "Watson is sued for Wrongful Life by a long-term patient suffering from VACTERL association, after undergoing multiple painful surgeries.",
+      "start": "2026-10-02T04:30:00.000Z",
+      "stop": "2026-10-02T05:30:00.000Z",
+      "title": "The Finish Line",
+      "subtitle": "Episode 10 of Season 2",
+      "description": "Craig, Priya, Mark, Christine and Deborah race in moving podiums across the studio floor to try and win £5,000.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:30:00.000Z",
+      "stop": "2026-10-02T06:30:00.000Z",
+      "title": "Lingo",
+      "subtitle": "Episode 8",
+      "description": "Looking for the winning words today are Spice Girls super fan Sid and his wife Shabs, Essex brothers Jake and Dean and stepdad and stepson, Ottis and Rey.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T06:30:00.000Z",
+      "stop": "2026-10-02T07:00:00.000Z",
+      "title": "The Bold and the Beautiful",
+      "subtitle": "Episode 9872",
+      "description": "Katie sets her sights on a new addition for Logan. R.J. and Zende begin collaborating on the new Electra line.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T11:00:00.000Z",
-      "stop": "2026-09-20T12:00:00.000Z",
-      "title": "FBI",
-      "subtitle": "Forgiven",
-      "description": "After Maggie's sister goes missing, the team begins an all-out search to recover her. But when Maggie discovers Erin was kidnapped by a sinister figure from her past, she must save her.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-20T12:00:00.000Z",
-      "stop": "2026-09-20T13:00:00.000Z",
-      "title": "FBI",
-      "subtitle": "Lineage",
-      "description": "Follows the New York field office as the team tackles high stakes cases involving terrorism, organised crime, and national security, while personal pressures test their resolve.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-20T13:00:00.000Z",
-      "stop": "2026-09-20T14:00:00.000Z",
-      "title": "FBI",
-      "subtitle": "Blkpill",
-      "description": "Follows the New York field office as the team tackles high stakes cases involving terrorism, organised crime, and national security, while personal pressures test their resolve.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-20T14:00:00.000Z",
-      "stop": "2026-09-20T14:30:00.000Z",
-      "title": "10 News+",
-      "subtitle": "Monday 21 September 2026",
-      "description": "10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.",
+      "start": "2026-10-02T07:00:00.000Z",
+      "stop": "2026-10-02T08:30:00.000Z",
+      "title": "10 News",
+      "subtitle": "Friday 2 October 2026",
+      "description": "Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T14:30:00.000Z",
-      "stop": "2026-09-20T15:00:00.000Z",
+      "start": "2026-10-02T08:30:00.000Z",
+      "stop": "2026-10-02T09:00:00.000Z",
+      "title": "Deal Or No Deal",
+      "subtitle": "Episode 103",
+      "description": "Sports mad Leigh Roy wants to win enough money to go spread his brother's ashes on Augusta golf course.   Can he stay on the green and better the Banker or will he be stuck in the rough?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T09:00:00.000Z",
+      "stop": "2026-10-02T09:30:00.000Z",
+      "title": "Millionaire Hot Seat",
+      "subtitle": null,
+      "description": "Six contestants go head-to-head to survive the hot seat and win the cash. This is a game of strategy, skill, and survival.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T09:30:00.000Z",
+      "stop": "2026-10-02T10:30:00.000Z",
+      "title": "Love It Or List It Australia",
+      "subtitle": "Wooloowin",
+      "description": "Jules loves his inner city beach bungalow for its low maintenance & character which suits his personality but Erin is done with living in small space & wants space and she is keen to search for it.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T10:30:00.000Z",
+      "stop": "2026-10-02T11:30:00.000Z",
+      "title": "Have You Been Paying Attention?",
+      "subtitle": "Have You Been Paying Attention? Encore",
+      "description": "Have Glenn Robbins, Bron Lewis, Emma Holland, Ed Kavalee and Sam Pang been paying attention? Host Tom Gleisner and special guest quizmaster Jiaoying Summers are about to find out.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T11:30:00.000Z",
+      "stop": "2026-10-02T12:30:00.000Z",
+      "title": "10's Late News",
+      "subtitle": "Friday 2 October 2026",
+      "description": "Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T12:30:00.000Z",
+      "stop": "2026-10-02T13:00:00.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "A Live Woman Of Proven Fertility",
+      "description": "Herb (Ryan Stiles) and Jake's relationship threatens wedding plans with Judith, so Alan and Charlie take action.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T13:00:00.000Z",
+      "stop": "2026-10-02T13:30:00.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Apologies For The Frivolity",
+      "description": "Charlie doesn't realise that his latest girlfriend is a younger version of his mother.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T13:30:00.000Z",
+      "stop": "2026-10-02T14:00:00.000Z",
+      "title": "Two And A Half Men",
+      "subtitle": "Repeated Blows To His Unformed Head",
+      "description": "Charlie helps Berta confront the man who impregnated her daughter. Meanwhile, Alan satisfies a secret fetish.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-02T14:00:00.000Z",
+      "stop": "2026-10-02T14:30:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Episode 86 of Season 2019",
+      "subtitle": "Episode 1 of Season 2019",
       "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T14:30:00.000Z",
+      "stop": "2026-10-02T15:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 2 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:00:00.000Z",
+      "stop": "2026-10-02T15:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 3 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:30:00.000Z",
+      "stop": "2026-10-02T16:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 4 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:00:00.000Z",
+      "stop": "2026-10-02T16:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 5 of Season 2019",
+      "description": "Synopsis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:30:00.000Z",
+      "stop": "2026-10-02T17:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 6 of Season 2019",
+      "description": "Paid programming.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:00:00.000Z",
+      "stop": "2026-10-02T17:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Home Shopping",
+      "description": "Paid programming.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:30:00.000Z",
+      "stop": "2026-10-02T18:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 8 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T18:00:00.000Z",
+      "stop": "2026-10-02T18:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 9 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T18:30:00.000Z",
+      "stop": "2026-10-02T19:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 10 of Season 2019",
+      "description": "Paid programming.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:00:00.000Z",
+      "stop": "2026-10-02T19:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 11 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:30:00.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Episode 12 of Season 2019",
+      "description": "A show that offers a variety of product demonstrations and great deals for consumers looking to buy them.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T21:00:00.000Z",
+      "title": "What's Up Down Under",
+      "subtitle": "Episode 3",
+      "description": "A look at the Australian caravanning and holiday park experience featuring innovations, journeys for charity, reviews and road tests.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:00:00.000Z",
+      "stop": "2026-10-02T21:30:00.000Z",
+      "title": "Reel Action",
+      "subtitle": "Episode 10",
+      "description": "Working a surface popper across the surface and watching a 20 kilo Spanish Mackerel make an ariel attack is mind blowing. It's a style of fishing that keeps you wanting more!!",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:30:00.000Z",
+      "stop": "2026-10-02T22:00:00.000Z",
+      "title": "Escape Fishing With ET",
+      "subtitle": "Episode 1",
+      "description": "Five day Great Barrier Reef adventure. Ten days to fit out the Surtees 770, racing the clock. Now it's game on, inshore reefs, big sharks, epic fish, living aboard. Escape Fishing starts here.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-02T22:00:00.000Z",
+      "stop": "2026-10-02T22:30:00.000Z",
+      "title": "IFISH",
+      "subtitle": "Episode 5",
+      "description": "Glamour conditions and fish coming in thick and fast make for a cracking episode out of Coffin Bay, SA, as Jamie Crawford shows the best of the Southern Ocean.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-02T22:30:00.000Z",
+      "stop": "2026-10-02T23:00:00.000Z",
+      "title": "Camper Deals",
+      "subtitle": "Episode 2 of Season 4",
+      "description": "Explore and discover the great and latest products that the caravanning, Camping and 4WD lifestyles have to offer to make your travel experiences better.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T23:00:00.000Z",
+      "stop": "2026-10-02T23:30:00.000Z",
+      "title": "Everyday Gourmet With Justine Schofield",
+      "subtitle": "Episode 10",
+      "description": "Develop your prowess in the kitchen with one of Australia’s most loved cooks, Justine Schofield. Along with an array of amazing guests Justine inspires cooks of all skill levels to be more ambitious and creative in their kitchens.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T23:30:00.000Z",
+      "stop": "2026-10-03T00:30:00.000Z",
+      "title": "The Finish Line",
+      "subtitle": "Episode 15",
+      "description": "Roman Kemp and sidekick Sarah Greene host the quiz show where knowledge equals speed. Bobby, Sue, Richard, Ellie and Josh race on moving podiums across the studio floor to try and win $5,000.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-03T00:30:00.000Z",
+      "stop": "2026-10-03T01:30:00.000Z",
+      "title": "What's Up Down Under",
+      "subtitle": "Episode 7",
+      "description": "A look at the Australian caravanning and holiday park experience featuring innovations, journeys for charity, reviews and road tests.",
       "category": "Special Interest"
     }
   ]

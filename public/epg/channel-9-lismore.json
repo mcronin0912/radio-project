@@ -2,302 +2,358 @@
   "slug": "channel-9-lismore",
   "epgId": "mjh-channel-9-lismore",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T02:00:00.000Z",
-      "stop": "2026-09-19T02:30:00.000Z",
-      "title": "Surfing Australia TV",
-      "subtitle": "Episode 9 of Season 11",
-      "description": "Showcases Surfing Australia's programs from junior development through to the elite athletes in surfing.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T02:30:00.000Z",
-      "stop": "2026-09-19T03:00:00.000Z",
-      "title": "Drive Review",
-      "subtitle": "Denza B8 vs LC300 + Tesla Model Y",
-      "description": "In this episode, we compare classic off-road underpinnings against the latest technology, its newcomer, Denza, against stalwart Toyota. Also, we push you back in your seat with the Tesla Model Y Performance.",
+      "start": "2026-10-01T10:48:00.000Z",
+      "stop": "2026-10-01T13:04:00.000Z",
+      "title": "Fatty: A Life Unscripted",
+      "subtitle": null,
+      "description": "Paul Vautin's unpredictable path from \"no-name ginger\" to Aussie sport & TV icon. This documentary reveals the grit beneath the gagman. The definitive story of a rugby league rogue who rewrote the rules just by being himself.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T03:00:00.000Z",
-      "stop": "2026-09-19T03:30:00.000Z",
-      "title": "Cybershack",
-      "subtitle": "Episode 1 of Season 2025",
-      "description": "The crew showcase the latest gadgets and cool tech from around the world. Charlie Brown, Sara Isakka, Rupert Raineri and Kristy Hocking present the latest tech, special guests and more on Australia's longest running technology show.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T03:30:00.000Z",
-      "stop": "2026-09-19T05:00:00.000Z",
-      "title": "The Block",
-      "subtitle": "Guest Suite Reveal",
-      "description": "Find out who takes home $10,000 for their stunning guest suite.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:00:00.000Z",
-      "stop": "2026-09-19T06:00:00.000Z",
-      "title": "NRLW Wrap",
-      "subtitle": "Episode 12 of Season 2",
-      "description": "Join Bronte Gildea, Allana Ferguson, Ruan Sims and Marlee Silva for all the latest news from the NRLW.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T06:00:00.000Z",
-      "stop": "2026-09-19T07:59:00.000Z",
-      "title": "NRL Women's Premiership",
-      "subtitle": "Broncos v Knights",
-      "description": "Wide World of Sports presents the NRL Women's Premiership 2nd Semi-Final between the Broncos and Knights, live from Totally Workwear Stadium. Join our expert commentary team for all the action Kick off at 4:05PM AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T07:59:00.000Z",
-      "stop": "2026-09-19T09:00:00.000Z",
-      "title": "9News Saturday",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.",
+      "start": "2026-10-01T13:04:00.000Z",
+      "stop": "2026-10-01T13:30:00.000Z",
+      "title": "9News Late",
+      "subtitle": "Thursday 1 October 2026",
+      "description": "Join the 9News Late team for all of today's top stories from Australia and around the world.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T09:00:00.000Z",
-      "stop": "2026-09-19T09:50:00.000Z",
-      "title": "NRL Finals Footy",
-      "subtitle": "Roosters v Sharks",
-      "description": "Wide World of Sports presents the 1st Semi-Final between the Roosters and Sharks, live from Allianz Stadium. Join our expert commentary team for all the action, analysis and post-match interviews. Kick off at 7:50PM AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T09:50:00.000Z",
-      "stop": "2026-09-19T11:50:00.000Z",
-      "title": "NRL Finals Footy",
-      "subtitle": "Roosters v Sharks",
-      "description": "Wide World of Sports presents the 1st Semi-Final between the Roosters and Sharks, live from Allianz Stadium. Join our expert commentary team for all the action, analysis and post-match interviews. Kick off at 7:50PM AEST.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T11:50:00.000Z",
-      "stop": "2026-09-19T12:45:00.000Z",
-      "title": "NRL Finals Footy Post-Match",
-      "subtitle": "Roosters v Sharks",
-      "description": "Join the Wide World of Sports team for the all the post-match NRL Finals news and analysis.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T12:45:00.000Z",
-      "stop": "2026-09-19T14:39:00.000Z",
-      "title": "Rocky Balboa",
-      "subtitle": null,
-      "description": "Thirty years after the ring of the first bell, Rocky Balboa comes out of retirement and dons his gloves for his final fight; against the reigning heavyweight champ Mason 'The Line' Dixon. Starring Sylvester Stallone and Burt Young.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T14:39:00.000Z",
-      "stop": "2026-09-19T15:36:00.000Z",
-      "title": "Wild Cards",
-      "subtitle": "Death By Design",
-      "description": "When the head of a popular streetwear clothing brand is found dead, Max and Ellis find themselves investigating a murder within the world of haute couture, fashion models and overworked assistants.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-19T15:36:00.000Z",
-      "stop": "2026-09-19T16:10:00.000Z",
+      "start": "2026-10-01T13:30:00.000Z",
+      "stop": "2026-10-01T13:57:00.000Z",
       "title": "Next Stop",
-      "subtitle": "Hong Kong and Sri Lanka",
-      "description": "A quick plunge into the sights, sounds, history, and flavours of your next destination.",
+      "subtitle": "Greek Islands / The Balkans",
+      "description": "A quick plunge into the sights, sounds, history and flavors of your next destination.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T16:10:00.000Z",
-      "stop": "2026-09-19T16:38:00.000Z",
-      "title": "The Incredible Journey",
-      "subtitle": "Searching for Jesus in Ancient Manuscripts",
-      "description": "Religious program.",
-      "category": null
+      "start": "2026-10-01T13:57:00.000Z",
+      "stop": "2026-10-01T14:51:00.000Z",
+      "title": "Tipping Point",
+      "subtitle": "Episode 4",
+      "description": "Ben Shephard hosts as Andrew, Angie and Darien answer questions and take on the machine for a cash jackpot.",
+      "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T16:38:00.000Z",
-      "stop": "2026-09-19T17:07:00.000Z",
+      "start": "2026-10-01T14:51:00.000Z",
+      "stop": "2026-10-01T15:43:00.000Z",
+      "title": "Pointless",
+      "subtitle": "Episode 44",
+      "description": "Alexander Armstrong is joined once more by Ellie Taylor, looking for the obscure answers.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T15:43:00.000Z",
+      "stop": "2026-10-01T16:11:00.000Z",
       "title": "TV Shop - Home Shopping",
-      "subtitle": "Kelton Cookware",
+      "subtitle": "Total Gym Fit",
       "description": "Home shopping programme.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T17:07:00.000Z",
-      "stop": "2026-09-19T17:35:00.000Z",
+      "start": "2026-10-01T16:11:00.000Z",
+      "stop": "2026-10-01T16:40:00.000Z",
       "title": "TV Shop - Home Shopping",
-      "subtitle": "Renovator Better Grip",
+      "subtitle": "Starlyf Foldable Pool",
       "description": "Home shopping programme.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T17:35:00.000Z",
-      "stop": "2026-09-19T18:04:00.000Z",
-      "title": "TV Shop - Home Shopping",
-      "subtitle": "TEVO Heater",
-      "description": "Home shopping programme.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:04:00.000Z",
-      "stop": "2026-09-19T18:32:00.000Z",
-      "title": "TV Shop - Home Shopping",
-      "subtitle": "Handy Saw",
-      "description": "Home shopping programme.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:32:00.000Z",
-      "stop": "2026-09-19T19:01:00.000Z",
+      "start": "2026-10-01T16:40:00.000Z",
+      "stop": "2026-10-01T17:08:00.000Z",
       "title": "Global Shop",
       "subtitle": "Pocket Hose Copper Head",
       "description": "Home shopping programme.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T19:01:00.000Z",
-      "stop": "2026-09-19T19:30:00.000Z",
+      "start": "2026-10-01T17:08:00.000Z",
+      "stop": "2026-10-01T17:37:00.000Z",
       "title": "TV Shop - Home Shopping",
       "subtitle": "Kelton Cookware",
       "description": "Home shopping programme.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T19:30:00.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
-      "title": "Helping Hands",
-      "subtitle": "Episode 30 of Season 4",
-      "description": "Celebrating the people and organisations across Australia who make the world a better place. helpinghands.tv",
+      "start": "2026-10-01T17:37:00.000Z",
+      "stop": "2026-10-01T18:05:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Total Gym Fit",
+      "description": "Home shopping programme.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T20:30:00.000Z",
-      "title": "Hello SA",
-      "subtitle": "Baird Bay",
-      "description": "We visit the stunning Baird Bay on the Eyre Peninsula, explore Port Augusta's Australian Arid Lands Botanic Garden, and talk about all things weddings with Unforgettable Proposals, Alexandra Lingerie, and Jenny and Gerry's Bridal Centre.",
-      "category": "Special Interest"
+      "start": "2026-10-01T18:05:00.000Z",
+      "stop": "2026-10-01T18:32:00.000Z",
+      "title": "Skippy",
+      "subtitle": "Be Our Guest",
+      "description": "Clancy's mother arrives at Waratah National Park, but Clancy gets lost after a horse accident, and a group of Aborigines follow her.",
+      "category": "Kids & Family"
     },
     {
-      "start": "2026-09-19T20:30:00.000Z",
-      "stop": "2026-09-19T21:00:00.000Z",
-      "title": "Destination WA",
-      "subtitle": "Episode 15",
-      "description": "On today's show Tracey hits the ground running at HBF Run for a Reason, Will takes in the stunning sights and rich history of Mundaring Weir, and Trevor dives into the crystal-clear waters of the Rowley Shoals for underwater adventure.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T21:00:00.000Z",
-      "stop": "2026-09-20T00:00:00.000Z",
-      "title": "Weekend Today",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Join the Weekend Today team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "start": "2026-10-01T18:32:00.000Z",
+      "stop": "2026-10-01T19:00:00.000Z",
+      "title": "A Current Affair",
+      "subtitle": "Thursday 1 October 2026",
+      "description": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T00:00:00.000Z",
-      "stop": "2026-09-20T01:00:00.000Z",
-      "title": "Wide World Of Sports",
-      "subtitle": "Episode 30",
-      "description": "Australia's sporting heroes & stars debate all the juicy topics in a unique & in depth style you've come to love over the 50 years of Wide World of Sports. Plus scores, overnight results & special features. Hosted by Nick McArdle.",
-      "category": "Sports"
+      "start": "2026-10-01T19:00:00.000Z",
+      "stop": "2026-10-01T19:29:00.000Z",
+      "title": "Today Early News",
+      "subtitle": "Friday 2 October 2026",
+      "description": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T01:00:00.000Z",
-      "stop": "2026-09-20T03:00:00.000Z",
-      "title": "Sunday Footy Show",
-      "subtitle": "Episode 29",
-      "description": "Join hosts Danika Mason, Andrew Johns, Brad Fittler and Billy Slater as this all star line-up deep dive into all things Rugby League & chat with the NRL's biggest stars.",
-      "category": "Sports"
+      "start": "2026-10-01T19:29:00.000Z",
+      "stop": "2026-10-01T23:00:00.000Z",
+      "title": "Today",
+      "subtitle": "Friday 2 October 2026",
+      "description": "Join Sylvia Jeffreys and Tom Steinfort and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T03:00:00.000Z",
-      "stop": "2026-09-20T03:30:00.000Z",
-      "title": "Golfbarons",
-      "subtitle": "Technology",
-      "description": "A panel of experts banter about the game they love and take up some innovative experiments with how the game can be played.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-20T03:30:00.000Z",
-      "stop": "2026-09-20T04:30:00.000Z",
-      "title": "The Block",
-      "subtitle": "Kitchen Week",
-      "description": "Shelley helps Tayla with her styling, Sev gets good news and there is 100,000 reasons to win Kitchen week.",
+      "start": "2026-10-01T23:00:00.000Z",
+      "stop": "2026-10-02T01:30:00.000Z",
+      "title": "Today Extra",
+      "subtitle": "Episode 176",
+      "description": "Join the TODAY EXTRA team for an exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, LIVE music performances, the latest in fashion and beauty trends.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T04:30:00.000Z",
-      "stop": "2026-09-20T08:00:00.000Z",
-      "title": "NRL Finals Footy",
-      "subtitle": "Warriors v Knights",
-      "description": "Wide World of Sports presents the 2nd Semi-Final between the Warriors and Knights, live from Eden Park. Join our expert commentary team for all the action, analysis and post-match interviews. Kick off at 4:05PM AEST.",
-      "category": "Sports"
+      "start": "2026-10-02T01:30:00.000Z",
+      "stop": "2026-10-02T02:00:00.000Z",
+      "title": "9News Morning",
+      "subtitle": "Friday 2 October 2026",
+      "description": "Join 9News for up to the minute news on local and international news including sport and weather.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T08:00:00.000Z",
-      "stop": "2026-09-20T09:00:00.000Z",
-      "title": "9News - Sunday",
-      "subtitle": "Sunday 20 September 2026",
+      "start": "2026-10-02T02:00:00.000Z",
+      "stop": "2026-10-02T03:15:00.000Z",
+      "title": "The Block",
+      "subtitle": "Kids Room and Re-Do Room Week",
+      "description": "The Block is rattled by a conspiracy theory and it's time to showcase the homes to the public. Find out who wins $50,000.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T03:15:00.000Z",
+      "stop": "2026-10-02T03:45:00.000Z",
+      "title": "Destination WA",
+      "subtitle": "Episode 32",
+      "description": "This season ender of Destination WA, Will puts his driving skills to the test at a high-performance racing experience, while Nikka visits Bailey Brewing to discover the fun and exciting activities on offer every week.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T03:45:00.000Z",
+      "stop": "2026-10-02T04:00:00.000Z",
+      "title": "My Way",
+      "subtitle": "History Hunters",
+      "description": "Tim Blackwell introduces inspirational Aussies, each with a unique story about how they live their best life. It's a lifestyle program that allows people to tell their own stories firsthand to say, 'I'm doing this My Way'.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T04:00:00.000Z",
+      "stop": "2026-10-02T05:00:00.000Z",
+      "title": "Pointless",
+      "subtitle": "Episode 45",
+      "description": "It's a favourite – the periodic table – on the board. Will there be pointless answers?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:00:00.000Z",
+      "stop": "2026-10-02T06:00:00.000Z",
+      "title": "Tipping Point",
+      "subtitle": "Episode 5",
+      "description": "Ben Shephard hosts as Michelle, Arif and Kayleigh answer questions and take on the machine for a cash jackpot.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T06:00:00.000Z",
+      "stop": "2026-10-02T06:30:00.000Z",
+      "title": "9News Afternoon",
+      "subtitle": "Friday 2 October 2026",
+      "description": "9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T06:30:00.000Z",
+      "stop": "2026-10-02T07:30:00.000Z",
+      "title": "Tipping Point Australia",
+      "subtitle": "Episode 45",
+      "description": "Hosted by Todd Woodbridge, Tipping Point will push contestants' luck to the very edge. Three contestants go head to head against the mesmerising machine with one lucky contestant walking away with the jackpot.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T07:30:00.000Z",
+      "stop": "2026-10-02T08:00:00.000Z",
+      "title": "NBN News",
+      "subtitle": "Friday 2 October 2026",
+      "description": "NBN presents the latest in news, sport and weather locally, nationally and around the world.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T08:00:00.000Z",
+      "stop": "2026-10-02T09:00:00.000Z",
+      "title": "9News",
+      "subtitle": "Friday 2 October 2026",
       "description": "Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T09:00:00.000Z",
-      "stop": "2026-09-20T10:40:00.000Z",
-      "title": "The Block",
-      "subtitle": "Kitchen Week Reveal",
-      "description": "Find out who wins $100,000 for their kitchen in judging.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T10:40:00.000Z",
-      "stop": "2026-09-20T11:40:00.000Z",
-      "title": "60 Minutes",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Queen of comedy Magda Szubanski sits down with Tracy Grimshaw in her first major interview since her bombshell cancer diagnosis.   Plus, surfing legend Mick Fanning on how he turned loss into strength.",
+      "start": "2026-10-02T09:00:00.000Z",
+      "stop": "2026-10-02T09:30:00.000Z",
+      "title": "A Current Affair",
+      "subtitle": "Friday 2 October 2026",
+      "description": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T11:40:00.000Z",
-      "stop": "2026-09-20T12:10:00.000Z",
-      "title": "9News Late",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Join the 9News Late team for all of today's top stories from Australia and around the world.",
+      "start": "2026-10-02T09:30:00.000Z",
+      "stop": "2026-10-02T10:30:00.000Z",
+      "title": "Chateau Diy Australia",
+      "subtitle": "Episode 1",
+      "description": "Janet and Philip tackle their towering stairwell. Deanne and Richard revamp a bedroom into a Brigitte Bardot-inspired retreat. Suzie races to turn a cattle shed into a wine bar in time for a wedding.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T10:30:00.000Z",
+      "stop": "2026-10-02T13:10:00.000Z",
+      "title": "The Accountant",
+      "subtitle": null,
+      "description": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities, and the body count starts to rise. (Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal)",
+      "category": "Action & Adventure"
+    },
+    {
+      "start": "2026-10-02T13:10:00.000Z",
+      "stop": "2026-10-02T14:00:00.000Z",
+      "title": "See No Evil",
+      "subtitle": "The Wrong Woman",
+      "description": "In 2017, Alisha Canales-McGuire is shot dead at her sister's house. Evidence points to a targeted attack, but detectives can find no reason why anyone would kill Alisha until CCTV and social media lead to a tangled murder plot.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T14:00:00.000Z",
+      "stop": "2026-10-02T15:00:00.000Z",
+      "title": "Tipping Point",
+      "subtitle": "Episode 5",
+      "description": "Ben Shephard hosts as Michelle, Arif and Kayleigh answer questions and take on the machine for a cash jackpot.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:00:00.000Z",
+      "stop": "2026-10-02T15:30:00.000Z",
+      "title": "Hello SA",
+      "subtitle": "Adelaide Farmers' Market",
+      "description": "We celebrate 20 years of the Adelaide Farmers' Market, visit the Adelaide Aquatic Centre, and get inspired ahead of ADL Fashion Week.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:30:00.000Z",
+      "stop": "2026-10-02T16:00:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Starlyf Foldable Pool",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:00:00.000Z",
+      "stop": "2026-10-02T16:30:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Kelton Cookware",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:30:00.000Z",
+      "stop": "2026-10-02T17:00:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Total Gym Fit",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:00:00.000Z",
+      "stop": "2026-10-02T17:30:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Starlyf Foldable Pool",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:30:00.000Z",
+      "stop": "2026-10-02T18:00:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Kelton Cookware",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T18:00:00.000Z",
+      "stop": "2026-10-02T18:30:00.000Z",
+      "title": "Skippy",
+      "subtitle": "The Golden Reef",
+      "description": "Sonny and Skippy discover two geologists diving on a reef in Waratah National Park. The geologists suspect that gold may have washed down the river and collected on the reef.",
+      "category": "Kids & Family"
+    },
+    {
+      "start": "2026-10-02T18:30:00.000Z",
+      "stop": "2026-10-02T19:00:00.000Z",
+      "title": "Global Shop",
+      "subtitle": "Eezy Breezy",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:00:00.000Z",
+      "stop": "2026-10-02T19:30:00.000Z",
+      "title": "TV Shop - Home Shopping",
+      "subtitle": "Total Gym Fit",
+      "description": "Home shopping programme.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:30:00.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Postcards",
+      "subtitle": "Episode 30",
+      "description": "Brodie visits one of Melbourne's oldest homes in Black Rock. Madeline's on the Sunshine Coast for some winter sun. Lauren checks out the ROME Exhibition at Melbourne Museum. And Shane indulges in the cuisines of Warburton.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T20:30:00.000Z",
+      "title": "Getaway",
+      "subtitle": "Episode 33",
+      "description": "This week on Getaway, the new Sydney Fish Markets, exploring the spectacular Cook Islands plus a foodie tour of Margaret River.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:30:00.000Z",
+      "stop": "2026-10-02T21:00:00.000Z",
+      "title": "A Current Affair",
+      "subtitle": "Friday 2 October 2026",
+      "description": "A Current Affair covers the realms of politics, crime, human rights, science, technology, celebrities and entertainment - all investigated by a dedicated team.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T12:10:00.000Z",
-      "stop": "2026-09-20T13:10:00.000Z",
-      "title": "The First 48",
-      "subtitle": "Along Came a Killer",
-      "description": "When three people are gunned down in a quiet neighbourhood, Gwinnette County police struggle to find a connection between the victims.",
-      "category": "Special Interest"
+      "start": "2026-10-02T21:00:00.000Z",
+      "stop": "2026-10-03T00:00:00.000Z",
+      "title": "Weekend Today",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "Join the Weekend Today team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T13:10:00.000Z",
-      "stop": "2026-09-20T14:00:00.000Z",
-      "title": "Murder In The 21st",
-      "subtitle": "Dead End",
-      "description": "A young, pregnant woman is found dead of an apparent suicide in Saginaw, MI, but her family and friends don't believe it. As police dig deep to get to the truth, they discover a shocking secret they never saw coming.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T14:00:00.000Z",
-      "stop": "2026-09-20T14:30:00.000Z",
-      "title": "I Survived A Crime",
-      "subtitle": "Episode 3",
-      "description": "A family faces off with violent attackers trying to rob their jewelry store; two young women flee from a driver out to get them on a terrifying road trip.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T14:30:00.000Z",
-      "stop": "2026-09-20T15:30:00.000Z",
-      "title": "Tycoons Down Under",
-      "subtitle": "Hard Times",
-      "description": "The story of Australia's biggest tycoons is filled with incredible rises and even moreastonishing falls. People like Alan Bond, Rene Rivkin, and Christopher Skase had rapid success, achieving great wealth and influence.",
+      "start": "2026-10-03T00:00:00.000Z",
+      "stop": "2026-10-03T02:00:00.000Z",
+      "title": "Today Extra - Saturday",
+      "subtitle": "Episode 34",
+      "description": "Join the team for the best of TODAY EXTRA – an exciting mix of highlights from the week in review. Includes the best celebrity interviews, cooking with Australia's top chefs, the latest in fashion & more.",
       "category": "Special Interest"
     }
   ]

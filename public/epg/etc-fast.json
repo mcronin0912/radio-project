@@ -1,0 +1,32 @@
+{
+  "slug": "etc-fast",
+  "epgId": "mjh-etc-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:47:29.000Z",
+      "stop": "2026-10-01T12:42:13.000Z",
+      "title": "Dorset",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:42:13.000Z",
+      "stop": "2026-10-01T13:35:07.000Z",
+      "title": "Dorset",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:35:07.000Z",
+      "stop": "2026-10-01T14:05:07.000Z",
+      "title": "Hampshire",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

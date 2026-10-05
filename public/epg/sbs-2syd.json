@@ -2,383 +2,423 @@
   "slug": "sbs-2syd",
   "epgId": "mjh-sbs-2syd",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T02:05:00.000Z",
-      "stop": "2026-09-19T04:25:00.000Z",
-      "title": "The Fifth Element",
-      "subtitle": null,
-      "description": "In the 23rd century, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep a great extra-terrestrial evil and Zorg at bay. (Bruce Willis, Gary Oldman)",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-19T04:25:00.000Z",
-      "stop": "2026-09-19T04:40:00.000Z",
-      "title": "Fear Itself With Alex Lee",
-      "subtitle": "Heart Of Fear",
-      "description": "In this three-part series, comedian Alex Lee (a huge coward) faces her worst nightmares to get to the heart of fear.",
+      "start": "2026-10-01T11:20:00.000Z",
+      "stop": "2026-10-01T12:15:00.000Z",
+      "title": "Alone",
+      "subtitle": "Finding A Foothold",
+      "description": "As the turbulent first week ends, the remaining survivalists regain their footing. One discovers an unconventional food source, while another sees an opportunity for an even bigger payday.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T04:40:00.000Z",
-      "stop": "2026-09-19T05:40:00.000Z",
-      "title": "If You Are The One",
-      "subtitle": "Episode 9",
-      "description": "Is love like kite-flying? In this episode of the popular Chinese dating show, a male guest's remarks cause controversy.",
+      "start": "2026-10-01T12:15:00.000Z",
+      "stop": "2026-10-01T13:10:00.000Z",
+      "title": "Alone",
+      "subtitle": "The Tempest",
+      "description": "The survivalists finally find plenty of game, but their good fortune is short-lived as dark clouds gather on the horizon.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T05:40:00.000Z",
-      "stop": "2026-09-19T05:45:00.000Z",
-      "title": "NITV News Update",
-      "subtitle": "Episode 175",
-      "description": "NITV News recaptures the highlights of Indigenous news around the country.",
-      "category": "News"
+      "start": "2026-10-01T13:10:00.000Z",
+      "stop": "2026-10-01T14:10:00.000Z",
+      "title": "The Americans",
+      "subtitle": "The Soviet Division",
+      "description": "The riveting season finale of The Americans finds Philip and Elizabeth racing against the clock as a life hangs in the balance, while Stan faces an uncertain future.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T05:45:00.000Z",
-      "stop": "2026-09-19T06:15:00.000Z",
-      "title": "BBC News At Ten",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
-      "category": "News"
+      "start": "2026-10-01T14:10:00.000Z",
+      "stop": "2026-10-01T14:35:00.000Z",
+      "title": "The Patient",
+      "subtitle": "Intake",
+      "description": "Dr. Alan Strauss, a therapist mourning the death of his wife, takes on an enigmatic new client.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T06:15:00.000Z",
-      "stop": "2026-09-19T06:45:00.000Z",
-      "title": "France 24 International News",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
-      "category": "News"
+      "start": "2026-10-01T14:35:00.000Z",
+      "stop": "2026-10-01T15:05:00.000Z",
+      "title": "The Patient",
+      "subtitle": "Alan Learns To Meditate",
+      "description": "Sam delves deeper into the reason he entered therapy, but encounters resistance from Dr. Strauss.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T06:45:00.000Z",
-      "stop": "2026-09-19T07:45:00.000Z",
-      "title": "PBS Newshour",
-      "subtitle": "Saturday 19 September 2026",
-      "description": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
-      "category": "News"
+      "start": "2026-10-01T15:05:00.000Z",
+      "stop": "2026-10-01T15:35:00.000Z",
+      "title": "The Patient",
+      "subtitle": "Issues",
+      "description": "Sam's desire to find a therapeutic solution grows as his inner struggle intensifies.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T07:45:00.000Z",
-      "stop": "2026-09-19T08:15:00.000Z",
-      "title": "Mastermind Australia",
-      "subtitle": "Episode 41",
-      "description": "Tonight's specialty subjects are: The Weimar Republic, Disney Animations of the 90s, Paris Hilton and WWE Champions of the 2000s.",
-      "category": "Special Interest"
+      "start": "2026-10-01T15:35:00.000Z",
+      "stop": "2026-10-01T16:05:00.000Z",
+      "title": "The Patient",
+      "subtitle": "Company",
+      "description": "The trust built between patient and doctor is tested, with a life in the balance.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T08:15:00.000Z",
-      "stop": "2026-09-19T08:45:00.000Z",
-      "title": "Mastermind Australia",
-      "subtitle": "Episode 42",
-      "description": "Tonight's specialty subjects are: Jeeves and Wooster, The History of Mario Games, the Mad Max Films and the history of Cannabis.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T08:45:00.000Z",
-      "stop": "2026-09-19T09:40:00.000Z",
-      "title": "Engineering By Catastrophe",
-      "subtitle": "Rise Of The Supertalls",
-      "description": "After the Twin Towers fell, doubts grew - but bold new safety breakthroughs sparked a surge, as taller, stronger skyscrapers rose worldwide.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T09:40:00.000Z",
-      "stop": "2026-09-19T10:30:00.000Z",
-      "title": "History's Greatest Machines",
-      "subtitle": "Breakthrough Boats",
-      "description": "How do you conquer a planet covered mostly by water? Dolph Lundgren explores the vessels that changed history, from German U-boats to nuclear-powered aircraft carriers and deep-sea explorers.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T10:30:00.000Z",
-      "stop": "2026-09-19T11:30:00.000Z",
-      "title": "The Ozempic Effect: Beyond The Waistline",
-      "subtitle": null,
-      "description": "This film explores Ozempic's meteoric rise, following personal weight-loss stories and its wider impact on travel, the food industry and society.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T11:30:00.000Z",
-      "stop": "2026-09-19T12:10:00.000Z",
-      "title": "Couples Therapy",
-      "subtitle": "Episode 7",
-      "description": "Orna explores Nessa and Drea's past, Sienna confronts old anger, Marjorie clashes with Jason over a rage-filled email, and Shay and Clinton face new revelations.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T12:10:00.000Z",
-      "stop": "2026-09-19T12:45:00.000Z",
-      "title": "Couples Therapy",
-      "subtitle": "Episode 8",
-      "description": "Orna counsels Shay and Clinton as they try to save their relationship. Sienna questions her marriage, Marjorie and Jason try a new approach, and Drea makes a surprising declaration.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T12:45:00.000Z",
-      "stop": "2026-09-19T13:35:00.000Z",
-      "title": "Icons Unearthed: Harrison Ford",
-      "subtitle": "Get Off My Plane!",
-      "description": "Harrison Ford stars in Air Force One, made with input from US presidential advisers. But production faces delays due to a clash with another major film.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T13:35:00.000Z",
-      "stop": "2026-09-19T15:55:00.000Z",
-      "title": "Body Of Lies",
-      "subtitle": null,
-      "description": "Roger Ferris (Leonardo DiCaprio) is the best man U.S. Intelligence has on the ground, in places where human life is worth no more than the information it can get you.",
-      "category": "Action & Adventure"
-    },
-    {
-      "start": "2026-09-19T15:55:00.000Z",
-      "stop": "2026-09-19T16:50:00.000Z",
-      "title": "Vikings: The Rise And Fall",
-      "subtitle": "The Road To Lindisfarne",
-      "description": "An attack on a small religious community on the holy island of Lindisfarne in AD 793 heralded the start of the Viking Age of conquest and expansion but before this, we look at the Vikings' beginnings.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T16:50:00.000Z",
-      "stop": "2026-09-19T17:45:00.000Z",
-      "title": "Vikings: The Rise And Fall",
-      "subtitle": "The Great Heathen Army",
-      "description": "The Siege of York occurred from 866 when the Great Heathen Army laid claim to the Northumbrian capital of York. We look at the major battles, players and strongholds in 9th Century England.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T17:45:00.000Z",
-      "stop": "2026-09-19T18:40:00.000Z",
-      "title": "Vikings: The Rise And Fall",
-      "subtitle": "As Far East As Baghdad",
-      "description": "The 'Silk Road' opened up a world of trade. Seeking further wealth, the Vikings known in the East as 'the Rus', attacked Constantinople in 860, and became a fixture in the Byzantine Empire.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:40:00.000Z",
-      "stop": "2026-09-19T19:00:00.000Z",
+      "start": "2026-10-01T16:05:00.000Z",
+      "stop": "2026-10-01T19:00:00.000Z",
       "title": "NHK World English News",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T19:00:00.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
+      "start": "2026-10-01T19:00:00.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
       "title": "Al Jazeera News Hour",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T20:30:00.000Z",
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T20:50:00.000Z",
       "title": "TRT World News",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T20:30:00.000Z",
-      "stop": "2026-09-19T20:50:00.000Z",
-      "title": "France 24 Africa News",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Join France24's Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent. Delivered via satellite from Paris, in English, no subtitles.",
-      "category": "News"
-    },
-    {
-      "start": "2026-09-19T20:50:00.000Z",
-      "stop": "2026-09-19T21:20:00.000Z",
+      "start": "2026-10-01T20:50:00.000Z",
+      "stop": "2026-10-01T21:20:00.000Z",
       "title": "DW English News",
       "subtitle": "Morning",
       "description": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T21:20:00.000Z",
-      "stop": "2026-09-19T21:50:00.000Z",
+      "start": "2026-10-01T21:20:00.000Z",
+      "stop": "2026-10-01T21:50:00.000Z",
       "title": "FBC News Fiji",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "Local, world, sport and entertainment news in English from FBC News, Suva Fiji.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T21:50:00.000Z",
-      "stop": "2026-09-19T22:00:00.000Z",
+      "start": "2026-10-01T21:50:00.000Z",
+      "stop": "2026-10-01T22:00:00.000Z",
       "title": "France 24 Feature",
       "subtitle": "First Edition",
       "description": "News feature in English from France 24, Paris.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T22:00:00.000Z",
-      "stop": "2026-09-19T22:10:00.000Z",
+      "start": "2026-10-01T22:00:00.000Z",
+      "stop": "2026-10-01T22:10:00.000Z",
       "title": "Euronews",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T22:10:00.000Z",
-      "stop": "2026-09-19T22:40:00.000Z",
-      "title": "DW Global Us",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Deutsche Welle's news magazine looks at the issues that are moving us today and shows how people are living with the opportunities and risks of globalisation.",
-      "category": "Special Interest"
+      "start": "2026-10-01T22:10:00.000Z",
+      "stop": "2026-10-01T22:40:00.000Z",
+      "title": "NHK Newsline",
+      "subtitle": "Viceland",
+      "description": "NHK NEWSLINE brings you up to date with the latest from Japan, Asia, and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.",
+      "category": "News"
     },
     {
-      "start": "2026-09-19T22:40:00.000Z",
-      "stop": "2026-09-19T23:30:00.000Z",
+      "start": "2026-10-01T22:40:00.000Z",
+      "stop": "2026-10-01T23:30:00.000Z",
       "title": "Cbc The National",
       "subtitle": null,
       "description": "THE NATIONAL is CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism.",
       "category": "News"
     },
     {
-      "start": "2026-09-19T23:30:00.000Z",
-      "stop": "2026-09-20T00:00:00.000Z",
-      "title": "PBS News Horizons",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Dive into the world of science, health, technology and environmental issues making headlines each week, hosted by PBS News Hour's William Brangham.",
+      "start": "2026-10-01T23:30:00.000Z",
+      "stop": "2026-10-02T00:00:00.000Z",
+      "title": "BBC News At Six",
+      "subtitle": "Friday 2 October 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T00:00:00.000Z",
-      "stop": "2026-09-20T00:30:00.000Z",
+      "start": "2026-10-02T00:00:00.000Z",
+      "stop": "2026-10-02T00:30:00.000Z",
       "title": "France 24 English News",
       "subtitle": "France 24 Eng. 1000 Viceland",
       "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T00:30:00.000Z",
-      "stop": "2026-09-20T01:05:00.000Z",
-      "title": "Dinosaur",
-      "subtitle": "Episode 6",
-      "description": "Hurt from her argument with Evie, Nina heads to the arcade with Declan who offers sage advice; that she should still go to the wedding.",
-      "category": "Comedy"
+      "start": "2026-10-02T00:30:00.000Z",
+      "stop": "2026-10-02T01:05:00.000Z",
+      "title": "Small Business Secrets",
+      "subtitle": "Episode 9",
+      "description": "Check out booming niche businesses: from Vietnamese pork roll chain Destination Roll about their expansion plans, to the Indigenous printing company Print Junction.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T01:05:00.000Z",
-      "stop": "2026-09-20T02:55:00.000Z",
-      "title": "Risky Business",
-      "subtitle": null,
-      "description": "A suburban Chicago teenager's parents leave on vacation, and he cuts loose. An unauthorised trip in his father's Porsche means a sudden need for lots of money, which he raises in a creative way.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T02:55:00.000Z",
-      "stop": "2026-09-20T05:00:00.000Z",
-      "title": "The Year Of Living Dangerously",
-      "subtitle": null,
-      "description": "A young Australian reporter tries to navigate the political turmoil of Indonesia during the rule of President Sukarno with the help of a photographer.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T05:00:00.000Z",
-      "stop": "2026-09-20T06:00:00.000Z",
-      "title": "Race For The Planet",
-      "subtitle": "All On The Line",
-      "description": "Extreme E stays in South America for the electrifying final. Four teams are still in with a chance of winning the championship with Nico Rosberg's RXR the clear favourites.",
+      "start": "2026-10-02T01:05:00.000Z",
+      "stop": "2026-10-02T02:00:00.000Z",
+      "title": "Icons Unearthed: Harry Potter",
+      "subtitle": "A Dark Turn",
+      "description": "A new director tests the team as he tries to bring real magic to Hogwarts, as well as a new Dumbledore. But will Harry Potter survive this new dark tone?",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T06:00:00.000Z",
-      "stop": "2026-09-20T06:30:00.000Z",
-      "title": "Stories From The Cities",
-      "subtitle": "Guadalajara",
-      "description": "Stories from the Cities travels across the 16 host cities of the FIFA World Cup 2026. In this episode, we get to know the footballing spirit of Guadalajara through its people, places, and its culture.",
-      "category": "Sports"
+      "start": "2026-10-02T02:00:00.000Z",
+      "stop": "2026-10-02T02:30:00.000Z",
+      "title": "DW The Day",
+      "subtitle": "Friday 2 October 2026",
+      "description": "DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T06:30:00.000Z",
-      "stop": "2026-09-20T06:55:00.000Z",
+      "start": "2026-10-02T02:30:00.000Z",
+      "stop": "2026-10-02T03:25:00.000Z",
+      "title": "Hudson & Rex",
+      "subtitle": "Grave Matters",
+      "description": "Charlie and Rex are in grave danger as they find themselves captives of a kidnapper seeking vengeance.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T03:25:00.000Z",
+      "stop": "2026-10-02T04:20:00.000Z",
+      "title": "Hudson & Rex",
+      "subtitle": "Fanning The Flames",
+      "description": "When an arsonist begins terrorising a neighbourhood with car bombs, Charlie and Rex race to find the next target before the case goes up in smoke.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T04:20:00.000Z",
+      "stop": "2026-10-02T05:05:00.000Z",
+      "title": "Forged In Fire",
+      "subtitle": "American Champion",
+      "description": "On this special \"On the Road\" edition of Forged in Fire, we head back to our home forge where four of the nation's top smiths will go head to head in one final battle.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:05:00.000Z",
+      "stop": "2026-10-02T05:35:00.000Z",
+      "title": "Stories From The Cities",
+      "subtitle": "New York - New Jersey",
+      "description": "Stories from the Cities travels across the 16 host cities of the FIFA World Cup 2026. In this episode, we get to know the footballing spirit of New York through its people, places, and its culture.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:35:00.000Z",
+      "stop": "2026-10-02T05:40:00.000Z",
+      "title": "NITV News Update",
+      "subtitle": "Episode 184",
+      "description": "NITV News recaptures the highlights of Indigenous news around the country.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T05:40:00.000Z",
+      "stop": "2026-10-02T06:10:00.000Z",
+      "title": "BBC News At Ten",
+      "subtitle": "Friday 2 October 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T06:10:00.000Z",
+      "stop": "2026-10-02T06:40:00.000Z",
       "title": "France 24 International News",
-      "subtitle": "Sunday 20 September 2026",
+      "subtitle": "Friday 2 October 2026",
       "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T06:55:00.000Z",
-      "stop": "2026-09-20T07:20:00.000Z",
-      "title": "PBS Washington Week With The Atlantic",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "PBS Washington Week with The Atlantic is the longest-running primetime news and public affairs program on television.",
+      "start": "2026-10-02T06:40:00.000Z",
+      "stop": "2026-10-02T07:40:00.000Z",
+      "title": "PBS Newshour",
+      "subtitle": "Friday 2 October 2026",
+      "description": "Reviews and analysis of the day's news, presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T07:20:00.000Z",
-      "stop": "2026-09-20T07:50:00.000Z",
-      "title": "PBS News Compass Points",
-      "subtitle": "Sunday 20 September 2026",
-      "description": "Join PBS News Hour's Nick Schifrin and leading experts as they analyse prominent international affairs topics and their impact on America today.",
+      "start": "2026-10-02T07:40:00.000Z",
+      "stop": "2026-10-02T08:10:00.000Z",
+      "title": "Inside The Huddle",
+      "subtitle": "Episode 30",
+      "description": "What is it like to be a footballer? Candid conversations, laughs, and insights that go beyond the game and into the outer.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-02T08:10:00.000Z",
+      "stop": "2026-10-02T08:40:00.000Z",
+      "title": "Over The Black Dot",
+      "subtitle": "Episode 31",
+      "description": "In 2026, Over the Black Dot becomes a digital-first Rugby League yarn free-flowing conversations on footy, culture and community, with panellists and guests sharing authentic Indigenous stories.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-02T08:40:00.000Z",
+      "stop": "2026-10-02T09:05:00.000Z",
+      "title": "Jeopardy!",
+      "subtitle": "Episode 39",
+      "description": "Today's contestants: Aaron Levine, Elana Beame, Christopher Tillman",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T09:05:00.000Z",
+      "stop": "2026-10-02T09:30:00.000Z",
+      "title": "Jeopardy!",
+      "subtitle": "Episode 40",
+      "description": "Today's contestants: Christopher Tillman, Siobhan Hickey, Robbie Ellis",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T09:30:00.000Z",
+      "stop": "2026-10-02T09:35:00.000Z",
+      "title": "NITV News Update",
+      "subtitle": "Episode 185",
+      "description": "NITV News recaptures the highlights of Indigenous news around the country.",
       "category": "News"
     },
     {
-      "start": "2026-09-20T07:50:00.000Z",
-      "stop": "2026-09-20T08:40:00.000Z",
-      "title": "The Bermuda Triangle: Into Cursed Waters",
-      "subtitle": "Bermuda Triangle's First Blood",
-      "description": "The team investigates the 1865 loss of the SS D.H. Mount with 22 pro-Union politicians. Was it sabotage, a steam explosion, or a Bermuda Triangle anomaly? Artifacts may hold the answer.",
+      "start": "2026-10-02T09:35:00.000Z",
+      "stop": "2026-10-02T10:30:00.000Z",
+      "title": "Celebrity Jeopardy",
+      "subtitle": "Semifinal #2: John Michael Higgins, Wil Wheaton And Joel Kim Booster",
+      "description": "Celebrity contestants John Michael Higgins, Wil Wheaton and Joel Kim Booster.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T08:40:00.000Z",
-      "stop": "2026-09-20T09:35:00.000Z",
-      "title": "Abandoned Engineering",
-      "subtitle": "Moonshot",
-      "description": "A Florida ruin built to reach the stars, an Indonesian community shattered by unseen forces and a Bulgarian school with an ulterior motive. Each haunted shell ready to tell its unique story.",
+      "start": "2026-10-02T10:30:00.000Z",
+      "stop": "2026-10-02T11:25:00.000Z",
+      "title": "Original Gangsters With Sean Bean",
+      "subtitle": "Billy Hill & The Krays",
+      "description": "The actor explores notorious gangsters Billy Hill and the Kray twins, whose criminal empires were built on smuggling, protection rackets, robbery, violence and murder.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T09:35:00.000Z",
-      "stop": "2026-09-20T10:30:00.000Z",
-      "title": "Abandoned Engineering",
-      "subtitle": "Drone Wars",
-      "description": "Standing on the brink of collapse, some soon to be lost forever - a whole city in Azerbaijan, a Kansas City Workhouse, two deserted town in Sicily, and an extensive complex in Estonia.",
+      "start": "2026-10-02T11:25:00.000Z",
+      "stop": "2026-10-02T12:20:00.000Z",
+      "title": "The Naked World",
+      "subtitle": "South Africa",
+      "description": "South Africa is a melting pot of different peoples and cultures, leading to various views on nudity. Naturism is mainly practiced by white people. Is this a remnant of Apartheid?",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T10:30:00.000Z",
-      "stop": "2026-09-20T11:30:00.000Z",
-      "title": "The Dropout",
-      "subtitle": "Green Juice",
-      "description": "As Theranos rapidly expands, Elizabeth's technology struggles to keep pace and members of the board become increasingly wary of her secretive behaviour. Sunny considers joining the company.",
+      "start": "2026-10-02T12:20:00.000Z",
+      "stop": "2026-10-02T13:15:00.000Z",
+      "title": "Sex Actually With Alice Levine",
+      "subtitle": "Hungry For Love",
+      "description": "Alice jumps into the world of Feedism and Gaining, where sex and eroticism involves food and weight gain. She meets people who have taken their passions online and the fat-fetish content world.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T13:15:00.000Z",
+      "stop": "2026-10-02T14:15:00.000Z",
+      "title": "The Americans",
+      "subtitle": "Dead Hand",
+      "description": "It's autumn 1987, as an arms control summit approaches, Elizabeth is pushed to breaking point. Philip runs the expanded travel agency until an unexpected visitor makes a troubling request.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T11:30:00.000Z",
-      "stop": "2026-09-20T12:30:00.000Z",
-      "title": "The Dropout",
-      "subtitle": "Old White Men",
-      "description": "Walgreens is enticed by Elizabeth to seal the deal on a new partnership with Theranos. Ian tries to investigate what's going on behind closed doors.",
-      "category": "Drama"
+      "start": "2026-10-02T14:15:00.000Z",
+      "stop": "2026-10-02T15:10:00.000Z",
+      "title": "Brassic",
+      "subtitle": "Stealing A Wedding",
+      "description": "When Vinnie hears Cardi wants to propose to Carol, he vows to give them the best wedding possible, leading the gang to attempt stealing JJ's awful cousin's entire wedding.",
+      "category": "Comedy"
     },
     {
-      "start": "2026-09-20T12:30:00.000Z",
-      "stop": "2026-09-20T13:20:00.000Z",
-      "title": "The UnXplained With William Shatner",
-      "subtitle": "Sacred Rituals",
-      "description": "Throughout human history, many cultures have used sacred rituals to express their spiritual beliefs. Is it possible that performing certain acts can connect humanity to a higher plane of existence?",
-      "category": "Special Interest"
+      "start": "2026-10-02T15:10:00.000Z",
+      "stop": "2026-10-02T19:00:00.000Z",
+      "title": "NHK World English News",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T13:20:00.000Z",
-      "stop": "2026-09-20T14:10:00.000Z",
-      "title": "The UnXplained With William Shatner",
-      "subtitle": "Ufo Hotspots",
-      "description": "Every year, thousands of people report looking at the sky and witnessing unidentified flying objects. Is it possible that extraterrestrial spacecraft are visiting Earth at so-called \"UFO Hot Spots\"?",
-      "category": "Special Interest"
+      "start": "2026-10-02T19:00:00.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Al Jazeera News Hour",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.",
+      "category": "News"
     },
     {
-      "start": "2026-09-20T14:10:00.000Z",
-      "stop": "2026-09-20T15:00:00.000Z",
-      "title": "Secrets Of Penthouse",
-      "subtitle": "The Visionary",
-      "description": "The extraordinary rise of Bob Guccione, who became one of the richest men in America by founding Penthouse Magazine, but tore apart his family in the process.",
-      "category": "Special Interest"
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T20:50:00.000Z",
+      "title": "TRT World News",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T20:50:00.000Z",
+      "stop": "2026-10-02T21:20:00.000Z",
+      "title": "DW English News",
+      "subtitle": "Morning",
+      "description": "News and analysis of the top international and European news and current affairs from Berlin, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T21:20:00.000Z",
+      "stop": "2026-10-02T21:50:00.000Z",
+      "title": "FBC News Fiji",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "Local, world, sport and entertainment news in English from FBC News, Suva Fiji.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T21:50:00.000Z",
+      "stop": "2026-10-02T22:00:00.000Z",
+      "title": "France 24 Feature",
+      "subtitle": "First Edition",
+      "description": "News feature in English from France 24, Paris.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T22:00:00.000Z",
+      "stop": "2026-10-02T22:10:00.000Z",
+      "title": "Euronews",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "Headlines, Breaking News & Analysis from the Euronews news centre in Brussels, Belgium, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T22:10:00.000Z",
+      "stop": "2026-10-02T22:40:00.000Z",
+      "title": "NHK Newsline",
+      "subtitle": "Viceland",
+      "description": "NHK NEWSLINE brings you up to date with the latest from Japan, Asia, and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T22:40:00.000Z",
+      "stop": "2026-10-02T23:30:00.000Z",
+      "title": "Cbc The National",
+      "subtitle": null,
+      "description": "THE NATIONAL is CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T23:30:00.000Z",
+      "stop": "2026-10-03T00:00:00.000Z",
+      "title": "BBC News At Six",
+      "subtitle": "Saturday 3 October 2026",
+      "description": "The latest national and international news stories from the BBC News team from London, UK, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-03T00:00:00.000Z",
+      "stop": "2026-10-03T00:30:00.000Z",
+      "title": "France 24 English News",
+      "subtitle": "France 24 Eng. 1000 Viceland",
+      "description": "International news and current affairs television from Paris, offering a French perspective on world events, in English.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-03T00:30:00.000Z",
+      "stop": "2026-10-03T01:05:00.000Z",
+      "title": "Small Business Secrets",
+      "subtitle": "Episode 10",
+      "description": "In this episode we check out the small businesses making a huge impact on social economic issues.",
+      "category": "News"
     }
   ]
 }

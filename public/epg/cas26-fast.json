@@ -1,0 +1,32 @@
+{
+  "slug": "cas26-fast",
+  "epgId": "mjh-cas26-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:59:30.000Z",
+      "stop": "2026-10-01T12:27:02.000Z",
+      "title": "(2022) Tragedy - Hostage Situation ",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:27:02.000Z",
+      "stop": "2026-10-01T14:01:07.000Z",
+      "title": "(1988) Pilot",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T14:01:07.000Z",
+      "stop": "2026-10-01T14:31:07.000Z",
+      "title": "Episode 21",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

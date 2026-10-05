@@ -1,0 +1,32 @@
+{
+  "slug": "waterrats-fast",
+  "epgId": "mjh-waterrats-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:32:00.000Z",
+      "stop": "2026-10-01T12:21:23.000Z",
+      "title": "Water Rats - S5 E26 - A Day at the Office",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:21:23.000Z",
+      "stop": "2026-10-01T13:11:11.000Z",
+      "title": "Water Rats - S5 E27 - Kaddish",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:11:11.000Z",
+      "stop": "2026-10-01T13:41:11.000Z",
+      "title": "Water Rats - S5 E28 - For Love or Money",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

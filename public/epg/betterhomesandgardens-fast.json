@@ -1,0 +1,32 @@
+{
+  "slug": "betterhomesandgardens-fast",
+  "epgId": "mjh-betterhomesandgardens-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:22:37.000Z",
+      "stop": "2026-10-01T12:43:00.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:43:00.000Z",
+      "stop": "2026-10-01T14:02:37.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T14:02:37.000Z",
+      "stop": "2026-10-01T14:32:37.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

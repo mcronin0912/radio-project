@@ -1,0 +1,32 @@
+{
+  "slug": "cas39-fast",
+  "epgId": "mjh-cas39-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:58:42.000Z",
+      "stop": "2026-10-01T12:51:50.000Z",
+      "title": "Season 6 Episode 13",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:51:50.000Z",
+      "stop": "2026-10-01T13:45:02.000Z",
+      "title": "Season 6 Episode 14",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:45:02.000Z",
+      "stop": "2026-10-01T14:15:02.000Z",
+      "title": "Season 6 Episode 15",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

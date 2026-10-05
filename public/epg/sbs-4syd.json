@@ -2,174 +2,166 @@
   "slug": "sbs-4syd",
   "epgId": "mjh-sbs-4syd",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T01:50:00.000Z",
-      "stop": "2026-09-19T03:30:00.000Z",
-      "title": "Birthday Girl",
+      "start": "2026-10-01T11:30:00.000Z",
+      "stop": "2026-10-01T13:50:00.000Z",
+      "title": "Girl You Know It's True",
       "subtitle": null,
-      "description": "A lonely bank employee, John Buckingham meets Nadia through a Russian mail-order bride service. Soon, the sudden arrival of Nadia's gregarious cousins makes John realize he's in over his head",
+      "description": "This energetic biographical drama charts the meteoric rise and spectacular downfall of pop sensation Milli Vanilli, revealing the fame, deception and scandal behind a global phenomenon",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T03:30:00.000Z",
-      "stop": "2026-09-19T05:00:00.000Z",
-      "title": "Fallen Leaves",
+      "start": "2026-10-01T13:50:00.000Z",
+      "stop": "2026-10-01T15:50:00.000Z",
+      "title": "I Love You Too",
       "subtitle": null,
-      "description": "In modern-day Helsinki, two lonely people meet in a karaoke bar and try to start a relationship. Their path to happiness is filled with obstacles, including lost numbers, wrong addresses, alcoholism, and a stray dog.",
+      "description": "Jim, a man whose inability to declare his love to his girlfriend, threatens to cost him the best thing he ever had but leads him to befriend a person who helps him find the words to get her back.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-01T15:50:00.000Z",
+      "stop": "2026-10-01T17:50:00.000Z",
+      "title": "The Conformist",
+      "subtitle": null,
+      "description": "A member of the secret police in Mussolini's Fascist Italy travels to Paris for his honeymoon, while planning to assassinate his former Professor.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T05:00:00.000Z",
-      "stop": "2026-09-19T05:30:00.000Z",
+      "start": "2026-10-01T17:50:00.000Z",
+      "stop": "2026-10-01T19:55:00.000Z",
+      "title": "The Hudsucker Proxy",
+      "subtitle": null,
+      "description": "When Waring Hudsucker, head of the successful Hudsucker Industries, commits suicide, his board of directors comes up with a brilliant plan to make a lot of money-appoint a moron to run the company.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-01T19:55:00.000Z",
+      "stop": "2026-10-01T20:30:00.000Z",
       "title": "The Movie Show",
-      "subtitle": "Movie Show 2004 18",
-      "description": "Megan Spencer, Jaimie Leonarder and Fenella Kernebone present reviews, interviews and an insider's view of the world of movies, while Marc Fennell reviews new-release DVDs.",
+      "subtitle": "Episode 37",
+      "description": "Film review with David Stratton and Margaret Pomeranz. Covers Ethan Frome, Twin Peaks: Firewalk With Me, Undercover Blues, N.A.F.S.A. report, and Brother's Keeper.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T05:30:00.000Z",
-      "stop": "2026-09-19T07:20:00.000Z",
-      "title": "What We Did On Our Holiday",
+      "start": "2026-10-01T20:30:00.000Z",
+      "stop": "2026-10-01T22:10:00.000Z",
+      "title": "Paris Can Wait",
       "subtitle": null,
-      "description": "Doug and Abi are taking their three children on a trip to Scotland for a big family gathering. They are in the midst of a difficult divorce, and have asked the kids to keep it a secret from their extended family.",
+      "description": "Anne takes a road trip to Paris with her husband's associate, Jacques. It is a leisurely trip until she realises that he has been using her credit card to pay their food bills. Starring: Diane Lane, Arnaud Viard, Alec Baldwin.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-19T07:20:00.000Z",
-      "stop": "2026-09-19T08:50:00.000Z",
-      "title": "P'tang, Yang, Kipperbang",
+      "start": "2026-10-01T22:10:00.000Z",
+      "stop": "2026-10-02T00:55:00.000Z",
+      "title": "The Majestic",
       "subtitle": null,
-      "description": "Fourteen year old Alan spends the summer of 1948 hoping for peace, love and England to win the Ashes.",
+      "description": "Residents of a 1950s coastal community mistake an amnesiac screenwriter for a soldier who never returned from the war. Directed by Frank Darabont, starring Jim Carrey, Martin Landau, Bob Balaban.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T00:55:00.000Z",
+      "stop": "2026-10-02T02:50:00.000Z",
+      "title": "Afire",
+      "subtitle": null,
+      "description": "A group of friends are in a holiday home by the Baltic Sea where emotions run high as the parched forest around them catches fire.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-02T02:50:00.000Z",
+      "stop": "2026-10-02T04:55:00.000Z",
+      "title": "The Hudsucker Proxy",
+      "subtitle": null,
+      "description": "When Waring Hudsucker, head of the successful Hudsucker Industries, commits suicide, his board of directors comes up with a brilliant plan to make a lot of money-appoint a moron to run the company.",
       "category": "Comedy"
     },
     {
-      "start": "2026-09-19T08:50:00.000Z",
-      "stop": "2026-09-19T10:30:00.000Z",
-      "title": "Anne Of Green Gables",
+      "start": "2026-10-02T04:55:00.000Z",
+      "stop": "2026-10-02T07:15:00.000Z",
+      "title": "Wings Of Desire",
       "subtitle": null,
-      "description": "The story of Anne Shirley, an orphan who is accidentally sent to a couple looking to adopt a boy instead.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T10:30:00.000Z",
-      "stop": "2026-09-19T13:40:00.000Z",
-      "title": "Saving Private Ryan",
-      "subtitle": null,
-      "description": "Following the Normandy Landings, a group of US soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "description": "Wim Wenders' classic film follows the plight of an angel who falls in love with a beautiful trapeze artist and decides to trade his gentle existence for the torturous emotions of human life.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T13:40:00.000Z",
-      "stop": "2026-09-19T15:35:00.000Z",
-      "title": "Sleeping Beauty",
+      "start": "2026-10-02T07:15:00.000Z",
+      "stop": "2026-10-02T09:25:00.000Z",
+      "title": "Agatha Christie's Crooked House",
       "subtitle": null,
-      "description": "Lucy, a passive university student, takes a job as a lingerie waitress, unaware it leads to a world of submission where she's sedated as a \"Sleeping Beauty.\" As the experience invades her life, she resolves to uncover what happens while she sleeps.",
+      "description": "When a wealthy tycoon is poisoned in his own bed, Detective Charles Hayward is invited to solve the gruesome crime. He is shocked to discover that one of the key suspects is his ex-girlfriend.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T15:35:00.000Z",
-      "stop": "2026-09-19T17:10:00.000Z",
-      "title": "We Don't Need A Map",
+      "start": "2026-10-02T09:25:00.000Z",
+      "stop": "2026-10-02T11:30:00.000Z",
+      "title": "Starring Dick Van Dyke",
       "subtitle": null,
-      "description": "Filmmaker Warwick Thornton investigates our relationship to the Southern Cross, in this fun and thought provoking ride through Australia's cultural and political landscape.",
+      "description": "Celebrate the life and career of legendary performer Dick Van Dyke featuring never-before-seen footage, photos, home movies, performance clips, and interviews with fellow celebrities.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T17:10:00.000Z",
-      "stop": "2026-09-19T19:00:00.000Z",
-      "title": "Crash",
+      "start": "2026-10-02T11:30:00.000Z",
+      "stop": "2026-10-02T13:20:00.000Z",
+      "title": "The Teachers' Lounge",
       "subtitle": null,
-      "description": "After a car crash, a TV director enters a subculture where collisions fuel sexual desire. Crash explores the erotic pull of danger, death, and the human urge to eroticize trauma.",
+      "description": "When a series of thefts rocks a school, an idealistic teacher launches her own investigation. What follows exposes mistrust, division and the unintended consequences of seeking justice",
       "category": "Drama"
     },
     {
-      "start": "2026-09-19T19:00:00.000Z",
-      "stop": "2026-09-19T20:30:00.000Z",
-      "title": "P'tang, Yang, Kipperbang",
+      "start": "2026-10-02T13:20:00.000Z",
+      "stop": "2026-10-02T15:15:00.000Z",
+      "title": "My Own Private Idaho",
       "subtitle": null,
-      "description": "Fourteen year old Alan spends the summer of 1948 hoping for peace, love and England to win the Ashes.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-19T20:30:00.000Z",
-      "stop": "2026-09-19T22:10:00.000Z",
-      "title": "Anne Of Green Gables",
-      "subtitle": null,
-      "description": "The story of Anne Shirley, an orphan who is accidentally sent to a couple looking to adopt a boy instead.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T22:10:00.000Z",
-      "stop": "2026-09-20T00:00:00.000Z",
-      "title": "Emu Runner",
-      "subtitle": null,
-      "description": "Gem, a spirited young girl, deals with the grief of her mother's death by forging a bond with a wild emu. This spiritual dreaming is a bond she will do anything to keep. (Rhae-Kye Waites, Wayne Blair)",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-20T00:00:00.000Z",
-      "stop": "2026-09-20T02:40:00.000Z",
-      "title": "Triangle Of Sadness",
-      "subtitle": null,
-      "description": "Social hierarchy is turned upside down, revealing the tawdry relationship between power and beauty. A celebrity model couple are invited on a luxury cruise, helmed by an unhinged boat captain.",
+      "description": "Two best friends living on the streets of Portland as hustlers embark on a journey of self discovery and find their relationship stumbling along the way. Starring River Phoenix and Keanu Reeves.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T02:40:00.000Z",
-      "stop": "2026-09-20T04:35:00.000Z",
-      "title": "Arrowhead",
+      "start": "2026-10-02T15:15:00.000Z",
+      "stop": "2026-10-02T17:05:00.000Z",
+      "title": "The Legend Of Fong Sai-Yuk 2",
       "subtitle": null,
-      "description": "Prisoner of war Kye accepts a rescue mission for freedom but crash - lands on a desert moon. Struggling to survive, he discovers his greatest threat isn't the planet - it's himself.",
+      "description": "After botching a rebel mission, folk hero Fong Sai Yuk must woo a governor's daughter to steal a vital document. A martial arts tournament, jealous fiancee, fierce foes, and Ming loyalists collide.",
       "category": "Action & Adventure"
     },
     {
-      "start": "2026-09-20T04:35:00.000Z",
-      "stop": "2026-09-20T06:30:00.000Z",
-      "title": "Loophole",
+      "start": "2026-10-02T17:05:00.000Z",
+      "stop": "2026-10-02T19:00:00.000Z",
+      "title": "The Queen",
       "subtitle": null,
-      "description": "When architect Stephen Booker loses his partnership, he finds jobs hard to come by, and with money in short supply, he unwittingly becomes involved in a daring scheme to rob one of London's biggest bank vaults.",
+      "description": "After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted. Starring Helen Mirren and James Cromwell.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:00:00.000Z",
+      "stop": "2026-10-02T21:00:00.000Z",
+      "title": "Viceroy's House",
+      "subtitle": null,
+      "description": "In 1947, Lord Mountbatten assumes the post of last Viceroy, charged with handing India back to its people, living upstairs at the house which was the home of British rulers. (Hugh Bonneville)",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T06:30:00.000Z",
-      "stop": "2026-09-20T08:25:00.000Z",
-      "title": "Boychoir",
+      "start": "2026-10-02T21:00:00.000Z",
+      "stop": "2026-10-02T22:50:00.000Z",
+      "title": "Princess Caraboo",
       "subtitle": null,
-      "description": "A troubled but talented eleven-year-old boy at a prestigious East Coast music school clashes with the school's demanding choir master (Dustin Hoffman), in this inspiring drama co-starring Kathy Bates.",
+      "description": "In the early 19th century, a mysterious young woman speaking a strange language shows up in an English village. There she is taken in by a family of aristocrats who assume she is a foreign princess.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T08:25:00.000Z",
-      "stop": "2026-09-20T10:30:00.000Z",
-      "title": "Jane Eyre",
+      "start": "2026-10-02T22:50:00.000Z",
+      "stop": "2026-10-03T00:30:00.000Z",
+      "title": "A Hazard Of Hearts",
       "subtitle": null,
-      "description": "An orphaned girl serves as a governess in Thornfield, a manor ruled by the strict Edward Rochester, who holds a dark secret.",
+      "description": "A beautiful young woman is sent to live at a forbidding cliff-top mansion after her father, a compulsive gambler, loses her and his estate in a wager. Based on the acclaimed novel by Barbara Cartland.",
       "category": "Drama"
     },
     {
-      "start": "2026-09-20T10:30:00.000Z",
-      "stop": "2026-09-20T12:25:00.000Z",
-      "title": "The Grand Budapest Hotel",
+      "start": "2026-10-03T00:30:00.000Z",
+      "stop": "2026-10-03T02:45:00.000Z",
+      "title": "Girl You Know It's True",
       "subtitle": null,
-      "description": "The Grand Budapest Hotel recounts the adventures of Gustave H, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T12:25:00.000Z",
-      "stop": "2026-09-20T14:20:00.000Z",
-      "title": "Late Night",
-      "subtitle": null,
-      "description": "A late night talk show host suspects that she may soon lose her long-running show.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-20T14:20:00.000Z",
-      "stop": "2026-09-20T16:40:00.000Z",
-      "title": "A Good Person",
-      "subtitle": null,
-      "description": "Allison's life falls apart following her involvement in a fatal accident. She finds solace in an unexpected relationship with her would-be father-in-law. He becomes her ally in her journey to healing.",
+      "description": "This energetic biographical drama charts the meteoric rise and spectacular downfall of pop sensation Milli Vanilli, revealing the fame, deception and scandal behind a global phenomenon",
       "category": "Drama"
     }
   ]

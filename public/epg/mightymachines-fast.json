@@ -1,0 +1,32 @@
+{
+  "slug": "mightymachines-fast",
+  "epgId": "mjh-mightymachines-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:52:39.000Z",
+      "stop": "2026-10-01T12:46:09.000Z",
+      "title": "Mighty Trains",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:46:09.000Z",
+      "stop": "2026-10-01T13:40:40.000Z",
+      "title": "Mighty Trains",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:40:40.000Z",
+      "stop": "2026-10-01T14:10:40.000Z",
+      "title": "Mighty Ships S2 E1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

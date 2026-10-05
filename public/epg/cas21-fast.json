@@ -1,0 +1,32 @@
+{
+  "slug": "cas21-fast",
+  "epgId": "mjh-cas21-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T12:00:30.000Z",
+      "stop": "2026-10-01T12:51:19.000Z",
+      "title": "S08 E15 - French Quarter Massacre",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:51:19.000Z",
+      "stop": "2026-10-01T13:42:02.000Z",
+      "title": "S9 E13 - Undying Love",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:42:02.000Z",
+      "stop": "2026-10-01T14:12:02.000Z",
+      "title": "S9 E14 - The Coroner's Case",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

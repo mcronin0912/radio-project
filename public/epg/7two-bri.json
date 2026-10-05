@@ -2,359 +2,383 @@
   "slug": "7two-bri",
   "epgId": "mjh-7two-bri",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T02:00:00.000Z",
-      "stop": "2026-09-19T02:59:20.000Z",
-      "title": "House Calls To The Rescue",
-      "subtitle": "Episode 4",
-      "description": "Our rescue team answers an SOS from a couple whose backyard BBQ project has become a giant rubble-heap.",
+      "start": "2026-10-01T11:50:50.000Z",
+      "stop": "2026-10-01T13:07:40.000Z",
+      "title": "Shetland",
+      "subtitle": "Dead Water, Pt. 2",
+      "description": "After a second body is found brutally murdered, DI Perez wonders if the two killings are connected to corporate greed and corruption on the island or to just one woman - Evie Watt.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-01T13:07:40.000Z",
+      "stop": "2026-10-01T14:10:30.000Z",
+      "title": "Genius",
+      "subtitle": "Einstein - Chapter Ten",
+      "description": "After the atomic bomb is dropped and World War II draws to a close, Einstein assumes the role of world citizen in his twilight years.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-01T14:10:30.000Z",
+      "stop": "2026-10-01T15:07:05.000Z",
+      "title": "Bargain Hunt",
+      "subtitle": "Abernyte 30",
+      "description": "Today’s teams are hunting for bargains in Abernyte, near Dundee.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T02:59:20.000Z",
-      "stop": "2026-09-19T04:01:00.000Z",
-      "title": "Better Homes And Gardens",
-      "subtitle": "Episode 30",
-      "description": "Joh and Adam check out a beauty of a city home: rugged outside, welcoming within. Sound familiar? Adam might see himself in this design.",
-      "category": "Special Interest"
+      "start": "2026-10-01T15:07:05.000Z",
+      "stop": "2026-10-01T16:04:25.000Z",
+      "title": "Father Brown",
+      "subtitle": "The Mask Of The Demon",
+      "description": "Father Brown investigates the murder of a B movie director when he comes to film in Kembleford.",
+      "category": "Drama"
     },
     {
-      "start": "2026-09-19T04:01:00.000Z",
-      "stop": "2026-09-19T05:01:00.000Z",
-      "title": "Escape To The Country",
-      "subtitle": "Caithness",
-      "description": "Jules Hudson enjoys the stunning scenery of Caithness, Scotland, while helping a young family with a 270,000 pound budget find their dream of self-sufficiency and learning about crofter life.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T05:01:00.000Z",
-      "stop": "2026-09-19T06:02:00.000Z",
-      "title": "The Yorkshire Vet",
-      "subtitle": "Episode 1",
-      "description": "Julian operates on a cat with a strange lump, while two of the vet's farming friends head to the practice with a ewe who's struggling to give birth to large twin lambs.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T06:02:00.000Z",
-      "stop": "2026-09-19T07:30:00.000Z",
-      "title": "Seven's Horse Racing",
-      "subtitle": "Randwick/Caulfield",
-      "description": "Live coverage of horse racing every Saturday.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T07:30:00.000Z",
-      "stop": "2026-09-19T08:30:10.000Z",
-      "title": "Escape To The Country",
-      "subtitle": "Shropshire",
-      "description": "A couple swaps their Cheshire townhouse for Shropshire's open spaces. Denise Nurse helps them find a home and visits a flower farm showcasing tech and nature.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T08:30:10.000Z",
-      "stop": "2026-09-19T09:31:25.000Z",
-      "title": "Bondi Vet",
-      "subtitle": "Episode 7",
-      "description": "Little Lulu is covered in disturbing lumps and her future is uncertain.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T09:31:25.000Z",
-      "stop": "2026-09-19T10:31:55.000Z",
-      "title": "The Yorkshire Vet",
-      "subtitle": "Episode 7",
-      "description": "Julian Norton has a painful experience with a ferret.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T10:31:55.000Z",
-      "stop": "2026-09-19T11:36:55.000Z",
-      "title": "Escape To The Chateau",
-      "subtitle": "Moat, Pineapple Chandeliers And A Wedding",
-      "description": "Dick and Angel are due to marry in just a few weeks, expecting 200 guests. But room after room still needs to be restored, decorated and furnished, and the moat still needs fixing.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T11:36:55.000Z",
-      "stop": "2026-09-19T12:36:50.000Z",
-      "title": "Escape To The Country",
-      "subtitle": "Yorkshire",
-      "description": "A London couple seeks a quieter lifestyle in Yorkshire with a 425,000 pound budget for a new home, and Steve Brown helps them find it while learning about accessibility at North York Moors.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T12:36:50.000Z",
-      "stop": "2026-09-19T13:35:15.000Z",
-      "title": "World's Most Scenic Railway Journeys",
-      "subtitle": "Wales",
-      "description": "The Cambrian Line starts in Pwllheli and travels 200km, taking in the fairy-tale village of Portmeirion, the seaside resort of Aberdovey and the ancient capital of Machynlleth.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T13:35:15.000Z",
-      "stop": "2026-09-19T14:33:30.000Z",
-      "title": "Auction Squad",
-      "subtitle": "Episode 17",
-      "description": "They're off and racing in Caulfield, as a little bungalow with a big handicap gets help - but will it be enough to avoid a late scratching on Auction Day?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T14:33:30.000Z",
-      "stop": "2026-09-19T15:33:40.000Z",
-      "title": "Auction Squad",
-      "subtitle": "Episode 12",
-      "description": "The Auction Squad team work their magic on a Sydney seaside home.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T15:33:40.000Z",
-      "stop": "2026-09-19T16:01:45.000Z",
-      "title": "The Great Australian Doorstep",
-      "subtitle": "Episode 2 of Season 6",
-      "description": "This week, Peter and Sheree hit the slopes at Mt Buller where they show why its a great destination for a family holiday in one of Australia's most loved Alpine regions.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T16:01:45.000Z",
-      "stop": "2026-09-19T16:29:35.000Z",
-      "title": "Medical Emergency",
-      "subtitle": "Episode 5",
-      "description": "A young man battles with life threatening injuries after a high speed, head-on collision. Then, a welder's elbow requires a full reconstruction after a devastating industrial accident.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T16:29:35.000Z",
-      "stop": "2026-09-19T17:03:40.000Z",
-      "title": "Creek To Coast",
-      "subtitle": "Episode 29",
-      "description": "We've got Spring school holidays inspo to keep the whole family happy - from fishing with junior anglers to four-wheel driving with little ones on board. And it's all on Brissy's doorstep.",
-      "category": "Kids & Family"
-    },
-    {
-      "start": "2026-09-19T17:03:40.000Z",
-      "stop": "2026-09-19T17:32:40.000Z",
-      "title": "Weekender",
-      "subtitle": "Episode 31",
-      "description": "Spring into adventure this week - from sailing in the stunning Whitsundays to soaring over Antarctica in a day. Plus, a glamorous new destination on the Granite Belt.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T17:32:40.000Z",
-      "stop": "2026-09-19T18:00:30.000Z",
-      "title": "Sydney Weekender",
-      "subtitle": "Episode 32",
-      "description": "Book your spring escape at Ardour Lilianfels Blue Mountains. Reel in the catch of the day then cook it up at Felons Manly. Australia's oldest Italian restaurant celebrates a major milestone.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T18:00:30.000Z",
-      "stop": "2026-09-19T18:34:35.000Z",
+      "start": "2026-10-01T16:04:25.000Z",
+      "stop": "2026-10-01T16:33:20.000Z",
       "title": "Harry's Practice",
-      "subtitle": "Episode 40 of Season 1",
+      "subtitle": "Episode 49 of Season 1",
       "description": "Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T18:34:35.000Z",
-      "stop": "2026-09-19T19:30:00.000Z",
-      "title": "Better Homes And Gardens",
-      "subtitle": "Episode 26",
-      "description": "Joh catches up with fish butcher Josh Niland and his philosophy of using the whole fish. Charlie rejuvenates the front yard of a federation home. Dr Harry meets an 8-month-old boxer who loves to dig!",
+      "start": "2026-10-01T16:33:20.000Z",
+      "stop": "2026-10-01T17:01:40.000Z",
+      "title": "Medical Emergency",
+      "subtitle": "Episode 2",
+      "description": "This week, Michael, a Jehovah's Witness continues to face a life-threatening decision and a meat worker arrives at the Alfred hospital with horrific work injuries. Back in Fast Track, Adam's head is being stitched up after a flying golf club incident. And 3-year- old Molly waits to see a doctor after having a nasty fall. Narrated by Chris Gabardi.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T19:30:00.000Z",
-      "stop": "2026-09-19T20:00:00.000Z",
+      "start": "2026-10-01T17:01:40.000Z",
+      "stop": "2026-10-01T18:00:45.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": "Episode 35",
+      "description": "Joh joins Paul Maric from Car Expert to discover Australia's most affordable hybrid, the new Suzuki Swift. Charlie & Adam join forces to build a functional and beautiful garden for a family.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T18:00:45.000Z",
+      "stop": "2026-10-01T18:27:40.000Z",
+      "title": "Million Dollar Minute",
+      "subtitle": "Episode 173 of Season 2",
+      "description": "Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T18:27:40.000Z",
+      "stop": "2026-10-01T19:00:35.000Z",
+      "title": "Million Dollar Minute",
+      "subtitle": "Episode 174 of Season 2",
+      "description": "Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T19:00:35.000Z",
+      "stop": "2026-10-01T19:28:35.000Z",
+      "title": "Our Town",
+      "subtitle": "Swan",
+      "description": "A look at various Australian destinations to see why people should visit, live, work, play and invest locally, both regionally and in metropolitan regions.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T19:28:35.000Z",
+      "stop": "2026-10-01T20:00:00.000Z",
+      "title": "Our Town",
+      "subtitle": "Peel",
+      "description": "The Peel region in WA is full of 'diversity'. Stretching from a beautiful coastline east to some amazing rural countryside the Peel's natural environment is a strong drawcard for visitors.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T20:00:00.000Z",
+      "stop": "2026-10-01T20:28:45.000Z",
+      "title": "Surf Patrol",
+      "subtitle": "Episode 4",
+      "description": "The search is on when a nineteen-year-old disappears after an early morning swim. Hosted by Tom Williams.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T20:28:45.000Z",
+      "stop": "2026-10-01T21:29:05.000Z",
+      "title": "Escape To The Country",
+      "subtitle": "South West Wales / Jules",
+      "description": "With the help of her mother and Jules Hudson, a buyer from suburban Surrey is looking for a new family home with enough land to start a dog training school in South West Wales.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T21:29:05.000Z",
+      "stop": "2026-10-01T21:58:00.000Z",
+      "title": "Million Dollar Minute",
+      "subtitle": "Episode 173 of Season 2",
+      "description": "Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T21:58:00.000Z",
+      "stop": "2026-10-01T22:27:25.000Z",
+      "title": "Million Dollar Minute",
+      "subtitle": "Episode 174 of Season 2",
+      "description": "Million Dollar Minute is a battle of general knowledge, where every correct answer is a step closer to the ultimate test: Can one person, in one minute, win one million dollars?",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-01T22:27:25.000Z",
+      "stop": "2026-10-01T23:27:45.000Z",
+      "title": "Gatecrashers",
+      "subtitle": "Episode 1 of Season 26",
+      "description": "Horse racing's hit show returns for the Spring Carnival as Damien Oliver, Glen Boss, Britt Taylor, Nick Quinn and Cam Luke take a lighthearted yet informative look at the world of racing.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-01T23:27:45.000Z",
+      "stop": "2026-10-02T01:59:30.000Z",
+      "title": "NBC Today",
+      "subtitle": "Friday 2 October 2026",
+      "description": "International news and weather including interviews with newsmakers in the world of politics, business, media, entertainment and sport.",
+      "category": "News"
+    },
+    {
+      "start": "2026-10-02T01:59:30.000Z",
+      "stop": "2026-10-02T03:00:20.000Z",
+      "title": "House Of Wellness",
+      "subtitle": "Episode 17",
+      "description": "This week on The House of Wellness, Shane takes on Australia’s best bartender in a mocktail challenge, Manu and Clarissa Feidel share cooking secrets, and Anthony Callea brings the house down!",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T03:00:20.000Z",
+      "stop": "2026-10-02T04:00:20.000Z",
+      "title": "Escape To The Country",
+      "subtitle": "South West Wales / Jules",
+      "description": "With the help of her mother and Jules Hudson, a buyer from suburban Surrey is looking for a new family home with enough land to start a dog training school in South West Wales.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T04:00:20.000Z",
+      "stop": "2026-10-02T04:32:40.000Z",
+      "title": "The Great Australian Doorstep",
+      "subtitle": "Episode 10",
+      "description": "Peter 'Spida' and Sheree Everitt explore amazing holiday destinations. All self drive holidays that anyone can do. Easy driving with a tonne of adventure.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T04:32:40.000Z",
+      "stop": "2026-10-02T05:04:50.000Z",
+      "title": "Sydney Weekender",
+      "subtitle": "Episode 34",
+      "description": "My Fair Lady celebrates 70 years since its glorious Broadway debut. Matt hits the hinterland and saddles up in Glenworth Valley. Shop, eat & play all under one roof at Macquarie Centre.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:04:50.000Z",
+      "stop": "2026-10-02T05:36:30.000Z",
+      "title": "The Outdoor Room With Jamie Durie",
+      "subtitle": "UK",
+      "description": "Josh and Kate planned an English- style garden for their Melbourne cottage - but when their baby twins arrived three months early their life turned upside-down. Jamie travels to Britain to find secret gardens and takes us on an exclusive tour of Sir Elton John's Windsor mansion.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T05:36:30.000Z",
+      "stop": "2026-10-02T06:05:40.000Z",
+      "title": "Harry's Practice",
+      "subtitle": "Episode 50 of Season 1",
+      "description": "Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T06:05:40.000Z",
+      "stop": "2026-10-02T06:34:35.000Z",
+      "title": "Medical Emergency",
+      "subtitle": "Episode 3",
+      "description": "Paramedics arrive at The Alfred with a racing car driver who has been involved in an accident while defending his third Victorian title. Across town, 89 year-old Nola has been admitted to the Sandringham hospital after following a series of falls and unexplained lethargy. And we revisit Trent, who underwent major surgery to re-attach his severed fingers. Narrated by Chris Gabardi.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T06:34:35.000Z",
+      "stop": "2026-10-02T07:31:05.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": "Episode 36",
+      "description": "Joh meets Ronni Kahn the founder of OzHarvest, who are fighting food waste through food rescue. Juliet shows us some ideas renters can do to their homes. Adam helps you create a bespoke shelving unit.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T07:31:05.000Z",
+      "stop": "2026-10-02T08:29:55.000Z",
+      "title": "Escape To The Country",
+      "subtitle": "Herefordshire",
+      "description": "With the recent arrival of grandchildren, today's globe trotting escapees are returning home for good from Malaysia and want to put down permanent roots in the Herefordshire countryside.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T08:29:55.000Z",
+      "stop": "2026-10-02T09:30:00.000Z",
+      "title": "Bargain Hunt",
+      "subtitle": "Oswestry 12",
+      "description": "Explore North Wales with Charlie and meet sculptor Simon O’Rourke, who creates eye-catching art from waste timber and standing tree stumps.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T09:30:00.000Z",
+      "stop": "2026-10-02T10:31:10.000Z",
+      "title": "The Americas",
+      "subtitle": "The Caribbean",
+      "description": "Sailfish hunt, sperm whales dive for squid & millions of red crabs migrate to the sea. Hummingbirds defend territories post-hurricane, & on nearby islands, capuchin monkeys use tools to survive.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T10:31:10.000Z",
+      "stop": "2026-10-02T11:32:20.000Z",
+      "title": "Escape To The Country",
+      "subtitle": "South West Wales",
+      "description": "Looking for a new adventure in South West Wales, today’s couple have £400,000 to find a new home with at least an acre of land for glamping and a forestry school.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T11:32:20.000Z",
+      "stop": "2026-10-02T12:32:35.000Z",
+      "title": "Escape To The Country",
+      "subtitle": "The Lothians",
+      "description": "After 26 years in London, a couple seeks a lifestyle change in the Scottish Lothians with a 475,000 pound budget and Nicki Chapman's help. Another couple shares their move to the rural Highlands.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T12:32:35.000Z",
+      "stop": "2026-10-02T13:31:15.000Z",
+      "title": "Escape To The Country",
+      "subtitle": "Herefordshire",
+      "description": "With the recent arrival of grandchildren, today's globe trotting escapees are returning home for good from Malaysia and want to put down permanent roots in the Herefordshire countryside.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T13:31:15.000Z",
+      "stop": "2026-10-02T14:33:45.000Z",
+      "title": "Bargain Hunt",
+      "subtitle": "Oswestry 12",
+      "description": "Explore North Wales with Charlie and meet sculptor Simon O’Rourke, who creates eye-catching art from waste timber and standing tree stumps.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T14:33:45.000Z",
+      "stop": "2026-10-02T15:29:50.000Z",
+      "title": "Escape To The Country",
+      "subtitle": "South West Wales",
+      "description": "Looking for a new adventure in South West Wales, today’s couple have £400,000 to find a new home with at least an acre of land for glamping and a forestry school.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T15:29:50.000Z",
+      "stop": "2026-10-02T16:04:45.000Z",
+      "title": "Our Town",
+      "subtitle": "Peel",
+      "description": "The Peel region in WA is full of 'diversity'. Stretching from a beautiful coastline east to some amazing rural countryside the Peel's natural environment is a strong drawcard for visitors.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:04:45.000Z",
+      "stop": "2026-10-02T16:32:10.000Z",
+      "title": "Harry's Practice",
+      "subtitle": "Episode 50 of Season 1",
+      "description": "Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T16:32:10.000Z",
+      "stop": "2026-10-02T17:05:45.000Z",
+      "title": "Medical Emergency",
+      "subtitle": "Episode 3",
+      "description": "Paramedics arrive at The Alfred with a racing car driver who has been involved in an accident while defending his third Victorian title. Across town, 89 year-old Nola has been admitted to the Sandringham hospital after following a series of falls and unexplained lethargy. And we revisit Trent, who underwent major surgery to re-attach his severed fingers. Narrated by Chris Gabardi.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:05:45.000Z",
+      "stop": "2026-10-02T17:59:45.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": "Episode 36",
+      "description": "Joh meets Ronni Kahn the founder of OzHarvest, who are fighting food waste through food rescue. Juliet shows us some ideas renters can do to their homes. Adam helps you create a bespoke shelving unit.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T17:59:45.000Z",
+      "stop": "2026-10-02T19:00:00.000Z",
+      "title": "Better Homes And Gardens",
+      "subtitle": "Episode 32",
+      "description": "Adam shows you how to upgrade your house to be a smart home. Clarissa and Melissa visit a family-run tomato farm. Dr Harry meets the research team bringing the White's Seahorse back from the brink.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:00:00.000Z",
+      "stop": "2026-10-02T19:28:20.000Z",
+      "title": "Our Town",
+      "subtitle": "Kwinana",
+      "description": "Kwinana, the 'second fastest growing' local government area in WA. Rich in spirit, alive with opportunities, surrounded by nature - it's recognised as 'the heart' of Perth's south-west metro region.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T19:28:20.000Z",
+      "stop": "2026-10-02T20:00:00.000Z",
+      "title": "Our Town",
+      "subtitle": "East Kimberley",
+      "description": "A look at various Australian destinations to see why people should visit, live, work, play and invest locally, both regionally and in metropolitan regions.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:00:00.000Z",
+      "stop": "2026-10-02T20:30:15.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Copper Chef Titan Pan (CCTP2830C11384)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T20:30:15.000Z",
+      "stop": "2026-10-02T21:00:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Kelton Cookware (A2830KCW02QRA)",
+      "description": "Shopping program.",
+      "category": "Special Interest"
+    },
+    {
+      "start": "2026-10-02T21:00:00.000Z",
+      "stop": "2026-10-02T21:30:00.000Z",
       "title": "Home Shopping",
       "subtitle": "Total Gym Fit (A2830TGF23QRX)",
       "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T20:00:00.000Z",
-      "stop": "2026-09-19T20:59:40.000Z",
-      "title": "Auction Squad",
-      "subtitle": "Episode 17",
-      "description": "They're off and racing in Caulfield, as a little bungalow with a big handicap gets help - but will it be enough to avoid a late scratching on Auction Day?",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T20:59:40.000Z",
-      "stop": "2026-09-19T21:30:10.000Z",
-      "title": "Weekender",
-      "subtitle": "Episode 31",
-      "description": "Spring into adventure this week - from sailing in the stunning Whitsundays to soaring over Antarctica in a day. Plus, a glamorous new destination on the Granite Belt.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T21:30:10.000Z",
-      "stop": "2026-09-19T22:00:40.000Z",
-      "title": "Malaysia Kitchen",
-      "subtitle": "Episode 3 of Season 1",
-      "description": "Alvin shares a Malaysian salad that's said to promote good fortune, whips up some tender coconut calamari and is joined by veteran chef, Carol Selva Rajah to make a hearty and healthy mysore dahl.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T22:00:40.000Z",
-      "stop": "2026-09-19T22:30:00.000Z",
-      "title": "Sydney Weekender",
-      "subtitle": "Episode 32",
-      "description": "Book your spring escape at Ardour Lilianfels Blue Mountains. Reel in the catch of the day then cook it up at Felons Manly. Australia's oldest Italian restaurant celebrates a major milestone.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-19T22:30:00.000Z",
-      "stop": "2026-09-19T23:00:00.000Z",
+      "start": "2026-10-02T21:30:00.000Z",
+      "stop": "2026-10-02T22:00:00.000Z",
       "title": "Home Shopping",
-      "subtitle": "Starlyf Foldable Pool (A2830FP04QRA)",
+      "subtitle": "Hydrocleaner XL (SHYX2830B11384)",
       "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-19T23:00:00.000Z",
-      "stop": "2026-09-20T00:00:15.000Z",
-      "title": "House Of Wellness",
-      "subtitle": "Episode 15",
-      "description": "Join Mel Doyle and Shane Crawford where no topic is off limits from mental health, innovations in health, treatments for common illnesses, natural medicines, and explorations into food.",
+      "start": "2026-10-02T22:00:00.000Z",
+      "stop": "2026-10-02T22:30:00.000Z",
+      "title": "Home Shopping",
+      "subtitle": "Eezy Breezy (EZBZ2830A11384)",
+      "description": "Shopping program.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T00:00:15.000Z",
-      "stop": "2026-09-20T00:32:15.000Z",
-      "title": "The Great Australian Doorstep",
-      "subtitle": "Episode 9",
-      "description": "Peter 'Spida' and Sheree Everitt explore amazing holiday destinations. All self drive holidays that anyone can do. Easy driving with a tonne of adventure.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T00:32:15.000Z",
-      "stop": "2026-09-20T01:31:00.000Z",
-      "title": "House Calls To The Rescue",
-      "subtitle": "Episode 7",
-      "description": "The team save a backyard from turning into the local swimming pool, rescue a couple from a desperate demolition attempt, and while the boys dig out a popular Aussie icon, Perry digs up a rare gem.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T01:31:00.000Z",
-      "stop": "2026-09-20T02:30:05.000Z",
-      "title": "Escape To The Country",
-      "subtitle": "Yorkshire",
-      "description": "A London couple seeks a quieter lifestyle in Yorkshire with a 425,000 pound budget for a new home, and Steve Brown helps them find it while learning about accessibility at North York Moors.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T02:30:05.000Z",
-      "stop": "2026-09-20T02:59:10.000Z",
-      "title": "Harry's Practice",
-      "subtitle": "Episode 41 of Season 1",
-      "description": "Join Dr Harry Cooper and Dr Katrina Warren for everything you need to know about animals.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T02:59:10.000Z",
-      "stop": "2026-09-20T03:29:00.000Z",
-      "title": "Medical Emergency",
-      "subtitle": "Episode 6",
-      "description": "Doctors complete the final and most crucial stage of Darren's elbow reconstruction. Then, a cruise ship makes an unexpected stop in Melbourne with eight passengers in need of hospital treatment.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T03:29:00.000Z",
-      "stop": "2026-09-20T03:59:15.000Z",
-      "title": "Malaysia Kitchen",
-      "subtitle": "Episode 3 of Season 1",
-      "description": "Alvin shares a Malaysian salad that's said to promote good fortune, whips up some tender coconut calamari and is joined by veteran chef, Carol Selva Rajah to make a hearty and healthy mysore dahl.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T03:59:15.000Z",
-      "stop": "2026-09-20T04:57:30.000Z",
+      "start": "2026-10-02T22:30:00.000Z",
+      "stop": "2026-10-02T23:30:00.000Z",
       "title": "Better Homes And Gardens",
-      "subtitle": "Episode 27",
-      "description": "Joh meets Joost Bakker, the poster boy for zero-waste living. Clarrisa shares her family's Claypot Chicken Rice recipe. Adam helps you build a new gate. Melissa shows off Hellebores, 'the winter rose'",
+      "subtitle": "Episode 32",
+      "description": "Adam shows you how to upgrade your house to be a smart home. Clarissa and Melissa visit a family-run tomato farm. Dr Harry meets the research team bringing the White's Seahorse back from the brink.",
       "category": "Special Interest"
     },
     {
-      "start": "2026-09-20T04:57:30.000Z",
-      "stop": "2026-09-20T05:55:55.000Z",
-      "title": "The Yorkshire Vet",
-      "subtitle": "Episode 7",
-      "description": "Julian Norton has a painful experience with a ferret.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T05:55:55.000Z",
-      "stop": "2026-09-20T06:56:55.000Z",
-      "title": "My Greek Odyssey",
-      "subtitle": "Iraklia To Paros",
-      "description": "Peter continues his time on Iraklia before heading across to the busy island of Paros. There he will be spending several days delving into what makes it one of the most popular islands in Greece.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T06:56:55.000Z",
-      "stop": "2026-09-20T07:56:15.000Z",
-      "title": "World's Most Scenic Railway Journeys",
-      "subtitle": "Wales",
-      "description": "The Cambrian Line starts in Pwllheli and travels 200km, taking in the fairy-tale village of Portmeirion, the seaside resort of Aberdovey and the ancient capital of Machynlleth.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T07:56:15.000Z",
-      "stop": "2026-09-20T08:55:35.000Z",
-      "title": "Escape To The Country",
-      "subtitle": "Yorkshire",
-      "description": "A London couple seeks a quieter lifestyle in Yorkshire with a 425,000 pound budget for a new home, and Steve Brown helps them find it while learning about accessibility at North York Moors.",
-      "category": "Special Interest"
-    },
-    {
-      "start": "2026-09-20T08:55:35.000Z",
-      "stop": "2026-09-20T09:48:15.000Z",
-      "title": "The Vicar Of Dibley",
-      "subtitle": "The Engagement (Christmas 1997)",
-      "description": "Romance is in the air as Geraldine becomes Cupid, attempting to bring together the desperately shy Alice and the even more shy Hugo, and it's an operation that makes the Normandy Landings seem simple.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-20T09:48:15.000Z",
-      "stop": "2026-09-20T10:30:00.000Z",
-      "title": "The Vicar Of Dibley",
-      "subtitle": "Dibley Live",
-      "description": "Geraldine sets up Radio Dibley in a bid to bring the community closer together. However, it should prove interesting as Hugo only has two records for which to DJ.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-20T10:30:00.000Z",
-      "stop": "2026-09-20T12:31:25.000Z",
-      "title": "Vera",
-      "subtitle": "Witness",
-      "description": "When a well-respected local builder is found beaten to death on the steps of the Collingwood Monument, Vera questions how such a seemingly beloved and imposing figure could be attacked so viciously.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T12:31:25.000Z",
-      "stop": "2026-09-20T13:35:30.000Z",
-      "title": "Genius",
-      "subtitle": "Picasso: Chapter Three",
-      "description": "Two great loves are encountered by Picasso during a new period of his artistic life which would later become known as the \"Blue Period\" due to his use of colours which focused primarily on a specific colour and served as a reflection of his inner mood.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-09-20T13:35:30.000Z",
-      "stop": "2026-09-20T14:27:10.000Z",
-      "title": "The Vicar Of Dibley",
-      "subtitle": "The Engagement (Christmas 1997)",
-      "description": "Romance is in the air as Geraldine becomes Cupid, attempting to bring together the desperately shy Alice and the even more shy Hugo, and it's an operation that makes the Normandy Landings seem simple.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-09-20T14:27:10.000Z",
-      "stop": "2026-09-20T15:06:05.000Z",
-      "title": "The Vicar Of Dibley",
-      "subtitle": "Dibley Live",
-      "description": "Geraldine sets up Radio Dibley in a bid to bring the community closer together. However, it should prove interesting as Hugo only has two records for which to DJ.",
-      "category": "Comedy"
+      "start": "2026-10-02T23:30:00.000Z",
+      "stop": "2026-10-03T01:30:00.000Z",
+      "title": "Giddy Up",
+      "subtitle": "Episode 1 of Season 26",
+      "description": "Live coverage of horse racing.",
+      "category": "Sports"
     }
   ]
 }

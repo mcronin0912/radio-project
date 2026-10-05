@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 import { usePlayer } from "@/lib/player-context";
 import { Button } from "@/components/ui/button";
 import { WaveformVisualizer } from "@/components/player/WaveformVisualizer";
-import { Pause, Play, Volume2, VolumeX } from "lucide-react";
+import { ChevronUp, Pause, Play, Volume2, VolumeX } from "lucide-react";
 
 export function PlayerBar() {
   const {
@@ -20,6 +20,7 @@ export function PlayerBar() {
     clearError,
     registerVideoHost,
     videoModalOpen,
+    openTvModal,
   } = usePlayer();
 
   const videoThumbRef = useRef<HTMLDivElement>(null);
@@ -52,26 +53,54 @@ export function PlayerBar() {
     else playChannel(media.channel);
   };
 
+  const reopenTv = () => {
+    if (media.kind === "tv") openTvModal(media.channel);
+  };
+
   return (
     <div className="fixed bottom-0 left-0 right-0 z-50 border-t border-graphite bg-carbon shadow-subtle">
       <div className="mx-auto flex max-w-page items-center justify-between gap-4 px-6 pt-4 pb-2">
         <div className="flex min-w-0 flex-1 items-center gap-3">
-          <div
-            ref={videoThumbRef}
-            className={
-              showTvThumb
-                ? "h-10 w-[4.5rem] shrink-0 overflow-hidden rounded-badges bg-black"
-                : "hidden"
-            }
-          />
-          <div className="min-w-0 flex-1">
+          {showTvThumb ? (
+            <button
+              type="button"
+              onClick={reopenTv}
+              className="group relative h-10 w-[4.5rem] shrink-0 overflow-hidden rounded-badges bg-black outline-none transition-opacity hover:opacity-90 focus-visible:ring-1 focus-visible:ring-mist"
+              aria-label={`Open ${media.kind === "tv" ? media.channel.name : "channel"}`}
+            >
+              <div ref={videoThumbRef} className="absolute inset-0" />
+              <span className="pointer-events-none absolute inset-0 flex items-center justify-center bg-black/35 opacity-0 transition-opacity group-hover:opacity-100 group-focus-visible:opacity-100">
+                <ChevronUp className="h-4 w-4 text-paper" strokeWidth={2.5} />
+              </span>
+              <span className="pointer-events-none absolute bottom-0.5 right-0.5 flex h-4 w-4 items-center justify-center rounded-sm bg-black/70 text-paper group-hover:opacity-0">
+                <ChevronUp className="h-3 w-3" strokeWidth={2.5} />
+              </span>
+            </button>
+          ) : (
+            <div
+              ref={videoThumbRef}
+              className="hidden"
+              aria-hidden
+            />
+          )}
+          <button
+            type="button"
+            onClick={isTv ? reopenTv : undefined}
+            disabled={!isTv}
+            className={`min-w-0 flex-1 text-left ${
+              isTv
+                ? "rounded-sm outline-none transition-colors hover:text-paper focus-visible:ring-1 focus-visible:ring-mist"
+                : ""
+            }`}
+            aria-label={isTv ? `Open ${name}` : undefined}
+          >
             <p className="truncate text-[14px] font-medium tracking-tight text-paper">
               {name}
             </p>
             {isTv && (
               <p className="truncate text-[11px] font-normal text-fog">TV</p>
             )}
-          </div>
+          </button>
           {isReconnecting && (
             <div className="flex shrink-0 items-center gap-1.5 text-[12px] font-normal text-fog">
               <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-acid-lime" />

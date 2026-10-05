@@ -1,0 +1,32 @@
+{
+  "slug": "blueheelers-fast",
+  "epgId": "mjh-blueheelers-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:17:11.000Z",
+      "stop": "2026-10-01T12:06:38.000Z",
+      "title": "Blue Heelers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:06:38.000Z",
+      "stop": "2026-10-01T12:56:46.000Z",
+      "title": "Blue Heelers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:56:46.000Z",
+      "stop": "2026-10-01T13:26:46.000Z",
+      "title": "Blue Heelers",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

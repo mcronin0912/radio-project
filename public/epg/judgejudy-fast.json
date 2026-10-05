@@ -1,0 +1,32 @@
+{
+  "slug": "judgejudy-fast",
+  "epgId": "mjh-judgejudy-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:45:12.000Z",
+      "stop": "2026-10-01T12:11:14.000Z",
+      "title": "Judge Judy",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:11:14.000Z",
+      "stop": "2026-10-01T12:37:17.000Z",
+      "title": "Judge Judy",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:37:17.000Z",
+      "stop": "2026-10-01T13:07:17.000Z",
+      "title": "Judge Judy",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

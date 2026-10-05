@@ -98,10 +98,6 @@ export function ChannelDetailModal({
     }
   }
 
-  const subtitle = [channel.network, channel.state, channel.streamQuality]
-    .filter(Boolean)
-    .join(" · ");
-
   const titleLine = nowPlaying?.title
     ? `${channel.name} – ${nowPlaying.title}`
     : channel.name;
@@ -144,10 +140,6 @@ export function ChannelDetailModal({
             >
               {titleLine}
             </h1>
-            <p className="mt-2 text-[15px] font-normal text-fog">
-              {subtitle || "Australian TV"}
-              {nowPlaying?.subtitle ? ` · ${nowPlaying.subtitle}` : ""}
-            </p>
             <div className="mt-4 flex flex-wrap gap-2">
               {[
                 ...channel.categories.map((g) =>

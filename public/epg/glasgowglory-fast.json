@@ -1,0 +1,32 @@
+{
+  "slug": "glasgowglory-fast",
+  "epgId": "mjh-glasgowglory-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T12:03:02.000Z",
+      "stop": "2026-10-01T12:11:12.000Z",
+      "title": "Swimming Glasgow 2026 Commonwealth Games",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:11:12.000Z",
+      "stop": "2026-10-01T12:16:47.000Z",
+      "title": "Swimming Glasgow 2026 Commonwealth Games",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:16:47.000Z",
+      "stop": "2026-10-01T12:46:47.000Z",
+      "title": "Gymnastics: Women's Team Final & Individual Qualification | Subdivision 3 & 4 & Women's Team Medal Ceremony",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

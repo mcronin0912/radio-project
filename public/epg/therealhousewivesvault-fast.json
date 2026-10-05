@@ -1,0 +1,32 @@
+{
+  "slug": "therealhousewivesvault-fast",
+  "epgId": "mjh-therealhousewivesvault-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:37:09.000Z",
+      "stop": "2026-10-01T12:25:09.000Z",
+      "title": "Lucy Lucy Apple Juicy",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:25:09.000Z",
+      "stop": "2026-10-01T13:13:10.000Z",
+      "title": "Eat Your Heart Out",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:13:10.000Z",
+      "stop": "2026-10-01T13:43:10.000Z",
+      "title": "Sun and Shade in the Bahamas",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

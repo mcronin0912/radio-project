@@ -1,0 +1,296 @@
+{
+  "slug": "redbull-tv",
+  "epgId": "mjh-redbull-tv",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:54:42.000Z",
+      "stop": "2026-10-01T12:46:42.000Z",
+      "title": "Red Bull Romaniacs 2026",
+      "subtitle": "Red Bull Romaniacs 2026: Riding beyond limits",
+      "description": "Red Bull Romaniacs returned with five epic days of extreme enduro racing, pushing the world’s best riders across wild mountain terrain, brutal obstacles and unforgettable adventures.",
+      "category": "Hard Enduro"
+    },
+    {
+      "start": "2026-10-01T12:46:42.000Z",
+      "stop": "2026-10-01T13:16:16.000Z",
+      "title": "Untitled",
+      "subtitle": "Program information unavailable at this time",
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:16:16.000Z",
+      "stop": "2026-10-01T13:55:22.000Z",
+      "title": "Unrideable",
+      "subtitle": "Reign and rise",
+      "description": "Red Bull Erzbergrodeo pushes riders to the limit. Last year's winner, Manuel Lettenbichler, faces rising star Mitch Brightmore for 2024.",
+      "category": "Motocross"
+    },
+    {
+      "start": "2026-10-01T13:55:22.000Z",
+      "stop": "2026-10-01T14:37:05.000Z",
+      "title": "Unrideable",
+      "subtitle": "Changing perspectives",
+      "description": "Wade Young aims to prove his worth as a privateer in the 2024 Xross Hard Enduro Rally and Red Bull Romaniacs after being dropped by his old team for Teodor Kabakchiev.",
+      "category": "Motocross"
+    },
+    {
+      "start": "2026-10-01T14:37:05.000Z",
+      "stop": "2026-10-01T15:20:54.000Z",
+      "title": "Unrideable",
+      "subtitle": "New horizons",
+      "description": "Manuel Lettenbichler’s 2024 season suffers a setback as the Brightmore brothers, Mitch and Ashton, face rising star Matt Green in a fierce battle.",
+      "category": "Motocross"
+    },
+    {
+      "start": "2026-10-01T15:20:54.000Z",
+      "stop": "2026-10-01T15:29:45.000Z",
+      "title": "Flying on Water",
+      "subtitle": "The 37th America's Cup battle begins",
+      "description": "The journey to the Louis Vuitton 37th America’s Cup in Barcelona begins with Preliminary Regattas as teams debut their cutting-edge AC75s and challenge reigning defender, Emirates Team New Zealand.",
+      "category": "Sailing"
+    },
+    {
+      "start": "2026-10-01T15:29:45.000Z",
+      "stop": "2026-10-01T15:39:36.000Z",
+      "title": "Flying on Water",
+      "subtitle": "Sailing for a perfect start in Barcelona",
+      "description": "Lighter winds fuel intense pre-start battles in the America’s Cup Preliminary Regatta. Expert Mozzy Sails breaks down why a perfect start is key in this high-stakes sailing race.",
+      "category": "Sailing"
+    },
+    {
+      "start": "2026-10-01T15:39:36.000Z",
+      "stop": "2026-10-01T15:50:12.000Z",
+      "title": "Flying on Water",
+      "subtitle": "Final day frenzy at Barcelona Preliminary Regatta",
+      "description": "Barcelona's final day of the 37th America’s Cup Preliminary Regatta delivers electrifying matchups and unexpected twists as teams fine-tune their boats before the Louis Vuitton Cup begins.",
+      "category": "Sailing"
+    },
+    {
+      "start": "2026-10-01T15:50:12.000Z",
+      "stop": "2026-10-01T15:59:09.000Z",
+      "title": "Flying on Water",
+      "subtitle": "Double Round Robin showdown",
+      "description": "This stage of the Louis Vuitton Cup Challenger Selection Series sees five sailing challengers compete against the defending Emirates Team New Zealand for the oldest sports trophy in the world.",
+      "category": "Sailing"
+    },
+    {
+      "start": "2026-10-01T15:59:09.000Z",
+      "stop": "2026-10-01T16:08:57.000Z",
+      "title": "Flying on Water",
+      "subtitle": "Semi-final dreams on the line",
+      "description": "The fight is on for the last spot in the semi-final of the Louis Vuitton Cup Challenger Selection Series while defender Emirates Team New Zealand faces the consequences of a disastrous incident.",
+      "category": "Sailing"
+    },
+    {
+      "start": "2026-10-01T16:08:57.000Z",
+      "stop": "2026-10-01T16:18:28.000Z",
+      "title": "Flying on Water",
+      "subtitle": "Dramatic stage wrap-up decides team elimination",
+      "description": "The Double Round Robin stage of the Louis Vuitton Cup Challenger Selection Series comes to an end with dramatic races as the last day of racing determines which sailing team will be out.",
+      "category": "Sailing"
+    },
+    {
+      "start": "2026-10-01T16:18:28.000Z",
+      "stop": "2026-10-01T18:05:28.000Z",
+      "title": "Born to Windsurf",
+      "subtitle": "A lifetime on the water leads to a new challenge",
+      "description": "Following a serious operation, Bjørn Dunkerbeck embarks on an extraordinary comeback, returning to the legendary speed strip in Namibia with a world record once again within reach.",
+      "category": "Windsurfing"
+    },
+    {
+      "start": "2026-10-01T18:05:28.000Z",
+      "stop": "2026-10-01T18:30:56.000Z",
+      "title": "ABC of...",
+      "subtitle": "ABC of... Skateboarding",
+      "description": "See how skateboarding is all about self-expression through the sport's history, from the pioneers of sidewalk surfing to today's top skateboarders.",
+      "category": null
+    },
+    {
+      "start": "2026-10-01T18:30:56.000Z",
+      "stop": "2026-10-01T18:46:54.000Z",
+      "title": "Skate Tales",
+      "subtitle": "Hill bombing San Francisco with Nico Hiraga",
+      "description": "Madars Apse joins Nico Hiraga and a local crew to bomb hills and skate iconic San Francisco spots, exploring how the city’s chaotic energy shaped one of skateboarding’s most influential scenes.",
+      "category": "Skateboarding"
+    },
+    {
+      "start": "2026-10-01T18:46:54.000Z",
+      "stop": "2026-10-01T19:01:57.000Z",
+      "title": "Skate Tales",
+      "subtitle": "From the streets to global skate icon: Tiago Lemos",
+      "description": "Madars Apse travels to Brazil to trace Tiago Lemos’s journey from the streets to global skate stardom. Watch how he chased a bigger dream and rose from one of skateboarding’s toughest scenes.",
+      "category": "Skateboarding"
+    },
+    {
+      "start": "2026-10-01T19:01:57.000Z",
+      "stop": "2026-10-01T19:16:42.000Z",
+      "title": "Skate Tales",
+      "subtitle": "Inside the Dime Glory Challenge",
+      "description": "Madars Apse heads to Montréal for the Dime Glory Challenge. With Alexis Lacroix and Ryan Decenzo he explores the city’s skate scene before stepping into the chaos of skateboarding's most fun event.",
+      "category": "Skateboarding"
+    },
+    {
+      "start": "2026-10-01T19:16:42.000Z",
+      "stop": "2026-10-01T19:34:09.000Z",
+      "title": "Skate Tales",
+      "subtitle": "Tokyo’s punk skater – Japanese Super Rat",
+      "description": "Madars Apse travels from Zushi to Tokyo with Kento Yoshioka, aka Japanese Super Rat, exploring Japan’s underground skate scene and meeting the creative minds behind Evisen and Tightbooth.",
+      "category": "Skateboarding"
+    },
+    {
+      "start": "2026-10-01T19:34:09.000Z",
+      "stop": "2026-10-01T19:52:02.000Z",
+      "title": "Skate Tales",
+      "subtitle": "Breaking the YouTube algorithm with the Dern Bros",
+      "description": "Madars Apse along with Bam Margera and Jamie Thomas track the Dern Brothers from Florida to California to see how they built one of skateboarding’s biggest YouTube channels.",
+      "category": "Skateboarding"
+    },
+    {
+      "start": "2026-10-01T19:52:02.000Z",
+      "stop": "2026-10-01T20:49:56.000Z",
+      "title": "Untitled",
+      "subtitle": "Program information unavailable at this time",
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T20:49:56.000Z",
+      "stop": "2026-10-01T21:12:55.000Z",
+      "title": "Skate the Museum",
+      "subtitle": "Turning a museum into an epic skatepark",
+      "description": "Can you turn a museum into a skatepark? Armed with boards, ramps and Canon cameras, Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran go wild in London's Natural History Museum.",
+      "category": "Skateboard Park"
+    },
+    {
+      "start": "2026-10-01T21:12:55.000Z",
+      "stop": "2026-10-01T21:38:25.000Z",
+      "title": "ABC of...",
+      "subtitle": "ABC of... Climbing",
+      "description": "Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers. Get to know the language, the equipment, the history, and so much more.",
+      "category": "Climbing"
+    },
+    {
+      "start": "2026-10-01T21:38:25.000Z",
+      "stop": "2026-10-01T22:06:02.000Z",
+      "title": "Natural Heights",
+      "subtitle": "Janja Garnbret vs her 10th world title",
+      "description": "Janja Garnbret is chasing her 10th world title, and the pressure is unlike anything she’s faced before. Will shifting to the outdoors for new motivation help her, or push her closer to cracking?",
+      "category": "Climbing"
+    },
+    {
+      "start": "2026-10-01T22:06:02.000Z",
+      "stop": "2026-10-01T22:30:07.000Z",
+      "title": "Natural Heights",
+      "subtitle": "Jakob Schubert sends a 9c route",
+      "description": "Join Jakob Schubert in Flatanger, Norway, as he battles for the first ascent of 'B.I.G.' (9c), relying on experience, creativity and relentless commitment to unlock this historic line.",
+      "category": "Climbing"
+    },
+    {
+      "start": "2026-10-01T22:30:07.000Z",
+      "stop": "2026-10-01T22:54:12.000Z",
+      "title": "Natural Heights",
+      "subtitle": "Nika Potapova: nothing to lose, but a lot to prove",
+      "description": "Nika Potapova is chasing the dream of becoming a pro climber, no matter the cost. The sacrifices are real, the pressure is constant and the outcome is far from guaranteed.",
+      "category": "Climbing"
+    },
+    {
+      "start": "2026-10-01T22:54:12.000Z",
+      "stop": "2026-10-01T23:19:50.000Z",
+      "title": "Natural Heights",
+      "subtitle": "Alberto Ginés López takes on a 180m wall",
+      "description": "Alberto Ginés López taps into his competitive fire as he and partner Jenya Kazbekova race up 180m of hard multi-pitch climbing on Switzerland’s iconic Verzasca Dam. In this format, every move matters.",
+      "category": "Climbing"
+    },
+    {
+      "start": "2026-10-01T23:19:50.000Z",
+      "stop": "2026-10-01T23:38:57.000Z",
+      "title": "Untitled",
+      "subtitle": "Program information unavailable at this time",
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T23:38:57.000Z",
+      "stop": "2026-10-01T23:58:41.000Z",
+      "title": "Untitled",
+      "subtitle": "Program information unavailable at this time",
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T23:58:41.000Z",
+      "stop": "2026-10-02T00:50:42.000Z",
+      "title": "Wings for Life World Run 2026",
+      "subtitle": "Relive the world's largest running event",
+      "description": "Watch the best moments from the 13th edition of the world’s largest running event. Runners and wheelchair-users across the globe came together with a shared goal: find a cure for spinal cord injury.",
+      "category": "Running"
+    },
+    {
+      "start": "2026-10-02T00:50:42.000Z",
+      "stop": "2026-10-02T01:22:59.000Z",
+      "title": "Michelle Khare's Great World Race",
+      "subtitle": "Pt. 2: I ran 7 marathons in 7 days on 7 continents",
+      "description": "Michelle battles extreme heat in Australia and Abu Dhabi, forming powerful bonds with fellow racers as injuries and exhaustion threaten the race.",
+      "category": "Running"
+    },
+    {
+      "start": "2026-10-02T01:22:59.000Z",
+      "stop": "2026-10-02T02:04:21.000Z",
+      "title": "Michelle Khare's Great World Race",
+      "subtitle": "Pt. 1: I ran 7 marathons in 7 days on 7 continents",
+      "description": "After months of elite training Michelle begins The Great World Race, racing from Cape Town to the blistering cold of Antarctica, where she must finish in 8 hours or be left behind.",
+      "category": "Running"
+    },
+    {
+      "start": "2026-10-02T02:04:21.000Z",
+      "stop": "2026-10-02T02:26:00.000Z",
+      "title": "Michelle Khare's Great World Race",
+      "subtitle": "Pt. 3: I ran 7 marathons in 7 days on 7 continents",
+      "description": "Michelle faces Colombia’s brutal heat and humidity in the final stretch of the Great World Race. With everything on the line, will she make it to the final finish?",
+      "category": "Running"
+    },
+    {
+      "start": "2026-10-02T02:26:00.000Z",
+      "stop": "2026-10-02T03:20:31.000Z",
+      "title": "Resilience",
+      "subtitle": "Triathlete Els Visser's story",
+      "description": "How does surviving a ship wreck lead to someone becoming a successful triathlete? Learn about Els Visser's journey from medical student to sporting success via a life-threatening disaster at sea.",
+      "category": "Triathlon"
+    },
+    {
+      "start": "2026-10-02T03:20:31.000Z",
+      "stop": "2026-10-02T03:36:38.000Z",
+      "title": "Red Bull Stalen Ros 2024",
+      "subtitle": "Red Bull Stalen Ros highlights",
+      "description": "Two people. Two wheels. One brake and a handlebar: that's all teams need for Red Bull Stalen Ros! See who conquers the most fun race on water, and who ends up soaked.",
+      "category": "Cycling"
+    },
+    {
+      "start": "2026-10-02T03:36:38.000Z",
+      "stop": "2026-10-02T04:04:14.000Z",
+      "title": "Red Bull Stalen Ros Series",
+      "subtitle": "Mountain or road bike, who wins in The Hague?",
+      "description": "A snake bike, a toolbox bike and a showdown between custom mountain and road bikes means it is speed, style and chaos in The Hague. Which wacky machine will avoid a splash to claim victory?",
+      "category": "Cycling"
+    },
+    {
+      "start": "2026-10-02T04:04:14.000Z",
+      "stop": "2026-10-02T04:31:31.000Z",
+      "title": "Red Bull Stalen Ros Series",
+      "subtitle": "Cheese wedges causing havoc in beautiful Lausanne",
+      "description": "Watch duos tackle the longest course yet on their wildly creative custom-built bikes. As they race through Switzerland, one question remains: can they handle the cheese wedges?",
+      "category": "Cycling"
+    },
+    {
+      "start": "2026-10-02T04:31:31.000Z",
+      "stop": "2026-10-02T04:58:47.000Z",
+      "title": "Red Bull Stalen Ros Series",
+      "subtitle": "1 event, 3 winners – it’s mayhem in Copenhagen",
+      "description": "The shortest track on the tour, and three different prizes at stake, means the Copenhagen crowd gets their fair share of splashes, but who will come out on top?",
+      "category": "Cycling"
+    }
+  ]
+}

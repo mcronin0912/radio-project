@@ -1,0 +1,32 @@
+{
+  "slug": "mythbusters-fast",
+  "epgId": "mjh-mythbusters-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T12:01:56.000Z",
+      "stop": "2026-10-01T12:56:55.000Z",
+      "title": "Rat Pee Soda / Hidden Nasties / Car",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:56:55.000Z",
+      "stop": "2026-10-01T13:51:55.000Z",
+      "title": "Conifer Catapult / Ricochet Bullets",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:51:55.000Z",
+      "stop": "2026-10-01T14:21:55.000Z",
+      "title": "Airbag Disaster, Heads Will Roll",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

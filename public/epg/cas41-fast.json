@@ -1,0 +1,32 @@
+{
+  "slug": "cas41-fast",
+  "epgId": "mjh-cas41-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:56:06.000Z",
+      "stop": "2026-10-01T12:24:06.000Z",
+      "title": "Bondi Rescue",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:24:06.000Z",
+      "stop": "2026-10-01T12:52:08.000Z",
+      "title": "Bondi Rescue",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:52:08.000Z",
+      "stop": "2026-10-01T13:22:08.000Z",
+      "title": "Bondi Rescue",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

@@ -144,6 +144,10 @@ interface PlayerState {
   registerVideoHost: (id: VideoHostId, el: HTMLElement | null) => void;
   setVideoModalOpen: (open: boolean) => void;
   videoModalOpen: boolean;
+  /** Channel whose detail modal should be open (layout-level host). */
+  tvModalChannel: Channel | null;
+  openTvModal: (channel: Channel) => void;
+  closeTvModal: () => void;
   requestVideoFullscreen: () => Promise<void>;
   getVideoElement: () => HTMLVideoElement | null;
 }
@@ -158,6 +162,7 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
   const [isReconnecting, setIsReconnecting] = useState(false);
   const [analyser, setAnalyser] = useState<AnalyserNode | null>(null);
   const [videoModalOpen, setVideoModalOpen] = useState(false);
+  const [tvModalChannel, setTvModalChannel] = useState<Channel | null>(null);
 
   const audioRef = useRef<HTMLAudioElement>(null);
   const videoRef = useRef<HTMLVideoElement | null>(null);
@@ -562,6 +567,14 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
 
   const getVideoElement = useCallback(() => videoRef.current, []);
 
+  const openTvModal = useCallback((channel: Channel) => {
+    setTvModalChannel(channel);
+  }, []);
+
+  const closeTvModal = useCallback(() => {
+    setTvModalChannel(null);
+  }, []);
+
   const requestVideoFullscreen = useCallback(async () => {
     const video = videoRef.current;
     if (!video) return;
@@ -892,6 +905,9 @@ export function PlayerProvider({ children }: { children: React.ReactNode }) {
         registerVideoHost,
         setVideoModalOpen,
         videoModalOpen,
+        tvModalChannel,
+        openTvModal,
+        closeTvModal,
         requestVideoFullscreen,
         getVideoElement,
       }}

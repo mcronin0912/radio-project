@@ -1,0 +1,32 @@
+{
+  "slug": "7afl-fast",
+  "epgId": "mjh-7afl-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T10:54:50.000Z",
+      "stop": "2026-10-01T13:32:13.000Z",
+      "title": "Rnd 18: Fremantle v Sydney",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:32:13.000Z",
+      "stop": "2026-10-01T16:15:22.000Z",
+      "title": "Rnd 18: Collingwood v North Melbourn",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T16:15:22.000Z",
+      "stop": "2026-10-01T16:45:22.000Z",
+      "title": "The Front Bar - 15th July",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

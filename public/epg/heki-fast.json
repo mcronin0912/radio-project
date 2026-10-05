@@ -1,0 +1,32 @@
+{
+  "slug": "heki-fast",
+  "epgId": "mjh-heki-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:42:43.000Z",
+      "stop": "2026-10-01T12:34:12.000Z",
+      "title": "11 Chefs Compete",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:34:12.000Z",
+      "stop": "2026-10-01T13:25:43.000Z",
+      "title": "10 Chefs Compete",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:25:43.000Z",
+      "stop": "2026-10-01T13:55:43.000Z",
+      "title": "10 Chefs Again",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

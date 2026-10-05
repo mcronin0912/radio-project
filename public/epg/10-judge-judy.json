@@ -2,188 +2,188 @@
   "slug": "10-judge-judy",
   "epgId": "mjh-10-judge-judy",
   "region": "all",
-  "updatedAt": "2026-09-19T02:54:22.358Z",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
   "programmes": [
     {
-      "start": "2026-09-19T01:49:00.000Z",
-      "stop": "2026-09-19T02:17:00.000Z",
+      "start": "2026-10-01T11:51:00.000Z",
+      "stop": "2026-10-01T12:19:00.000Z",
+      "title": "Judge Judy S3 Ep. 220",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:19:00.000Z",
+      "stop": "2026-10-01T12:47:00.000Z",
       "title": "Judge Judy S3 Ep. 222",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T02:17:00.000Z",
-      "stop": "2026-09-19T02:45:00.000Z",
+      "start": "2026-10-01T12:47:00.000Z",
+      "stop": "2026-10-01T13:15:00.000Z",
       "title": "Judge Judy S3 Ep. 224",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T02:45:00.000Z",
-      "stop": "2026-09-19T03:13:00.000Z",
+      "start": "2026-10-01T13:15:00.000Z",
+      "stop": "2026-10-01T13:43:03.000Z",
       "title": "Judge Judy S3 Ep. 225",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T03:13:00.000Z",
-      "stop": "2026-09-19T03:41:00.000Z",
+      "start": "2026-10-01T13:43:03.000Z",
+      "stop": "2026-10-01T14:11:00.000Z",
       "title": "Judge Judy S3 Ep. 226",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T03:41:00.000Z",
-      "stop": "2026-09-19T04:09:00.000Z",
+      "start": "2026-10-01T14:11:00.000Z",
+      "stop": "2026-10-01T14:39:00.000Z",
       "title": "Judge Judy S3 Ep. 227",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T04:09:00.000Z",
-      "stop": "2026-09-19T04:37:00.000Z",
+      "start": "2026-10-01T14:39:00.000Z",
+      "stop": "2026-10-01T15:07:00.000Z",
       "title": "Judge Judy S3 Ep. 228",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T04:37:00.000Z",
-      "stop": "2026-09-19T05:05:00.000Z",
+      "start": "2026-10-01T15:07:00.000Z",
+      "stop": "2026-10-01T15:34:00.000Z",
       "title": "Judge Judy S3 Ep. 229",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T05:05:00.000Z",
-      "stop": "2026-09-19T05:33:00.000Z",
+      "start": "2026-10-01T15:34:00.000Z",
+      "stop": "2026-10-01T16:02:00.000Z",
       "title": "Judge Judy S3 Ep. 231",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T05:33:00.000Z",
-      "stop": "2026-09-19T06:01:00.000Z",
+      "start": "2026-10-01T16:02:00.000Z",
+      "stop": "2026-10-01T16:30:00.000Z",
       "title": "Judge Judy S3 Ep. 232",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T06:01:00.000Z",
-      "stop": "2026-09-19T06:29:00.000Z",
+      "start": "2026-10-01T16:30:00.000Z",
+      "stop": "2026-10-01T16:58:00.000Z",
       "title": "Judge Judy S3 Ep. 233",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T06:29:00.000Z",
-      "stop": "2026-09-19T06:57:00.000Z",
+      "start": "2026-10-01T16:58:00.000Z",
+      "stop": "2026-10-01T17:26:00.000Z",
       "title": "Judge Judy S3 Ep. 234",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T06:57:00.000Z",
-      "stop": "2026-09-19T07:25:00.000Z",
+      "start": "2026-10-01T17:26:00.000Z",
+      "stop": "2026-10-01T17:54:00.000Z",
       "title": "Judge Judy S3 Ep. 235",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T07:25:00.000Z",
-      "stop": "2026-09-19T07:53:00.000Z",
+      "start": "2026-10-01T17:54:00.000Z",
+      "stop": "2026-10-01T18:22:00.000Z",
       "title": "Judge Judy S3 Ep. 236",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T07:53:00.000Z",
-      "stop": "2026-09-19T08:21:00.000Z",
+      "start": "2026-10-01T18:22:00.000Z",
+      "stop": "2026-10-01T18:50:00.000Z",
       "title": "Judge Judy S3 Ep. 237",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T08:21:00.000Z",
-      "stop": "2026-09-19T08:49:00.000Z",
+      "start": "2026-10-01T18:50:00.000Z",
+      "stop": "2026-10-01T19:18:00.000Z",
       "title": "Judge Judy S3 Ep. 238",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T08:49:00.000Z",
-      "stop": "2026-09-19T09:17:00.000Z",
+      "start": "2026-10-01T19:18:00.000Z",
+      "stop": "2026-10-01T19:46:00.000Z",
       "title": "Judge Judy S3 Ep. 239",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T09:17:00.000Z",
-      "stop": "2026-09-19T09:45:00.000Z",
+      "start": "2026-10-01T19:46:00.000Z",
+      "stop": "2026-10-01T20:14:00.000Z",
       "title": "Judge Judy S3 Ep. 240",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T09:45:00.000Z",
-      "stop": "2026-09-19T10:13:00.000Z",
+      "start": "2026-10-01T20:14:00.000Z",
+      "stop": "2026-10-01T20:43:00.000Z",
       "title": "Judge Judy S3 Ep. 1",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T10:13:00.000Z",
-      "stop": "2026-09-19T10:41:00.000Z",
+      "start": "2026-10-01T20:43:00.000Z",
+      "stop": "2026-10-01T21:11:00.000Z",
       "title": "Judge Judy S3 Ep. 3",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T10:41:00.000Z",
-      "stop": "2026-09-19T11:09:00.000Z",
+      "start": "2026-10-01T21:11:00.000Z",
+      "stop": "2026-10-01T21:39:00.000Z",
       "title": "Judge Judy S3 Ep. 4",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T11:09:00.000Z",
-      "stop": "2026-09-19T11:37:00.000Z",
+      "start": "2026-10-01T21:39:00.000Z",
+      "stop": "2026-10-01T22:07:00.000Z",
       "title": "Judge Judy S3 Ep. 5",
       "subtitle": null,
       "description": null,
       "category": null
     },
     {
-      "start": "2026-09-19T11:37:00.000Z",
-      "stop": "2026-09-19T12:05:00.000Z",
+      "start": "2026-10-01T22:07:00.000Z",
+      "stop": "2026-10-01T22:37:00.000Z",
       "title": "Judge Judy S3 Ep. 6",
-      "subtitle": null,
-      "description": null,
-      "category": null
-    },
-    {
-      "start": "2026-09-19T12:05:00.000Z",
-      "stop": "2026-09-19T12:35:00.000Z",
-      "title": "Judge Judy S3 Ep. 7",
       "subtitle": null,
       "description": null,
       "category": null

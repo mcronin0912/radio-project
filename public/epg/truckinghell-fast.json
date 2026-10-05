@@ -1,0 +1,32 @@
+{
+  "slug": "truckinghell-fast",
+  "epgId": "mjh-truckinghell-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:34:15.000Z",
+      "stop": "2026-10-01T12:25:01.000Z",
+      "title": "Season 5 Episode 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:25:01.000Z",
+      "stop": "2026-10-01T13:15:42.000Z",
+      "title": "Season 5 Episode 3",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:15:42.000Z",
+      "stop": "2026-10-01T13:45:42.000Z",
+      "title": "Season 5 Episode 4",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

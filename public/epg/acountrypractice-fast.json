@@ -1,0 +1,32 @@
+{
+  "slug": "acountrypractice-fast",
+  "epgId": "mjh-acountrypractice-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:51:39.000Z",
+      "stop": "2026-10-01T12:47:02.000Z",
+      "title": "S7 E25 - Outsiders - Part 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:47:02.000Z",
+      "stop": "2026-10-01T13:42:29.000Z",
+      "title": "S7 E26 - Outsiders - Part 2",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:42:29.000Z",
+      "stop": "2026-10-01T14:12:29.000Z",
+      "title": "S7 E27 - A Nice Girl Like You - Part 1",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}

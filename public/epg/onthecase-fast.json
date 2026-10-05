@@ -1,0 +1,32 @@
+{
+  "slug": "onthecase-fast",
+  "epgId": "mjh-onthecase-fast",
+  "region": "all",
+  "updatedAt": "2026-10-01T12:55:04.199Z",
+  "programmes": [
+    {
+      "start": "2026-10-01T11:28:45.000Z",
+      "stop": "2026-10-01T12:17:15.000Z",
+      "title": "On The Case S9 E23",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T12:17:15.000Z",
+      "stop": "2026-10-01T13:05:44.000Z",
+      "title": "On The Case S9 E24",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    },
+    {
+      "start": "2026-10-01T13:05:44.000Z",
+      "stop": "2026-10-01T13:35:44.000Z",
+      "title": "On The Case S9 E25",
+      "subtitle": null,
+      "description": null,
+      "category": null
+    }
+  ]
+}
