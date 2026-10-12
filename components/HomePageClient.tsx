@@ -65,7 +65,7 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
     state: "",
     genre: "",
     indigenous: false,
-    favouritesOnly: false,
+    favouritesOnly: true,
   });
 
   useEffect(() => {
@@ -146,7 +146,7 @@ export function HomePageClient({ states, genres }: HomePageClientProps) {
           onStationSelect={openStation}
           emptyMessage={
             filters.favouritesOnly
-              ? "No favourite stations match these filters. Heart a station to save it, or turn off “Favourites only”."
+              ? "No favourite stations match these filters. Heart a station to save it, or turn off Favourites."
               : undefined
           }
         />

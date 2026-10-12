@@ -44,7 +44,7 @@ export function TvHomePageClient() {
     category: "",
     network: "",
     state: "NSW",
-    favouritesOnly: false,
+    favouritesOnly: true,
   });
 
   useEffect(() => {
@@ -108,7 +108,7 @@ export function TvHomePageClient() {
           onChannelSelect={openChannel}
           emptyMessage={
             filters.favouritesOnly
-              ? "No favourite channels match these filters. Heart a channel to save it, or turn off “Favourites only”."
+              ? "No favourite channels match these filters. Heart a channel to save it, or turn off Favourites."
               : undefined
           }
         />

@@ -49,6 +49,9 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   themeColor: "#08090a",
   colorScheme: "dark",
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
 };
 
 export default function RootLayout({
@@ -70,8 +73,10 @@ export default function RootLayout({
         ) : null}
       </head>
       <body
-        className={`bg-void font-sans text-mist antialiased pb-24${
-          IS_DESKTOP ? " pt-[52px]" : ""
+        className={`bg-void font-sans text-mist antialiased${
+          IS_DESKTOP
+            ? " pb-24 pt-[52px]"
+            : " pb-[calc(6rem+env(safe-area-inset-bottom))] pt-[env(safe-area-inset-top)]"
         }`}
       >
         {IS_DESKTOP ? <DesktopDragRegion /> : null}

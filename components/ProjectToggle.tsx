@@ -9,6 +9,13 @@ interface ProjectToggleProps {
   className?: string;
 }
 
+/**
+ * Segmented control.
+ * DESIGN.md: carbon surface, graphite hairline, pill radius (9999px).
+ * Active segment is the neutral paper pill (bg #ffffff, text #08090a,
+ * Inter 13px / weight 510). Acid lime stays reserved for play.
+ * On phones both segments share the full width and are 44px tall.
+ */
 export function ProjectToggle({
   mode,
   onModeChange,
@@ -17,10 +24,10 @@ export function ProjectToggle({
   return (
     <div
       className={cn(
-        "inline-flex rounded-inputs border border-white/[0.08] bg-white/[0.02] p-0.5",
+        "grid w-full grid-cols-2 gap-0.5 rounded-full border border-graphite bg-carbon p-0.5 sm:w-auto",
         className
       )}
-      role="group"
+      role="tablist"
       aria-label="Project view"
     >
       {(
@@ -34,13 +41,14 @@ export function ProjectToggle({
           <button
             key={id}
             type="button"
+            role="tab"
+            aria-selected={active}
             onClick={() => onModeChange(id)}
-            aria-pressed={active}
             className={cn(
-              "rounded-[calc(var(--radius-inputs)-2px)] px-3.5 py-1.5 text-[13px] font-medium tracking-tight transition-colors",
+              "min-h-11 rounded-full px-4 text-[13px] tracking-tight transition-colors [-webkit-tap-highlight-color:transparent] sm:min-h-9 sm:px-5",
               active
-                ? "bg-paper text-void"
-                : "text-fog hover:text-mist"
+                ? "bg-paper font-medium text-void"
+                : "font-normal text-fog"
             )}
           >
             {label}

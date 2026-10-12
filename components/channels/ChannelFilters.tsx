@@ -4,6 +4,11 @@ import { useEffect, useState, useRef } from "react";
 import { Search, X } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import {
+  FilterPill,
+  filterSelectClass,
+  filterSelectStyle,
+} from "@/components/ui/filter-controls";
 import { cn } from "@/lib/utils";
 import { formatCategoryLabel } from "@/lib/filter-channels-client";
 
@@ -24,8 +29,7 @@ interface ChannelFiltersProps {
   className?: string;
 }
 
-const selectClass =
-  "h-auto appearance-none rounded-inputs border border-white/[0.08] bg-white/[0.02] px-3.5 py-2.5 text-[13px] font-normal text-mist outline-none transition-colors focus:border-mist";
+const selectClass = filterSelectClass;
 
 const STATE_LABEL: Record<string, string> = {
   NSW: "New South Wales",
@@ -79,7 +83,7 @@ export function ChannelFilters({
       category: "",
       network: "",
       state: "NSW",
-      favouritesOnly: false,
+      favouritesOnly: true,
     };
     setSearchInput("");
     onFiltersChange(cleared);
@@ -90,77 +94,82 @@ export function ChannelFilters({
     filters.category ||
     filters.network ||
     (filters.state && filters.state !== "NSW") ||
-    filters.favouritesOnly;
+    !filters.favouritesOnly;
 
   return (
     <div className={cn("space-y-2", className)}>
-      <div className="flex flex-wrap items-center gap-2">
-        <div className="relative min-w-[160px] max-w-[240px] flex-1">
+      <div className="flex flex-col gap-2 sm:flex-row sm:flex-wrap sm:items-center">
+        <div className="relative w-full sm:max-w-[240px] sm:flex-1">
           <Search className="absolute left-3 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-fog" />
           <Input
             placeholder="Search channels..."
             value={searchInput}
             onChange={(e) => setSearchInput(e.target.value)}
-            className="py-2.5 pl-9"
+            className="h-11 py-0 pl-9 text-base sm:h-auto sm:py-2.5 sm:text-[14px]"
           />
         </div>
-        <select
-          value={filters.category}
-          onChange={(e) => updateParams({ category: e.target.value })}
-          className={selectClass}
-        >
-          <option value="">All categories</option>
-          {categories.map((c) => (
-            <option key={c} value={c}>
-              {formatCategoryLabel(c)}
-            </option>
-          ))}
-        </select>
-        <select
-          value={filters.network}
-          onChange={(e) => updateParams({ network: e.target.value })}
-          className={selectClass}
-        >
-          <option value="">All networks</option>
-          {networks.map((n) => (
-            <option key={n} value={n}>
-              {n}
-            </option>
-          ))}
-        </select>
-        {states.length > 0 && (
+        <div className="grid grid-cols-2 gap-2 sm:contents">
           <select
-            value={filters.state}
-            onChange={(e) => updateParams({ state: e.target.value })}
+            value={filters.category}
+            onChange={(e) => updateParams({ category: e.target.value })}
             className={selectClass}
+            style={filterSelectStyle}
           >
-            <option value="">All states</option>
-            {states.map((s) => (
-              <option key={s} value={s}>
-                {STATE_LABEL[s] ?? s}
+            <option value="">All categories</option>
+            {categories.map((c) => (
+              <option key={c} value={c}>
+                {formatCategoryLabel(c)}
               </option>
             ))}
           </select>
-        )}
-        <label className="flex h-auto cursor-pointer items-center gap-2 rounded-inputs border border-white/[0.08] bg-white/[0.02] px-3.5 py-2.5 hover:bg-white/[0.04]">
-          <input
-            type="checkbox"
-            checked={filters.favouritesOnly}
-            onChange={(e) =>
-              updateParams({ favouritesOnly: e.target.checked })
-            }
-            className="size-3.5 rounded-sm border-graphite accent-acid-lime"
-          />
-          <span className="whitespace-nowrap text-[13px] font-normal text-mist">
-            Favourites only
-          </span>
-        </label>
-        {hasFilters && (
-          <Button variant="ghost" size="sm" onClick={clearFilters}>
-            <X className="mr-1 h-3.5 w-3.5" />
-            Clear
-          </Button>
-        )}
+          <select
+            value={filters.network}
+            onChange={(e) => updateParams({ network: e.target.value })}
+            className={selectClass}
+            style={filterSelectStyle}
+          >
+            <option value="">All networks</option>
+            {networks.map((n) => (
+              <option key={n} value={n}>
+                {n}
+              </option>
+            ))}
+          </select>
+          {states.length > 0 && (
+            <select
+              value={filters.state}
+              onChange={(e) => updateParams({ state: e.target.value })}
+              className={cn(selectClass, "col-span-2 sm:col-span-1")}
+              style={filterSelectStyle}
+            >
+              <option value="">All states</option>
+              {states.map((s) => (
+                <option key={s} value={s}>
+                  {STATE_LABEL[s] ?? s}
+                </option>
+              ))}
+            </select>
+          )}
+        </div>
+        <div className="flex flex-wrap items-center gap-2">
+          <FilterPill
+            pressed={filters.favouritesOnly}
+            onPressedChange={(favouritesOnly) => updateParams({ favouritesOnly })}
+          >
+            Favourites
+          </FilterPill>
+          {hasFilters && (
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={clearFilters}
+              className="h-11 sm:h-9"
+            >
+              <X className="mr-1 h-3.5 w-3.5" />
+              Clear
+            </Button>
+          )}
+        </div>
       </div>
     </div>
   );

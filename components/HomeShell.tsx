@@ -16,20 +16,20 @@ export function HomeShell({ states, genres }: HomeShellProps) {
   const isTv = mode === "tv";
 
   return (
-    <main className="mx-auto max-w-page px-4 py-8 pb-32 sm:px-6">
-      <header className="mb-12">
+    <main className="mx-auto max-w-page px-4 pb-32 pt-6 sm:px-6 sm:py-8">
+      <header className="mb-6 sm:mb-12">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
-          <div>
-            <h1 className="text-[32px] font-medium leading-[1.13] tracking-[-0.022em] text-paper sm:text-heading-sm">
+          <div className="min-w-0">
+            <h1 className="text-subheading tracking-[-0.012em] text-paper sm:text-heading-sm sm:tracking-[-0.022em]">
               {isTv ? "TV Project" : "Radio Project"}
             </h1>
-            <p className="mt-2 max-w-xl text-[16px] font-normal leading-[1.5] text-fog">
+            <p className="mt-2 max-w-xl text-[15px] font-normal leading-[1.6] tracking-[-0.011em] text-fog sm:text-[16px] sm:leading-[1.5]">
               {isTv
                 ? "Watch Australian free-to-air and community TV streams"
                 : "Discover and listen to Australian commercial and community radio stations"}
             </p>
           </div>
-          <ProjectToggle mode={mode} onModeChange={setMode} className="shrink-0" />
+          <ProjectToggle mode={mode} onModeChange={setMode} className="sm:shrink-0" />
         </div>
       </header>
       {isTv ? (
