@@ -97,7 +97,8 @@ export function ChannelGuideRow({
   const { media, isPlaying, pause } = usePlayer();
   const { loading, nowPlaying, nextProgramme } = useChannelGuide(
     channel.slug,
-    channel.hasGuide
+    channel.hasGuide,
+    channel.channelId
   );
 
   const isCurrent =
@@ -107,11 +108,87 @@ export function ChannelGuideRow({
   const details = [channel.network, channel.state, channel.streamQuality]
     .filter(Boolean)
     .join(" · ");
+  const mobileMeta = [
+    channel.network,
+    channel.state && !channel.name.includes(channel.state) ? channel.state : null,
+    channel.label,
+  ]
+    .filter(Boolean)
+    .join(" · ");
+  const nextLine = loading
+    ? "…"
+    : nextProgramme
+      ? `${nextProgramme.title} · ${formatTime(nextProgramme.start)}`
+      : "—";
+
+  const renderActions = () => (
+    <>
+      <ChannelFavouriteButton channel={channel} />
+      <Button
+        size="icon"
+        variant={isLive ? "default" : "outline"}
+        onClick={() => {
+          if (isCurrent && isPlaying) {
+            pause();
+            return;
+          }
+          onChannelSelect?.(channel.slug);
+        }}
+        aria-label={
+          isCurrent && isPlaying ? "Pause" : `Watch ${channel.name}`
+        }
+      >
+        {isCurrent && isPlaying ? (
+          <Pause className="h-4 w-4 fill-current" />
+        ) : (
+          <Play className="h-4 w-4 fill-current" />
+        )}
+      </Button>
+    </>
+  );
 
   return (
+    <>
     <div
       className={cn(
-        "grid grid-cols-1 items-center gap-3 border-b border-graphite px-3 py-3 transition-colors sm:gap-4 sm:px-4",
+        "flex items-start gap-2 border-b border-graphite px-3 py-3 sm:hidden",
+        isLive && "bg-white/[0.02]"
+      )}
+    >
+      <button
+        type="button"
+        onClick={() => onChannelSelect?.(channel.slug)}
+        className="flex min-w-0 flex-1 items-start gap-3 text-left"
+      >
+        <ChannelLogo url={channel.logoUrl} className="h-10 w-10 shrink-0" size={40} />
+        <div className="min-w-0 flex-1">
+          <p className="truncate text-[14px] font-medium tracking-tight text-paper">
+            {channel.name}
+          </p>
+          <div className="mt-1">
+            <ProgrammeCell
+              programme={nowPlaying}
+              loading={loading}
+              emptyLabel={channel.hasGuide === false ? "No guide" : "Nothing listed"}
+              live={Boolean(nowPlaying)}
+            />
+          </div>
+          <p className="mt-1 truncate text-[12px] font-normal leading-[1.4] text-fog">
+            <span className="text-ash">Next </span>
+            <span className="text-mist">{nextLine}</span>
+          </p>
+          {mobileMeta ? (
+            <p className="mt-0.5 truncate text-[12px] font-normal leading-[1.4] text-ash">
+              {mobileMeta}
+            </p>
+          ) : null}
+        </div>
+      </button>
+      <div className="flex shrink-0 items-center gap-0.5">{renderActions()}</div>
+    </div>
+    <div
+      className={cn(
+        "hidden items-center gap-4 border-b border-graphite px-4 py-3 transition-colors sm:grid",
         GUIDE_LIST_GRID,
         isLive && "bg-white/[0.02]"
       )}
@@ -135,11 +212,7 @@ export function ChannelGuideRow({
         </div>
       </button>
 
-      {/* Now */}
-      <div className="min-w-0 pl-[3.25rem] sm:pl-0">
-        <p className="mb-1 text-[10px] font-medium uppercase tracking-[0.04em] text-ash sm:hidden">
-          Now
-        </p>
+      <div className="min-w-0">
         <ProgrammeCell
           programme={nowPlaying}
           loading={loading}
@@ -148,11 +221,7 @@ export function ChannelGuideRow({
         />
       </div>
 
-      {/* Next */}
-      <div className="min-w-0 pl-[3.25rem] sm:pl-0">
-        <p className="mb-1 text-[10px] font-medium uppercase tracking-[0.04em] text-ash sm:hidden">
-          Next
-        </p>
+      <div className="min-w-0">
         <ProgrammeCell
           programme={nextProgramme}
           loading={loading}
@@ -160,8 +229,7 @@ export function ChannelGuideRow({
         />
       </div>
 
-      {/* Details */}
-      <div className="min-w-0 pl-[3.25rem] sm:pl-0">
+      <div className="min-w-0">
         <p className="truncate text-[13px] font-normal text-fog">
           {details || "—"}
         </p>
@@ -172,30 +240,8 @@ export function ChannelGuideRow({
         )}
       </div>
 
-      {/* Actions */}
-      <div className="flex shrink-0 items-center justify-end gap-1 pl-[3.25rem] sm:pl-0">
-        <ChannelFavouriteButton channel={channel} />
-        <Button
-          size="icon"
-          variant={isLive ? "default" : "outline"}
-          onClick={() => {
-            if (isCurrent && isPlaying) {
-              pause();
-              return;
-            }
-            onChannelSelect?.(channel.slug);
-          }}
-          aria-label={
-            isCurrent && isPlaying ? "Pause" : `Watch ${channel.name}`
-          }
-        >
-          {isCurrent && isPlaying ? (
-            <Pause className="h-4 w-4 fill-current" />
-          ) : (
-            <Play className="h-4 w-4 fill-current" />
-          )}
-        </Button>
-      </div>
+      <div className="flex shrink-0 items-center justify-end gap-1">{renderActions()}</div>
     </div>
+    </>
   );
 }

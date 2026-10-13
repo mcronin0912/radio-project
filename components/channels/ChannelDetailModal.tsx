@@ -37,10 +37,8 @@ export function ChannelDetailModal({
   const isCurrent =
     media?.kind === "tv" && media.channel.slug === channel.slug;
 
-  const { loading, error, nowPlaying, upcoming, guide } = useChannelGuide(
-    channel.slug,
-    channel.hasGuide
-  );
+  const { loading, error, nowPlaying, upcoming, guideAvailable } =
+    useChannelGuide(channel.slug, channel.hasGuide, channel.channelId);
 
   useEffect(() => {
     setVideoModalOpen(true);
@@ -198,7 +196,7 @@ export function ChannelDetailModal({
         <ChannelGuidePanel
           loading={loading}
           error={error}
-          hasGuide={channel.hasGuide ?? Boolean(guide)}
+          hasGuide={guideAvailable}
           programmes={upcoming}
           nowPlaying={nowPlaying}
         />
